@@ -135,7 +135,7 @@ const TRAY = [
   ['2023', [['Edificio Ébano', 'edificios'], ['Edificio Casa Grande', 'edificios'], ['Industrias Cannon', 'industrial'], ['Punta Roca', 'edificios'], ['Cubiertas de los centros comerciales Miramar y Americano', 'comercial'], ['Antena universitaria', 'institucional'], ['Triple A', 'infraestructura']]],
   ['2022', [['Centro Comercial Solemio', 'comercial'], ['Leonardo', 'edificios']]],
   ['2021', [['Clínica en Palmar de Varela', 'institucional'], ['Mirador Cartagena', 'edificios'], ['Lagos de Caujaral', 'edificios'], ['Altos de Solemio', 'edificios']]],
-  ['2020', [['Hospital Cary', 'institucional'], ['Edificio Malibú', 'edificios'], ['River Plate', 'edificios'], ['Arte 57', 'edificios'], ['Acuarela', 'edificios'], ['Bodega Coca-Cola', 'industrial'], ['Torri di Milano', 'edificios'], ['Terra', 'edificios'], ['Malibú', 'edificios']]]
+  ['2020', [['Hospital Cary', 'institucional'], ['Edificio Malibú', 'edificios'], ['River Plate', 'edificios'], ['Arte 57', 'edificios'], ['Acuarela', 'edificios'], ['Bodega Coca-Cola', 'industrial'], ['Torri di Milano', 'edificios'], ['Terra', 'edificios']]]
 ];
 const ART = [
   {id:'cloruros', title:'Cloruros y refuerzo: el recubrimiento que sí protege', cat:'Durabilidad', img:'refuerzo-contrapicado', read:'4 min', dek:'Por qué la brisa marina corroe el concreto desde adentro y qué especificar para evitarlo.',
@@ -207,7 +207,7 @@ const CLI = [['Coca-Cola', 'cocacola.png', 31], ['Jamar', 'jamar.png', 24], ['Un
 const clients = () => `<section class="sec clients" aria-labelledby="cl-h"><div class="wrap"><p class="label" id="cl-h">Han confiado su estructura en nosotros</p>
   <ul class="cl-names">${CLI.map(([n, f, ht]) => `<li class="lg"><img src="/clientes/${f}" alt="${n}" style="height:${ht}px" loading="lazy" decoding="async"></li>`).join('')}</ul></div></section>`;
 const obraSec = () => `<section class="obra" id="obra"><div class="obra-pin">
-  <div class="wrap obra-copy"><p class="label">Así se construye</p><p class="fill-text big on-dark">Barranquilla crece hacia arriba. Alguien tiene que calcularlo.</p></div>
+  <div class="wrap obra-copy"><p class="label">Principio de trabajo</p><p class="fill-text on-dark obra-q">“Un plano es una promesa. Nuestro trabajo es que esa promesa se cumpla en cada columna, aunque nadie la vuelva a ver después de fundida.”</p></div>
   <div class="obra-fig" aria-hidden="true"><div class="wrap"><svg id="obra-svg" viewBox="-40 -30 2080 690" preserveAspectRatio="xMinYMax meet"></svg></div></div></div></section>`;
 
 /* ---------- Pages ---------- */
@@ -225,13 +225,6 @@ const PAGES = {
 
     ${datos()}
 
-    <section class="sec intv" aria-labelledby="iv-h"><div class="wrap iv-g">
-      <div class="iv-ph">${PH('obra-aerea', 'tall', 'Obra en ejecución, vista aérea')}<p class="credit">${credit('obra-aerea')}</p></div>
-      <div class="iv-tx"><p class="label">Interventoría de obra</p><h2 id="iv-h">Su obra, controlada por ingenieros que también diseñan.</h2>
-        <p class="iv-lead">Representamos al propietario de principio a fin: que se construya lo contratado, con la calidad exigida, en el plazo y por el valor pactado. En obras públicas y privadas, en todo el país.</p>
-        <ol class="iv-l"><li><b>Calidad técnica</b><span>Materiales, procesos y cada actividad aprobada antes de pagarla.</span></li><li><b>Cantidades y pagos</b><span>Actas de avance, obras adicionales y balance del contrato, mes a mes.</span></li><li><b>Plazo y presupuesto</b><span>Comités de obra y control del cronograma, con alertas a tiempo.</span></li><li><b>Entrega y liquidación</b><span>Recibo de obra, pólizas, manuales y acta de liquidación.</span></li></ol>
-        <p class="iv-prj"><b>${PRJ.filter(p => p.svc.includes('interventoria')).length} interventorías</b> · ${PRJ.filter(p => p.svc.includes('interventoria')).map(p => `<a href="#proyecto-${p.id}">${p.name}</a>`).join(' · ')}</p>
-        <div class="btns"><a class="btn primary" href="#contacto">Pedir propuesta de interventoría</a><a class="btn" href="#servicio-interventoria">Cómo trabajamos</a></div></div></div></section>
 
     <section class="sec" style="padding-bottom:clamp(72px,9vw,128px)"><div class="wrap"><div class="sec-h"><div><p class="label">Por dónde empezar</p><h2>¿En qué etapa está su proyecto?</h2></div>${LINK('#ley', '¿Qué exige la ley? Calcúlelo')}</div></div><div class="mz-wrap" id="mzw" data-drag="Arrastre"><div class="mz" id="mz">${MZ.map(mzCard).join('')}</div></div></section>
 
@@ -248,12 +241,10 @@ const PAGES = {
       <figure class="node-fig"><svg id="node" role="img" aria-label="Conexión viga–columna con placa de extremo y ocho pernos, que se separa en sus piezas"></svg><figcaption><span>Pase el cursor o toque el nodo.</span><span>Dibujo isométrico, sin escala</span></figcaption></figure></div></section></template>
 
     <section class="sec" style="border-top:1px solid var(--line)"><div class="wrap"><div class="feature"><div>${PH(pimg(f0), 'wide', f0.name)}<div class="fcap"><div><p class="where" style="font-size:14px;color:var(--muted);font-weight:500" id="feat-loc">${f0.loc}</p><h3><a href="#proyecto-${f0.id}" id="feat-name" style="text-decoration:none">${f0.name}</a></h3></div><div class="ctrl"><span class="count" id="feat-n">1 / ${feat.length}</span><button type="button" id="feat-prev" aria-label="Proyecto anterior"><svg><use href="#arl"/></svg></button><button type="button" id="feat-next" aria-label="Proyecto siguiente"><svg><use href="#arr"/></svg></button></div></div></div>
-      <div><p class="label">Experiencia</p><h2>Proyectos destacados</h2><p class="muted" style="margin-bottom:24px">Torres de vivienda, bodegas y plantas industriales en Barranquilla y su área metropolitana: diseño, revisión e interventoría.</p><a class="btn" href="#experiencia">Ver todos los proyectos</a></div></div></div></section>
+      <div><p class="label">Experiencia</p><h2>Proyectos destacados</h2><p class="muted" style="margin-bottom:24px">Torres de vivienda, bodegas y plantas industriales en Barranquilla y su área metropolitana: diseño, revisión e interventoría.</p><a class="btn" href="#experiencia">Ver todos los proyectos</a></div></div>
+      <nav class="sect" aria-label="Sectores"><span class="label">Sectores</span>${[['edificios', 'Edificaciones'], ['industrial', 'Industrial'], ['infraestructura', 'Infraestructura'], ['comercial', 'Comercial'], ['institucional', 'Institucional']].map(([k, n]) => `<a href="#experiencia-${k}">${n}<small>${TRAY.reduce((c, [, l]) => c + l.filter(x => x[1] === k).length, 0)}</small></a>`).join('')}</nav></div></section>
 
-    <section class="sec tight"><div class="wrap"><div class="sec-h"><div><h2>Sectores</h2></div></div><div class="grid5">
-      ${[['edificios', 'Edificaciones', 'baq-torres'], ['industrial', 'Industrial', 'acero-nave'], ['infraestructura', 'Infraestructura', 'puente-obra'], ['comercial', 'Comercial', 'concreto-columnas'], ['institucional', 'Institucional', 'refuerzo-columnas']].map(([k, n, im]) => `<a class="card" href="#experiencia-${k}" data-cursor="Ver">${PH(im, 'sq', n)}<h3>${n}</h3></a>`).join('')}</div></div></section>
 
-    <section class="sec tight"><div class="wrap quote"><div>${PH('baq-atardecer', 'sq', 'Barranquilla al atardecer')}<p class="credit">${credit('baq-atardecer')}</p></div><div><blockquote>“Un plano es una promesa. Nuestro trabajo es que esa promesa se cumpla en cada columna, <em>aunque nadie la vuelva a ver</em> después de fundida.”</blockquote><cite>Principio de trabajo de DDES</cite></div></div></section>
 
     ${obraSec()}
 
