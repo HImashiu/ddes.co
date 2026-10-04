@@ -135,11 +135,7 @@ const TRAY = [
   ['2023', [['Edificio Ébano', 'edificios'], ['Edificio Casa Grande', 'edificios'], ['Industrias Cannon', 'industrial'], ['Punta Roca', 'edificios'], ['Cubiertas de los centros comerciales Miramar y Americano', 'comercial'], ['Antena universitaria', 'institucional'], ['Triple A', 'infraestructura']]],
   ['2022', [['Centro Comercial Solemio', 'comercial'], ['Leonardo', 'edificios']]],
   ['2021', [['Clínica en Palmar de Varela', 'institucional'], ['Mirador Cartagena', 'edificios'], ['Lagos de Caujaral', 'edificios'], ['Altos de Solemio', 'edificios']]],
-  ['2020', [['Hospital Cary', 'institucional'], ['Edificio Malibú', 'edificios'], ['River Plate', 'edificios'], ['Arte 57', 'edificios'], ['Acuarela', 'edificios']]],
-  ['2019', [['Bodega Coca-Cola', 'industrial'], ['Torri di Milano', 'edificios'], ['Terra', 'edificios'], ['Malibú', 'edificios'], ['Gradería', 'institucional'], ['Revisión de diseño', '']]],
-  ['2015', [['Colegio', 'institucional']]],
-  ['2009', [['Clínica en Sincelejo', 'institucional'], ['Colegio en Orocué', 'institucional'], ['Proyectos con FONADE', 'institucional']]],
-  ['2005', [['Rehabilitación de la Universidad de Córdoba', 'institucional'], ['Proyectos con FONADE', 'institucional']]]
+  ['2020', [['Hospital Cary', 'institucional'], ['Edificio Malibú', 'edificios'], ['River Plate', 'edificios'], ['Arte 57', 'edificios'], ['Acuarela', 'edificios'], ['Bodega Coca-Cola', 'industrial'], ['Torri di Milano', 'edificios'], ['Terra', 'edificios'], ['Malibú', 'edificios']]]
 ];
 const ART = [
   {id:'cloruros', title:'Cloruros y refuerzo: el recubrimiento que sí protege', cat:'Durabilidad', img:'refuerzo-contrapicado', read:'4 min', dek:'Por qué la brisa marina corroe el concreto desde adentro y qué especificar para evitarlo.',
