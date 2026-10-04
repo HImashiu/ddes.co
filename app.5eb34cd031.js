@@ -250,7 +250,6 @@ const PAGES = {
 
 
 
-    <section class="sec tight"><div class="wrap"><div class="sec-h"><div><p class="label">Perspectivas</p><h2>Notas desde la obra</h2><p>Problemas técnicos que vemos una y otra vez en obra, explicados en corto.</p></div><a class="btn" href="#perspectivas">Todas las notas</a></div><div class="grid3">${ART.map(artCard).join('')}</div></div></section>
     ${grow()}${touch('refuerzo-malla')}`;
   },
   services() {
@@ -409,6 +408,9 @@ const goTo = h => { if (!PATHS) { location.hash = h; return; } history.pushState
 const pathLinks = (root = document) => { if (!PATHS) return; if (root.matches && root.matches('a[href^="#"]')) pathLink(root); root.querySelectorAll('a[href^="#"]').forEach(pathLink); };
 // Measurement (Google Analytics on the published site; does nothing in the preview): the moments that matter to the firm
 const track = (name, params = {}) => { try { if (typeof gtag === 'function') gtag('event', name, params); } catch (e) {} };
+// WebKit (Safari, and every browser on iPhone and iPad) draws the drop's glass lens far too slowly: there pages change with a
+// quick cross-fade instead of the view transition
+const SVT = !!document.startViewTransition && !(/AppleWebKit/.test(navigator.userAgent) && !/Chrome\/|Chromium|Edg\//.test(navigator.userAgent));
 const scrollFns = new Set(), leaveFns = new Set();
 let sq = 0, lastY = 0, routed = false, navSync = () => {}, navTone = () => {};
 // While a page change animates, heavy set-up (the Ley model) waits for it to finish instead of stalling it
@@ -457,7 +459,7 @@ function route() {
   if (html == null) { r = routes[0]; m = ['']; html = PAGES.home(); }
   leaveFns.forEach(f => f()); leaveFns.clear(); scrollFns.clear();
   // Arriving through the drop, the page is already whole: its own entrance (rising lines, settling photo) would be a second step
-  app.classList.toggle('arrive', routed && !reduce && !!document.startViewTransition);
+  app.classList.toggle('arrive', routed && !reduce && SVT);
   app.innerHTML = html; pathLinks(app);
   nav.querySelectorAll('[data-sec]').forEach(a => a.dataset.sec === r.sec ? a.setAttribute('aria-current', 'page') : a.removeAttribute('aria-current'));
   navSync(r.sec);
@@ -465,7 +467,7 @@ function route() {
   const sh = sheetOf(known ? h : ''), rh = document.getElementById('rt-hoja'); if (rh) rh.textContent = sh + ' · ' + (t || 'Inicio');
   const cr = app.querySelector('.crumbs'); if (cr) cr.insertAdjacentHTML('afterbegin', `<span class="sheet" title="Hoja del juego de planos">${sh}</span>`);
   window.scrollTo(0, 0);
-  app.classList.remove('leave'); if (!document.startViewTransition) { app.style.animation = 'none'; void app.offsetWidth; app.style.animation = ''; } else app.style.animation = 'none';
+  app.classList.remove('leave'); if (!SVT) { app.style.animation = 'none'; void app.offsetWidth; app.style.animation = ''; } else app.style.animation = 'none';
   wire(h);
   darkT = 0; hdrState();
   glassify();
@@ -2377,7 +2379,7 @@ let lqBead = null;
 const beadOff = () => { const b = lqBead; if (b && b.isConnected && !b.classList.contains('out')) { b.classList.add('out'); setTimeout(() => { if (b.classList.contains('out')) b.remove(); }, 240); } };
 const beadR = () => { const b = lqBead; if (!b || !b.isConnected || b.classList.contains('out')) return 0; const t = getComputedStyle(b).transform; return t && t !== 'none' ? 28 * new DOMMatrix(t).a : 0; };
 addEventListener('pointerdown', e => {
-  if (reduce || !document.startViewTransition || e.button > 0) return;
+  if (reduce || !SVT || e.button > 0) return;
   const a = e.target instanceof Element && e.target.closest(linkSel), h = a && hrefOf(a);
   if (!a || h.length < 2 || h === here() || nav.contains(a) || a.closest('.tabbar') || a.querySelector('.ph')) return;
   if (!lqBead) { lqBead = document.createElement('div'); lqBead.className = 'lq-bead'; lqBead.setAttribute('aria-hidden', 'true'); }
@@ -2503,7 +2505,7 @@ window.addEventListener('hashchange', () => {
   scrollMem.set(curHash, lastY); const back = !byClick; byClick = false; curHash = here();
   const go = () => { route(); const y = back && scrollMem.get(curHash); if (y) { cvAll(); window.scrollTo(0, y); } };
   if (reduce) return go();
-  if (document.startViewTransition) {
+  if (SVT) {
     // a tab-bar lens still gliding finishes first, so the captured page shows it landed instead of frozen half-way
     const wait = tbGlide - performance.now(); tbGlide = 0;
     if (wait > 0) return void setTimeout(drop, wait);
