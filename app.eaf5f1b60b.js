@@ -166,10 +166,10 @@ const bg = k => `photo-bg" style="--bg-img:url('/fotos/t/${k}.jpg')`;
 const NUT = '<svg class="nutic" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.2l8.5 4.9v9.8L12 21.8l-8.5-4.9V7.1z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><circle cx="12" cy="12" r="3.6" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>';
 const MZ = [
   {t: 'Tengo un lote y una idea', d: 'Empiece por el diseño estructural. Si el proyecto es grande, sume la revisión de un ingeniero independiente.', svc: 'diseno', img: 'planos-dibujo', chip: ['NSR', 'Diseño bajo la NSR-10']},
-  {t: 'Voy a radicar la licencia', d: 'Si el lote permite construir más de 2.000 m², la curaduría pide el memorial de un revisor independiente del diseñador.', svc: 'revision', ui: [['1', 'Memorial de revisión', 'Firmado por el revisor', 'Ley 1796'], ['2', 'Planos y memoria', 'Con observaciones cerradas', 'Listo']]},
+  {t: 'Voy a radicar la licencia', img: 'ing-planos', chip: ['Ley', 'Memorial del revisor independiente'], d: 'Si el lote permite construir más de 2.000 m², la curaduría pide el memorial de un revisor independiente del diseñador.', svc: 'revision', ui: [['1', 'Memorial de revisión', 'Firmado por el revisor', 'Ley 1796'], ['2', 'Planos y memoria', 'Con observaciones cerradas', 'Listo']]},
   {t: 'Voy a empezar a construir', d: 'Contrate la supervisión técnica antes de la primera fundida. Sin ella no hay Certificado Técnico de Ocupación.', svc: 'supervision', img: 'refuerzo-malla', chip: ['CTO', 'Obligatoria sobre 2.000 m²']},
   {t: '¿Qué exige la ley?', d: 'Con el área, el uso y los pisos le decimos qué revisión, qué supervisión y qué documentos necesita.', svc: 'supervision', href: 'ley', cta: 'Calcularlo', img: 'ing-medicion', chip: ['Ley', 'Asistente Ley 1796 · NSR-10']},
-  {t: 'Mi edificio tiene fisuras', d: 'Una visita inicial dice si hay riesgo inmediato. Los ensayos dicen la causa y cuánto cuesta repararlo.', svc: 'patologia', ui: [['1', 'Inspección y ensayos', 'Núcleos · ferroscan · cloruros', 'Semanas 1–2'], ['2', 'Diagnóstico', 'Causa y reforzamiento', 'Informe']]}
+  {t: 'Mi edificio tiene fisuras', img: 'fachada-andamio', chip: ['Pat', 'Inspección, ensayos y diagnóstico'], d: 'Una visita inicial dice si hay riesgo inmediato. Los ensayos dicen la causa y cuánto cuesta repararlo.', svc: 'patologia', ui: [['1', 'Inspección y ensayos', 'Núcleos · ferroscan · cloruros', 'Semanas 1–2'], ['2', 'Diagnóstico', 'Causa y reforzamiento', 'Informe']]}
 ];
 const mzCard = m => `<article class="mz-card"><div class="mz-vis">${m.img ? `${PH(m.img, 'sq', m.t)}<div class="mz-chip"><i>${m.chip[0].slice(0, 3)}</i>${m.chip[1]}</div>` : `<div class="mz-ui">${m.ui.map(r => `<div class="mz-row"><span class="ic">${r[0]}</span><span><b>${r[1]}</b><small>${r[2]}</small><span class="tag"><svg viewBox="0 0 14 12" aria-hidden="true"><path pathLength="1" d="M1.5 6.5l3.6 3.6 7.4-8.6"/></svg>${r[3]}</span></span></div>`).join('')}</div>`}</div><h3>${m.t}</h3><p>${m.d}</p><a class="pill" href="#${m.href || 'servicio-' + m.svc}">${m.cta || 'Ver qué necesita'}</a></article>`;
 const LEY_USO = [['viv', 'Vivienda', 'I'], ['ofi', 'Oficinas', 'I'], ['ind', 'Bodega', 'I'], ['cc', 'Comercio masivo', 'II'], ['edu', 'Colegio', 'III'], ['sal', 'Clínica', 'IV']];
@@ -194,8 +194,8 @@ const ley = () => `<section class="ley" id="ley">
 
 const manifesto = () => `<section class="mani" id="mani"><div class="wrap">
   <h2 class="mani-h"><span class="vh">Diseñadas para resistir el sismo, el viento, el salitre y el tiempo.</span><span aria-hidden="true">Diseñadas para resistir el <span class="rot" data-words="sismo.|viento.|salitre.|tiempo."><span class="rot-w in">sismo.</span></span></span></h2>
-  <p class="fill-text on-dark">Un edificio se levanta en meses. Que dure cincuenta años frente al mar depende de lo que se calculó antes y de lo que se revisó en obra.</p></div>
-  <button class="reel" id="reel-open" type="button" data-cursor="Ver"><span class="reel-img">${PH('hero-gruas', 'std', '', '', true)}</span><span><b>Recorrido fotográfico</b><small>${Object.keys(CR).length} fotografías · ${Math.floor(Object.keys(CR).length * 4 / 60)}:${String(Object.keys(CR).length * 4 % 60).padStart(2, '0')}</small></span></button></section>`;
+  <div class="mani-row"><p class="fill-text on-dark">Un edificio se levanta en meses. Que dure cincuenta años frente al mar depende de lo que se calculó antes y de lo que se revisó en obra.</p>
+  <button class="reel" id="reel-open" type="button" data-cursor="Ver"><span class="reel-img">${PH('hero-gruas', 'std', '', '', true)}</span><span><b>Recorrido fotográfico</b><small>${Object.keys(CR).length} fotografías · ${Math.floor(Object.keys(CR).length * 4 / 60)}:${String(Object.keys(CR).length * 4 % 60).padStart(2, '0')}</small></span></button></div></div></section>`;
 const datos = () => `<section class="datos" id="datos"><div class="dt-pin"><div class="dt-cols" aria-hidden="true"></div>
   <div class="dt-mark" aria-hidden="true"><svg id="obra-svg" viewBox="-40 -30 2080 690" preserveAspectRatio="xMidYMid meet"></svg></div>
   <div class="dt-center"><p class="label dt-k">Diseño de Estructuras y Soluciones S.A.S.</p><p class="dt-text">DDES es una firma de <em>ingeniería estructural</em> de Barranquilla.</p>
@@ -227,7 +227,9 @@ const PAGES = {
     ${datos()}
 
 
-    <section class="sec" style="padding-bottom:clamp(72px,9vw,128px)"><div class="wrap"><div class="sec-h"><div><p class="label">Por dónde empezar</p><h2>¿En qué etapa está su proyecto?</h2></div>${LINK('#ley', '¿Qué exige la ley? Calcúlelo')}</div></div><div class="mz-wrap" id="mzw" data-drag="Arrastre"><div class="mz" id="mz">${MZ.map(mzCard).join('')}</div></div></section>
+    <section class="sec et" aria-labelledby="et-h"><div class="wrap"><div class="sec-h"><div><p class="label">Por dónde empezar</p><h2 id="et-h">¿En qué etapa está su <em>proyecto</em>?</h2></div>${LINK('#ley', '¿Qué exige la ley? Calcúlelo')}</div>
+      <div class="et-g"><figure class="et-ph"><div class="et-fr">${MZ.map((m, i) => `<div class="et-im${i ? '' : ' on'}">${PH(m.img, 'std', '')}</div>`).join('')}</div><figcaption class="et-cap"><i>A</i><span>${MZ[0].chip[1]}</span></figcaption></figure>
+      <ol class="et-l">${MZ.map((m, i) => `<li><a class="et-r${i ? '' : ' on'}" data-i="${i}" data-cap="${m.chip[1]}" href="#${m.href || 'servicio-' + m.svc}"><i class="et-ax" aria-hidden="true">${'ABCDE'[i]}</i><b>${m.t}</b><span>${m.d}</span><svg aria-hidden="true"><use href="#arr"/></svg></a></li>`).join('')}</ol></div></div></section>
 
     <section class="hs" id="hs"><div class="hs-pin" data-drag="Desplace"><div class="wrap hs-head"><div><p class="label">Servicios</p><h2>Lo que hacemos</h2></div><p>Diseñamos, revisamos diseños de otras firmas y supervisamos la obra.</p></div>
       <div class="hs-track">${SVC.map(s => `<a class="hs-card" href="#servicio-${s.id}" data-cursor="Ver">${PH(s.hero, 'tall', s.name)}<h3>${s.name}</h3><p>${s.short}</p></a>`).join('')}<a class="hs-card hs-end" href="#servicios" data-cursor="Ver"><h3>Todos los servicios</h3><span class="link">Ir a servicios ${ARR}</span></a></div>
@@ -695,7 +697,7 @@ function wire(h) {
   statements();
   beamHero();
   dataColumns(); countUp();
-  mzDrag();
+  mzDrag(); etapas();
   hscroll();
   deferLaw();
   // Contact form prefilled by the law assistant
@@ -977,6 +979,14 @@ function dataColumns() {
 
 // "Por dónde empezar": a row you can grab and throw. It keeps its momentum, resists gently at the ends, and the cards lean
 // into the motion. Links still work with a plain click; a drag never triggers them.
+// "Por dónde empezar": the stage under the pointer (or in focus) lights its axis and brings its photograph forward
+function etapas() {
+  const g = app.querySelector('.et-g'); if (!g) return;
+  const rows = [...g.querySelectorAll('.et-r')], ims = [...g.querySelectorAll('.et-im')], cap = g.querySelector('.et-cap');
+  const set = i => { rows.forEach((r, j) => r.classList.toggle('on', i === j)); ims.forEach((m, j) => m.classList.toggle('on', i === j));
+    cap.querySelector('i').textContent = 'ABCDE'[i]; cap.querySelector('span').textContent = rows[i].dataset.cap; };
+  rows.forEach((r, i) => { r.addEventListener('pointerenter', () => set(i)); r.addEventListener('focus', () => set(i)); });
+}
 function mzDrag() {
   const wrap = document.getElementById('mzw'), track = document.getElementById('mz'); if (!wrap || !matchMedia('(pointer: fine)').matches) return;
   const cards = [...track.children];
@@ -1061,12 +1071,12 @@ function obra() {
   const render = (p, now) => {
     const t = (now || 0) / 1000;
     sty(ground, 'strokeDashoffset', (1 - out(seg(p, 0, .12))).toFixed(4));
-    for (const b of beams) { const st = .02 + b.s * .4; sty(b.e, 'strokeDashoffset', (1 - out(seg(p, st, st + .14))).toFixed(3)); }
-    for (const d of dots) { const on = p > .1 + d.s * .4; if (d.on !== on) { d.on = on; d.e.classList.toggle('on', on); } }
-    sty(gTruss, 'opacity', (.95 * (1 - seg(p, .56, .84))).toFixed(3));
-    sty(svg, 'opacity', (.5 + .5 * seg(p, .05, .45)).toFixed(3));
+    for (const b of beams) { const st = .01 + b.s * .2; sty(b.e, 'strokeDashoffset', (1 - out(seg(p, st, st + .1))).toFixed(3)); }
+    for (const d of dots) { const on = p > .05 + d.s * .2; if (d.on !== on) { d.on = on; d.e.classList.toggle('on', on); } }
+    sty(gTruss, 'opacity', (.95 * (1 - seg(p, .4, .7))).toFixed(3));
+    sty(svg, 'opacity', (.6 + .4 * seg(p, .02, .2)).toFixed(3));
     logo.forEach((o, i) => {
-      const st = .5 + i * .05, q = io(seg(p, st, st + .24));
+      const st = .16 + i * .05, q = io(seg(p, st, st + .32));
       sty(o.e, 'strokeDashoffset', (1 - q).toFixed(4));
       if (q > .002 && q < .998) {
         const h = o.e.getPointAtLength(q * o.L), l = o.e.getPointAtLength(Math.min(o.L, q * o.L + 72 + 28 * Math.sin(t * 5.2 + i)));
