@@ -1002,10 +1002,12 @@ function obra() {
   const gCrisp = mk('g', {class: 'o-crisp'}), gGoo = mk('g', {filter: 'url(#o-goo)'});
   const W = 2000, H = 603, score = (x, y) => ((W - x) / W) * .72 + ((H - y) / H) * .28;
   const P = v => v[0].toFixed(1) + ' ' + v[1].toFixed(1), beams = [], dots = [];
-  const member = (a, b, kind) => { const [s0, s1] = [score(...a), score(...b)], [u, v] = s0 <= s1 ? [a, b] : [b, a]; beams.push({e: mk('path', {d: `M${P(u)}L${P(v)}`, pathLength: 1, class: 'o-b ' + kind}, gBeam), s: Math.min(s0, s1)}); };
+  const GAP = 34, member = (a0, b0, kind) => { const L = Math.hypot(b0[0] - a0[0], b0[1] - a0[1]); if (L < GAP * 2 + 10) return; const ux = (b0[0] - a0[0]) / L, uy = (b0[1] - a0[1]) / L;
+    const a = [a0[0] + ux * GAP, a0[1] + uy * GAP], b = [b0[0] - ux * GAP, b0[1] - uy * GAP];   // each member stops short of its nodes
+    const [s0, s1] = [score(...a), score(...b)], [u, v] = s0 <= s1 ? [a, b] : [b, a]; beams.push({e: mk('path', {d: `M${P(u)}L${P(v)}`, pathLength: 1, class: 'o-b ' + kind}, gBeam), s: Math.min(s0, s1)}); };
   CL.forEach(d => {
     tmp.setAttribute('d', d);
-    const Ln = tmp.getTotalLength(), n = Math.max(2, Math.round(Ln / 64)), hw = 44, O = [], I = [];
+    const Ln = tmp.getTotalLength(), n = Math.max(2, Math.round(Ln / 150)), hw = 58, O = [], I = [];
     for (let k = 0; k <= n; k++) {
       const sL = Ln * k / n, pt = tmp.getPointAtLength(sL), a = tmp.getPointAtLength(Math.max(0, sL - .6)), b = tmp.getPointAtLength(Math.min(Ln, sL + .6));
       let tx = b.x - a.x, ty = b.y - a.y; const m = Math.hypot(tx, ty) || 1; tx /= m; ty /= m;
@@ -1013,7 +1015,7 @@ function obra() {
     }
     for (let k = 0; k < n; k++) { member(O[k], O[k + 1], 'ch'); member(I[k], I[k + 1], 'ch'); member(k % 2 ? O[k] : I[k], k % 2 ? I[k + 1] : O[k + 1], 'wb'); }
     for (let k = 0; k <= n; k++) member(I[k], O[k], 'wb');
-    O.concat(I).forEach(v => dots.push({e: mk('circle', {cx: v[0].toFixed(1), cy: v[1].toFixed(1), r: 7, class: 'o-d'}, gDot), s: score(...v)}));
+    O.concat(I).forEach(v => dots.push({e: mk('circle', {cx: v[0].toFixed(1), cy: v[1].toFixed(1), r: 19, class: 'o-d'}, gDot), s: score(...v)}));
   });
   tmp.remove();
   const logo = DRAW.map(d => { const e = mk('path', {d, pathLength: 1, class: 'o-logo'}, gGoo); return {e, L: e.getTotalLength(), head: mk('circle', {r: 0, class: 'o-drop'}, gGoo), lead: mk('circle', {r: 0, class: 'o-drop'}, gGoo)}; });
@@ -2436,7 +2438,7 @@ if (PATHS) {
 // curve: the glass can never drift off the opening's edge. The drop opens from a visible 40 px and crosses the screen in 0,3 s
 // at an almost even pace (a slight acceleration), ending exactly when it has covered the farthest corner: no tail. Under it,
 // the new page settles from a slight zoom and the old one dims (see lqSet): depth, like a cut in a film.
-const LQ_D = 300, lqEase = (() => { const x1 = .25, y1 = .1, x2 = .6, y2 = .9, bx = t => 3 * x1 * t * (1 - t) ** 2 + 3 * x2 * t * t * (1 - t) + t ** 3, by = t => 3 * y1 * t * (1 - t) ** 2 + 3 * y2 * t * t * (1 - t) + t ** 3;
+const LQ_D = 220, lqEase = (() => { const x1 = .25, y1 = .1, x2 = .6, y2 = .9, bx = t => 3 * x1 * t * (1 - t) ** 2 + 3 * x2 * t * t * (1 - t) + t ** 3, by = t => 3 * y1 * t * (1 - t) ** 2 + 3 * y2 * t * t * (1 - t) + t ** 3;
   return x => { let lo = 0, hi = 1; for (let i = 0; i < 24; i++) { const m = (lo + hi) / 2; if (bx(m) < x) lo = m; else hi = m; } return by((lo + hi) / 2); }; })();
 // Lens strength on screen as a function of the drop's radius f (0..1 of the final radius): about 70 at every size, as v55 bent it,
 // easing off as the drop leaves the screen. (Following time instead made the faster curve bend 35 % less at the same radius.)
@@ -2530,7 +2532,7 @@ window.addEventListener('hashchange', () => {
       // The new page is shown whole: its first photograph gets a moment (at most 0,11 s; usually it is already decoded from the
       // intent above) and every photograph already loaded appears at once, without its own fade-in after the reveal
       const hi = app.querySelector('.ph img');
-      if (hi && !(hi.complete && hi.naturalWidth)) await Promise.race([hi.decode().catch(() => {}), new Promise(r => setTimeout(r, 110))]);
+      if (hi && !(hi.complete && hi.naturalWidth)) await Promise.race([hi.decode().catch(() => {}), new Promise(r => setTimeout(r, 70))]);
       app.querySelectorAll('.ph img:not(.ok)').forEach(i => { if (i.complete && i.naturalWidth) { const els = [i, i.nextElementSibling].filter(Boolean); els.forEach(e => { e.style.transition = 'none'; }); i.classList.add('ok'); requestAnimationFrame(() => requestAnimationFrame(() => els.forEach(e => { e.style.transition = ''; }))); } });
     });
     const nb = navBusy = vt.finished.catch(() => {}).then(() => { if (navBusy === nb) navBusy = null; });
