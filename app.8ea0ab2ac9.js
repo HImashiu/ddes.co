@@ -241,12 +241,13 @@ const PAGES = {
       <figure class="node-fig"><svg id="node" role="img" aria-label="Conexión viga–columna con placa de extremo y ocho pernos, que se separa en sus piezas"></svg><figcaption><span>Pase el cursor o toque el nodo.</span><span>Dibujo isométrico, sin escala</span></figcaption></figure></div></section></template>
 
     <section class="sec" style="border-top:1px solid var(--line)"><div class="wrap"><div class="feature"><div>${PH(pimg(f0), 'wide', f0.name)}<div class="fcap"><div><p class="where" style="font-size:14px;color:var(--muted);font-weight:500" id="feat-loc">${f0.loc}</p><h3><a href="#proyecto-${f0.id}" id="feat-name" style="text-decoration:none">${f0.name}</a></h3></div><div class="ctrl"><span class="count" id="feat-n">1 / ${feat.length}</span><button type="button" id="feat-prev" aria-label="Proyecto anterior"><svg><use href="#arl"/></svg></button><button type="button" id="feat-next" aria-label="Proyecto siguiente"><svg><use href="#arr"/></svg></button></div></div></div>
-      <div><p class="label">Experiencia</p><h2>Proyectos destacados</h2><p class="muted" style="margin-bottom:24px">Torres de vivienda, bodegas y plantas industriales en Barranquilla y su área metropolitana: diseño, revisión e interventoría.</p><a class="btn" href="#experiencia">Ver todos los proyectos</a></div></div>
-      <nav class="sect" aria-label="Sectores"><span class="label">Sectores</span>${[['edificios', 'Edificaciones'], ['industrial', 'Industrial'], ['infraestructura', 'Infraestructura'], ['comercial', 'Comercial'], ['institucional', 'Institucional']].map(([k, n]) => `<a href="#experiencia-${k}">${n}<small>${TRAY.reduce((c, [, l]) => c + l.filter(x => x[1] === k).length, 0)}</small></a>`).join('')}</nav></div></section>
+      <div><p class="label">Experiencia</p><h2>Proyectos destacados</h2><p class="muted" style="margin-bottom:24px">Torres de vivienda, bodegas y plantas industriales en Barranquilla y su área metropolitana: diseño, revisión e interventoría.</p><a class="btn" href="#experiencia">Ver todos los proyectos</a></div></div></div></section>
 
 
 
-    ${obraSec()}
+    <section class="sec tight"><div class="wrap"><div class="sec-h"><div><h2>Sectores</h2></div></div><div class="grid5">
+      ${[['edificios', 'Edificaciones', 'baq-torres'], ['industrial', 'Industrial', 'acero-nave'], ['infraestructura', 'Infraestructura', 'puente-obra'], ['comercial', 'Comercial', 'concreto-columnas'], ['institucional', 'Institucional', 'refuerzo-columnas']].map(([k, n, im]) => `<a class="card" href="#experiencia-${k}" data-cursor="Ver">${PH(im, 'sq', n)}<h3>${n}</h3></a>`).join('')}</div></div></section>
+
 
     <section class="sec tight"><div class="wrap"><div class="sec-h"><div><p class="label">Perspectivas</p><h2>Notas desde la obra</h2><p>Problemas técnicos que vemos una y otra vez en obra, explicados en corto.</p></div><a class="btn" href="#perspectivas">Todas las notas</a></div><div class="grid3">${ART.map(artCard).join('')}</div></div></section>
     ${grow()}${touch('refuerzo-malla')}`;
@@ -313,7 +314,7 @@ const PAGES = {
     <section class="sec tight"><div class="wrap">
       ${zz(['Conocemos cada región', 'Nacimos en Barranquilla y trabajamos en todo el país: Atlántico, Bolívar, Córdoba, Sucre, La Guajira, Casanare. Suelos blandos cerca de los ríos, arcillas expansivas, zonas de amenaza sísmica alta, brisa marina y aguaceros intensos: diseñamos para las condiciones reales de cada lugar.', 'baq-skyline', 'Barranquilla.'], 0)}
       ${zz(['Herramientas y normas', 'Diseñamos bajo la NSR-10, ACI 318 y AISC 360. Analizamos en ETABS, SAP2000 y SAFE, y modelamos en Revit y Tekla.', 'planos-azul', 'Planos de una edificación.'], 1, `<div class="chips" style="margin-top:20px">${['NSR-10', 'Ley 1796', 'ACI 318', 'AISC 360', 'ETABS', 'SAP2000', 'SAFE', 'Revit', 'Tekla'].map(c => `<span>${c}</span>`).join('')}</div>`)}</div></section>
-    <section class="band lite statband sec"><div class="wrap"><div><p class="big">Proyectos en todo el país, con los equipos de diseño y de obra trabajando juntos.</p><div class="pic">${FIG('baq-torres', 'wide', 'Torres en Barranquilla', 'Norte de Barranquilla.')}</div></div><div><div class="stats"><div class="stat"><b>2020</b><span>año de fundación</span></div><div class="stat"><b>70+</b><span>proyectos en el archivo</span></div><div class="stat"><b>7</b><span>interventorías</span></div><div class="stat"><b>6</b><span>departamentos</span></div></div></div></div></section>
+    <section class="band lite statband sec"><div class="wrap"><div><p class="big">“Un plano es una promesa. Nuestro trabajo es que esa promesa se cumpla en cada columna, aunque nadie la vuelva a ver después de fundida.”</p><div class="pic">${FIG('baq-torres', 'wide', 'Torres en Barranquilla', 'Norte de Barranquilla.')}</div></div><div><div class="stats"><div class="stat"><b>2020</b><span>año de fundación</span></div><div class="stat"><b>70+</b><span>proyectos en el archivo</span></div><div class="stat"><b>7</b><span>interventorías</span></div><div class="stat"><b>6</b><span>departamentos</span></div></div></div></div></section>
     ${grow()}${touch()}`;
   },
   insights() {
@@ -435,13 +436,15 @@ function sCharge() {
   const g = ++sGen, logo = document.querySelector('.top .logo'); if (!logo) return; const [a, b] = logo.querySelectorAll('.sprog path'); if (!a) return;
   logo.classList.remove('charging');
   const imgs = [...app.querySelectorAll('.ph img:not(.pop)')].filter(i => !(i.complete && i.naturalWidth) && i.getBoundingClientRect().top < innerHeight * 1.3);
-  if (!imgs.length) return;
   let done = 0; const n = imgs.length;
-  const draw = () => { const p = done / n; a.style.strokeDashoffset = 1 - Math.min(1, p * 2); b.style.strokeDashoffset = 1 - Math.max(0, p * 2 - 1); };
-  a.style.strokeDashoffset = b.style.strokeDashoffset = 1;
-  const show = setTimeout(() => { if (g === sGen && done < n) logo.classList.add('charging'); }, 150);
-  imgs.forEach(i => { const one = () => { if (g !== sGen) return; done++; draw(); if (done >= n) { clearTimeout(show); setTimeout(() => { if (g === sGen) logo.classList.remove('charging'); }, 450); } };
-    i.addEventListener('load', one, {once: true}); i.addEventListener('error', one, {once: true}); });
+  imgs.forEach(i => { const one = () => { if (g === sGen) done++; }; i.addEventListener('load', one, {once: true}); i.addEventListener('error', one, {once: true}); });
+  // the stroke fills, top arc then bottom arc, with the photographs that are still arriving, but never faster than 0,7 s
+  const start = () => { if (g !== sGen) return; const t0 = performance.now(); a.style.strokeDashoffset = b.style.strokeDashoffset = 1; logo.classList.add('charging');
+    const step = now => { if (g !== sGen) return; const real = n && now - t0 < 5000 ? done / n : 1, p = Math.min(real, (now - t0) / 700);
+      a.style.strokeDashoffset = 1 - Math.min(1, p * 2); b.style.strokeDashoffset = 1 - Math.max(0, p * 2 - 1);
+      if (p < 1) requestAnimationFrame(step); else setTimeout(() => { if (g === sGen) logo.classList.remove('charging'); }, 260); };
+    requestAnimationFrame(step); };
+  if (document.documentElement.classList.contains('pre')) setTimeout(start, 2700); else start();
 }
 function route() {
   let h = ''; try { h = decodeURIComponent(here().slice(1)); } catch (e) {}
@@ -566,7 +569,8 @@ function beamHero() {
   // a crack is a hairline that is widest where it opened (the bottom fibre) and runs out to nothing at its tip
   const hair = (pts, frac, w0, col) => { const n = (pts.length - 1) * frac; if (n <= 0) return; const fl = Math.floor(n); g.strokeStyle = col; g.lineCap = 'round';
     for (let i = 0; i < Math.ceil(n); i++) { const A = pts[i], C = pts[i + 1], f = i < fl ? 1 : n - fl; g.beginPath(); g.moveTo(A[0], A[1]); g.lineTo(A[0] + (C[0] - A[0]) * f, A[1] + (C[1] - A[1]) * f); g.lineWidth = Math.max(.35, w0 * (1 - i / (pts.length - 1))); g.stroke(); } };
-  const crackDraw = (c, D, hd, open) => { if (c <= 0) return; const at = (u, v) => [B.x + u * B.w, B.y + (1 - v) * B.h + drop(u, D, hd)], w0 = Math.max(1.3, B.h * .016);
+  const crackDraw = (c, D, hd, open) => { if (c <= 0) return; g.save(); g.beginPath(); for (let i = 0; i <= 40; i++) g.lineTo(B.x + i / 40 * B.w, B.y + drop(i / 40, D, hd) - 1); for (let i = 40; i >= 0; i--) g.lineTo(B.x + i / 40 * B.w, B.y + B.h + drop(i / 40, D, hd) + (open > 0 ? B.h * 2 : 0)); g.closePath(); g.clip(); crackIn(c, D, hd, open); g.restore(); };
+  const crackIn = (c, D, hd, open) => { const at = (u, v) => [B.x + u * B.w, B.y + (1 - v) * B.h + drop(u, D, hd)], w0 = Math.max(1.3, B.h * .016);
     cracks.forEach((cr, i) => { const q = clamp((c - cr.start) / (1 - cr.start)); if (q <= 0) return; const pts = cr.pts.map(p => at(p[0], p[1]));
       // the central crack opens into a wedge as the hinge turns
       if (!i && open > 0) { const wd = open, wAt = j => wd * (1 - j / (pts.length - 1));
@@ -625,7 +629,7 @@ function beamHero() {
     // the hand-off: where the rising section's edge meets the beam it carries it; the sag gives way to a slight upward bow as the
     // beam rides on the edge (held at its middle, its ends droop), the tremor stops, and it leaves the frame with the edge
     let lift = 0, carry = 0, Db = D;
-    if (hold && nxt) { const mb = B.y + B.h + D * shape(.5); if (mb > ntop) { carry = sm(clamp((mb - ntop) / (B.h * .9))); Db = D * (1 - carry) - Dm * .2 * carry; lift = ntop - (B.y + B.h + Db * shape(.5)); } }
+    if (hold && nxt) { const mb = B.y + B.h + D * shape(.5); if (mb > ntop) { carry = sm(clamp((mb - ntop) / (B.h * .9))); Db = D * (1 - carry); lift = ntop - (B.y + B.h + Db * shape(.5)); } }
     if (hold) { g = gFly; g.setTransform(k, 0, 0, k, 0, 0); }
     g.translate(sx * (1 - carry), sy * (1 - carry) + lift);
     if (B.y + B.h * 2.6 + lift > 0) { beam(Db, hd); crackDraw(c, Db, hd, open); }
@@ -657,7 +661,6 @@ function wire(h) {
   dataColumns(); countUp();
   mzDrag();
   hscroll();
-  later(obra);
   deferLaw();
   // Contact form prefilled by the law assistant
   const cf = document.getElementById('cform');
@@ -975,8 +978,11 @@ function mzDrag() {
 // El logo en obra, behind the closing statement. While the words fill in, the logo's structure glows into place —
 // light rather than lines. Then the letters pour in as liquid: a bulbous head leads each stroke with a droplet just ahead of it,
 // and a gooey filter lets them swell, touch and merge. At the end the liquid settles into the crisp logo.
+// The wordmark that closes every page builds itself: a truss traced along the letters (chords, web members, orange nodes), then the
+// mark poured along it, then crisp; as the end of the page comes into view, complete at the very bottom. Its liquid answers the
+// pointer afterwards.
 function obra() {
-  const sec = document.getElementById('obra'); if (!sec) return;
+  const sec = document.querySelector('.f-mark.obra-fig'); if (!sec || sec.dataset.built) return; sec.dataset.built = '1';
   const svg = sec.querySelector('#obra-svg'), NS = 'http://www.w3.org/2000/svg';
   const CL = ['M0 51H280A250.5 250.5 0 0 1 280 552H0', 'M600 51H835A250.5 250.5 0 0 1 835 552H600', 'M1610 51H1395A250.5 250.5 0 0 0 1395 552H1610', 'M1741 291A240 240 0 0 1 1981 51H2000', 'M1952 291A261 261 0 0 1 1691 552', 'M1170 298H1565'];
   const DRAW = ['M1691 552A261 261 0 0 0 1952 291', 'M1741 291A240 240 0 0 1 1981 51H2000', 'M1565 298H1170', 'M1610 552H1395A250.5 250.5 0 0 1 1395 51H1610', 'M600 552H835A250.5 250.5 0 0 0 835 51H600', 'M0 552H280A250.5 250.5 0 0 0 280 51H0'];
@@ -1034,12 +1040,13 @@ function obra() {
     const fin = seg(p, .84, .9), melt = seg(p, .9, .97); sty(gCrisp, 'opacity', fin.toFixed(3)); sty(gGoo, 'opacity', Math.max(1 - melt, hov).toFixed(3));
     if (txt && txt._fill) txt._fill(seg(p, 0, .48));
   };
-  if (reduce) { sec.style.height = 'auto'; sec.querySelector('.obra-pin').style.position = 'static'; render(1, 0); return; }
+  if (reduce) { render(1, 0); return; }
   let tgt = 0, cur = 0, raf = 0;
   const loop = now => { cur += (tgt - cur) * .2; if (Math.abs(tgt - cur) < .0004) cur = tgt; render(cur, now); const pouring = cur > .5 && cur < .96 && Math.abs(tgt - cur) < .5; raf = cur !== tgt || pouring ? requestAnimationFrame(loop) : 0; };
-  const f = () => { const r = sec.getBoundingClientRect(), span = sec.offsetHeight - innerHeight; tgt = Math.min(1, Math.max(0, -r.top / (span || 1))); if (r.bottom < 0 || r.top > innerHeight) return; if (!raf) raf = requestAnimationFrame(loop); };
-  render(0, 0); scrollFns.add(f); f();
-  liquidPointer(svg, sec.querySelector('.obra-fig'), drops, k => { hov = k; sty(gGoo, 'opacity', Math.max(1 - seg(cur, .9, .97), k).toFixed(3)); }, () => cur > .96);
+  const f = () => { const r = sec.getBoundingClientRect(), max = document.documentElement.scrollHeight - innerHeight, y0 = r.top + scrollY - innerHeight * 1.25;
+    tgt = Math.min(1, Math.max(0, (scrollY - y0) / Math.max(1, max - y0))); if (r.top > innerHeight * 1.3) { if (cur && !raf) raf = requestAnimationFrame(loop); return; } if (!raf) raf = requestAnimationFrame(loop); };
+  render(0, 0); addEventListener('scroll', f, {passive: true}); addEventListener('resize', f); f();
+  liquidPointer(svg, sec, drops, k => { hov = k; sty(gGoo, 'opacity', Math.max(1 - seg(cur, .9, .97), k).toFixed(3)); }, () => cur > .96);
 }
 
 // A drop of the logo's own liquid follows the pointer, trailed by two smaller ones. Near a letter it swells into it and pulls
@@ -1298,14 +1305,7 @@ const UI = (() => {
   navTone = () => { if (!tq) tq = requestAnimationFrame(tone); };
 })();
 
-// The wordmark that closes every page: the same liquid as the pour in "Así se construye". The crisp logo stays underneath;
-// the liquid copy on top only shows where the drop is, so the letters keep their corners.
-(() => {
-  const svg = document.getElementById('f-mark'); if (!svg) return;
-  svg.innerHTML = '<defs><filter id="f-goo" x="-120" y="-120" width="2240" height="843" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="17"/><feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 24 -10"/></filter></defs><g class="lq-crisp"><use href="#ddes" width="2000" height="603"/></g><g class="lq-goo" filter="url(#f-goo)"><use href="#ddes" width="2000" height="603"/><circle class="lq-d" r="0"/><circle class="lq-d" r="0"/><circle class="lq-d" r="0"/></g>';
-  const goo = svg.querySelector('.lq-goo'), drops = [...svg.querySelectorAll('.lq-d')].map((el, i) => ({el, R: [96, 58, 34][i]}));
-  liquidPointer(svg, svg.parentElement, drops, k => { goo.style.opacity = k.toFixed(3); });
-})();
+
 
 // Liquid glass, rendered with WebGL, after Apple's "Meet Liquid Glass" (WWDC25):
 // · lensing: the photograph behind each glass capsule is refracted through a convex-squircle bevel using Snell's law,
@@ -2529,4 +2529,4 @@ document.addEventListener('click', e => { const a = e.target instanceof Element 
   else if (h.startsWith('mailto:')) track('contact', {method: 'correo', ubicacion: where});
   else if ((a.dataset.h || h) === '#contacto' || h === '/contacto/') track('pedir_propuesta', {ubicacion: where, texto: a.textContent.trim().slice(0, 40)});
 }, true);
-pathLinks(); route();
+pathLinks(); route(); obra();

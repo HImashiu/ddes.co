@@ -448,7 +448,7 @@ html.has-cur input:not([type=range]):not([type=checkbox]):not([type=radio]),html
   background:linear-gradient(var(--rc) 0 0) 50% 0/1px 7px no-repeat,linear-gradient(var(--rc) 0 0) 50% 100%/1px 7px no-repeat,linear-gradient(var(--rc) 0 0) 0 50%/7px 1px no-repeat,linear-gradient(var(--rc) 0 0) 100% 50%/7px 1px no-repeat,radial-gradient(circle,var(--rc) 0 2px,transparent 2.6px) 50% 50%/100% 100% no-repeat}
 /* The S as a charge: while a page's photographs are still arriving, the S of the header logo dims to an outline and fills along its
    stroke, top arc then bottom arc, as they come in; then it is solid again. Shown only when loading takes noticeable time. */
-.logo .sprog path{stroke-dasharray:1 1;stroke-dashoffset:1;opacity:0;transition:stroke-dashoffset .4s var(--ease),opacity .3s var(--ease)}
+.logo .sprog path{stroke-dasharray:1 1;stroke-dashoffset:1;opacity:0;transition:opacity .3s var(--ease)}
 .logo.charging{--sop:.22}.logo.charging .sprog path{opacity:1}
 #cur.link .x{transform:rotate(45deg) scale(1.25)}
 html.has-hwcur #cur .x{display:none}
@@ -554,12 +554,6 @@ a.card:focus-visible,.hs-card:focus-visible,.pill:focus-visible{outline:2px soli
 a.card:hover h3{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:4px;text-decoration-color:var(--accent)}
 .grid3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:40px 24px}
 .grid2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:48px 24px}
-/* the sectors, as a row of links under the featured projects */
-.sect{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin-top:clamp(40px,5vw,72px);padding-top:clamp(24px,3vw,36px);border-top:1px solid var(--line)}
-.sect .label{margin:0 14px 0 0}
-.sect a{display:inline-flex;align-items:baseline;gap:8px;padding:10px 18px;border:1px solid var(--line);border-radius:999px;text-decoration:none;font-weight:500;transition:border-color var(--t1) var(--ease),background-color var(--t1) var(--ease)}
-.sect a:hover{border-color:var(--ink);background:var(--panel)}
-.sect small{font:400 11px/1 var(--fd);letter-spacing:.08em;color:var(--muted)}
 .grid5{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:24px 16px}
 @media (max-width:900px){.grid3{grid-template-columns:repeat(2,minmax(0,1fr))}.grid5{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media (max-width:600px){.grid3,.grid2{grid-template-columns:1fr}.grid5{grid-template-columns:repeat(2,minmax(0,1fr))}}
@@ -996,6 +990,10 @@ footer .blurb{color:var(--band-muted);max-width:32ch;margin-top:20px;font-size:v
 .o-logo{fill:none;stroke:#f3f1ee;stroke-width:102;stroke-dasharray:1;stroke-dashoffset:1}
 .o-drop{fill:#f3f1ee}
 .o-crisp{opacity:0}.o-crisp path{fill:none;stroke:#f3f1ee;stroke-width:102}.o-crisp rect{fill:#f3f1ee}
+/* in the footer, on the light page: the truss in ink and grey without its glow, the mark in ink, the nodes orange */
+.f-mark .o-truss{filter:none}.f-mark .o-b.ch{stroke:#0f0e0d;stroke-width:6}.f-mark .o-b.wb{stroke:#b9b3ac;stroke-width:3.5}.f-mark .o-ground{stroke:#d3cfc9}
+.f-mark .o-logo,.f-mark .o-crisp path{stroke:var(--ink)}.f-mark .o-drop,.f-mark .o-crisp rect{fill:var(--ink)}
+.f-mark #obra-svg{max-height:none}
 @media (max-width:760px){.obra{height:200vh}}
 /* ============ Lenguaje del logo ============
    D: recta donde apoya, curva hacia donde avanza (0 r r 0) · E: la D al revés, y su barra suelta (r 0 0 r; barra separada) ·
