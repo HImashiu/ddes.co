@@ -1011,7 +1011,7 @@ footer .blurb{color:var(--band-muted);max-width:32ch;margin-top:20px;font-size:v
 /* in the footer, on the light page: the truss in ink and grey without its glow, the mark in ink, the nodes orange */
 .dt-mark{position:absolute;left:50%;top:50%;width:min(70vw,1240px);transform:translate(-50%,-50%);opacity:.4;pointer-events:none;z-index:1}
 .dt-mark #obra-svg{width:100%;max-height:none}
-.dt-mark .o-truss{filter:none}.dt-mark .o-b.ch{stroke:#0f0e0d;stroke-width:22}.dt-mark .o-b.wb{stroke:#0f0e0d;stroke-width:14}.dt-mark .o-d{fill:#0f0e0d}.dt-mark .o-ground{stroke:#b9b3ac}
+.dt-mark .o-truss{filter:none}.dt-mark .o-b.ch{stroke:#0f0e0d;stroke-width:10}.dt-mark .o-b.wb{stroke:#0f0e0d;stroke-width:6}.dt-mark .o-d{fill:#0f0e0d}.dt-mark .o-ground{stroke:#b9b3ac}
 .dt-mark .o-logo,.dt-mark .o-crisp path{stroke:#d3cec8}.dt-mark .o-drop,.dt-mark .o-crisp rect{fill:#d3cec8}
 @media (max-width:760px){.dt-mark{width:92vw;top:34%}}
 .f-mark .o-truss{filter:none}.f-mark .o-b.ch{stroke:#0f0e0d;stroke-width:6}.f-mark .o-b.wb{stroke:#b9b3ac;stroke-width:3.5}.f-mark .o-ground{stroke:#d3cfc9}
