@@ -468,7 +468,7 @@ html.has-hwcur #cur .x{display:none}
 
 /* Progressive blur along the bottom edge of the window (after Huge) */
 /* the frame: a light passe-partout with rounded inner corners around everything, under the header and the tab bar */
-.frame{position:fixed;inset:var(--frame);border-radius:var(--fr);box-shadow:0 0 0 100vmax #ecebe8;pointer-events:none;z-index:61}
+.frame{position:fixed;inset:var(--frame);border-radius:var(--fr);box-shadow:0 0 0 100vmax #dcd8d2,inset 0 0 0 1px rgba(15,14,13,.13),inset 0 1px 12px -5px rgba(15,14,13,.22);pointer-events:none;z-index:61}
 /* the header sits inside the frame */
 .top{top:var(--frame)}
 .vblur{position:fixed;left:0;right:0;bottom:0;height:64px;z-index:55;pointer-events:none}
@@ -696,13 +696,13 @@ a.card:hover h3{text-decoration:underline;text-decoration-thickness:1px;text-und
 
 /* Preloader: the logo is drawn with its own strokes, then the white sheet lifts */
 #pre{position:fixed;inset:0;z-index:100;pointer-events:none;display:grid;place-items:center}
-#pre .pre-m{position:absolute;inset:0;width:100%;height:100%;fill:#ecebe8}
+#pre .pre-m{position:absolute;inset:0;width:100%;height:100%;fill:#dcd8d2}
 #pre .pre-l{position:absolute;left:0;right:0;top:50%;height:1px;margin-top:-.5px;background:rgba(15,14,13,.3);transform:scaleX(0);animation:pre-line .7s var(--ease-io) .05s forwards;transition:opacity .2s linear}
 #pre .pre-n,#pre .pre-y{position:absolute;top:calc(50% - 22px);font:400 10px/1 var(--fd);letter-spacing:.22em;color:rgba(15,14,13,.5);opacity:0;animation:pre-in .4s var(--ease) .45s forwards;transition:opacity .2s linear}
 #pre .pre-n{left:6vw}#pre .pre-y{right:6vw}
 #pre .pre-n::after{content:"";position:absolute;left:0;top:17px;width:1px;height:10px;background:currentColor}
 @keyframes pre-line{to{transform:scaleX(1)}}@keyframes pre-fade{to{opacity:0}}@keyframes pre-in{to{opacity:1}}
-#pre .pre-logo{position:relative;width:min(230px,48vw);overflow:visible;color:#0f0e0d;background:#ecebe8;padding:0 22px;box-sizing:content-box;transition:opacity .22s linear}
+#pre .pre-logo{position:relative;width:min(230px,48vw);overflow:visible;color:#0f0e0d;background:#dcd8d2;padding:0 22px;box-sizing:content-box;transition:opacity .22s linear}
 /* steps set by the script on the clock of the first painted frame: the mark leaves, then the line opens */
 #pre.go .pre-logo{opacity:0}#pre.open .pre-l,#pre.open .pre-n,#pre.open .pre-y{opacity:0;animation:none}
 /* the page's words wait until the window has opened */
@@ -984,7 +984,10 @@ footer .blurb{color:var(--band-muted);max-width:32ch;margin-top:20px;font-size:v
 @media (max-width:760px){.dt-logos{display:grid}.dt-note{position:static;margin-top:-6px}.dt-stats{grid-template-columns:repeat(2,auto);row-gap:22px}.dt-stats div:nth-child(3){border-left:0}.dt-cols{display:none}.datos{height:auto!important}.dt-pin{position:static!important;height:auto!important;padding-block:110px 90px}}
 .dt-center{position:relative;z-index:2;display:grid;justify-items:center;gap:22px;text-align:center;padding:40px}
 .dt-center::before{content:"";position:absolute;inset:-6% -10%;z-index:-1;background:radial-gradient(closest-side,rgba(236,237,235,.72) 30%,rgba(236,237,235,0))}
-.dt-text{font-size:clamp(34px,4.3vw,72px);font-weight:500;letter-spacing:-.035em;line-height:1;max-width:15ch}
+.dt-text{font-size:clamp(34px,4.3vw,72px);font-weight:300;letter-spacing:-.045em;line-height:1;max-width:15ch}
+.dt-text em{font-family:"Newsreader",Georgia,serif;font-variation-settings:"opsz" 72;font-weight:300;font-style:italic;letter-spacing:-.02em;font-size:1.08em}
+/* the firm's name is always set in bold, in any text */
+.nm{font-weight:700;letter-spacing:-.01em}.dt-text .nm{letter-spacing:-.045em}
 .dt-k{margin-bottom:-6px}
 .dt-sub{color:#4b4743;max-width:40ch}
 .dt-note{position:absolute;bottom:28px;left:0;right:0;text-align:center;font-size:var(--fs-s);color:#6b6660}

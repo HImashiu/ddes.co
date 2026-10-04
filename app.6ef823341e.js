@@ -198,7 +198,7 @@ const manifesto = () => `<section class="mani" id="mani"><div class="wrap">
   <button class="reel" id="reel-open" type="button" data-cursor="Ver"><span class="reel-img">${PH('hero-gruas', 'std', '', '', true)}</span><span><b>Recorrido fotográfico</b><small>${Object.keys(CR).length} fotografías · ${Math.floor(Object.keys(CR).length * 4 / 60)}:${String(Object.keys(CR).length * 4 % 60).padStart(2, '0')}</small></span></button></section>`;
 const datos = () => `<section class="datos" id="datos"><div class="dt-pin"><div class="dt-cols" aria-hidden="true"></div>
   <div class="dt-mark" aria-hidden="true"><svg id="obra-svg" viewBox="-40 -30 2080 690" preserveAspectRatio="xMidYMid meet"></svg></div>
-  <div class="dt-center"><p class="label dt-k">Diseño de Estructuras y Soluciones S.A.S.</p><p class="dt-text">DDES es una firma de ingeniería estructural de Barranquilla.</p>
+  <div class="dt-center"><p class="label dt-k">Diseño de Estructuras y Soluciones S.A.S.</p><p class="dt-text">DDES es una firma de <em>ingeniería estructural</em> de Barranquilla.</p>
   <div class="dt-stats"><div data-eq="Diseño de Estructuras y Soluciones S.A.S."><b class="yr">2020</b><span>fundada</span></div><div data-eq="en el archivo de diseño, año por año"><b>70+</b><span>proyectos</span></div><div data-eq="Solemio · Cannon · Centurión · Ébano · Galé · Casa Grande · Galapa"><b>7</b><span>interventorías</span></div><div data-eq="Atlántico · Bolívar · Córdoba · Sucre · La Guajira · Casanare"><b>6</b><span>departamentos</span></div></div><p class="dt-sub">Trabajamos en todo el país con un equipo que conoce los suelos, el clima y la forma de construir de cada región.</p><a class="btn" href="#nosotros">Quiénes somos</a><ul class="dt-logos" aria-label="Clientes">${CLI.map(([n, f, h]) => `<li><img src="/clientes/color/${f}" alt="${n}" style="height:${Math.round(h * .8)}px" loading="lazy" decoding="async"></li>`).join('')}</ul></div><p class="dt-note">Han confiado su estructura en nosotros</p></div></section>`;
 // Clients, as DDES lists them, by their own logos in their own colours (background removed: deploy/logos.mjs color). They drift
 // in the two columns beside "DDES es una firma…", at a height that gives each the same visual weight. [name, file, height px]
@@ -411,6 +411,12 @@ const track = (name, params = {}) => { try { if (typeof gtag === 'function') gta
 // WebKit (Safari, and every browser on iPhone and iPad) draws the drop's glass lens far too slowly: there pages change with a
 // quick cross-fade instead of the view transition
 const SVT = !!document.startViewTransition && !(/AppleWebKit/.test(navigator.userAgent) && !/Chrome\/|Chromium|Edg\//.test(navigator.userAgent));
+// The firm's name stands out wherever it appears in running text
+function boldName(root) {
+  const w = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {acceptNode: n => /\bDDES\b/.test(n.data) && !n.parentElement.closest('svg,script,style,title,textarea,option,b,strong,.nm,.label,.logo,[data-eq]') ? 1 : 2}), list = [];
+  while (w.nextNode()) list.push(w.currentNode);
+  list.forEach(n => { const f = document.createDocumentFragment(); n.data.split(/\b(DDES)\b/).forEach((t, i) => { if (!t) return; if (i % 2) { const b = document.createElement('b'); b.className = 'nm'; b.textContent = t; f.appendChild(b); } else f.appendChild(document.createTextNode(t)); }); n.replaceWith(f); });
+}
 const scrollFns = new Set(), leaveFns = new Set();
 let sq = 0, lastY = 0, routed = false, navSync = () => {}, navTone = () => {};
 // While a page change animates, heavy set-up (the Ley model) waits for it to finish instead of stalling it
@@ -424,6 +430,31 @@ let scT = 0; const rootEl = document.documentElement;
 addEventListener('scroll', () => { lastY = scrollY; if (!scT) rootEl.classList.add('is-scrolling'); clearTimeout(scT); scT = setTimeout(() => { scT = 0; rootEl.classList.remove('is-scrolling'); }, 160);
   if (!sq) sq = requestAnimationFrame(() => { sq = 0; scrollFns.forEach(f => f()); }); }, {passive: true});
 addEventListener('resize', () => { scrollFns.forEach(f => f(true)); });
+(() => {
+  if (reduce) return;
+  let idle = 0, anim = 0, touching = false, dir = 1, py = scrollY, snapping = false, quiet = 0;
+  const stops = () => { const vh = innerHeight, P = [0], foot = document.querySelector('body > footer');
+    [...app.children, foot].forEach(el => { if (!el || !el.offsetHeight) return; const r = el.getBoundingClientRect(), t = r.top + scrollY; P.push(t); if (r.height > vh * 1.05) P.push(t + r.height - vh); });
+    P.push(document.documentElement.scrollHeight - vh); return P; };
+  const stop = () => { if (anim) cancelAnimationFrame(anim); anim = 0; snapping = false; };
+  const settle = () => { idle = 0;
+    if (touching || snapping || navBusy || performance.now() < quiet || rootEl.classList.contains('pre') || rootEl.style.overflow === 'hidden') return;
+    // ahead (in the direction of travel) it reaches up to a third of a screen; behind, only a little
+    const y = scrollY, vh = innerHeight, fw = vh * .3, bw = vh * .12; let best = null, bd = 1e9;
+    for (const p of stops()) { const d = p - y; if ((dir > 0 ? d >= -bw && d <= fw : d <= bw && d >= -fw) && Math.abs(d) < bd) { bd = Math.abs(d); best = p; } }
+    if (best == null || bd < 2) return;
+    const dy = best - y, T = Math.min(650, 300 + Math.abs(dy) * .8), t0 = performance.now(); snapping = true;
+    const step = now => { const k = Math.min(1, (now - t0) / T), e = 1 - Math.pow(1 - k, 3); scrollTo(0, y + dy * e);
+      if (k < 1) anim = requestAnimationFrame(step); else { anim = 0; setTimeout(() => { snapping = false; }, 80); } };
+    anim = requestAnimationFrame(step); };
+  addEventListener('scroll', () => { const y = scrollY; if (!snapping && Math.abs(y - py) > .5) dir = y > py ? 1 : -1; py = y; clearTimeout(idle); idle = setTimeout(settle, touching ? 400 : 150); }, {passive: true});
+  // any hand on the page takes it back at once
+  ['wheel', 'mousedown', 'keydown'].forEach(e => addEventListener(e, () => { if (snapping) stop(); }, {passive: true}));
+  addEventListener('touchstart', () => { touching = true; if (snapping) stop(); }, {passive: true});
+  addEventListener('touchend', () => { touching = false; clearTimeout(idle); idle = setTimeout(settle, 250); }, {passive: true});
+  // a page change or a jump to an anchor sets its own position
+  ['hashchange', 'popstate'].forEach(e => addEventListener(e, () => { quiet = performance.now() + 900; stop(); }));
+})();
 document.getElementById('skip').onclick = () => { app.focus(); window.scrollTo(0, app.offsetTop); };
 
 // The site is one drawing set: each page is a sheet with its own code, printed in the title block and the breadcrumb
@@ -475,6 +506,7 @@ function route() {
   if (!known) toast('Esa página no está en los planos. Le trajimos al inicio.');
   // Keyboard and screen-reader users land on the new page's heading, not on a link that no longer exists
   if (routed) { const h1 = app.querySelector('h1'); if (h1) { h1.tabIndex = -1; h1.focus({preventScroll: true}); } }
+  boldName(app);
   routed = true;
   sCharge();
   later(obra);
@@ -2546,4 +2578,4 @@ document.addEventListener('click', e => { const a = e.target instanceof Element 
   else if (h.startsWith('mailto:')) track('contact', {method: 'correo', ubicacion: where});
   else if ((a.dataset.h || h) === '#contacto' || h === '/contacto/') track('pedir_propuesta', {ubicacion: where, texto: a.textContent.trim().slice(0, 40)});
 }, true);
-pathLinks(); route();
+pathLinks(); route(); boldName(document.querySelector('body > footer') || document.createElement('i'));
