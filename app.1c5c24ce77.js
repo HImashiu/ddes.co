@@ -577,7 +577,7 @@ function beamHero() {
     c.fillStyle = '#0f0e0d'; c.textBaseline = 'alphabetic'; c.fillText(w.textContent, tl - r.left, base - r.top);
     LB = {x: B.x - 24, y: B.y - 24, w: B.w + 48, h: B.h * 2.6 + 48};
     lay = document.createElement('canvas'); lay.width = Math.ceil(LB.w * k); lay.height = Math.ceil(LB.h * k); lg = lay.getContext('2d');
-    font = getComputedStyle(document.body).fontFamily;
+    font = getComputedStyle(document.body).fontFamily; try { document.fonts.load('italic 300 20px Newsreader'); } catch (e) {}
     build(); ready = true;
   };
   const build = () => {
@@ -620,32 +620,26 @@ function beamHero() {
       g.save(); g.translate(x, y); g.rotate(c.spin * tt); g.beginPath(); c.poly.forEach((q, i) => i ? g.lineTo(q[0], q[1]) : g.moveTo(q[0], q[1])); g.closePath(); g.fillStyle = c.tone; g.fill(); g.restore(); });
     g.lineCap = 'round'; specks.forEach(s => { const tt = t - s.d; if (tt <= 0 || tt > s.life) return; const vy = s.vy + 2600 * tt, x = s.x + s.vx * tt, y = s.y + s.vy * tt + 1300 * tt * tt, a = 1 - tt / s.life;
       g.beginPath(); g.moveTo(x, y); g.lineTo(x - s.vx * .016, y - vy * .016); g.strokeStyle = `rgba(255,224,200,${(.75 * a).toFixed(3)})`; g.lineWidth = s.r; g.stroke(); }); };
-  // the deflection, dimensioned the way a drawing does it: the unloaded top edge as a fine dashed reference, a dimension line at
-  // midspan closed by two 45° ticks, and a leader that breaks out above the reference to a label resting on its own shoulder line:
-  // the value, then the limit it is checked against
+  // the deflection, set like a fine drawing's dimension and nothing more: a hairline reference (the unloaded top edge) that fades
+  // out toward the supports, a hairline dimension at midspan with two small dots, and above it the value in the site's two voices
+  // (δ in the serif italic, the figure light); the admissible limit joins it, quieter, once the load peaks
   const dimension = (D, alpha, adm = 0) => { if (alpha <= .01 || D < 4) return; const x = B.x + B.w * shapeA, y0 = B.y, y1 = B.y + D * shape(shapeA), a = alpha * seg(D, 4, 14);
-    const sm = W < 760, fs = sm ? 11 : 12.5, ink = 'rgba(255,255,255,.92)';
+    const sm = W < 760, hl = Math.max(.75, 1 / k);
     g.save(); g.globalAlpha = a; g.lineCap = 'butt';
-    g.shadowColor = 'rgba(0,0,0,.35)'; g.shadowBlur = 6;
-    // reference: the beam's top edge before the load
-    g.strokeStyle = 'rgba(255,255,255,.42)'; g.lineWidth = 1; g.setLineDash([7, 5]); g.beginPath(); g.moveTo(B.x, y0 - .5); g.lineTo(B.x + B.w, y0 - .5); g.stroke(); g.setLineDash([]);
-    // the dimension line and its ticks
-    g.strokeStyle = ink; g.lineWidth = 1; g.beginPath(); g.moveTo(x + .5, y0); g.lineTo(x + .5, y1);
-    for (const yy of [y0, y1]) { g.moveTo(x - 3.5, yy + 3.5); g.lineTo(x + 4.5, yy - 4.5); }
-    g.stroke();
-    // label: "δ 31,5 mm" then, quieter, the admissible deflection it is checked against
+    const rg = g.createLinearGradient(B.x, 0, B.x + B.w, 0); rg.addColorStop(0, 'rgba(255,255,255,0)'); rg.addColorStop(.5, 'rgba(255,255,255,.38)'); rg.addColorStop(1, 'rgba(255,255,255,0)');
+    g.strokeStyle = rg; g.lineWidth = hl; g.beginPath(); g.moveTo(B.x, y0 - .5); g.lineTo(B.x + B.w, y0 - .5); g.stroke();
+    g.strokeStyle = 'rgba(255,255,255,.8)'; g.beginPath(); g.moveTo(x, y0 - 7); g.lineTo(x, y1); g.stroke();
+    g.fillStyle = '#fff'; for (const yy of [y0, y1]) { g.beginPath(); g.arc(x, yy, 1.9, 0, 6.2832); g.fill(); }
     const mm = (D / (B.h * .46) * (hold ? 34.1 : 48)).toFixed(1).replace('.', ',');
     try { g.fontVariantNumeric = 'tabular-nums'; } catch (e) {} g.textBaseline = 'alphabetic'; g.textAlign = 'left';
-    const v = `δ = ${mm} mm`, lim = 'admisible  L/240 = 33,3 mm';
-    g.font = `600 ${fs}px ${font}`; const vw = g.measureText(v).width;
-    g.font = `400 ${fs}px ${font}`; const lw = adm > .01 ? g.measureText(lim).width + 18 : 0;
-    // on one line if it fits inside the frame, otherwise the limit sits on a line of its own above the value
-    const kx = x + 14, ky = y0 - 14, one = kx + 12 + vw + lw < W - 24, ex = kx + 6 + (one ? vw + lw : Math.max(vw, lw - 18)) + 6;
-    g.beginPath(); g.moveTo(x + .5, y0); g.lineTo(kx, ky + .5); g.lineTo(ex, ky + .5); g.strokeStyle = 'rgba(255,255,255,.7)'; g.stroke();
-    g.shadowBlur = 10; g.fillStyle = '#fff'; g.font = `600 ${fs}px ${font}`; g.fillText(v, kx + 6, ky - 6);
-    if (adm > .01) { g.globalAlpha = a * adm; g.fillStyle = 'rgba(255,255,255,.66)'; g.font = `400 ${fs}px ${font}`;
-      if (one) { g.fillText(lim, kx + 6 + vw + 18, ky - 6); g.fillStyle = 'rgba(255,255,255,.4)'; g.fillRect(kx + 6 + vw + 8.5, ky - 6 - fs * .72, 1, fs * .8); }
-      else g.fillText(lim, kx + 6, ky - 6 - fs * 1.45); }
+    const by = y0 - 13, fv = sm ? 15 : 17; let tx = x + 10;
+    g.font = `italic 300 ${fv * 1.25}px Newsreader, Georgia, serif`; g.fillStyle = '#fff'; g.fillText('δ', tx, by); tx += g.measureText('δ').width + 6;
+    g.font = `300 ${fv}px ${font}`; g.fillText(mm, tx, by); tx += g.measureText(mm).width + 4;
+    g.font = `400 ${fv * .62}px ${font}`; g.fillStyle = 'rgba(255,255,255,.62)'; g.fillText('mm', tx, by); tx += g.measureText('mm').width;
+    if (adm > .01) { g.globalAlpha = a * adm; g.font = `500 ${sm ? 9 : 9.5}px ${font}`; try { g.letterSpacing = '1.6px'; } catch (e) {} g.fillStyle = 'rgba(255,255,255,.5)';
+      const lim = 'ADMISIBLE  L/240 · 33,3 MM', lw = g.measureText(lim).width;
+      if (tx + 22 + lw < W - 24) { g.fillRect(tx + 11, by - fv * .62, hl, fv * .62); g.fillText(lim, tx + 22, by - 1); }
+      else g.fillText(lim, x + 10, by - fv * 1.55); try { g.letterSpacing = '0px'; } catch (e) {} }
     g.restore(); };
 
   const draw = () => {
