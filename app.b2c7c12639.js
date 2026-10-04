@@ -43,6 +43,17 @@ const SVC = [
    steps:[['Concepción','Definimos el sistema estructural con arquitectura y comparamos alternativas.'],['Predimensionamiento','Secciones iniciales, cargas y verificación de derivas.'],['Análisis y diseño','Modelo completo y diseño de cada elemento.'],['Planos y despiece','Documentación para licencia y para obra.'],['Acompañamiento','Observaciones de curaduría y consultas de obra.']],
    faq:[['¿Cuánto tarda un diseño estructural?','Depende del tamaño y de qué tan definida esté la arquitectura. Como referencia, una edificación de cinco pisos suele tomar entre cuatro y seis semanas, y una torre de veinte pisos, entre tres y cuatro meses.'],['¿Qué necesitan para empezar?','Planos arquitectónicos, estudio de suelos y levantamiento topográfico. Si todavía no tiene estudio de suelos, le ayudamos a definir qué pedirle al geotecnista.'],['¿El diseño incluye el trámite en curaduría?','Sí. Respondemos las observaciones estructurales de la curaduría y del revisor independiente hasta que se expida la licencia.']],
    projects:['cannon','gale','casagrande'], related:['revision','bim','supervision']},
+  {id:'interventoria', name:'Interventoría de obra', tagline:'Control técnico, administrativo y financiero de la obra.', hero:'obra-aerea', card:'refuerzo-placa',
+   short:'Representamos al propietario: calidad, plazo y presupuesto de obras públicas y privadas.',
+   intro:'Representamos al propietario en la obra. Controlamos que se construya lo contratado, con la calidad exigida, en el plazo y por el valor pactado, en proyectos públicos y privados.',
+   blocks:[
+    ['Control técnico','Calidad de materiales y procesos, cumplimiento de especificaciones y aprobación de cada actividad antes de pagarla.','refuerzo-placa','Placa en ejecución.'],
+    ['Control administrativo y financiero','Actas de avance, cantidades, obras adicionales y balance del contrato. Cada mes, el propietario sabe cuánto se ha ejecutado y cuánto falta.','ing-planos','Comité de obra.'],
+    ['Entrega y liquidación','Recibo de obra, pólizas, manuales y liquidación del contrato. Cerramos el proyecto sin cabos sueltos.','puente-obra','Obra de infraestructura en construcción.']],
+   deliver:['Informes mensuales de interventoría','Actas de obra y de cantidades','Control de cronograma y presupuesto','Concepto sobre obras adicionales','Acta de liquidación'],
+   steps:[['Arranque','Contrato, pólizas y cronograma.'],['Seguimiento','Comités de obra y actas mensuales.'],['Control','Calidad, cantidades y pagos.'],['Cierre','Recibo, liquidación y entrega.']],
+   faq:[['¿En qué se diferencia de la supervisión técnica?','La supervisión técnica verifica la estructura frente a la NSR-10 y la Ley 1796. La interventoría controla el contrato completo, con calidad, plazo y costo, en nombre del propietario.'],['¿Trabajan con entidades públicas?','Sí. Conocemos los informes y soportes que exigen los contratos públicos y los entes de control.'],['¿Cada cuánto recibo informes?','Un informe mensual completo, y actas de comité cada semana o cada quince días, según el contrato.']],
+   projects:['solemio','centurion','cannon'], related:['supervision','diseno','bim']},
   {id:'supervision', name:'Supervisión técnica', tagline:'La obra se construye como fue diseñada.', hero:'refuerzo-columnas', card:'ing-medicion',
    short:'Supervisión técnica independiente según la Ley 1796 y el Título I de la NSR-10, antes de cada fundida.',
    intro:'La supervisión técnica independiente verifica en obra que la estructura se construya según los planos, las especificaciones y la NSR-10. Es obligatoria por la Ley 1796 de 2016 cuando el lote permite construir más de 2.000 m², sin importar el uso, y es la base del Certificado Técnico de Ocupación. Estamos en obra en los momentos que importan: antes de cada fundida.',
@@ -77,17 +88,6 @@ const SVC = [
    steps:[['Inspección','Levantamiento de daños y de la estructura.'],['Ensayos','Núcleos, ferroscan, carbonatación y cloruros.'],['Diagnóstico','Causa del daño y estado de la estructura.'],['Reforzamiento','Diseño y acompañamiento en obra.']],
    faq:[['¿Mi edificio es seguro?','Una inspección inicial dice si hay un riesgo inmediato y qué tan urgente es actuar. El diagnóstico completo, con ensayos, dice qué tan grave es el daño y cuánto cuesta repararlo.'],['¿Se puede reforzar con gente viviendo en el edificio?','En muchos casos sí. Diseñamos el reforzamiento para ejecutarlo por etapas y con el menor impacto posible para los residentes.'],['¿Qué pide la ley para un edificio antiguo?','Si cambia el uso, se amplía o se modifica la estructura, la NSR-10 exige evaluar la vulnerabilidad y, si hace falta, reforzar.']],
    projects:['solemio','ebano','cannon'], related:['diseno','supervision','interventoria']},
-  {id:'interventoria', name:'Interventoría', tagline:'Control técnico, administrativo y financiero de la obra.', hero:'obra-aerea', card:'refuerzo-placa',
-   short:'Representamos al propietario: calidad, plazo y presupuesto de obras públicas y privadas.',
-   intro:'Representamos al propietario en la obra. Controlamos que se construya lo contratado, con la calidad exigida, en el plazo y por el valor pactado, en proyectos públicos y privados.',
-   blocks:[
-    ['Control técnico','Calidad de materiales y procesos, cumplimiento de especificaciones y aprobación de cada actividad antes de pagarla.','refuerzo-placa','Placa en ejecución.'],
-    ['Control administrativo y financiero','Actas de avance, cantidades, obras adicionales y balance del contrato. Cada mes, el propietario sabe cuánto se ha ejecutado y cuánto falta.','ing-planos','Comité de obra.'],
-    ['Entrega y liquidación','Recibo de obra, pólizas, manuales y liquidación del contrato. Cerramos el proyecto sin cabos sueltos.','puente-obra','Obra de infraestructura en construcción.']],
-   deliver:['Informes mensuales de interventoría','Actas de obra y de cantidades','Control de cronograma y presupuesto','Concepto sobre obras adicionales','Acta de liquidación'],
-   steps:[['Arranque','Contrato, pólizas y cronograma.'],['Seguimiento','Comités de obra y actas mensuales.'],['Control','Calidad, cantidades y pagos.'],['Cierre','Recibo, liquidación y entrega.']],
-   faq:[['¿En qué se diferencia de la supervisión técnica?','La supervisión técnica verifica la estructura frente a la NSR-10 y la Ley 1796. La interventoría controla el contrato completo, con calidad, plazo y costo, en nombre del propietario.'],['¿Trabajan con entidades públicas?','Sí. Conocemos los informes y soportes que exigen los contratos públicos y los entes de control.'],['¿Cada cuánto recibo informes?','Un informe mensual completo, y actas de comité cada semana o cada quince días, según el contrato.']],
-   projects:['solemio','centurion','cannon'], related:['supervision','diseno','bim']},
   {id:'bim', name:'BIM y coordinación', tagline:'Las interferencias se resuelven en pantalla, no en obra.', hero:'planos-azul', card:'acero-nave',
    short:'Modelos estructurales en Revit coordinados con arquitectura y redes, con cantidades desde el modelo.',
    intro:'Modelamos la estructura en Revit y la coordinamos con arquitectura, redes hidráulicas, eléctricas y de aire acondicionado. Los choques entre disciplinas aparecen en el modelo meses antes de llegar a la obra.',
@@ -202,12 +202,12 @@ const manifesto = () => `<section class="mani" id="mani"><div class="wrap">
   <button class="reel" id="reel-open" type="button" data-cursor="Ver"><span class="reel-img">${PH('hero-gruas', 'std', '', '', true)}</span><span><b>Recorrido fotográfico</b><small>${Object.keys(CR).length} fotografías · ${Math.floor(Object.keys(CR).length * 4 / 60)}:${String(Object.keys(CR).length * 4 % 60).padStart(2, '0')}</small></span></button></section>`;
 const datos = () => `<section class="datos" id="datos"><div class="dt-pin"><div class="dt-cols" aria-hidden="true"></div>
   <div class="dt-center"><p class="dt-text">DDES es una firma de ingeniería estructural de Barranquilla.</p>
-  <div class="dt-stats"><div data-eq="primer proyecto del archivo: 2005"><b>21</b><span>años diseñando</span></div><div data-eq="en el archivo de diseño, año por año"><b>70+</b><span>proyectos</span></div><div data-eq="Solemio · Cannon · Centurión · Ébano · Galé · Casa Grande · Galapa"><b>7</b><span>interventorías</span></div><div data-eq="Atlántico · Bolívar · Córdoba · Sucre · La Guajira · Casanare"><b>6</b><span>departamentos</span></div></div><p class="dt-sub">Trabajamos en todo el país con un equipo que conoce los suelos, el clima y la forma de construir de cada región.</p><a class="btn" href="#nosotros">Quiénes somos</a></div></div></section>`;
-// Clients, as DDES lists them, by their own logos: every logo redrawn in the one ink of the page (deploy/logos.mjs) and shown at
-// the same visual weight (equal inked area), so no brand outweighs another. [name, logo file in /clientes/, height in px]
+  <div class="dt-stats"><div data-eq="Diseño de Estructuras y Soluciones S.A.S."><b class="yr">2020</b><span>fundada</span></div><div data-eq="en el archivo de diseño, año por año"><b>70+</b><span>proyectos</span></div><div data-eq="Solemio · Cannon · Centurión · Ébano · Galé · Casa Grande · Galapa"><b>7</b><span>interventorías</span></div><div data-eq="Atlántico · Bolívar · Córdoba · Sucre · La Guajira · Casanare"><b>6</b><span>departamentos</span></div></div><p class="dt-sub">Trabajamos en todo el país con un equipo que conoce los suelos, el clima y la forma de construir de cada región.</p><a class="btn" href="#nosotros">Quiénes somos</a><ul class="dt-logos" aria-label="Clientes">${CLI.map(([n, f, h]) => `<li><img src="/clientes/color/${f}" alt="${n}" style="height:${Math.round(h * .8)}px" loading="lazy" decoding="async"></li>`).join('')}</ul></div><p class="dt-note">Han confiado su estructura en nosotros</p></div></section>`;
+// Clients, as DDES lists them, by their own logos in their own colours (background removed: deploy/logos.mjs color). They drift
+// in the two columns beside "DDES es una firma…", at a height that gives each the same visual weight. [name, file, height px]
 const CLI = [['Coca-Cola', 'cocacola.png', 31], ['Jamar', 'jamar.png', 24], ['Universidad de Córdoba', 'unicordoba.png', 30], ['Cannon', 'cannon.png', 44],
   ['Centurión', 'centurion.png', 55], ['Spatium Ingeniería', 'spatium.png', 58], ['H3 Arquitectura', 'h3.png', 48], ['AF Gym', 'afgym.png', 42],
-  ['Grupo Avintia', 'avintia.png', 34], ["Al'fresco", 'alfresco.png', 47], ['Grama Construcciones', 'grama.png', 60]];
+  ['Grupo Avintia', 'avintia.png', 34], ["Al'fresco", 'alfresco.png', 47], ['Grama Construcciones', 'grama.png', 55]];
 const clients = () => `<section class="sec clients" aria-labelledby="cl-h"><div class="wrap"><p class="label" id="cl-h">Han confiado su estructura en nosotros</p>
   <ul class="cl-names">${CLI.map(([n, f, ht]) => `<li class="lg"><img src="/clientes/${f}" alt="${n}" style="height:${ht}px" loading="lazy" decoding="async"></li>`).join('')}</ul></div></section>`;
 const obraSec = () => `<section class="obra" id="obra"><div class="obra-pin">
@@ -229,7 +229,13 @@ const PAGES = {
 
     ${datos()}
 
-    ${clients()}
+    <section class="sec intv" aria-labelledby="iv-h"><div class="wrap iv-g">
+      <div class="iv-ph">${PH('obra-aerea', 'tall', 'Obra en ejecución, vista aérea')}<p class="credit">${credit('obra-aerea')}</p></div>
+      <div class="iv-tx"><p class="label">Interventoría de obra</p><h2 id="iv-h">Su obra, controlada por ingenieros que también diseñan.</h2>
+        <p class="iv-lead">Representamos al propietario de principio a fin: que se construya lo contratado, con la calidad exigida, en el plazo y por el valor pactado. En obras públicas y privadas, en todo el país.</p>
+        <ol class="iv-l"><li><b>Calidad técnica</b><span>Materiales, procesos y cada actividad aprobada antes de pagarla.</span></li><li><b>Cantidades y pagos</b><span>Actas de avance, obras adicionales y balance del contrato, mes a mes.</span></li><li><b>Plazo y presupuesto</b><span>Comités de obra y control del cronograma, con alertas a tiempo.</span></li><li><b>Entrega y liquidación</b><span>Recibo de obra, pólizas, manuales y acta de liquidación.</span></li></ol>
+        <p class="iv-prj"><b>${PRJ.filter(p => p.svc.includes('interventoria')).length} interventorías</b> · ${PRJ.filter(p => p.svc.includes('interventoria')).map(p => `<a href="#proyecto-${p.id}">${p.name}</a>`).join(' · ')}</p>
+        <div class="btns"><a class="btn primary" href="#contacto">Pedir propuesta de interventoría</a><a class="btn" href="#servicio-interventoria">Cómo trabajamos</a></div></div></div></section>
 
     <section class="sec" style="padding-bottom:clamp(72px,9vw,128px)"><div class="wrap"><div class="sec-h"><div><p class="label">Por dónde empezar</p><h2>¿En qué etapa está su proyecto?</h2></div>${LINK('#ley', '¿Qué exige la ley? Calcúlelo')}</div></div><div class="mz-wrap" id="mzw" data-drag="Arrastre"><div class="mz" id="mz">${MZ.map(mzCard).join('')}</div></div></section>
 
@@ -293,7 +299,7 @@ const PAGES = {
   work(cat) {
     return `${hero('baq-skyline', 'Estructuras diseñadas, revisadas y supervisadas en todo el país.', '', '', false, 'Obras.')}
     ${crumbs([['Inicio', 'inicio'], ['Experiencia']])}
-    <div class="wrap intro"><p>Edificios, bodegas y plantas industriales en Colombia. Cada ficha cuenta qué hicimos en la obra, con los documentos que lo respaldan.</p><dl><div><dt>Diseñando desde</dt><dd>2005</dd></div><div><dt>Proyectos en el archivo</dt><dd>${TRAY.reduce((n, [, l]) => n + l.length, 0)}+</dd></div><div><dt>Proyectos en detalle</dt><dd>${PRJ.length}</dd></div></dl></div>
+    <div class="wrap intro"><p>Edificios, bodegas y plantas industriales en Colombia. Cada ficha cuenta qué hicimos en la obra, con los documentos que lo respaldan.</p><dl><div><dt>Fundada en</dt><dd>2020</dd></div><div><dt>Proyectos en el archivo</dt><dd>${TRAY.reduce((n, [, l]) => n + l.length, 0)}+</dd></div><div><dt>Proyectos en detalle</dt><dd>${PRJ.length}</dd></div></dl></div>
     <section class="sec tight"><div class="wrap"><div class="filters" role="group" aria-label="Filtrar por sector"><button type="button" data-f="all" aria-pressed="${!cat}">Todos</button>${Object.entries(CATS).filter(([k]) => PRJ.some(p => p.cat === k) || TRAY.some(([, l]) => l.some(x => x[1] === k))).map(([k, n]) => `<button type="button" data-f="${k}" aria-pressed="${cat === k}">${n}</button>`).join('')}</div>
       <div class="grid3" id="work-grid">${PRJ.map(p => prjCard(p)).join('')}</div><p class="work-empty" id="work-empty" hidden>En este sector todavía no publicamos fichas de obra. Abajo, en el archivo, están los proyectos que hemos diseñado.</p></div></section>
     <section class="sec tight tray" id="archivo"><div class="wrap"><div class="sec-h"><div><p class="label">Archivo de diseño</p><h2>Veinte años de cálculos.</h2><p>Cada año, los proyectos que diseñamos o revisamos, tal como están en nuestro archivo.</p></div></div>
@@ -320,7 +326,7 @@ const PAGES = {
     <section class="sec tight"><div class="wrap">
       ${zz(['Conocemos cada región', 'Nacimos en Barranquilla y trabajamos en todo el país: Atlántico, Bolívar, Córdoba, Sucre, La Guajira, Casanare. Suelos blandos cerca de los ríos, arcillas expansivas, zonas de amenaza sísmica alta, brisa marina y aguaceros intensos: diseñamos para las condiciones reales de cada lugar.', 'baq-skyline', 'Barranquilla.'], 0)}
       ${zz(['Herramientas y normas', 'Diseñamos bajo la NSR-10, ACI 318 y AISC 360. Analizamos en ETABS, SAP2000 y SAFE, y modelamos en Revit y Tekla.', 'planos-azul', 'Planos de una edificación.'], 1, `<div class="chips" style="margin-top:20px">${['NSR-10', 'Ley 1796', 'ACI 318', 'AISC 360', 'ETABS', 'SAP2000', 'SAFE', 'Revit', 'Tekla'].map(c => `<span>${c}</span>`).join('')}</div>`)}</div></section>
-    <section class="band lite statband sec"><div class="wrap"><div><p class="big">Más de veinte años de proyectos en todo el país, con los equipos de diseño y de obra trabajando juntos.</p><div class="pic">${FIG('baq-torres', 'wide', 'Torres en Barranquilla', 'Norte de Barranquilla.')}</div></div><div><div class="stats"><div class="stat"><b>21</b><span>años diseñando</span></div><div class="stat"><b>70+</b><span>proyectos en el archivo</span></div><div class="stat"><b>7</b><span>interventorías</span></div><div class="stat"><b>6</b><span>departamentos</span></div></div></div></div></section>
+    <section class="band lite statband sec"><div class="wrap"><div><p class="big">Proyectos en todo el país, con los equipos de diseño y de obra trabajando juntos.</p><div class="pic">${FIG('baq-torres', 'wide', 'Torres en Barranquilla', 'Norte de Barranquilla.')}</div></div><div><div class="stats"><div class="stat"><b>2020</b><span>año de fundación</span></div><div class="stat"><b>70+</b><span>proyectos en el archivo</span></div><div class="stat"><b>7</b><span>interventorías</span></div><div class="stat"><b>6</b><span>departamentos</span></div></div></div></div></section>
     ${grow()}${touch()}`;
   },
   insights() {
@@ -355,14 +361,14 @@ const PAGES = {
         <div class="field"><label for="f-area">Área construida</label><select id="f-area"><option>Hasta 2.000 m²</option><option>De 2.000 a 10.000 m²</option><option>Más de 10.000 m²</option><option>No lo sé todavía</option></select><p class="hint" id="f-area-hint" aria-live="polite"></p></div>
         <div class="field full"><label for="f-msg">Cuéntenos del proyecto</label><textarea id="f-msg" placeholder="Ubicación, número de pisos, etapa en la que está, fecha estimada de inicio…"></textarea></div>
         <label class="consent"><input type="checkbox" id="f-ok"><span>Autorizo a DDES a tratar mis datos para responder esta solicitud, según la <a href="#privacidad">política de tratamiento de datos</a> (Ley 1581 de 2012).</span></label>
-        <div class="btns" style="justify-self:start;align-items:center"><button class="btn primary nut" type="submit">${NUT}<span>Enviar solicitud</span></button><a class="btn" href="https://wa.me/573002021920" target="_blank" rel="noopener">Escribir por WhatsApp</a></div><p class="form-msg" id="fmsg" role="status"></p>
+        <input type="text" name="_honey" class="vh" tabindex="-1" autocomplete="off" aria-hidden="true"><div class="btns" style="justify-self:start;align-items:center"><button class="btn primary nut" type="submit" data-via="web">${NUT}<span>Enviar solicitud</span></button><button class="btn" type="submit" data-via="correo">Enviar desde mi correo</button></div><p class="form-alt">¿Prefiere hablar? <a href="https://wa.me/573002021920" target="_blank" rel="noopener">Escríbanos por WhatsApp</a>.</p><p class="form-msg" id="fmsg" role="status"></p>
       </form></div>`;
   },
   privacy() {
     return `${crumbs([['Inicio', 'inicio'], ['Tratamiento de datos']])}
     <article class="wrap"><div class="article"><h1 class="doc-h">Política de tratamiento de datos personales</h1><p class="meta">Borrador para revisión legal · Ley 1581 de 2012 y Decreto 1377 de 2013</p>
       <h2>Responsable</h2><p>Diseño de Estructuras y Soluciones S.A.S. (DDES), con domicilio en Barranquilla, Atlántico. Correo: gerencia@ddes.co.</p>
-      <h2>Qué datos tratamos y para qué</h2><p>Nombre, empresa, correo, teléfono y la información del proyecto que usted nos envía. Los usamos para responder su solicitud, preparar propuestas, ejecutar los contratos que firmemos y, si nos envía su hoja de vida, para procesos de selección. No vendemos ni cedemos sus datos a terceros.</p>
+      <h2>Qué datos tratamos y para qué</h2><p>Nombre, empresa, correo, teléfono y la información del proyecto que usted nos envía. Los usamos para responder su solicitud, preparar propuestas, ejecutar los contratos que firmemos y, si nos envía su hoja de vida, para procesos de selección. No vendemos ni cedemos sus datos a terceros. Los mensajes del formulario de contacto llegan a nuestro correo a través de FormSubmit (formsubmit.co), un servicio que solo los entrega.</p>
       <h2>Sus derechos</h2><p>Como titular puede conocer, actualizar y rectificar sus datos, pedir prueba de la autorización, saber cómo los hemos usado, revocar la autorización o pedir que los eliminemos cuando no exista un deber legal de conservarlos, y presentar quejas ante la Superintendencia de Industria y Comercio.</p>
       <h2>Cómo ejercerlos</h2><p>Escríbanos a gerencia@ddes.co con el asunto «Datos personales». Respondemos consultas en máximo diez días hábiles y reclamos en máximo quince, como establece la ley.</p>
       <h2>Vigencia</h2><p>Esta política rige desde su publicación. Conservamos los datos mientras dure la relación y durante el tiempo que exijan las obligaciones legales y contractuales.</p></div></article>`;
@@ -494,10 +500,14 @@ function beamHero() {
   const pin = sec.querySelector('.hh-pin'), hl = sec.querySelector('.hh-half'), w = hl.querySelector('.hello');
   const cv = hl.querySelector('.hh-beam'), photo = hl.querySelector(':scope > .ph'), inn = hl.querySelector('.hh-in'), dofEl = hl.querySelector('.hh-dof');
   if (reduce || !cv.getContext) { sec.classList.add('still'); return; }
-  const g = cv.getContext('2d'), hold = sec.dataset.mode !== 'break';
+  let g = cv.getContext('2d'); const gCv = g, hold = sec.dataset.mode !== 'break', nxt = sec.nextElementSibling;
+  // on the home page the beam is drawn on a layer of its own above the next section (see the hand-off in draw)
+  const fly = hold ? document.createElement('canvas') : cv; if (hold) { fly.className = 'hh-fly'; fly.setAttribute('aria-hidden', 'true'); document.body.appendChild(fly); }
+  const gFly = hold ? fly.getContext('2d') : g;
+  const spanOf = () => Math.max(1, sec.offsetHeight - pin.offsetHeight * (hold ? 2 : 1));
   const rng = seed => () => { seed = seed + 0x6D2B79F5 | 0; let t = Math.imul(seed ^ seed >>> 15, 1 | seed); t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t; return ((t ^ t >>> 14) >>> 0) / 4294967296; };
   const clamp = (v, a = 0, b = 1) => Math.min(b, Math.max(a, v)), seg = (p, a, b) => clamp((p - a) / (b - a)), sm = t => t * t * (3 - 2 * t);
-  let k = 1, W = 0, H = 0, B = null, tex = null, lay = null, lg = null, LB = null, puff = null, font = '', ready = false, span = Math.max(1, sec.offsetHeight - pin.offsetHeight);
+  let k = 1, W = 0, H = 0, B = null, tex = null, lay = null, lg = null, LB = null, puff = null, font = '', ready = false, span = spanOf();
   let cracks = [], chips = [], specks = [], haze = [];
   let prog = 0, target = 0, lastT = 0, drawn = '', raf = 0, hov = 0, hovT = 0, vel = 0, hraf = 0, pressing = false, pressT = 0, hoverA = .5;
   // the ending runs in time, not in scroll: once the load reaches its peak it plays out by itself (the release on the home page,
@@ -508,7 +518,7 @@ function beamHero() {
   const setLoadAt = a => { a = clamp(a, .1, .9); if (Math.abs(a - shapeA) < .004) return; shapeA = a; const b = 1 - a, f = u => u <= a ? b * u * (1 - b * b - u * u) : a * (1 - u) * (1 - a * a - (1 - u) * (1 - u)); let m = 0; for (let i = 1; i < 80; i++) m = Math.max(m, f(i / 80)); shape = u => f(clamp(u)) / m; };
   setLoadAt(.5);
   // the load climbs quickly to three quarters, then slowly to its peak at BRK: just under the limit when it holds, failure when it breaks
-  const BRK = .6, MEND = hold ? .04 : .25, BK_END = hold ? 2.2 : 1.8, LMAX = hold ? .92 : 1;
+  const BRK = hold ? .97 : .6, MEND = hold ? .04 : .25, BK_END = hold ? 2.2 : 1.8, LMAX = hold ? .92 : 1;
   const loadAt = p => p < .2 ? .76 * sm(seg(p, .02, .2)) : .76 + (LMAX - .76) * Math.pow(seg(p, .2, BRK), 1.25);
   // let go: a beat at the peak, then the load comes off and the beam springs back past straight and settles (a damped ring)
   const rel = t => t <= .35 ? 1 : Math.exp(-4.2 * (t - .35)) * Math.cos(9 * (t - .35));
@@ -524,9 +534,10 @@ function beamHero() {
     if (im && im.complete && im.naturalWidth && !sec.dataset.dof) { try { const bw = 360, bh = Math.round(bw * im.naturalHeight / im.naturalWidth), bc = document.createElement('canvas'); bc.width = bw; bc.height = bh;
       const bx = bc.getContext('2d'); bx.filter = 'blur(5px) saturate(1.1)'; bx.drawImage(im, -12, -12, bw + 24, bh + 24); dofEl.style.backgroundImage = `url(${bc.toDataURL('image/jpeg', .8)})`; sec.dataset.dof = '1'; } catch (e) {} }
     else if (im && !sec.dataset.dof) im.addEventListener('load', () => { ready = false; drawn = ''; req(); }, {once: true});
-    k = Math.min(2, devicePixelRatio || 1); span = Math.max(1, sec.offsetHeight - pin.offsetHeight);
+    k = Math.min(2, devicePixelRatio || 1); span = spanOf();
     const P = pin.getBoundingClientRect(); W = P.width; H = P.height;
     cv.width = Math.round(W * k); cv.height = Math.round(H * k);
+    if (hold) { fly.width = cv.width; fly.height = cv.height; fly.style.width = W + 'px'; fly.style.height = H + 'px'; }
     const r = w.getBoundingClientRect(), cs = getComputedStyle(w);
     B = {x: r.left - P.left, y: r.top - P.top, w: r.width, h: r.height};
     const pr = document.createElement('i'); pr.style.cssText = 'display:inline-block;width:0;height:0;vertical-align:baseline'; w.appendChild(pr); const base = pr.getBoundingClientRect().top; pr.remove();
@@ -597,7 +608,7 @@ function beamHero() {
     const nowMs = performance.now(), dt = Math.min(.05, lastT ? (nowMs - lastT) / 1000 : .016); lastT = nowMs;
     if (Math.abs(target - prog) > .3) prog = target; else { prog += (target - prog) * (1 - Math.exp(-dt * 7)); if (Math.abs(target - prog) < .0003) prog = target; }
     // the break: it starts once the beam reaches failure and plays out by itself; back near the top it rewinds, a little faster
-    if (!broken && prog >= BRK) broken = true; else if (broken && target < MEND) broken = false;
+    if (!hold && !broken && prog >= BRK) broken = true; else if (broken && target < MEND) broken = false;
     const bk0 = bk; bk = broken ? Math.min(BK_END, bk + dt) : hold ? 0 : Math.max(0, bk - dt * 2.2); const playing = bk !== bk0;
     const now = nowMs / 1000, p = broken || bk > 0 ? Math.min(prog, BRK) : prog, L0 = loadAt(p), live = p > .0005 || hov > .002 || bk > 0;
     const L = hold && bk > 0 ? LMAX * rel(bk) : Math.max(L0, hov), Lv = hold && bk > 0 ? Math.max(0, L) : L0;
@@ -606,8 +617,10 @@ function beamHero() {
       : Math.max(sm(seg(p, .34, BRK)), seg(hov, .42, .6) * .3, bk > 0 ? 1 : 0);
     const ten = hold ? Math.pow(seg(L0, .74, LMAX), 1.4) * (1 - seg(bk, 0, .35)) : bk > 0 ? 0 : Math.pow(seg(L0, .74, 1), 1.4);
     sec.classList.toggle('live', live);
-    const key = `${p.toFixed(4)}|${hov.toFixed(4)}|${hoverA.toFixed(3)}|${bk.toFixed(3)}`; if (key === drawn && !ten && prog === target) return; drawn = key;
+    const ntop = hold && nxt ? Math.round(nxt.getBoundingClientRect().top) : 0;
+    const key = `${p.toFixed(4)}|${hov.toFixed(4)}|${hoverA.toFixed(3)}|${bk.toFixed(3)}|${ntop}`; if (key === drawn && !ten && prog === target) return; drawn = key;
     g.setTransform(1, 0, 0, 1, 0, 0); g.clearRect(0, 0, cv.width, cv.height);
+    if (hold) { gFly.setTransform(1, 0, 0, 1, 0, 0); gFly.clearRect(0, 0, fly.width, fly.height); }
     if (!live) { photo.style.transform = ''; inn.style.opacity = ''; dofEl.style.opacity = ''; if (prog !== target && !raf) raf = requestAnimationFrame(draw); return; }
     setLoadAt(hoverA + (.5 - hoverA) * seg(p, 0, .05));
     // after the snap the elastic bend gives way to the hinge: the two halves turn about the supports and settle in a V
@@ -622,15 +635,20 @@ function beamHero() {
     dofEl.style.opacity = iso > .001 ? (.7 * iso).toFixed(3) : ''; dofEl.style.transform = photo.style.transform;
     g.setTransform(k, 0, 0, k, 0, 0);
     if (L0 > 0) { const vg = g.createRadialGradient(W / 2, H * .55, H * .2, W / 2, H * .55, H * .95); vg.addColorStop(0, 'rgba(0,0,0,0)'); vg.addColorStop(1, `rgba(0,0,0,${(.22 * L0 * (bk > 0 ? (hold ? iso : .6 + .4 * iso) : 1)).toFixed(3)})`); g.fillStyle = vg; g.fillRect(0, 0, W, H); }
-    g.translate(sx, sy);
-    beam(D, hd); crackDraw(c, D, hd, open);
-    dimension(D, (bk > 0 ? (hold ? 1 - seg(bk, .35, .75) : 0) : 1) * Math.max(seg(p, .03, .1), seg(hov, .02, .06)), hold ? seg(L0, .84, LMAX) : 0);
-    g.setTransform(k, 0, 0, k, 0, 0); if (!hold) debris(bk);
+    // the hand-off: where the rising section's edge meets the beam it carries it; the sag gives way to a slight upward bow as the
+    // beam rides on the edge (held at its middle, its ends droop), the tremor stops, and it leaves the frame with the edge
+    let lift = 0, carry = 0, Db = D;
+    if (hold && nxt) { const mb = B.y + B.h + D * shape(.5); if (mb > ntop) { carry = sm(clamp((mb - ntop) / (B.h * .9))); Db = D * (1 - carry) - Dm * .2 * carry; lift = ntop - (B.y + B.h + Db * shape(.5)); } }
+    if (hold) { g = gFly; g.setTransform(k, 0, 0, k, 0, 0); }
+    g.translate(sx * (1 - carry), sy * (1 - carry) + lift);
+    if (B.y + B.h * 2.6 + lift > 0) { beam(Db, hd); crackDraw(c, Db, hd, open); }
+    dimension(Db, (bk > 0 ? (hold ? 1 - seg(bk, .35, .75) : 0) : 1) * Math.max(seg(p, .03, .1), seg(hov, .02, .06)) * (1 - carry), hold ? seg(L0, .84, LMAX) : 0);
+    g.setTransform(k, 0, 0, k, 0, 0); if (!hold) debris(bk); g = gCv;
     if ((ten > 0 || prog !== target || playing) && !raf) raf = requestAnimationFrame(draw);
   };
   const req = () => { if (!raf) raf = requestAnimationFrame(draw); };
-  scrollFns.add(() => { span = Math.max(1, sec.offsetHeight - pin.offsetHeight); const r = sec.getBoundingClientRect(); if (r.bottom < -innerHeight || r.top > innerHeight) return; const q = clamp(-r.top / span);
-    if (q !== target) { target = q; req(); } });
+  scrollFns.add(() => { span = spanOf(); const r = sec.getBoundingClientRect(); if (r.bottom < -innerHeight || r.top > innerHeight) { if (hold && fly.width) { gFly.setTransform(1, 0, 0, 1, 0, 0); gFly.clearRect(0, 0, fly.width, fly.height); } return; } const q = clamp(-r.top / span);
+    if (q !== target || hold) { target = q; req(); } });
   // the pointer: a light touch bends it a little where it rests; pressing loads it more; letting go, it rings and settles
   const spring = () => { hraf = 0; if (pressing) hovT = Math.min(.62, .08 + (performance.now() - pressT) / 1500 * .6);
     vel += (hovT - hov) * .12; vel *= .8; hov = Math.max(0, hov + vel); draw(); if (pressing || Math.abs(vel) > .0004 || Math.abs(hovT - hov) > .001) hraf = requestAnimationFrame(spring); else if (!hovT) { hov = 0; draw(); } };
@@ -643,7 +661,7 @@ function beamHero() {
   addEventListener('pointerup', up); addEventListener('pointercancel', up); w.addEventListener('pointerleave', () => { if (!pressing) { hovT = 0; kick(); } });
   const rs = () => { ready = false; drawn = ''; req(); }; addEventListener('resize', rs);
   if (document.fonts) { document.fonts.ready.then(() => { if (sec.isConnected) rs(); }); document.fonts.addEventListener('loadingdone', rs); }
-  leaveFns.add(() => { removeEventListener('resize', rs); removeEventListener('pointerup', up); removeEventListener('pointercancel', up); if (document.fonts) document.fonts.removeEventListener('loadingdone', rs); cancelAnimationFrame(raf); cancelAnimationFrame(hraf); });
+  leaveFns.add(() => { removeEventListener('resize', rs); removeEventListener('pointerup', up); removeEventListener('pointercancel', up); if (document.fonts) document.fonts.removeEventListener('loadingdone', rs); cancelAnimationFrame(raf); cancelAnimationFrame(hraf); if (hold) fly.remove(); });
 }
 
 function wire(h) {
@@ -709,9 +727,22 @@ function wire(h) {
     const v = id => (f.querySelector('#' + id) || {}).value || '', svcs = [...f.querySelectorAll('.pick input:checked')].map(i => i.nextElementSibling.textContent).join(', ');
     const body = [['Nombre', v('f-name')], ['Empresa', v('f-co')], ['Correo', v('f-mail')], ['Teléfono', v('f-tel')], ['Etapa', v('f-stage')], ['Servicios', svcs],
       ['Ciudad del proyecto', v('f-city')], ['Área construida', v('f-area')], ['Proyecto', v('f-msg')]].filter(r => r[1].trim()).map(r => `${r[0]}: ${r[1].trim()}`).join('\n');
-    track('generate_lead', {method: 'formulario', etapa: v('f-stage'), servicios: svcs, area: v('f-area')});
-    location.href = `mailto:gerencia@ddes.co?subject=${encodeURIComponent('Solicitud de propuesta — ' + v('f-name').trim())}&body=${encodeURIComponent(body)}`;
-    out.innerHTML = `Gracias, ${name.value.trim().replace(/[<&]/g, '')}. Su correo se abrió con la solicitud lista para enviar. Si no se abrió, escríbanos a <a href="mailto:gerencia@ddes.co">gerencia@ddes.co</a> o por <a href="https://wa.me/573002021920" target="_blank" rel="noopener">WhatsApp</a>.`;
+    const via = (e.submitter && e.submitter.dataset.via) || 'web', who = name.value.trim().replace(/[<&]/g, ''), subject = 'Solicitud de propuesta — ' + v('f-name').trim();
+    if (f.querySelector('[name=_honey]').value) return;
+    track('generate_lead', {method: via, etapa: v('f-stage'), servicios: svcs, area: v('f-area')});
+    if (via === 'correo') {
+      location.href = `mailto:gerencia@ddes.co?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+      out.innerHTML = `Gracias, ${who}. Su correo se abrió con la solicitud lista para enviar. Si no se abrió, use «Enviar solicitud» o escríbanos por <a href="https://wa.me/573002021920" target="_blank" rel="noopener">WhatsApp</a>.`;
+      return;
+    }
+    const btns = f.querySelectorAll('button[type=submit]'); btns.forEach(x => x.disabled = true); out.textContent = 'Enviando…';
+    const data = {_subject: subject, _template: 'table', _replyto: v('f-mail').trim(), _captcha: 'false'};
+    body.split('\n').forEach(l => { const k = l.indexOf(': '); data[l.slice(0, k)] = l.slice(k + 2); });
+    fetch('https://formsubmit.co/ajax/gerencia@ddes.co', {method: 'POST', headers: {'Content-Type': 'application/json', Accept: 'application/json'}, body: JSON.stringify(data)})
+      .then(r => r.json()).then(j => { if (String(j.success) !== 'true') throw new Error(j.message || 'no enviado');
+        out.innerHTML = `Gracias, ${who}. Recibimos su solicitud: un ingeniero le responde a ${v('f-mail').trim().replace(/[<&]/g, '')} con una propuesta.`; f.reset(); })
+      .catch(() => { out.innerHTML = `No pudimos enviarla desde aquí. Use «Enviar desde mi correo» o escríbanos por <a href="https://wa.me/573002021920" target="_blank" rel="noopener">WhatsApp</a>.`; })
+      .finally(() => btns.forEach(x => x.disabled = false));
   });
 }
 
@@ -880,7 +911,7 @@ function hscroll() {
 // large, orange and nearly sharp; small design data sits between them, grey and soft, so the numbers never get lost.
 function countUp() {
   const box = document.querySelector('#datos .dt-stats'); if (!box || reduce || !('IntersectionObserver' in window)) return;
-  const bs = [...box.querySelectorAll('b')].map(b => { const m = b.textContent.match(/^([\d.,]+)(.*)$/); if (!m) return null; const dec = m[1].includes(',') ? 1 : 0; b.style.minWidth = b.offsetWidth + 'px'; return {b, v: parseFloat(m[1].replace('.', '').replace(',', '.')), dec, suf: m[2], txt: b.textContent}; }).filter(Boolean);
+  const bs = [...box.querySelectorAll('b:not(.yr)')].map(b => { const m = b.textContent.match(/^([\d.,]+)(.*)$/); if (!m) return null; const dec = m[1].includes(',') ? 1 : 0; b.style.minWidth = b.offsetWidth + 'px'; return {b, v: parseFloat(m[1].replace('.', '').replace(',', '.')), dec, suf: m[2], txt: b.textContent}; }).filter(Boolean);
   bs.forEach(o => { o.b.textContent = (0).toLocaleString('es-CO', {minimumFractionDigits: o.dec}) + o.suf; });
   new IntersectionObserver((es, ob) => {
     if (!es[0].isIntersecting) return; ob.disconnect(); const t0 = performance.now();
@@ -893,12 +924,11 @@ function countUp() {
 function dataColumns() {
   const sec = document.getElementById('datos'); if (!sec) return;
   const box = sec.querySelector('.dt-cols');
-  const COLS = [
-    {x: .13, side: -1, sp: .7, items: [['f′c 28 MPa', 1], ['NSR-10'], ['fy 420 MPa', 1], ['Recubrimiento 50 mm'], ['Aa 0,10', 1], ['Barranquilla']]},
-    {x: .87, side: 1, sp: .86, items: [['Deriva ≤ 1,0 %', 1], ['Ley 1796'], ['I = 1,00', 1], ['ACI 318'], ['Av 0,10', 1], ['Grupo de uso I']]}
-  ];
-  const GAP = 80, items = [];
-  COLS.forEach(c => { const list = c.items.concat(c.items, c.items); list.forEach(([t, co], i) => { const e = document.createElement('span'); e.className = 'dt-i' + (co ? ' co' : ''); e.textContent = t; box.appendChild(e); items.push({e, c, i, n: list.length, co: !!co, vis: true}); }); });
+  // the clients' logos, alternating between the two columns
+  const COLS = [{x: .14, side: -1, sp: .7, items: CLI.filter((c, i) => i % 2 === 0)}, {x: .86, side: 1, sp: .86, items: CLI.filter((c, i) => i % 2 === 1)}];
+  const GAP = 118, items = [];
+  COLS.forEach(c => { const list = c.items.concat(c.items, c.items); list.forEach(([n, f, h], i) => { const e = document.createElement('span'); e.className = 'dt-i lg';
+    e.innerHTML = `<img src="/clientes/color/${f}" alt="" style="height:${h}px" decoding="async">`; box.appendChild(e); items.push({e, c, i, n: list.length, co: true, vis: true}); }); });
   const render = p => {
     const W = box.clientWidth, H = box.clientHeight, mid = H / 2;
     for (const it of items) {
