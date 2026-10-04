@@ -197,7 +197,8 @@ const manifesto = () => `<section class="mani" id="mani"><div class="wrap">
   <p class="fill-text on-dark">Un edificio se levanta en meses. Que dure cincuenta años frente al mar depende de lo que se calculó antes y de lo que se revisó en obra.</p></div>
   <button class="reel" id="reel-open" type="button" data-cursor="Ver"><span class="reel-img">${PH('hero-gruas', 'std', '', '', true)}</span><span><b>Recorrido fotográfico</b><small>${Object.keys(CR).length} fotografías · ${Math.floor(Object.keys(CR).length * 4 / 60)}:${String(Object.keys(CR).length * 4 % 60).padStart(2, '0')}</small></span></button></section>`;
 const datos = () => `<section class="datos" id="datos"><div class="dt-pin"><div class="dt-cols" aria-hidden="true"></div>
-  <div class="dt-center"><p class="dt-text">DDES es una firma de ingeniería estructural de Barranquilla.</p>
+  <div class="dt-mark" aria-hidden="true"><svg id="obra-svg" viewBox="-40 -30 2080 690" preserveAspectRatio="xMidYMid meet"></svg></div>
+  <div class="dt-center"><p class="label dt-k">Diseño de Estructuras y Soluciones S.A.S.</p><p class="dt-text">DDES es una firma de ingeniería estructural de Barranquilla.</p>
   <div class="dt-stats"><div data-eq="Diseño de Estructuras y Soluciones S.A.S."><b class="yr">2020</b><span>fundada</span></div><div data-eq="en el archivo de diseño, año por año"><b>70+</b><span>proyectos</span></div><div data-eq="Solemio · Cannon · Centurión · Ébano · Galé · Casa Grande · Galapa"><b>7</b><span>interventorías</span></div><div data-eq="Atlántico · Bolívar · Córdoba · Sucre · La Guajira · Casanare"><b>6</b><span>departamentos</span></div></div><p class="dt-sub">Trabajamos en todo el país con un equipo que conoce los suelos, el clima y la forma de construir de cada región.</p><a class="btn" href="#nosotros">Quiénes somos</a><ul class="dt-logos" aria-label="Clientes">${CLI.map(([n, f, h]) => `<li><img src="/clientes/color/${f}" alt="${n}" style="height:${Math.round(h * .8)}px" loading="lazy" decoding="async"></li>`).join('')}</ul></div><p class="dt-note">Han confiado su estructura en nosotros</p></div></section>`;
 // Clients, as DDES lists them, by their own logos in their own colours (background removed: deploy/logos.mjs color). They drift
 // in the two columns beside "DDES es una firma…", at a height that gives each the same visual weight. [name, file, height px]
@@ -240,13 +241,13 @@ const PAGES = {
       <button type="button" class="btn light" id="node-toggle" aria-pressed="false">Ver despiece</button></div>
       <figure class="node-fig"><svg id="node" role="img" aria-label="Conexión viga–columna con placa de extremo y ocho pernos, que se separa en sus piezas"></svg><figcaption><span>Pase el cursor o toque el nodo.</span><span>Dibujo isométrico, sin escala</span></figcaption></figure></div></section></template>
 
-    <section class="sec" style="border-top:1px solid var(--line)"><div class="wrap"><div class="feature"><div>${PH(pimg(f0), 'wide', f0.name)}<div class="fcap"><div><p class="where" style="font-size:14px;color:var(--muted);font-weight:500" id="feat-loc">${f0.loc}</p><h3><a href="#proyecto-${f0.id}" id="feat-name" style="text-decoration:none">${f0.name}</a></h3></div><div class="ctrl"><span class="count" id="feat-n">1 / ${feat.length}</span><button type="button" id="feat-prev" aria-label="Proyecto anterior"><svg><use href="#arl"/></svg></button><button type="button" id="feat-next" aria-label="Proyecto siguiente"><svg><use href="#arr"/></svg></button></div></div></div>
-      <div><p class="label">Experiencia</p><h2>Proyectos destacados</h2><p class="muted" style="margin-bottom:24px">Torres de vivienda, bodegas y plantas industriales en Barranquilla y su área metropolitana: diseño, revisión e interventoría.</p><a class="btn" href="#experiencia">Ver todos los proyectos</a></div></div></div></section>
+    <section class="sec xp" aria-labelledby="xp-h"><div class="wrap">
+      <div class="sec-h"><div><p class="label">Experiencia</p><h2 id="xp-h">Proyectos destacados</h2></div><p>Torres de vivienda, bodegas y plantas industriales: diseño, revisión e interventoría en todo el país.</p></div>
+      <div class="xp-g"><div class="feature"><div>${PH(pimg(f0), 'wide', f0.name)}<div class="fcap"><div><p class="where" style="font-size:14px;color:var(--muted);font-weight:500" id="feat-loc">${f0.loc}</p><h3><a href="#proyecto-${f0.id}" id="feat-name" style="text-decoration:none">${f0.name}</a></h3></div><div class="ctrl"><span class="count" id="feat-n">1 / ${feat.length}</span><button type="button" id="feat-prev" aria-label="Proyecto anterior"><svg><use href="#arl"/></svg></button><button type="button" id="feat-next" aria-label="Proyecto siguiente"><svg><use href="#arr"/></svg></button></div></div></div></div>
+        <aside class="xp-s" aria-label="Sectores"><p class="label">Sectores</p><ul>${[['edificios', 'Edificaciones', 'baq-torres'], ['industrial', 'Industrial', 'acero-nave'], ['infraestructura', 'Infraestructura', 'puente-obra'], ['comercial', 'Comercial', 'concreto-columnas'], ['institucional', 'Institucional', 'refuerzo-columnas']].map(([k, n, im]) => `<li><a href="#experiencia-${k}">${PH(im, 'sq', n)}<span>${n}</span><small>${TRAY.reduce((c, [, l]) => c + l.filter(x => x[1] === k).length, 0)}</small><svg aria-hidden="true"><use href="#arr"/></svg></a></li>`).join('')}</ul>
+          <a class="btn" href="#experiencia">Ver todos los proyectos</a></aside></div></div></section>
 
 
-
-    <section class="sec tight"><div class="wrap"><div class="sec-h"><div><h2>Sectores</h2></div></div><div class="grid5">
-      ${[['edificios', 'Edificaciones', 'baq-torres'], ['industrial', 'Industrial', 'acero-nave'], ['infraestructura', 'Infraestructura', 'puente-obra'], ['comercial', 'Comercial', 'concreto-columnas'], ['institucional', 'Institucional', 'refuerzo-columnas']].map(([k, n, im]) => `<a class="card" href="#experiencia-${k}" data-cursor="Ver">${PH(im, 'sq', n)}<h3>${n}</h3></a>`).join('')}</div></div></section>
 
 
     <section class="sec tight"><div class="wrap"><div class="sec-h"><div><p class="label">Perspectivas</p><h2>Notas desde la obra</h2><p>Problemas técnicos que vemos una y otra vez en obra, explicados en corto.</p></div><a class="btn" href="#perspectivas">Todas las notas</a></div><div class="grid3">${ART.map(artCard).join('')}</div></div></section>
@@ -474,6 +475,7 @@ function route() {
   if (routed) { const h1 = app.querySelector('h1'); if (h1) { h1.tabIndex = -1; h1.focus({preventScroll: true}); } }
   routed = true;
   sCharge();
+  later(obra);
 }
 
 // work that cannot be seen during a page change (it builds sections far below the fold) waits for the drop to finish
@@ -978,12 +980,12 @@ function mzDrag() {
 // El logo en obra, behind the closing statement. While the words fill in, the logo's structure glows into place —
 // light rather than lines. Then the letters pour in as liquid: a bulbous head leads each stroke with a droplet just ahead of it,
 // and a gooey filter lets them swell, touch and merge. At the end the liquid settles into the crisp logo.
-// The wordmark that closes every page builds itself: a truss traced along the letters (chords, web members, orange nodes), then the
-// mark poured along it, then crisp; as the end of the page comes into view, complete at the very bottom. Its liquid answers the
-// pointer afterwards.
+
+// Behind the firm's statement the mark builds itself as the section scrolls: a truss traced along the letters (chords, web
+// members, orange nodes), the mark poured along it, then the solid mark, faint, like the watermark of a drawing
 function obra() {
-  const sec = document.querySelector('.f-mark.obra-fig'); if (!sec || sec.dataset.built) return; sec.dataset.built = '1';
-  const svg = sec.querySelector('#obra-svg'), NS = 'http://www.w3.org/2000/svg';
+  const sec = document.getElementById('datos'), host = sec && sec.querySelector('.dt-mark'); if (!host) return;
+  const svg = host.querySelector('#obra-svg'), NS = 'http://www.w3.org/2000/svg';
   const CL = ['M0 51H280A250.5 250.5 0 0 1 280 552H0', 'M600 51H835A250.5 250.5 0 0 1 835 552H600', 'M1610 51H1395A250.5 250.5 0 0 0 1395 552H1610', 'M1741 291A240 240 0 0 1 1981 51H2000', 'M1952 291A261 261 0 0 1 1691 552', 'M1170 298H1565'];
   const DRAW = ['M1691 552A261 261 0 0 0 1952 291', 'M1741 291A240 240 0 0 1 1981 51H2000', 'M1565 298H1170', 'M1610 552H1395A250.5 250.5 0 0 1 1395 51H1610', 'M600 552H835A250.5 250.5 0 0 0 835 51H600', 'M0 552H280A250.5 250.5 0 0 0 280 51H0'];
   const mk = (tag, at, parent) => { const e = document.createElementNS(NS, tag); for (const k in at) e.setAttribute(k, at[k]); (parent || svg).appendChild(e); return e; };
@@ -1043,11 +1045,22 @@ function obra() {
   if (reduce) { render(1, 0); return; }
   let tgt = 0, cur = 0, raf = 0;
   const loop = now => { cur += (tgt - cur) * .2; if (Math.abs(tgt - cur) < .0004) cur = tgt; render(cur, now); const pouring = cur > .5 && cur < .96 && Math.abs(tgt - cur) < .5; raf = cur !== tgt || pouring ? requestAnimationFrame(loop) : 0; };
-  const f = () => { const r = sec.getBoundingClientRect(), max = document.documentElement.scrollHeight - innerHeight, y0 = r.top + scrollY - innerHeight * 1.25;
-    tgt = Math.min(1, Math.max(0, (scrollY - y0) / Math.max(1, max - y0))); if (r.top > innerHeight * 1.3) { if (cur && !raf) raf = requestAnimationFrame(loop); return; } if (!raf) raf = requestAnimationFrame(loop); };
-  render(0, 0); addEventListener('scroll', f, {passive: true}); addEventListener('resize', f); f();
-  liquidPointer(svg, sec, drops, k => { hov = k; sty(gGoo, 'opacity', Math.max(1 - seg(cur, .9, .97), k).toFixed(3)); }, () => cur > .96);
+  // pinned (desktop): complete a little before the section lets go; unpinned (phones): as it crosses the screen
+  const f = () => { const r = sec.getBoundingClientRect(), span = sec.offsetHeight - innerHeight;
+    tgt = Math.min(1, Math.max(0, span > innerHeight * .3 ? -r.top / (span * .8) : (innerHeight * .95 - r.top) / (innerHeight * .9)));
+    if (r.bottom < 0 || r.top > innerHeight) return; if (!raf) raf = requestAnimationFrame(loop); };
+  render(0, 0); scrollFns.add(f); f();
+  liquidPointer(svg, host, drops, k => { hov = k; sty(gGoo, 'opacity', Math.max(1 - seg(cur, .9, .97), k).toFixed(3)); }, () => cur > .96);
 }
+
+// The wordmark that closes every page: the same liquid as the pour in "Así se construye". The crisp logo stays underneath;
+// the liquid copy on top only shows where the drop is, so the letters keep their corners.
+(() => {
+  const svg = document.getElementById('f-mark'); if (!svg) return;
+  svg.innerHTML = '<defs><filter id="f-goo" x="-120" y="-120" width="2240" height="843" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="17"/><feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 24 -10"/></filter></defs><g class="lq-crisp"><use href="#ddes" width="2000" height="603"/></g><g class="lq-goo" filter="url(#f-goo)"><use href="#ddes" width="2000" height="603"/><circle class="lq-d" r="0"/><circle class="lq-d" r="0"/><circle class="lq-d" r="0"/></g>';
+  const goo = svg.querySelector('.lq-goo'), drops = [...svg.querySelectorAll('.lq-d')].map((el, i) => ({el, R: [96, 58, 34][i]}));
+  liquidPointer(svg, svg.parentElement, drops, k => { goo.style.opacity = k.toFixed(3); });
+})();
 
 // A drop of the logo's own liquid follows the pointer, trailed by two smaller ones. Near a letter it swells into it and pulls
 // a neck, like the pour; moving fast, the trail separates and runs back together.
@@ -2529,4 +2542,4 @@ document.addEventListener('click', e => { const a = e.target instanceof Element 
   else if (h.startsWith('mailto:')) track('contact', {method: 'correo', ubicacion: where});
   else if ((a.dataset.h || h) === '#contacto' || h === '/contacto/') track('pedir_propuesta', {ubicacion: where, texto: a.textContent.trim().slice(0, 40)});
 }, true);
-pathLinks(); route(); obra();
+pathLinks(); route();

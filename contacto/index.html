@@ -29,7 +29,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,300..800;1,400&display=swap">
-<link rel="stylesheet" href="/app.d129dd509b.css">
+<link rel="stylesheet" href="/app.146995a584.css">
 </head>
 <body style="margin:0">
 
@@ -64,7 +64,7 @@ if(t>1.1)pre.classList.add('go');if(t>1.25)pre.classList.add('open');
 if(t<1.25){h=0;w=w0;tp=t0w;r=4}
 else if(t<1.7){var a=eo((t-1.25)/.45);h=h0*a;w=w0;tp=t0w;r=4+4*a}
 else if(t<2.35){var b=io((t-1.7)/.65);h=h0+(H/2-m-h0)*b;w=w0+(W/2-m-w0)*b;tp=t0w*(1-b);r=8+18*b}
-else if(t<2.75){var c=io((t-2.35)/.4);h=H/2-m*(1-c);w=W/2-m*(1-c);tp=0;r=26*(1-c)}
+else if(t<2.75){var c=io((t-2.35)/.4),F=Math.min(16,Math.max(6,W*.011)),FR=Math.min(26,Math.max(14,W*.016));h=H/2-m+(m-F)*c;w=W/2-m+(m-F)*c;tp=0;r=26+(FR-26)*c}
 else{pre.remove();return}
 svg.setAttribute('viewBox','0 0 '+W+' '+H);var d='M0 0H'+W+'V'+H+'H0Z';
 if(h>.3)d+=rp([[cx-w,cy],[cx-w+tp,cy-h],[cx+w-tp,cy-h],[cx+w,cy],[cx+w-tp,cy+h],[cx-w+tp,cy+h]],r);
@@ -101,6 +101,7 @@ path.setAttribute('d',d);requestAnimationFrame(frame)};requestAnimationFrame(fra
         <label class="consent"><input type="checkbox" id="f-ok"><span>Autorizo a DDES a tratar mis datos para responder esta solicitud, según la <a href="/privacidad/" data-h="#privacidad">política de tratamiento de datos</a> (Ley 1581 de 2012).</span></label>
         <input type="text" name="_honey" class="vh" tabindex="-1" autocomplete="off" aria-hidden="true"><div class="btns" style="justify-self:start;align-items:center"><button class="btn primary nut" type="submit" data-via="web"><svg class="nutic" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.2l8.5 4.9v9.8L12 21.8l-8.5-4.9V7.1z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><circle cx="12" cy="12" r="3.6" fill="none" stroke="currentColor" stroke-width="1.6"/></svg><span>Enviar solicitud</span></button><button class="btn" type="submit" data-via="correo">Enviar desde mi correo</button></div><p class="form-alt">¿Prefiere hablar? <a href="https://wa.me/573002021920" target="_blank" rel="noopener">Escríbanos por WhatsApp</a>.</p><p class="form-msg" id="fmsg" role="status"></p>
       </form></div></main>
+<div class="frame" aria-hidden="true"></div>
 <div class="vblur" aria-hidden="true"><i></i><i></i><i></i></div>
 <svg id="lq-svg" width="0" height="0" aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden"><filter id="lqf" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse" x="0" y="0" width="20000" height="20000" color-interpolation-filters="sRGB"><feImage id="lqm" x="0" y="0" width="1" height="1" preserveAspectRatio="none" result="map"/><feDisplacementMap id="lqd1" class="lqb" in="SourceGraphic" in2="map" scale="0" xChannelSelector="R" yChannelSelector="G" result="d1"/><feDisplacementMap id="lqd2" class="lqb" in="SourceGraphic" in2="map" scale="0" xChannelSelector="R" yChannelSelector="G" result="d2"/><feDisplacementMap id="lqd3" class="lqb" in="SourceGraphic" in2="map" scale="0" xChannelSelector="R" yChannelSelector="G" result="d3"/><feColorMatrix class="lqb" in="d1" type="matrix" values="1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0" result="r"/><feColorMatrix class="lqb" in="d2" type="matrix" values="0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0" result="g"/><feColorMatrix class="lqb" in="d3" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0" result="b"/><feComposite class="lqb" in="r" in2="g" operator="arithmetic" k2="1" k3="1" result="rg"/><feComposite class="lqb" in="rg" in2="b" operator="arithmetic" k2="1" k3="1" result="lens"/><feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="lens"/></feMerge></filter></svg>
 <div id="cur" aria-hidden="true"><span class="x"></span></div><div id="curb" aria-hidden="true"><span class="ring"><em></em></span></div>
@@ -118,13 +119,13 @@ path.setAttribute('d',d);requestAnimationFrame(frame)};requestAnimationFrame(fra
       <div><h4>Sectores</h4><ul><li><a href="#experiencia-vivienda">Vivienda</a></li><li><a href="/experiencia-industrial/" data-h="#experiencia-industrial">Industrial</a></li><li><a href="/experiencia-infraestructura/" data-h="#experiencia-infraestructura">Infraestructura</a></li><li><a href="/experiencia-comercial/" data-h="#experiencia-comercial">Comercial</a></li><li><a href="/experiencia-institucional/" data-h="#experiencia-institucional">Institucional</a></li></ul></div>
       <div><h4>Oficina</h4><ul><li>Barranquilla, Atlántico</li><li><a href="mailto:gerencia@ddes.co">gerencia@ddes.co</a></li><li><a href="tel:+573002021920">+57 300 202 1920</a></li><li><a href="https://wa.me/573002021920" target="_blank" rel="noopener">WhatsApp</a></li><li><a href="/contacto/" data-h="#contacto">LinkedIn</a></li></ul></div>
     </div>
-    <div class="f-mark obra-fig"><svg id="obra-svg" viewBox="-40 -30 2080 690" preserveAspectRatio="xMinYMax meet" aria-hidden="true"></svg></div>
+    <div class="f-mark"><svg id="f-mark" viewBox="-70 -70 2140 743" aria-hidden="true"></svg></div>
     <p class="f-name"><b>D</b>iseño <b>d</b>e <b>E</b>structuras y <b>S</b>oluciones</p>
     <div class="legal"><span>© 2026 DDES Ingeniería Estructural</span><span>Diseño de Estructuras y Soluciones S.A.S.</span><span>Algunas fotografías: Unsplash.</span><a href="/privacidad/" data-h="#privacidad">Tratamiento de datos personales</a><dl class="rotulo" aria-label="Rótulo del plano"><div><dt>Hoja</dt><dd id="rt-hoja">Inicio</dd></div><div><dt>Escala</dt><dd>1:1</dd></div><div><dt>Revisión</dt><dd>A</dd></div><div><dt>Fecha</dt><dd id="rt-fecha">—</dd></div></dl></div>
   </div>
 </footer>
 
-<script src="/app.8ea0ab2ac9.js"></script>
+<script src="/app.7e235eccc9.js"></script>
 
 </body>
 </html>
