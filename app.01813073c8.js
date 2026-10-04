@@ -620,15 +620,32 @@ function beamHero() {
       g.save(); g.translate(x, y); g.rotate(c.spin * tt); g.beginPath(); c.poly.forEach((q, i) => i ? g.lineTo(q[0], q[1]) : g.moveTo(q[0], q[1])); g.closePath(); g.fillStyle = c.tone; g.fill(); g.restore(); });
     g.lineCap = 'round'; specks.forEach(s => { const tt = t - s.d; if (tt <= 0 || tt > s.life) return; const vy = s.vy + 2600 * tt, x = s.x + s.vx * tt, y = s.y + s.vy * tt + 1300 * tt * tt, a = 1 - tt / s.life;
       g.beginPath(); g.moveTo(x, y); g.lineTo(x - s.vx * .016, y - vy * .016); g.strokeStyle = `rgba(255,224,200,${(.75 * a).toFixed(3)})`; g.lineWidth = s.r; g.stroke(); }); };
-  // the deflection, as a drawing would dimension it: the beam's unloaded top edge, dashed, and δ measured down from it at midspan
+  // the deflection, dimensioned the way a drawing does it: the unloaded top edge as a fine dashed reference, a dimension line at
+  // midspan closed by two 45° ticks, and a leader that breaks out above the reference to a label resting on its own shoulder line:
+  // the value, then the limit it is checked against
   const dimension = (D, alpha, adm = 0) => { if (alpha <= .01 || D < 4) return; const x = B.x + B.w * shapeA, y0 = B.y, y1 = B.y + D * shape(shapeA), a = alpha * seg(D, 4, 14);
-    g.save(); g.globalAlpha = a; g.strokeStyle = 'rgba(255,255,255,.55)'; g.lineWidth = 1; g.setLineDash([2, 5]); g.beginPath(); g.moveTo(B.x, y0 - .5); g.lineTo(B.x + B.w, y0 - .5); g.stroke(); g.setLineDash([]);
-    g.strokeStyle = 'rgba(255,255,255,.9)'; g.beginPath(); g.moveTo(x, y0 + 2); g.lineTo(x, y1 - 2); g.moveTo(x - 4, y0); g.lineTo(x + 4, y0); g.moveTo(x - 4, y1); g.lineTo(x + 4, y1); g.stroke();
+    const sm = W < 760, fs = sm ? 11 : 12.5, ink = 'rgba(255,255,255,.92)';
+    g.save(); g.globalAlpha = a; g.lineCap = 'butt';
+    g.shadowColor = 'rgba(0,0,0,.35)'; g.shadowBlur = 6;
+    // reference: the beam's top edge before the load
+    g.strokeStyle = 'rgba(255,255,255,.42)'; g.lineWidth = 1; g.setLineDash([7, 5]); g.beginPath(); g.moveTo(B.x, y0 - .5); g.lineTo(B.x + B.w, y0 - .5); g.stroke(); g.setLineDash([]);
+    // the dimension line and its ticks
+    g.strokeStyle = ink; g.lineWidth = 1; g.beginPath(); g.moveTo(x + .5, y0); g.lineTo(x + .5, y1);
+    for (const yy of [y0, y1]) { g.moveTo(x - 3.5, yy + 3.5); g.lineTo(x + 4.5, yy - 4.5); }
+    g.stroke();
+    // label: "δ 31,5 mm" then, quieter, the admissible deflection it is checked against
     const mm = (D / (B.h * .46) * (hold ? 34.1 : 48)).toFixed(1).replace('.', ',');
-    g.font = `500 ${W < 760 ? 12 : 13}px ${font}`; try { g.fontVariantNumeric = 'tabular-nums'; } catch (e) {} g.fillStyle = '#fff'; g.textBaseline = 'middle'; g.textAlign = 'left';
-    const ty = y1 - y0 > 18 ? (y0 + y1) / 2 : y0 - 8; if (y1 - y0 <= 18) g.textBaseline = 'alphabetic';
-    g.fillText(`δ ${mm} mm`, x + 10, ty);
-    if (adm > .01) { const tw = g.measureText(`δ ${mm} mm`).width; g.globalAlpha = a * adm; g.fillStyle = 'rgba(255,255,255,.62)'; g.fillText(`≤ L/240 = 33,3 mm`, x + 18 + tw, ty); }
+    try { g.fontVariantNumeric = 'tabular-nums'; } catch (e) {} g.textBaseline = 'alphabetic'; g.textAlign = 'left';
+    const v = `δ = ${mm} mm`, lim = 'admisible  L/240 = 33,3 mm';
+    g.font = `600 ${fs}px ${font}`; const vw = g.measureText(v).width;
+    g.font = `400 ${fs}px ${font}`; const lw = adm > .01 ? g.measureText(lim).width + 18 : 0;
+    // on one line if it fits inside the frame, otherwise the limit sits on a line of its own above the value
+    const kx = x + 14, ky = y0 - 14, one = kx + 12 + vw + lw < W - 24, ex = kx + 6 + (one ? vw + lw : Math.max(vw, lw - 18)) + 6;
+    g.beginPath(); g.moveTo(x + .5, y0); g.lineTo(kx, ky + .5); g.lineTo(ex, ky + .5); g.strokeStyle = 'rgba(255,255,255,.7)'; g.stroke();
+    g.shadowBlur = 10; g.fillStyle = '#fff'; g.font = `600 ${fs}px ${font}`; g.fillText(v, kx + 6, ky - 6);
+    if (adm > .01) { g.globalAlpha = a * adm; g.fillStyle = 'rgba(255,255,255,.66)'; g.font = `400 ${fs}px ${font}`;
+      if (one) { g.fillText(lim, kx + 6 + vw + 18, ky - 6); g.fillStyle = 'rgba(255,255,255,.4)'; g.fillRect(kx + 6 + vw + 8.5, ky - 6 - fs * .72, 1, fs * .8); }
+      else g.fillText(lim, kx + 6, ky - 6 - fs * 1.45); }
     g.restore(); };
 
   const draw = () => {
