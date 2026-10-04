@@ -412,6 +412,8 @@ const hrefOf = a => a.dataset.h || a.getAttribute('href'), linkSel = 'a[href^="#
 const pathLink = a => { const h = a.getAttribute('href'), k = h.slice(1); if (k && routes.some(r => r.re.test(k))) { a.dataset.h = h; a.setAttribute('href', k2p(h)); } };
 const goTo = h => { if (!PATHS) { location.hash = h; return; } history.pushState(null, '', k2p(h)); dispatchEvent(new HashChangeEvent('hashchange')); };
 const pathLinks = (root = document) => { if (!PATHS) return; if (root.matches && root.matches('a[href^="#"]')) pathLink(root); root.querySelectorAll('a[href^="#"]').forEach(pathLink); };
+// Measurement (Google Analytics on the published site; does nothing in the preview): the moments that matter to the firm
+const track = (name, params = {}) => { try { if (typeof gtag === 'function') gtag('event', name, params); } catch (e) {} };
 const scrollFns = new Set(), leaveFns = new Set();
 let sq = 0, lastY = 0, routed = false, navSync = () => {}, navTone = () => {};
 // While a page change animates, heavy set-up (the Ley model) waits for it to finish instead of stalling it
@@ -707,6 +709,7 @@ function wire(h) {
     const v = id => (f.querySelector('#' + id) || {}).value || '', svcs = [...f.querySelectorAll('.pick input:checked')].map(i => i.nextElementSibling.textContent).join(', ');
     const body = [['Nombre', v('f-name')], ['Empresa', v('f-co')], ['Correo', v('f-mail')], ['Teléfono', v('f-tel')], ['Etapa', v('f-stage')], ['Servicios', svcs],
       ['Ciudad del proyecto', v('f-city')], ['Área construida', v('f-area')], ['Proyecto', v('f-msg')]].filter(r => r[1].trim()).map(r => `${r[0]}: ${r[1].trim()}`).join('\n');
+    track('generate_lead', {method: 'formulario', etapa: v('f-stage'), servicios: svcs, area: v('f-area')});
     location.href = `mailto:gerencia@ddes.co?subject=${encodeURIComponent('Solicitud de propuesta — ' + v('f-name').trim())}&body=${encodeURIComponent(body)}`;
     out.innerHTML = `Gracias, ${name.value.trim().replace(/[<&]/g, '')}. Su correo se abrió con la solicitud lista para enviar. Si no se abrió, escríbanos a <a href="mailto:gerencia@ddes.co">gerencia@ddes.co</a> o por <a href="https://wa.me/573002021920" target="_blank" rel="noopener">WhatsApp</a>.`;
   });
@@ -2503,4 +2506,10 @@ window.addEventListener('hashchange', () => {
     vt.finished.finally(() => { rings.forEach(c => c.remove()); lqStop(); UI.kick(); const to = app.querySelector('.hero .ph'); if (to) to.style.viewTransitionName = ''; topEl.style.viewTransitionName = ''; hdrState(); navTone(); });
   }
 });
+document.addEventListener('click', e => { const a = e.target instanceof Element && e.target.closest('a'); if (!a) return; const h = a.getAttribute('href') || '', where = a.closest('header,footer,.tabbar,.sheet') ? (a.closest('header') ? 'encabezado' : a.closest('footer') ? 'pie' : 'menu') : 'pagina';
+  if (/wa\.me\//.test(h)) track('contact', {method: 'whatsapp', ubicacion: where});
+  else if (h.startsWith('tel:')) track('contact', {method: 'telefono', ubicacion: where});
+  else if (h.startsWith('mailto:')) track('contact', {method: 'correo', ubicacion: where});
+  else if ((a.dataset.h || h) === '#contacto' || h === '/contacto/') track('pedir_propuesta', {ubicacion: where, texto: a.textContent.trim().slice(0, 40)});
+}, true);
 pathLinks(); route();
