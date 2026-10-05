@@ -1321,13 +1321,24 @@ const UI = (() => {
   let press = null, comp = 0, compT = 0, full = 0, lastSY = 0, craf = 0, tq = 0;
   const current = () => tabs.find(a => a.getAttribute('aria-current') === 'page');
   // a tab pressed: its lens glides there first, and the page change waits for it to land (see the hashchange handler)
-  row.addEventListener('pointerdown', e => { press = e.target.closest('a'); tbGlide = performance.now() + 70; UI.kick(); });
+  const drop = cap.querySelector('.tb-drop'); let press0 = null, dx = 0, draf = 0;
+  const dropTo = () => { draf = 0; const t = press; drop.classList.toggle('on', !!t); if (!t) return;
+    const R = cap.getBoundingClientRect(), b = t.getBoundingClientRect(), tx = b.left - R.left - 10;
+    if (!drop.style.width || drop._w !== Math.round(b.width)) { drop._w = Math.round(b.width); drop.style.width = (b.width + 20).toFixed(1) + 'px'; }
+    if (!drop._on) dx = tx; drop._on = true; dx += (tx - dx) * .32; drop.style.transform = `translateX(${dx.toFixed(1)}px)`; UI.kick();
+    if (Math.abs(tx - dx) > .3) draf = requestAnimationFrame(dropTo); };
+  row.addEventListener('pointerdown', e => { press = press0 = e.target.closest('a'); tbGlide = performance.now() + 70; drop._on = false; if (!draf) draf = requestAnimationFrame(dropTo); UI.kick(); });
+  row.addEventListener('pointermove', e => { if (!press) return; const R = cap.getBoundingClientRect(), el = document.elementFromPoint(Math.min(R.right - 2, Math.max(R.left + 2, e.clientX)), R.top + R.height / 2), a = el && el.closest('.tb-row a');
+    if (a && a !== press) { press = a; tbGlide = performance.now() + 70; if (!draf) draf = requestAnimationFrame(dropTo); UI.kick(); } });
   // a tap that leads to another page keeps the lens on its way there when the finger lifts; it would otherwise turn back to the
   // current tab for the moment before the page changes (the bounce). It lets go when the page changes, or after 1,2 s if not.
   let going = null, goingT = 0;
-  addEventListener('pointerup', () => { if (press) { const a = press; press = null; if (hrefOf(a) !== here() && !(here() === '' && hrefOf(a) === '#inicio')) { going = a; clearTimeout(goingT); goingT = setTimeout(() => { going = null; UI.kick(); }, 1200); } UI.kick(); } });
-  addEventListener('pointercancel', () => { if (press) { press = null; UI.kick(); } });
+  addEventListener('pointerup', e => { if (press) { const a = press, R = cap.getBoundingClientRect(); press = null; drop.classList.remove('on'); drop._on = false;
+    // slid to another tab and lifted over the bar: that tab is the one chosen (the browser's own click goes to the first)
+    if (a !== press0 && e.clientY > R.top - 30 && e.clientY < R.bottom + 30) setTimeout(() => a.click(), 0); if (hrefOf(a) !== here() && !(here() === '' && hrefOf(a) === '#inicio')) { going = a; clearTimeout(goingT); goingT = setTimeout(() => { going = null; UI.kick(); }, 1200); } UI.kick(); } });
+  addEventListener('pointercancel', () => { if (press) { press = null; drop.classList.remove('on'); drop._on = false; UI.kick(); } });
   UI.lens(cap, () => press || going || current(), {blur: 5, sat: 1.9, bri: 1.06, disperse: true, bevel: 12, pw: 2.6, gain: 2.1});
+  UI.add(drop, {blur: 0, sat: 1.4, bri: 1.06, disperse: true, bevel: 11, pw: 2.4, gain: 2.6});
   UI.add(more, {blur: 5, sat: 1.9, bri: 1.06, disperse: true, bevel: 12, pw: 2.6, gain: 2.1});
   UI.add(sheet, {shape: 'sheet', radius: 30, blur: 0, pre: 'blur(22px)', sat: 1.9, bri: 1.06, bevel: 18, pw: 2.6, gain: 2.1, still: true});
   // Reading: the bar contracts to the current tab. The row keeps its full width and slides, so the labels never squeeze.
