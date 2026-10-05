@@ -1321,25 +1321,47 @@ const UI = (() => {
   let press = null, comp = 0, compT = 0, full = 0, lastSY = 0, craf = 0, tq = 0;
   const current = () => tabs.find(a => a.getAttribute('aria-current') === 'page');
   // a tab pressed: its lens glides there first, and the page change waits for it to land (see the hashchange handler)
-  const drop = cap.querySelector('.tb-drop'); let press0 = null, dx = 0, draf = 0;
-  const dropTo = () => { draf = 0; const t = press; drop.classList.toggle('on', !!t); if (!t) return;
-    const R = cap.getBoundingClientRect(), b = t.getBoundingClientRect(), tx = b.left - R.left - 10;
-    if (!drop.style.width || drop._w !== Math.round(b.width)) { drop._w = Math.round(b.width); drop.style.width = (b.width + 20).toFixed(1) + 'px'; }
-    if (!drop._on) dx = tx; drop._on = true; dx += (tx - dx) * .32; drop.style.transform = `translateX(${dx.toFixed(1)}px)`; UI.kick();
-    if (Math.abs(tx - dx) > .3) draf = requestAnimationFrame(dropTo); };
-  row.addEventListener('pointerdown', e => { press = press0 = e.target.closest('a'); tbGlide = performance.now() + 70; drop._on = false; if (!draf) draf = requestAnimationFrame(dropTo); UI.kick(); });
+  const drop = cap.querySelector('.tb-drop'); let press0 = null, dx = 0, dv = 0, draf = 0, dTo = null, held = false;
+  const DW = 112;   // the capsule: ~1.4 : 1 at 80 px tall
+  const dropTo = () => { draf = 0; const t = dTo; if (!t) { row.classList.remove('hole'); return; }
+    const R = cap.getBoundingClientRect(), b = t.getBoundingClientRect(), w = Math.max(DW, b.width + 28), o = (w - b.width) / 2, tx = b.left - R.left - o;
+    if (drop._w !== Math.round(w)) { drop._w = Math.round(w); drop.style.width = w.toFixed(1) + 'px'; }
+    dv += (tx - dx) * .2; dv *= .55; dx += dv;   // a few px past the tab at most, then home
+    const sp = Math.min(1, Math.abs(dv) / 18), sx = 1 + sp * .12, sy = 1 - sp * .08;
+    // (the offset is the translate property, applied after the landing shrink, so the droplet shrinks in place)
+    drop.style.translate = `${dx.toFixed(1)}px 0`; drop.style.transform = `scale(${sx.toFixed(3)},${sy.toFixed(3)})`; UI.kick();
+    // the tab nearest the lens's centre is the one it lights as it passes
+    const c = dx + w / 2; let ti = 0, bd = 1e9; tabs.forEach((x, j) => { const d = Math.abs(x.offsetLeft + x.offsetWidth / 2 - c); if (d < bd) { bd = d; ti = j; } });
+    [...mrow.children].forEach((m, j) => j === ti ? m.setAttribute('aria-current', 'page') : m.removeAttribute('aria-current'));
+    const mag = drop.classList.contains('on') ? 1 + .18 * (held ? 1 : Math.min(1, Math.abs(tx - dx) / 26)) : 1;
+    mrow.style.transformOrigin = `${c.toFixed(1)}px 32px`; mrow.style.transform = `translateX(${(-dx).toFixed(1)}px) scale(${mag.toFixed(3)})`;
+    const on = drop.classList.contains('on'), hw = w * sx / 2;
+    if (on) { row.classList.add('hole'); row.style.setProperty('--h0', (c - hw + 4).toFixed(1) + 'px'); row.style.setProperty('--h1', (c + hw - 4).toFixed(1) + 'px'); }
+    const landed = Math.abs(tx - dx) < .6 && Math.abs(dv) < .3;
+    // lifted and arrived: it settles into the pill (and the bar's own lens is already there under it)
+    // melting: the copy inside is back at 1× and exactly over the bar's own tab, so the bar shows it again at once (no gap, no double)
+    const melt = () => { if (!drop.classList.contains('on')) return; drop.classList.remove('on'); row.classList.remove('hole'); mrow.style.transform = `translateX(${(-dx).toFixed(1)}px)`; };
+    if (landed && !held) { dTo = null; melt(); return; }
+    if (!held && Math.abs(tx - dx) < 3) melt();
+    draf = requestAnimationFrame(dropTo); };
+  const mrow = drop.querySelector('.tb-mrow');
+  const lift = t => { const from = current() || t, R = cap.getBoundingClientRect(), b = from.getBoundingClientRect();
+    mrow.innerHTML = row.innerHTML.replace(/ href="[^"]*"/g, ''); mrow.style.width = row.offsetWidth + 'px';
+    if (!drop.classList.contains('on')) { dx = b.left - R.left - (Math.max(DW, b.width + 28) - b.width) / 2; dv = 0; }
+    dTo = t; drop.classList.add('on'); if (!draf) draf = requestAnimationFrame(dropTo); };
+  row.addEventListener('pointerdown', e => { press = press0 = e.target.closest('a'); held = true; tbGlide = performance.now() + 70; if (press) lift(press); UI.kick(); });
   row.addEventListener('pointermove', e => { if (!press) return; const R = cap.getBoundingClientRect(), el = document.elementFromPoint(Math.min(R.right - 2, Math.max(R.left + 2, e.clientX)), R.top + R.height / 2), a = el && el.closest('.tb-row a');
-    if (a && a !== press) { press = a; tbGlide = performance.now() + 70; if (!draf) draf = requestAnimationFrame(dropTo); UI.kick(); } });
+    if (a && a !== press) { press = a; dTo = a; tbGlide = performance.now() + 70; if (!draf) draf = requestAnimationFrame(dropTo); UI.kick(); } });
   // a tap that leads to another page keeps the lens on its way there when the finger lifts; it would otherwise turn back to the
   // current tab for the moment before the page changes (the bounce). It lets go when the page changes, or after 1,2 s if not.
   let going = null, goingT = 0;
-  addEventListener('pointerup', e => { if (press) { const a = press, R = cap.getBoundingClientRect(); press = null; drop.classList.remove('on'); drop._on = false;
+  addEventListener('pointerup', e => { if (press) { const a = press, R = cap.getBoundingClientRect(); press = null; held = false; if (!draf) draf = requestAnimationFrame(dropTo); if (a !== current() && hrefOf(a) !== here()) { tbGlide = performance.now() + 170; tabs.forEach(x => x === a ? x.setAttribute('aria-current', 'page') : x.removeAttribute('aria-current')); }
     // slid to another tab and lifted over the bar: that tab is the one chosen (the browser's own click goes to the first)
     if (a !== press0 && e.clientY > R.top - 30 && e.clientY < R.bottom + 30) setTimeout(() => a.click(), 0); if (hrefOf(a) !== here() && !(here() === '' && hrefOf(a) === '#inicio')) { going = a; clearTimeout(goingT); goingT = setTimeout(() => { going = null; UI.kick(); }, 1200); } UI.kick(); } });
-  addEventListener('pointercancel', () => { if (press) { press = null; drop.classList.remove('on'); drop._on = false; UI.kick(); } });
-  UI.lens(cap, () => press || going || current(), {blur: 5, sat: 1.9, bri: 1.06, disperse: true, bevel: 12, pw: 2.6, gain: 2.1});
-  UI.add(drop, {blur: 0, sat: 1.4, bri: 1.06, disperse: true, bevel: 11, pw: 2.4, gain: 2.6});
-  UI.add(more, {blur: 5, sat: 1.9, bri: 1.06, disperse: true, bevel: 12, pw: 2.6, gain: 2.1});
+  addEventListener('pointercancel', () => { if (press) { press = null; held = false; dTo = current() || dTo; if (!draf) draf = requestAnimationFrame(dropTo); UI.kick(); } });
+  UI.lens(cap, () => press || going || current(), {blur: 3, sat: 1.9, bri: 1.06, disperse: false, bevel: 12, pw: 2.6, gain: 2.1});
+  UI.add(drop, {blur: 0, sat: 1.5, bri: 1.06, disperse: true, bevel: 8, pw: 2.4, gain: 2.2});
+  UI.add(more, {blur: 3, sat: 1.9, bri: 1.06, disperse: false, bevel: 12, pw: 2.6, gain: 2.1});
   UI.add(sheet, {shape: 'sheet', radius: 30, blur: 0, pre: 'blur(22px)', sat: 1.9, bri: 1.06, bevel: 18, pw: 2.6, gain: 2.1, still: true});
   // Reading: the bar contracts to the current tab. The row keeps its full width and slides, so the labels never squeeze.
   const squeeze = () => {
@@ -2438,7 +2460,7 @@ addEventListener('resize', hdrState);
 setTimeout(hdrState, 1900);
 // 1 · The photo you click becomes the hero of the next page
 let morphFrom = null, byClick = false, curHash = here(), lqX = innerWidth / 2, lqY = innerHeight / 2;
-addEventListener('pointerdown', e => { lqX = e.clientX; lqY = e.clientY; }, {capture: true, passive: true});
+addEventListener('pointerdown', e => { lqX = e.clientX; lqY = e.clientY; const tb = e.target instanceof Element && e.target.closest('.tabbar'); if (tb) lqY = innerHeight * .45; }, {capture: true, passive: true});
 // The press answers at once: a bead of the drop forms under it (links in the page and in the menu sheet; the header and the tab
 // bar answer with their own lens). If no page change follows (a scroll, a link to the same page) it melts away.
 let lqBead = null;
@@ -2582,6 +2604,8 @@ window.addEventListener('hashchange', () => {
     const from = morphFrom; morphFrom = null;
     if (from) from.style.viewTransitionName = 'hero-img';
     topEl.style.viewTransitionName = 'site-header';
+    document.querySelectorAll('.tb-drop.on').forEach(d => d.classList.remove('on')); document.querySelectorAll('.tb-row.hole').forEach(r => r.classList.remove('hole'));
+    const tbs = matchMedia('(max-width: 1060px)').matches ? [...document.querySelectorAll('.tb-cap,.tb-more')] : []; tbs.forEach((el, i) => { el.style.viewTransitionName = i ? 'tb-more' : 'tb-cap'; });
     // Liquid glass: the next page opens out of a drop that grows from the pointer, its rim a glass lens. Nothing is written on
     // <html> (a custom property there restyles every element of the page being captured): the ring layers carry the centre.
     const R = Math.hypot(Math.max(lqX, innerWidth - lqX), Math.max(lqY, innerHeight - lqY));
@@ -2601,7 +2625,7 @@ window.addEventListener('hashchange', () => {
     });
     const nb = navBusy = vt.finished.catch(() => {}).then(() => { if (navBusy === nb) navBusy = null; });
     vt.ready.then(() => lqRun(R)).catch(() => {});
-    vt.finished.finally(() => { rings.forEach(c => c.remove()); lqStop(); UI.kick(); const to = app.querySelector('.hero .ph'); if (to) to.style.viewTransitionName = ''; topEl.style.viewTransitionName = ''; hdrState(); navTone(); });
+    vt.finished.finally(() => { rings.forEach(c => c.remove()); lqStop(); UI.kick(); const to = app.querySelector('.hero .ph'); if (to) to.style.viewTransitionName = ''; topEl.style.viewTransitionName = ''; tbs.forEach(el => { el.style.viewTransitionName = ''; }); hdrState(); navTone(); });
   }
 });
 document.addEventListener('click', e => { const a = e.target instanceof Element && e.target.closest('a'); if (!a) return; const h = a.getAttribute('href') || '', where = a.closest('header,footer,.tabbar,.sheet') ? (a.closest('header') ? 'encabezado' : a.closest('footer') ? 'pie' : 'menu') : 'pagina';
