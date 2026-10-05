@@ -114,8 +114,7 @@ button{font:inherit;color:inherit}
 .mg-all{justify-self:start;display:inline-flex;align-items:center;gap:8px;margin-top:6px;font-size:var(--fs-s);font-weight:600;text-decoration:none}
 .mg-all svg{width:18px;height:10px;color:currentColor;transition:transform var(--t1) var(--ease)}
 .mg-all:hover svg{transform:translateX(3px)}
-.top.dark .mega .beam path{stroke:rgba(255,255,255,.2)}
-.top.dark .mega .beam text{fill:var(--accent)}
+.top.dark .mega .beam{color:#fff}
 .top-actions{margin-left:auto;display:flex;align-items:center;gap:12px}
 @media (max-width:1060px){
   .nav{display:none}.top .btn{display:none}
@@ -853,9 +852,15 @@ html.lq-on::view-transition-old(root){filter:url(#lqf)}
 .mega li{position:relative}
 .mega.beams li a{border-bottom-color:transparent}
 .beam{position:absolute;left:0;right:0;bottom:-14px;width:100%;height:28px;overflow:visible;pointer-events:none}
-.beam path{fill:none;stroke:var(--line);stroke-width:1}
-.beam .load{fill:var(--accent)}
-.beam text{font:500 11px var(--f);fill:var(--accent-text);font-variant-numeric:tabular-nums}
+.beam path{fill:none;stroke:currentColor;stroke-opacity:.16;stroke-width:1}
+/* under a load it is dimensioned like the hero's beam: a faint straight reference, a hairline at the load with a dot at each end,
+   and the value in the site's two voices (δ in the serif italic, the figure light, the unit small) */
+.beam .ref{stroke-opacity:0;stroke-dasharray:none}
+.beam .dl{stroke-opacity:.7}
+.beam .load{fill:currentColor;stroke:none}
+.beam text{font:300 11px var(--f);fill:currentColor;font-variant-numeric:tabular-nums;letter-spacing:.01em}
+.beam text .d{font:italic 300 13.5px "Newsreader",Georgia,serif}
+.beam text .u{font-size:8.5px;font-weight:400;fill-opacity:.6;letter-spacing:.04em}
 
 
 @media (prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}

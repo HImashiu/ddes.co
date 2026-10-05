@@ -793,9 +793,11 @@ function beams(list, rowSel = 'li', hitSel = 'a', inHit = false) {
   list.querySelectorAll(rowSel).forEach(row => {
     const a = row.querySelector(hitSel), li = inHit ? a : row; if (!a) return;
     const svg = document.createElementNS(NS, 'svg'); svg.setAttribute('class', 'beam'); svg.setAttribute('aria-hidden', 'true');
-    const path = document.createElementNS(NS, 'path'), load = document.createElementNS(NS, 'path'), txt = document.createElementNS(NS, 'text');
-    load.setAttribute('class', 'load'); svg.append(path, load, txt); li.appendChild(svg);
-    const it = {li, svg, path, load, txt, a: .5, ta: .5, q: 0, v: 0, target: 0, w: 0};
+    const path = document.createElementNS(NS, 'path'), load = document.createElementNS(NS, 'path'), txt = document.createElementNS(NS, 'text'), ref = document.createElementNS(NS, 'path'), dl = document.createElementNS(NS, 'path');
+    load.setAttribute('class', 'load'); ref.setAttribute('class', 'ref'); dl.setAttribute('class', 'dl');
+    txt.innerHTML = '<tspan class="d">δ</tspan><tspan class="v" dx="4"></tspan><tspan class="u" dx="3">mm</tspan>';
+    svg.append(ref, path, dl, load, txt); li.appendChild(svg);
+    const it = {li, svg, path, load, txt, ref, dl, val: txt.querySelector('.v'), a: .5, ta: .5, q: 0, v: 0, target: 0, w: 0};
     a.addEventListener('pointermove', e => { const r = li.getBoundingClientRect(); it.ta = Math.min(.96, Math.max(.04, (e.clientX - r.left) / r.width)); it.target = 1; kick(); });
     a.addEventListener('pointerenter', e => { const r = li.getBoundingClientRect(); it.a = it.ta = Math.min(.96, Math.max(.04, (e.clientX - r.left) / r.width)); it.target = 1; kick(); });
     a.addEventListener('pointerleave', () => { it.target = 0; kick(); });
@@ -809,11 +811,14 @@ function beams(list, rowSel = 'li', hitSel = 'a', inHit = false) {
     let d = '', ymax = 0;
     for (let i = 0; i <= N; i++) { const x = i / N, y = MAX * it.q * shape(x, it.a) / norm; ymax = Math.max(ymax, y); d += (i ? 'L' : 'M') + (x * w).toFixed(1) + ' ' + (H + y).toFixed(2); }
     it.path.setAttribute('d', d);
-    it.path.style.stroke = it.q > .02 ? `color-mix(in srgb, var(--accent) ${Math.min(100, it.q * 100).toFixed(0)}%, var(--line))` : '';
     const lx = it.a * w, ly = H + MAX * it.q * shape(it.a, it.a) / norm, show = Math.max(0, Math.min(1, it.q));
-    it.load.setAttribute('d', `M${lx - 4} ${ly - 9}L${lx + 4} ${ly - 9}L${lx} ${ly - 2}Z`); it.load.style.opacity = show;
-    it.txt.setAttribute('x', lx + 8); it.txt.setAttribute('y', ly - 4); it.txt.style.opacity = show;
-    it.txt.textContent = `δ ${(ymax * .6).toFixed(1).replace('.', ',')} mm`;
+    it.path.style.strokeOpacity = (.16 + .4 * show).toFixed(3);
+    it.ref.setAttribute('d', `M0 ${H}H${w}`); it.ref.style.strokeOpacity = (.14 * show).toFixed(3);
+    const r = 1.7, dot = y => `M${lx - r} ${y}a${r} ${r} 0 1 0 ${2 * r} 0a${r} ${r} 0 1 0 ${-2 * r} 0`;
+    it.dl.setAttribute('d', `M${lx} ${H - 4}V${ly}`); it.dl.style.opacity = show;
+    it.load.setAttribute('d', ly - H > 2.5 ? dot(H) + dot(ly) : dot(ly)); it.load.style.opacity = show;
+    it.txt.setAttribute('x', lx + 7); it.txt.setAttribute('y', H - 4); it.txt.style.opacity = show;
+    it.val.textContent = (ymax * .6).toFixed(1).replace('.', ',');
   };
   let raf = 0, last = 0;
   const step = t => {
