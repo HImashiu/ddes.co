@@ -1559,7 +1559,11 @@ function wire(h) {
     const body = rows.filter(r => r[1].trim()).map(r => `${r[0]}: ${r[1].trim()}`).join('\n');
     const via = (e.submitter && e.submitter.dataset.via) || 'web', who = name.value.trim().replace(/[<&]/g, ''), subject = 'Solicitud de propuesta' + (LANG === 'en' ? ' (English site)' : '') + ' — ' + v('f-name').trim();
     if (f.querySelector('[name=_honey]').value) return;
-    track('generate_lead', {method: via, etapa: v('f-stage'), servicios: svcs, area: v('f-area'), respuesta: callMe ? 'llamada' : 'correo', idioma: LANG});
+    // Analytics: a lead counts when it is delivered (the web form) or handed to the visitor's mail program (mailto);
+    // a call request and a form sent for an e-mail reply are also counted apart, so each can be a key event
+    const ga = {method: via, etapa: v('f-stage'), servicios: svcs, area: v('f-area'), respuesta: callMe ? 'llamada' : 'correo', idioma: LANG, pagina: location.pathname};
+    const sent = () => { track('generate_lead', ga); track(callMe ? 'solicitud_llamada' : 'formulario_enviado', ga); };
+    if (via === 'correo') sent();
     const wa = '<a href="https://wa.me/573002021920" target="_blank" rel="noopener">WhatsApp</a>', put = (t, ...x) => x.reduce((m, y, i) => m.replace('{' + i + '}', y), tx(t));
     if (via === 'correo') {
       location.href = `mailto:gerencia@ddes.co?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
@@ -1574,10 +1578,10 @@ function wire(h) {
     body.split('\n').forEach(l => { const k = l.indexOf(': '); data[l.slice(0, k)] = l.slice(k + 2); });
     const safe = t => t.replace(/[<&]/g, '');
     fetch('https://formsubmit.co/ajax/' + TO, {method: 'POST', headers: {'Content-Type': 'application/json', Accept: 'application/json'}, body: JSON.stringify(data)})
-      .then(r => r.json()).then(j => { if (String(j.success) !== 'true') throw new Error(j.message || 'no enviado');
+      .then(r => r.json()).then(j => { if (String(j.success) !== 'true') throw new Error(j.message || 'no enviado'); sent();
         out.innerHTML = callMe ? put('Gracias, {0}. Recibimos su solicitud: un ingeniero le llama al {1}.', who, safe(phone)) : isMail ? put('Gracias, {0}. Recibimos su solicitud: un ingeniero le responde a {1} con una propuesta.', who, safe(cv)) : put('Gracias, {0}. Recibimos su solicitud: un ingeniero le escribe por WhatsApp al {1}.', who, safe(cv));
         f.reset(); setCall2(); })
-      .catch(() => { out.innerHTML = put('No pudimos enviarla desde aquí. Use «Enviar desde mi correo» o escríbanos por {0}.', wa); })
+      .catch(e => { track('formulario_error', {mensaje: String(e && e.message || e).slice(0, 90), idioma: LANG}); out.innerHTML = put('No pudimos enviarla desde aquí. Use «Enviar desde mi correo» o escríbanos por {0}.', wa); })
       .finally(() => btns.forEach(x => x.disabled = false));
   });
   function setCall2() { const c = document.getElementById('f-call'); if (c) { c.classList.remove('on'); c.inert = true; } }
