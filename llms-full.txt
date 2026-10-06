@@ -1571,6 +1571,11 @@ Lo que pide la NSR-10 en cada una, con sus valores sísmicos.
 - [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
 - [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
 - [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -1937,6 +1942,11 @@ Cada página explica qué pide la NSR-10 en la ciudad: amenaza sísmica, suelo y
 | [Valledupar](https://ddes.co/ingenieria-estructural-valledupar/) | [Cesar](https://ddes.co/amenaza-sismica-cesar/) | 0,10 | 0,10 | Baja | Interior |
 | [Riohacha](https://ddes.co/ingenieria-estructural-riohacha/) | [La Guajira](https://ddes.co/amenaza-sismica-la-guajira/) | 0,10 | 0,15 | Intermedia | Costa |
 | [Yopal](https://ddes.co/ingenieria-estructural-yopal/) | [Casanare](https://ddes.co/amenaza-sismica-casanare/) | 0,30 | 0,20 | Alta | Interior |
+| [Aguazul](https://ddes.co/ingenieria-estructural-aguazul/) | [Casanare](https://ddes.co/amenaza-sismica-casanare/) | 0,30 | 0,20 | Alta | Interior |
+| [Villanueva](https://ddes.co/ingenieria-estructural-villanueva/) | [Casanare](https://ddes.co/amenaza-sismica-casanare/) | 0,20 | 0,20 | Intermedia | Interior |
+| [Tauramena](https://ddes.co/ingenieria-estructural-tauramena/) | [Casanare](https://ddes.co/amenaza-sismica-casanare/) | 0,15 | 0,20 | Intermedia | Interior |
+| [Monterrey](https://ddes.co/ingenieria-estructural-monterrey/) | [Casanare](https://ddes.co/amenaza-sismica-casanare/) | 0,30 | 0,25 | Alta | Interior |
+| [Paz de Ariporo](https://ddes.co/ingenieria-estructural-paz-de-ariporo/) | [Casanare](https://ddes.co/amenaza-sismica-casanare/) | 0,05 | 0,15 | Intermedia | Interior |
 
 Aa y Av: NSR-10, Apéndice A-4.
 
@@ -2044,6 +2054,19 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 - [Concreto cerca al mar: lo que exige la NSR-10 contra el salitre](https://ddes.co/articulo-concreto-salitre/): Clase de exposición C2, relación agua-cemento de 0,40, 35 MPa y recubrimientos: la receta de la norma para la costa.
 
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
 ## Preguntas frecuentes
 
 **¿En qué zona de amenaza sísmica está Barranquilla?**
@@ -2073,6 +2096,11 @@ Sí, aunque con poca fuerza. La NSR-10 ubica a Barranquilla en amenaza sísmica 
 - [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
 - [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
 - [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -2132,6 +2160,19 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 - [Ensayo de cilindros: cuándo se acepta el concreto según la NSR-10](https://ddes.co/articulo-ensayo-cilindros/): Cuántas muestras tomar, cómo se evalúan y qué pasa si un resultado sale bajo: la sección C.5.6.
 
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
 ## Preguntas frecuentes
 
 **¿En qué zona de amenaza sísmica está Soledad?**
@@ -2157,6 +2198,11 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
 - [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
 - [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -2216,6 +2262,19 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 - [¿Cuándo es peligrosa una fisura?](https://ddes.co/articulo-fisuras/): Cómo distinguir una fisura de acabado de una que pide un ingeniero: ancho, dirección, dónde aparece y si crece.
 
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
 ## Preguntas frecuentes
 
 **¿En qué zona de amenaza sísmica está Puerto Colombia?**
@@ -2241,6 +2300,11 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
 - [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
 - [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -2308,6 +2372,19 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 - [Elementos no estructurales: muros, fachadas e instalaciones en la NSR-10](https://ddes.co/articulo-elementos-no-estructurales/): Lo que no sostiene el edificio también debe diseñarse para el sismo. Y en la costa hay una exención.
 
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
 ## Preguntas frecuentes
 
 **¿En qué zona de amenaza sísmica está Malambo?**
@@ -2333,6 +2410,11 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
 - [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
 - [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -2398,6 +2480,19 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 - [Cloruros y refuerzo: el recubrimiento que sí protege](https://ddes.co/articulo-cloruros/): Por qué la brisa marina corroe el concreto desde adentro y qué especificar para evitarlo.
 
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
 ## Preguntas frecuentes
 
 **¿En qué zona de amenaza sísmica está Galapa?**
@@ -2423,6 +2518,11 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
 - [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
 - [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -2482,6 +2582,19 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 - [Amenaza sísmica en la Costa Caribe: ciudad por ciudad según la NSR-10](https://ddes.co/articulo-amenaza-sismica-costa/): Barranquilla y Cartagena están en amenaza baja; Santa Marta, Montería, Sincelejo y Riohacha, en intermedia.
 
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
 ## Preguntas frecuentes
 
 **¿En qué zona de amenaza sísmica está Cartagena?**
@@ -2507,6 +2620,11 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
 - [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
 - [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -2566,6 +2684,19 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 - [Concreto cerca al mar: lo que exige la NSR-10 contra el salitre](https://ddes.co/articulo-concreto-salitre/): Clase de exposición C2, relación agua-cemento de 0,40, 35 MPa y recubrimientos: la receta de la norma para la costa.
 
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
 ## Preguntas frecuentes
 
 **¿En qué zona de amenaza sísmica está Santa Marta?**
@@ -2591,6 +2722,11 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para 
 - [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
 - [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
 - [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -2650,6 +2786,19 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 - [Grupos de uso: por qué un colegio o una clínica se diseñan más fuertes](https://ddes.co/articulo-grupos-de-uso/): La NSR-10 clasifica las edificaciones en cuatro grupos y aumenta las fuerzas de diseño hasta en un 50%.
 
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
 ## Preguntas frecuentes
 
 **¿En qué zona de amenaza sísmica está Montería?**
@@ -2675,6 +2824,11 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
 - [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
 - [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -2734,6 +2888,19 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 - [Ensayo de cilindros: cuándo se acepta el concreto según la NSR-10](https://ddes.co/articulo-ensayo-cilindros/): Cuántas muestras tomar, cómo se evalúan y qué pasa si un resultado sale bajo: la sección C.5.6.
 
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
 ## Preguntas frecuentes
 
 **¿En qué zona de amenaza sísmica está Sincelejo?**
@@ -2759,6 +2926,11 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
 - [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
 - [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -2818,6 +2990,19 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 - [¿Cuándo es peligrosa una fisura?](https://ddes.co/articulo-fisuras/): Cómo distinguir una fisura de acabado de una que pide un ingeniero: ancho, dirección, dónde aparece y si crece.
 
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
 ## Preguntas frecuentes
 
 **¿En qué zona de amenaza sísmica está Valledupar?**
@@ -2843,6 +3028,11 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para 
 - [SincelejoAmenaza intermedia](https://ddes.co/ingenieria-estructural-sincelejo/)
 - [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
 - [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -2902,6 +3092,19 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 - [Amenaza sísmica en la Costa Caribe: ciudad por ciudad según la NSR-10](https://ddes.co/articulo-amenaza-sismica-costa/): Barranquilla y Cartagena están en amenaza baja; Santa Marta, Montería, Sincelejo y Riohacha, en intermedia.
 
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
 ## Preguntas frecuentes
 
 **¿En qué zona de amenaza sísmica está Riohacha?**
@@ -2927,6 +3130,11 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [SincelejoAmenaza intermedia](https://ddes.co/ingenieria-estructural-sincelejo/)
 - [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
 - [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -2986,6 +3194,19 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 - [Terremoto del 10 de agosto de 2026: qué falló en Cali](https://ddes.co/articulo-caso-cali-terremoto-2026/): Los edificios que colapsaron no se construyeron con la NSR-10. Pórticos flexibles, normas anteriores y un suelo que amplificó el movimiento.
 
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
 ## Preguntas frecuentes
 
 **¿En qué zona de amenaza sísmica está Yopal?**
@@ -3011,6 +3232,521 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [SincelejoAmenaza intermedia](https://ddes.co/ingenieria-estructural-sincelejo/)
 - [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
 - [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+
+Última actualización: 6 de octubre de 2026
+
+---
+
+URL: https://ddes.co/ingenieria-estructural-aguazul/
+Última actualización: 2026-10-06
+
+[Cobertura](https://ddes.co/cobertura/)
+
+# Ingeniería estructural en Aguazul
+
+Diseño estructural, revisión y supervisión técnica en zona de amenaza sísmica alta.
+
+DDES hace diseño estructural, revisión independiente, supervisión técnica e interventoría para proyectos en Aguazul, Casanare, bajo la NSR-10 y la Ley 1796 de 2016. Aguazul está en zona de amenaza sísmica alta, con Aa = 0,30 y Av = 0,20. Casanare es uno de los departamentos donde DDES ha trabajado.
+
+- Amenaza sísmica: Alta
+- Aa / Av: 0,30 / 0,20
+- Ae / Ad: 0,14 / 0,06
+- Departamento: [Casanare](https://ddes.co/amenaza-sismica-casanare/)
+
+## ¿Qué exige la NSR-10 para construir en Aguazul?
+
+En concreto reforzado, la NSR-10 solo admite en amenaza alta sistemas con capacidad especial de disipación de energía (DES), el detallado más exigente del Reglamento: confinamiento de columnas y nudos, y control estricto de las derivas.
+
+Si el estudio de suelos da un perfil D, el espectro de diseño de Aguazul para un edificio de vivienda u oficinas (grupo de uso I) tiene una meseta de Sa = 0,90 g hasta TC = 0,53 s, y TL = 4,80 s. Con otro suelo u otro uso los valores cambian: [calcúlelos en el espectro de diseño](https://ddes.co/espectro-nsr10/?m=85010).
+
+## ¿Cómo se compara con Yopal?
+
+Aguazul tiene los mismos requisitos de diseño sísmico que Yopal, la capital del departamento: amenaza alta y, en concreto reforzado, capacidad especial de disipación de energía (DES).
+
+## ¿Qué valores usa la NSR-10 para edificaciones existentes e indispensables?
+
+Para evaluar edificaciones existentes con seguridad limitada, la NSR-10 usa Ae, que en Aguazul vale 0,14 (A.10.3). Las edificaciones indispensables de los grupos de uso III y IV se revisan además para el umbral de daño con Ad = 0,06 (A.12.2).
+
+## ¿Cuándo exige la Ley 1796 revisión y supervisión técnica en Aguazul?
+
+La regla es la misma en todo el país: cuando el lote permite construir más de 2.000 m², sin importar el uso, la Ley 1796 de 2016 exige revisión independiente de los diseños estructurales antes de la licencia y supervisión técnica independiente durante la obra. Las edificaciones de los grupos de uso III y IV, como colegios y hospitales, requieren supervisión técnica sin importar el área (A.1.3.9.1). Compruebe su caso en el [asistente de la Ley 1796](https://ddes.co/ley/).
+
+## Servicios de DDES en Aguazul
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Revisión independiente](https://ddes.co/servicio-revision/): Revisión de diseños estructurales de terceros, obligatoria en proyectos de más de 2.000 m².
+
+- [Supervisión técnica](https://ddes.co/servicio-supervision/): Supervisión técnica independiente según la Ley 1796 y el Título I de la NSR-10, antes de cada fundida.
+
+## Notas técnicas para Aguazul
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
+
+- [Grupos de uso: por qué un colegio o una clínica se diseñan más fuertes](https://ddes.co/articulo-grupos-de-uso/): La NSR-10 clasifica las edificaciones en cuatro grupos y aumenta las fuerzas de diseño hasta en un 50%.
+
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+## Preguntas frecuentes
+
+**¿En qué zona de amenaza sísmica está Aguazul?**
+
+En amenaza sísmica alta, con Aa = 0,30 y Av = 0,20 según el Apéndice A-4 de la NSR-10.
+
+**¿DDES trabaja en Aguazul?**
+
+Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha hecho proyectos en Casanare. Para una propuesta, envíe los planos arquitectónicos y la ubicación del lote por el formulario de contacto o por WhatsApp.
+
+## Otras ciudades
+
+[Todos los municipios de Casanare](https://ddes.co/amenaza-sismica-casanare/)
+
+- [BarranquillaAmenaza baja](https://ddes.co/ingenieria-estructural-barranquilla/)
+- [SoledadAmenaza baja](https://ddes.co/ingenieria-estructural-soledad/)
+- [Puerto ColombiaAmenaza baja](https://ddes.co/ingenieria-estructural-puerto-colombia/)
+- [MalamboAmenaza baja](https://ddes.co/ingenieria-estructural-malambo/)
+- [GalapaAmenaza baja](https://ddes.co/ingenieria-estructural-galapa/)
+- [CartagenaAmenaza baja](https://ddes.co/ingenieria-estructural-cartagena/)
+- [Santa MartaAmenaza intermedia](https://ddes.co/ingenieria-estructural-santa-marta/)
+- [MonteríaAmenaza intermedia](https://ddes.co/ingenieria-estructural-monteria/)
+- [SincelejoAmenaza intermedia](https://ddes.co/ingenieria-estructural-sincelejo/)
+- [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
+- [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
+- [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+
+Última actualización: 6 de octubre de 2026
+
+---
+
+URL: https://ddes.co/ingenieria-estructural-villanueva/
+Última actualización: 2026-10-06
+
+[Cobertura](https://ddes.co/cobertura/)
+
+# Ingeniería estructural en Villanueva
+
+Diseño estructural, revisión y supervisión técnica en zona de amenaza sísmica intermedia.
+
+DDES hace diseño estructural, revisión independiente, supervisión técnica e interventoría para proyectos en Villanueva, Casanare, bajo la NSR-10 y la Ley 1796 de 2016. Villanueva está en zona de amenaza sísmica intermedia, con Aa = 0,20 y Av = 0,20. Casanare es uno de los departamentos donde DDES ha trabajado.
+
+- Amenaza sísmica: Intermedia
+- Aa / Av: 0,20 / 0,20
+- Ae / Ad: 0,06 / 0,03
+- Departamento: [Casanare](https://ddes.co/amenaza-sismica-casanare/)
+
+## ¿Qué exige la NSR-10 para construir en Villanueva?
+
+En concreto reforzado, la amenaza intermedia ya no admite la disipación mínima (DMI): la estructura se diseña con capacidad moderada (DMO) o especial (DES) de disipación de energía, con más exigencias de detallado del refuerzo.
+
+Si el estudio de suelos da un perfil D, el espectro de diseño de Villanueva para un edificio de vivienda u oficinas (grupo de uso I) tiene una meseta de Sa = 0,70 g hasta TC = 0,69 s, y TL = 4,80 s. Con otro suelo u otro uso los valores cambian: [calcúlelos en el espectro de diseño](https://ddes.co/espectro-nsr10/?m=85440).
+
+## ¿Cómo se compara con Yopal?
+
+Villanueva está en amenaza intermedia, un escalón por debajo de Yopal, que está en amenaza alta. Un diseño hecho para Yopal cumple en Villanueva en lo sísmico, pero no al revés: lo que se diseña para Villanueva con capacidad moderada de disipación (DMO) no puede construirse igual en Yopal.
+
+## ¿Qué valores usa la NSR-10 para edificaciones existentes e indispensables?
+
+Para evaluar edificaciones existentes con seguridad limitada, la NSR-10 usa Ae, que en Villanueva vale 0,06 (A.10.3). Las edificaciones indispensables de los grupos de uso III y IV se revisan además para el umbral de daño con Ad = 0,03 (A.12.2).
+
+## ¿Cuándo exige la Ley 1796 revisión y supervisión técnica en Villanueva?
+
+La regla es la misma en todo el país: cuando el lote permite construir más de 2.000 m², sin importar el uso, la Ley 1796 de 2016 exige revisión independiente de los diseños estructurales antes de la licencia y supervisión técnica independiente durante la obra. Las edificaciones de los grupos de uso III y IV, como colegios y hospitales, requieren supervisión técnica sin importar el área (A.1.3.9.1). Compruebe su caso en el [asistente de la Ley 1796](https://ddes.co/ley/).
+
+## Servicios de DDES en Villanueva
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Revisión independiente](https://ddes.co/servicio-revision/): Revisión de diseños estructurales de terceros, obligatoria en proyectos de más de 2.000 m².
+
+- [Supervisión técnica](https://ddes.co/servicio-supervision/): Supervisión técnica independiente según la Ley 1796 y el Título I de la NSR-10, antes de cada fundida.
+
+## Notas técnicas para Villanueva
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
+
+- [Grupos de uso: por qué un colegio o una clínica se diseñan más fuertes](https://ddes.co/articulo-grupos-de-uso/): La NSR-10 clasifica las edificaciones en cuatro grupos y aumenta las fuerzas de diseño hasta en un 50%.
+
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+## Preguntas frecuentes
+
+**¿En qué zona de amenaza sísmica está Villanueva?**
+
+En amenaza sísmica intermedia, con Aa = 0,20 y Av = 0,20 según el Apéndice A-4 de la NSR-10.
+
+**¿DDES trabaja en Villanueva?**
+
+Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha hecho proyectos en Casanare. Para una propuesta, envíe los planos arquitectónicos y la ubicación del lote por el formulario de contacto o por WhatsApp.
+
+## Otras ciudades
+
+[Todos los municipios de Casanare](https://ddes.co/amenaza-sismica-casanare/)
+
+- [BarranquillaAmenaza baja](https://ddes.co/ingenieria-estructural-barranquilla/)
+- [SoledadAmenaza baja](https://ddes.co/ingenieria-estructural-soledad/)
+- [Puerto ColombiaAmenaza baja](https://ddes.co/ingenieria-estructural-puerto-colombia/)
+- [MalamboAmenaza baja](https://ddes.co/ingenieria-estructural-malambo/)
+- [GalapaAmenaza baja](https://ddes.co/ingenieria-estructural-galapa/)
+- [CartagenaAmenaza baja](https://ddes.co/ingenieria-estructural-cartagena/)
+- [Santa MartaAmenaza intermedia](https://ddes.co/ingenieria-estructural-santa-marta/)
+- [MonteríaAmenaza intermedia](https://ddes.co/ingenieria-estructural-monteria/)
+- [SincelejoAmenaza intermedia](https://ddes.co/ingenieria-estructural-sincelejo/)
+- [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
+- [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
+- [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+
+Última actualización: 6 de octubre de 2026
+
+---
+
+URL: https://ddes.co/ingenieria-estructural-tauramena/
+Última actualización: 2026-10-06
+
+[Cobertura](https://ddes.co/cobertura/)
+
+# Ingeniería estructural en Tauramena
+
+Diseño estructural, revisión y supervisión técnica en zona de amenaza sísmica intermedia.
+
+DDES hace diseño estructural, revisión independiente, supervisión técnica e interventoría para proyectos en Tauramena, Casanare, bajo la NSR-10 y la Ley 1796 de 2016. Tauramena está en zona de amenaza sísmica intermedia, con Aa = 0,15 y Av = 0,20. Casanare es uno de los departamentos donde DDES ha trabajado.
+
+- Amenaza sísmica: Intermedia
+- Aa / Av: 0,15 / 0,20
+- Ae / Ad: 0,06 / 0,03
+- Departamento: [Casanare](https://ddes.co/amenaza-sismica-casanare/)
+
+## ¿Qué exige la NSR-10 para construir en Tauramena?
+
+En concreto reforzado, la amenaza intermedia ya no admite la disipación mínima (DMI): la estructura se diseña con capacidad moderada (DMO) o especial (DES) de disipación de energía, con más exigencias de detallado del refuerzo.
+
+Si el estudio de suelos da un perfil D, el espectro de diseño de Tauramena para un edificio de vivienda u oficinas (grupo de uso I) tiene una meseta de Sa = 0,56 g hasta TC = 0,85 s, y TL = 4,80 s. Con otro suelo u otro uso los valores cambian: [calcúlelos en el espectro de diseño](https://ddes.co/espectro-nsr10/?m=85410).
+
+## ¿Cómo se compara con Yopal?
+
+Tauramena está en amenaza intermedia, un escalón por debajo de Yopal, que está en amenaza alta. Un diseño hecho para Yopal cumple en Tauramena en lo sísmico, pero no al revés: lo que se diseña para Tauramena con capacidad moderada de disipación (DMO) no puede construirse igual en Yopal.
+
+## ¿Qué valores usa la NSR-10 para edificaciones existentes e indispensables?
+
+Para evaluar edificaciones existentes con seguridad limitada, la NSR-10 usa Ae, que en Tauramena vale 0,06 (A.10.3). Las edificaciones indispensables de los grupos de uso III y IV se revisan además para el umbral de daño con Ad = 0,03 (A.12.2).
+
+## ¿Cuándo exige la Ley 1796 revisión y supervisión técnica en Tauramena?
+
+La regla es la misma en todo el país: cuando el lote permite construir más de 2.000 m², sin importar el uso, la Ley 1796 de 2016 exige revisión independiente de los diseños estructurales antes de la licencia y supervisión técnica independiente durante la obra. Las edificaciones de los grupos de uso III y IV, como colegios y hospitales, requieren supervisión técnica sin importar el área (A.1.3.9.1). Compruebe su caso en el [asistente de la Ley 1796](https://ddes.co/ley/).
+
+## Servicios de DDES en Tauramena
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Revisión independiente](https://ddes.co/servicio-revision/): Revisión de diseños estructurales de terceros, obligatoria en proyectos de más de 2.000 m².
+
+- [Supervisión técnica](https://ddes.co/servicio-supervision/): Supervisión técnica independiente según la Ley 1796 y el Título I de la NSR-10, antes de cada fundida.
+
+## Notas técnicas para Tauramena
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
+
+- [Grupos de uso: por qué un colegio o una clínica se diseñan más fuertes](https://ddes.co/articulo-grupos-de-uso/): La NSR-10 clasifica las edificaciones en cuatro grupos y aumenta las fuerzas de diseño hasta en un 50%.
+
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+## Preguntas frecuentes
+
+**¿En qué zona de amenaza sísmica está Tauramena?**
+
+En amenaza sísmica intermedia, con Aa = 0,15 y Av = 0,20 según el Apéndice A-4 de la NSR-10.
+
+**¿DDES trabaja en Tauramena?**
+
+Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha hecho proyectos en Casanare. Para una propuesta, envíe los planos arquitectónicos y la ubicación del lote por el formulario de contacto o por WhatsApp.
+
+## Otras ciudades
+
+[Todos los municipios de Casanare](https://ddes.co/amenaza-sismica-casanare/)
+
+- [BarranquillaAmenaza baja](https://ddes.co/ingenieria-estructural-barranquilla/)
+- [SoledadAmenaza baja](https://ddes.co/ingenieria-estructural-soledad/)
+- [Puerto ColombiaAmenaza baja](https://ddes.co/ingenieria-estructural-puerto-colombia/)
+- [MalamboAmenaza baja](https://ddes.co/ingenieria-estructural-malambo/)
+- [GalapaAmenaza baja](https://ddes.co/ingenieria-estructural-galapa/)
+- [CartagenaAmenaza baja](https://ddes.co/ingenieria-estructural-cartagena/)
+- [Santa MartaAmenaza intermedia](https://ddes.co/ingenieria-estructural-santa-marta/)
+- [MonteríaAmenaza intermedia](https://ddes.co/ingenieria-estructural-monteria/)
+- [SincelejoAmenaza intermedia](https://ddes.co/ingenieria-estructural-sincelejo/)
+- [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
+- [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
+- [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+
+Última actualización: 6 de octubre de 2026
+
+---
+
+URL: https://ddes.co/ingenieria-estructural-monterrey/
+Última actualización: 2026-10-06
+
+[Cobertura](https://ddes.co/cobertura/)
+
+# Ingeniería estructural en Monterrey
+
+Diseño estructural, revisión y supervisión técnica en zona de amenaza sísmica alta.
+
+DDES hace diseño estructural, revisión independiente, supervisión técnica e interventoría para proyectos en Monterrey, Casanare, bajo la NSR-10 y la Ley 1796 de 2016. Monterrey está en zona de amenaza sísmica alta, con Aa = 0,30 y Av = 0,25. Casanare es uno de los departamentos donde DDES ha trabajado.
+
+- Amenaza sísmica: Alta
+- Aa / Av: 0,30 / 0,25
+- Ae / Ad: 0,11 / 0,05
+- Departamento: [Casanare](https://ddes.co/amenaza-sismica-casanare/)
+
+## ¿Qué exige la NSR-10 para construir en Monterrey?
+
+En concreto reforzado, la NSR-10 solo admite en amenaza alta sistemas con capacidad especial de disipación de energía (DES), el detallado más exigente del Reglamento: confinamiento de columnas y nudos, y control estricto de las derivas.
+
+Si el estudio de suelos da un perfil D, el espectro de diseño de Monterrey para un edificio de vivienda u oficinas (grupo de uso I) tiene una meseta de Sa = 0,90 g hasta TC = 0,63 s, y TL = 4,56 s. Con otro suelo u otro uso los valores cambian: [calcúlelos en el espectro de diseño](https://ddes.co/espectro-nsr10/?m=85162).
+
+## ¿Cómo se compara con Yopal?
+
+Monterrey tiene los mismos requisitos de diseño sísmico que Yopal, la capital del departamento: amenaza alta y, en concreto reforzado, capacidad especial de disipación de energía (DES).
+
+## ¿Qué valores usa la NSR-10 para edificaciones existentes e indispensables?
+
+Para evaluar edificaciones existentes con seguridad limitada, la NSR-10 usa Ae, que en Monterrey vale 0,11 (A.10.3). Las edificaciones indispensables de los grupos de uso III y IV se revisan además para el umbral de daño con Ad = 0,05 (A.12.2).
+
+## ¿Cuándo exige la Ley 1796 revisión y supervisión técnica en Monterrey?
+
+La regla es la misma en todo el país: cuando el lote permite construir más de 2.000 m², sin importar el uso, la Ley 1796 de 2016 exige revisión independiente de los diseños estructurales antes de la licencia y supervisión técnica independiente durante la obra. Las edificaciones de los grupos de uso III y IV, como colegios y hospitales, requieren supervisión técnica sin importar el área (A.1.3.9.1). Compruebe su caso en el [asistente de la Ley 1796](https://ddes.co/ley/).
+
+## Servicios de DDES en Monterrey
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Revisión independiente](https://ddes.co/servicio-revision/): Revisión de diseños estructurales de terceros, obligatoria en proyectos de más de 2.000 m².
+
+- [Supervisión técnica](https://ddes.co/servicio-supervision/): Supervisión técnica independiente según la Ley 1796 y el Título I de la NSR-10, antes de cada fundida.
+
+## Notas técnicas para Monterrey
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
+
+- [Grupos de uso: por qué un colegio o una clínica se diseñan más fuertes](https://ddes.co/articulo-grupos-de-uso/): La NSR-10 clasifica las edificaciones en cuatro grupos y aumenta las fuerzas de diseño hasta en un 50%.
+
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+## Preguntas frecuentes
+
+**¿En qué zona de amenaza sísmica está Monterrey?**
+
+En amenaza sísmica alta, con Aa = 0,30 y Av = 0,25 según el Apéndice A-4 de la NSR-10.
+
+**¿DDES trabaja en Monterrey?**
+
+Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha hecho proyectos en Casanare. Para una propuesta, envíe los planos arquitectónicos y la ubicación del lote por el formulario de contacto o por WhatsApp.
+
+## Otras ciudades
+
+[Todos los municipios de Casanare](https://ddes.co/amenaza-sismica-casanare/)
+
+- [BarranquillaAmenaza baja](https://ddes.co/ingenieria-estructural-barranquilla/)
+- [SoledadAmenaza baja](https://ddes.co/ingenieria-estructural-soledad/)
+- [Puerto ColombiaAmenaza baja](https://ddes.co/ingenieria-estructural-puerto-colombia/)
+- [MalamboAmenaza baja](https://ddes.co/ingenieria-estructural-malambo/)
+- [GalapaAmenaza baja](https://ddes.co/ingenieria-estructural-galapa/)
+- [CartagenaAmenaza baja](https://ddes.co/ingenieria-estructural-cartagena/)
+- [Santa MartaAmenaza intermedia](https://ddes.co/ingenieria-estructural-santa-marta/)
+- [MonteríaAmenaza intermedia](https://ddes.co/ingenieria-estructural-monteria/)
+- [SincelejoAmenaza intermedia](https://ddes.co/ingenieria-estructural-sincelejo/)
+- [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
+- [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
+- [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+
+Última actualización: 6 de octubre de 2026
+
+---
+
+URL: https://ddes.co/ingenieria-estructural-paz-de-ariporo/
+Última actualización: 2026-10-06
+
+[Cobertura](https://ddes.co/cobertura/)
+
+# Ingeniería estructural en Paz de Ariporo
+
+Diseño estructural, revisión y supervisión técnica en zona de amenaza sísmica intermedia.
+
+DDES hace diseño estructural, revisión independiente, supervisión técnica e interventoría para proyectos en Paz de Ariporo, Casanare, bajo la NSR-10 y la Ley 1796 de 2016. Paz de Ariporo está en zona de amenaza sísmica intermedia, con Aa = 0,05 y Av = 0,15. Casanare es uno de los departamentos donde DDES ha trabajado.
+
+- Amenaza sísmica: Intermedia
+- Aa / Av: 0,05 / 0,15
+- Ae / Ad: 0,04 / 0,02
+- Departamento: [Casanare](https://ddes.co/amenaza-sismica-casanare/)
+
+## ¿Qué exige la NSR-10 para construir en Paz de Ariporo?
+
+En concreto reforzado, la amenaza intermedia ya no admite la disipación mínima (DMI): la estructura se diseña con capacidad moderada (DMO) o especial (DES) de disipación de energía, con más exigencias de detallado del refuerzo.
+
+Si el estudio de suelos da un perfil D, el espectro de diseño de Paz de Ariporo para un edificio de vivienda u oficinas (grupo de uso I) tiene una meseta de Sa = 0,20 g hasta TC = 1,98 s, y TL = 5,28 s. Con otro suelo u otro uso los valores cambian: [calcúlelos en el espectro de diseño](https://ddes.co/espectro-nsr10/?m=85250).
+
+## ¿Cómo se compara con Yopal?
+
+Paz de Ariporo está en amenaza intermedia, un escalón por debajo de Yopal, que está en amenaza alta. Un diseño hecho para Yopal cumple en Paz de Ariporo en lo sísmico, pero no al revés: lo que se diseña para Paz de Ariporo con capacidad moderada de disipación (DMO) no puede construirse igual en Yopal.
+
+## ¿Qué valores usa la NSR-10 para edificaciones existentes e indispensables?
+
+Para evaluar edificaciones existentes con seguridad limitada, la NSR-10 usa Ae, que en Paz de Ariporo vale 0,04 (A.10.3). Las edificaciones indispensables de los grupos de uso III y IV se revisan además para el umbral de daño con Ad = 0,02 (A.12.2).
+
+## ¿Cuándo exige la Ley 1796 revisión y supervisión técnica en Paz de Ariporo?
+
+La regla es la misma en todo el país: cuando el lote permite construir más de 2.000 m², sin importar el uso, la Ley 1796 de 2016 exige revisión independiente de los diseños estructurales antes de la licencia y supervisión técnica independiente durante la obra. Las edificaciones de los grupos de uso III y IV, como colegios y hospitales, requieren supervisión técnica sin importar el área (A.1.3.9.1). Compruebe su caso en el [asistente de la Ley 1796](https://ddes.co/ley/).
+
+## Servicios de DDES en Paz de Ariporo
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Revisión independiente](https://ddes.co/servicio-revision/): Revisión de diseños estructurales de terceros, obligatoria en proyectos de más de 2.000 m².
+
+- [Supervisión técnica](https://ddes.co/servicio-supervision/): Supervisión técnica independiente según la Ley 1796 y el Título I de la NSR-10, antes de cada fundida.
+
+## Notas técnicas para Paz de Ariporo
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
+
+- [Grupos de uso: por qué un colegio o una clínica se diseñan más fuertes](https://ddes.co/articulo-grupos-de-uso/): La NSR-10 clasifica las edificaciones en cuatro grupos y aumenta las fuerzas de diseño hasta en un 50%.
+
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+## Preguntas frecuentes
+
+**¿En qué zona de amenaza sísmica está Paz de Ariporo?**
+
+En amenaza sísmica intermedia, con Aa = 0,05 y Av = 0,15 según el Apéndice A-4 de la NSR-10.
+
+**¿DDES trabaja en Paz de Ariporo?**
+
+Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha hecho proyectos en Casanare. Para una propuesta, envíe los planos arquitectónicos y la ubicación del lote por el formulario de contacto o por WhatsApp.
+
+## Otras ciudades
+
+[Todos los municipios de Casanare](https://ddes.co/amenaza-sismica-casanare/)
+
+- [BarranquillaAmenaza baja](https://ddes.co/ingenieria-estructural-barranquilla/)
+- [SoledadAmenaza baja](https://ddes.co/ingenieria-estructural-soledad/)
+- [Puerto ColombiaAmenaza baja](https://ddes.co/ingenieria-estructural-puerto-colombia/)
+- [MalamboAmenaza baja](https://ddes.co/ingenieria-estructural-malambo/)
+- [GalapaAmenaza baja](https://ddes.co/ingenieria-estructural-galapa/)
+- [CartagenaAmenaza baja](https://ddes.co/ingenieria-estructural-cartagena/)
+- [Santa MartaAmenaza intermedia](https://ddes.co/ingenieria-estructural-santa-marta/)
+- [MonteríaAmenaza intermedia](https://ddes.co/ingenieria-estructural-monteria/)
+- [SincelejoAmenaza intermedia](https://ddes.co/ingenieria-estructural-sincelejo/)
+- [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
+- [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
+- [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
 
 Última actualización: 6 de octubre de 2026
 

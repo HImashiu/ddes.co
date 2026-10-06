@@ -92,6 +92,11 @@ Contacto: gerencia@ddes.co · WhatsApp +57 300 202 1920 · https://ddes.co/conta
 - [Ingeniería estructural en Valledupar](https://ddes.co/ingenieria-estructural-valledupar/): Diseño estructural, revisión independiente, supervisión técnica e interventoría en Valledupar bajo la NSR-10. Amenaza sísmica baja (Aa 0,10, Av 0,10).
 - [Ingeniería estructural en Riohacha](https://ddes.co/ingenieria-estructural-riohacha/): Diseño estructural, revisión independiente, supervisión técnica e interventoría en Riohacha bajo la NSR-10. Amenaza sísmica intermedia (Aa 0,10, Av 0,15).
 - [Ingeniería estructural en Yopal](https://ddes.co/ingenieria-estructural-yopal/): Diseño estructural, revisión independiente, supervisión técnica e interventoría en Yopal bajo la NSR-10. Amenaza sísmica alta (Aa 0,30, Av 0,20).
+- [Ingeniería estructural en Aguazul](https://ddes.co/ingenieria-estructural-aguazul/): Diseño estructural, revisión independiente, supervisión técnica e interventoría en Aguazul bajo la NSR-10. Amenaza sísmica alta (Aa 0,30, Av 0,20).
+- [Ingeniería estructural en Villanueva](https://ddes.co/ingenieria-estructural-villanueva/): Diseño estructural, revisión independiente, supervisión técnica e interventoría en Villanueva bajo la NSR-10. Amenaza sísmica intermedia (Aa 0,20, Av 0,20).
+- [Ingeniería estructural en Tauramena](https://ddes.co/ingenieria-estructural-tauramena/): Diseño estructural, revisión independiente, supervisión técnica e interventoría en Tauramena bajo la NSR-10. Amenaza sísmica intermedia (Aa 0,15, Av 0,20).
+- [Ingeniería estructural en Monterrey](https://ddes.co/ingenieria-estructural-monterrey/): Diseño estructural, revisión independiente, supervisión técnica e interventoría en Monterrey bajo la NSR-10. Amenaza sísmica alta (Aa 0,30, Av 0,25).
+- [Ingeniería estructural en Paz de Ariporo](https://ddes.co/ingenieria-estructural-paz-de-ariporo/): Diseño estructural, revisión independiente, supervisión técnica e interventoría en Paz de Ariporo bajo la NSR-10. Amenaza sísmica intermedia (Aa 0,05, Av 0,15).
 
 ## Amenaza sísmica por departamento (NSR-10, Apéndice A-4)
 - [Amenaza sísmica en Amazonas](https://ddes.co/amenaza-sismica-amazonas/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 11 municipios de Amazonas según la NSR-10. Leticia: Aa 0,05, Av 0,05, amenaza baja.
