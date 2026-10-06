@@ -119,3 +119,10 @@ Contacto: gerencia@ddes.co · WhatsApp +57 300 202 1920 · https://ddes.co/conta
 - [Amenaza sísmica en Valle del Cauca](https://ddes.co/amenaza-sismica-valle-del-cauca/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 42 municipios de Valle del Cauca según la NSR-10. Cali: Aa 0,25, Av 0,25, amenaza alta.
 - [Amenaza sísmica en Vaupés](https://ddes.co/amenaza-sismica-vaupes/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 6 municipios de Vaupés según la NSR-10. Mitú: Aa 0,05, Av 0,05, amenaza baja.
 - [Amenaza sísmica en Vichada](https://ddes.co/amenaza-sismica-vichada/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 4 municipios de Vichada según la NSR-10. Puerto Carreño: Aa 0,05, Av 0,05, amenaza baja.
+
+## English
+The whole site is also in English, under https://ddes.co/en/ (the team works in Spanish). English index for AI assistants: https://ddes.co/en/llms.txt
+- [DDES | Structural engineering in Barranquilla, Colombia](https://ddes.co/en/): Structural engineering firm in Barranquilla working across Colombia: NSR-10 structural design, construction oversight, technical supervision and design review.
+- [Structural engineering services in Colombia](https://ddes.co/en/services/): Structural engineering services in Colombia under the NSR-10: structural design, construction oversight, technical supervision, design review, retrofit and BIM.
+- [Free NSR-10 tools: seismic hazard and design spectrum](https://ddes.co/en/tools/): Look up the seismic hazard of all 1,117 municipalities in Colombia, calculate the NSR-10 design spectrum and check what Law 1796 requires of your project. Free.
+- [Contact: talk to a structural engineer in Colombia](https://ddes.co/en/contact/): Talk to DDES about a project in Colombia: WhatsApp, a short form or a call in Spanish. An engineer replies with a proposal. gerencia@ddes.co, +57 300 202 1920

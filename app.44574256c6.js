@@ -295,7 +295,7 @@ const prjCard = (p, ar = 'std') => `<a class="card" href="#proyecto-${p.id}" dat
 const artCard = a => `<a class="card" href="#articulo-${a.id}" data-cursor="Leer">${PH(a.img, 'std', a.title)}<span class="where">${a.cat} · ${a.read}</span><h3>${a.title}</h3><p>${a.dek}</p></a>`;
 const zz = (b, i, extra = '') => `<div class="zz ${i % 2 ? 'rev' : ''}">${FIG(b[2], 'std', b[0], b[3])}<div><h3>${b[0]}</h3><p>${b[1]}</p>${extra}</div></div>`;
 const grow = () => `<section class="grow"><div class="mark" aria-hidden="true"><svg viewBox="0 0 2000 603"><use href="#ddes"/></svg></div><div class="wrap"><div class="pic">${PH('ing-casco', 'tall', 'Ingeniero en obra')}<p class="credit" style="color:var(--band-muted)">${credit('ing-casco')}</p></div><div class="txt"><p class="label">Trabaje con nosotros</p><h2>Diseñe en la oficina. Aprenda en la obra.</h2><p>Buscamos ingenieros civiles y estructurales que quieran calcular una estructura y después verla construirse, en proyectos en todo el país.</p><div class="btns"><a class="btn primary" href="#contacto">Enviar hoja de vida</a><a class="btn glass g dk" href="#nosotros"><span class="gl" aria-hidden="true"></span>Cómo trabajamos</a></div></div></div></section>`;
-const touch = (k = 'concreto-formaleta', c = {}) => `<section class="touch">${PH(k, 'pano', '', 'fill')}<div class="tblur"></div><div class="wrap"><div class="tin"><p class="label">Contacto</p><h2>${c.h || 'Hablemos de su proyecto'}</h2><p>${c.p || 'Cuéntenos en qué etapa está. Un ingeniero le responde con una propuesta de alcance y honorarios.'}</p><div class="btns"><a class="btn primary" href="#contacto" data-magnet${c.lead ? ` data-lead="${attr(c.lead)}"` : ''}>${c.b || 'Contáctenos'}</a><a class="btn glass g dk" href="${waText(c.wa || 'Hola, quiero hablar de un proyecto con DDES.')}" target="_blank" rel="noopener"><span class="gl" aria-hidden="true"></span>Escribir por WhatsApp</a></div></div></div><p class="credit">${credit(k)}</p></section>`;
+const touch = (k = 'concreto-formaleta', c = {}) => `<section class="touch">${PH(k, 'pano', '', 'fill')}<div class="tblur"></div><div class="wrap"><div class="tin"><p class="label">Contacto</p><h2>${c.h || 'Hablemos de su proyecto'}</h2><p>${c.p || 'Cuéntenos en qué etapa está. Un ingeniero le responde con una propuesta de alcance y honorarios.'}</p><div class="btns"><a class="btn primary" href="${waText(c.wa || 'Hola, quiero hablar de un proyecto con DDES.')}" target="_blank" rel="noopener" data-magnet>Escríbanos por WhatsApp</a><a class="btn glass g dk" href="#contacto" data-form${c.lead ? ` data-lead="${attr(c.lead)}"` : ''}><span class="gl" aria-hidden="true"></span>Escríbanos o pida una llamada</a></div></div></div><p class="credit">${credit(k)}</p></section>`;
 const bg = k => `photo-bg" style="--bg-img:url('/fotos/t/${k}.jpg')`;
 
 const NUT = '<svg class="nutic" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.2l8.5 4.9v9.8L12 21.8l-8.5-4.9V7.1z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><circle cx="12" cy="12" r="3.6" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>';
@@ -496,20 +496,28 @@ const PAGES = {
   contact() {
     return `${crumbs([['Inicio', 'inicio'], ['Contacto']])}
     <div class="wrap cgrid"><div><h1>Hablemos de su proyecto</h1><p class="muted" style="font-size:19px;max-width:40ch">Cuéntenos qué necesita. Un ingeniero, no un vendedor, le responde con una propuesta de alcance y honorarios.</p>
+      <div class="c-ways" id="c-ways"><a class="btn primary" href="${waText('Hola, quiero hablar de un proyecto con DDES.')}" target="_blank" rel="noopener">Escríbanos por WhatsApp</a><a class="btn" href="#contacto" data-form>Escríbanos o pida una llamada</a></div>
       <dl class="office"><div><dt>Oficina</dt><dd>Barranquilla, Atlántico</dd></div><div><dt>Correo</dt><dd><a href="mailto:gerencia@ddes.co">gerencia@ddes.co</a></dd></div><div><dt>Teléfono</dt><dd><a href="tel:+573002021920">+57 300 202 1920</a></dd></div><div><dt>WhatsApp</dt><dd><a href="https://wa.me/573002021920" target="_blank" rel="noopener">+57 300 202 1920</a></dd></div><div><dt>Horario</dt><dd>Lunes a viernes, 7:30 a. m. a 5:30 p. m.</dd></div></dl>
       <div style="margin-top:32px">${PH('baq-ventana', 'wide', 'Ventana al Mundo, Barranquilla')}<p class="credit">${credit('baq-ventana')}</p></div></div>
       <form id="cform" novalidate>
         <div class="field"><label for="f-name">Nombre</label><input id="f-name" required autocomplete="name"></div>
-        <div class="field"><label for="f-co">Empresa</label><input id="f-co" autocomplete="organization"></div>
-        <div class="field"><label for="f-mail">Correo</label><input id="f-mail" type="email" required autocomplete="email"></div>
-        <div class="field"><label for="f-tel">Teléfono</label><input id="f-tel" type="tel" autocomplete="tel"></div>
-        <div class="field full"><label for="f-stage">¿En qué etapa está?</label><select id="f-stage"><option>Tengo un lote y una idea</option><option>Voy a radicar la licencia</option><option>Voy a empezar a construir</option><option>La obra ya está en marcha</option><option>Es un edificio existente</option></select></div>
-        <div class="field full"><span class="lbl">¿Qué necesita?</span><div class="pick">${SVC.map((s, i) => `<label><input type="checkbox" id="c-${s.id}" ${i === 0 ? 'checked' : ''}><span>${s.name}</span></label>`).join('')}</div></div>
-        <div class="field"><label for="f-city">Ciudad del proyecto</label><input id="f-city" placeholder="Barranquilla"></div>
-        <div class="field"><label for="f-area">Área construida</label><select id="f-area"><option>Hasta 2.000 m²</option><option>De 2.000 a 10.000 m²</option><option>Más de 10.000 m²</option><option>No lo sé todavía</option></select><p class="hint" id="f-area-hint" aria-live="polite"></p></div>
-        <div class="field full"><label for="f-msg">Cuéntenos del proyecto</label><textarea id="f-msg" placeholder="Ubicación, número de pisos, etapa en la que está, fecha estimada de inicio…"></textarea></div>
+        <div class="field"><label for="f-mail">Correo o WhatsApp</label><input id="f-mail" required autocomplete="email" inputmode="email" placeholder="nombre@empresa.com o 300 123 4567"></div>
+        <fieldset class="field full f-reply"><legend class="lbl">¿Cómo prefiere que le respondamos?</legend><div class="pick"><label><input type="radio" name="f-reply" value="correo" checked><span>Por correo</span></label><label><input type="radio" name="f-reply" value="llamada"><span>Una llamada</span></label></div></fieldset>
+        <div class="f-call" id="f-call" inert><div class="f-call-in">
+          <div class="field"><label for="f-tel">Teléfono o WhatsApp</label><input id="f-tel" type="tel" autocomplete="tel" inputmode="tel"></div>
+          <div class="field"><span class="lbl" id="f-days-l">¿Cuándo le queda bien? <small>Hora de Colombia</small></span><div class="pick" id="f-days" role="group" aria-labelledby="f-days-l"></div><div class="pick" role="group" aria-labelledby="f-days-l"><label><input type="checkbox" name="f-win" value="mañana (8 a 12)"><span>Mañana 8–12</span></label><label><input type="checkbox" name="f-win" value="tarde (2 a 5)"><span>Tarde 2–5</span></label></div></div>
+          <div class="field"><label for="f-when">Otro horario</label><input id="f-when" placeholder="Por ejemplo: jueves después de las 4"></div>
+        </div></div>
+        <div class="field full"><label for="f-msg">Cuéntenos de su proyecto en una línea</label><textarea id="f-msg" rows="2" placeholder="Por ejemplo: un edificio de 8 pisos en Barranquilla, vamos a radicar la licencia"></textarea></div>
+        <details class="field full f-more" id="f-more"><summary>Agregar detalles (opcional)</summary><div class="f-more-in">
+          <div class="field"><label for="f-co">Empresa</label><input id="f-co" autocomplete="organization"></div>
+          <div class="field"><label for="f-city">Ciudad del proyecto</label><input id="f-city" placeholder="Barranquilla"></div>
+          <div class="field full"><label for="f-stage">¿En qué etapa está?</label><select id="f-stage"><option value="">Sin especificar</option>${['Tengo un lote y una idea', 'Voy a radicar la licencia', 'Voy a empezar a construir', 'La obra ya está en marcha', 'Es un edificio existente'].map(o => `<option value="${o}">${o}</option>`).join('')}</select></div>
+          <div class="field full"><span class="lbl">¿Qué necesita?</span><div class="pick">${SVC.map(s => `<label><input type="checkbox" id="c-${s.id}"><span>${s.name}</span></label>`).join('')}</div></div>
+          <div class="field full"><label for="f-area">Área construida</label><select id="f-area"><option value="">Sin especificar</option>${['Hasta 2.000 m²', 'De 2.000 a 10.000 m²', 'Más de 10.000 m²', 'No lo sé todavía'].map(o => `<option value="${o}">${o}</option>`).join('')}</select><p class="hint" id="f-area-hint" aria-live="polite"></p></div>
+        </div></details>
         <label class="consent"><input type="checkbox" id="f-ok"><span>Autorizo a DDES a tratar mis datos para responder esta solicitud, según la <a href="#privacidad">política de tratamiento de datos</a> (Ley 1581 de 2012).</span></label>
-        <input type="text" name="_honey" class="vh" tabindex="-1" autocomplete="off" aria-hidden="true"><div class="btns" style="justify-self:start;align-items:center"><button class="btn primary nut" type="submit" data-via="web">${NUT}<span>Enviar solicitud</span></button><button class="btn" type="submit" data-via="correo">Enviar desde mi correo</button></div><p class="form-alt">¿Prefiere hablar? <a href="https://wa.me/573002021920" target="_blank" rel="noopener">Escríbanos por WhatsApp</a>.</p><p class="form-msg" id="fmsg" role="status"></p>
+        <input type="text" name="_honey" class="vh" tabindex="-1" autocomplete="off" aria-hidden="true"><div class="btns" style="justify-self:start;align-items:center"><button class="btn primary nut" type="submit" data-via="web">${NUT}<span>Enviar solicitud</span></button><button class="btn" type="submit" data-via="correo">Enviar desde mi correo</button></div><p class="form-msg" id="fmsg" role="status"></p>
       </form></div>`;
   },
   privacy() {
@@ -1086,9 +1094,9 @@ if (matchMedia('(pointer: fine)').matches && !reduce) { const mg = nav.querySele
 // Barranquilla local time
 const clock = document.getElementById('clock');
 let clockF = null;
-const tick = () => { try { clockF = clockF || new Intl.DateTimeFormat('es-CO', {hour: 'numeric', minute: '2-digit', timeZone: 'America/Bogota'}); const v = clockF.format(new Date()); if (clock.textContent !== v) clock.textContent = v; } catch (e) {} };
+const tick = () => { try { clockF = clockF || new Intl.DateTimeFormat(LANG === 'en' ? 'en-US' : 'es-CO', {hour: 'numeric', minute: '2-digit', timeZone: 'America/Bogota'}); const v = clockF.format(new Date()); if (clock.textContent !== v) clock.textContent = v; } catch (e) {} };
 (window.requestIdleCallback || setTimeout)(tick, {timeout: 1200}); setInterval(tick, 30000);
-try { document.getElementById('rt-fecha').textContent = new Intl.DateTimeFormat('es-CO', {day: '2-digit', month: '2-digit', year: 'numeric', timeZone: 'America/Bogota'}).format(new Date()).replace(/\//g, '-'); } catch (e) {}
+const stamp = () => { try { document.getElementById('rt-fecha').textContent = new Intl.DateTimeFormat(LANG === 'en' ? 'en-US' : 'es-CO', {day: '2-digit', month: '2-digit', year: 'numeric', timeZone: 'America/Bogota'}).format(new Date()).replace(/\//g, '-'); } catch (e) {} }; stamp();
 
 const routes = [
   {re: /^(inicio)?$/, page: () => PAGES.home(), sec: '', title: () => ''},
@@ -1112,11 +1120,43 @@ const routes = [
 // Real addresses: published, the page carries <meta name="ddes:paths"> and every page has its own URL (/servicios/) for search
 // engines and for sharing; the router keeps thinking in '#servicios'. Without the meta (the preview) links stay #links.
 const PATHS = !!document.querySelector('meta[name="ddes:paths"]');
-const k2p = h => { const k = String(h).replace(/^#/, ''); return !k || k === 'inicio' ? '/' : '/' + k + '/'; };
-const here = () => { if (!PATHS) return location.hash; let k = ''; try { k = decodeURIComponent(location.pathname).replace(/^\/+|\/+$/g, ''); } catch (e) {} return k ? '#' + k : ''; };
+// Two languages. Spanish is the site; the English pages live under /en/<english-slug>/ and are the same pages, put into English
+// by ddes-en.js (deploy/build.mjs publishes it as /en.<hash>.js; it loads only when English is shown). The router keeps thinking
+// in Spanish keys ('#servicios'); only the address changes. The one table of addresses, both ways: k2en (key -> English slug)
+// and en2k (its inverse, over every page). A new page gets its English slug here (or keeps its key under /en/).
+const ENFIX = {nosotros: 'about', servicios: 'services', ley: 'law-1796', experiencia: 'projects', perspectivas: 'insights', herramientas: 'tools', 'amenaza-sismica': 'seismic-hazard', 'espectro-nsr10': 'design-spectrum-nsr10', cobertura: 'where-we-work', contacto: 'contact', privacidad: 'privacy'};
+const ENSVC = {diseno: 'structural-design', interventoria: 'construction-oversight', supervision: 'technical-supervision', revision: 'design-review', patologia: 'assessment-and-retrofit', bim: 'bim-coordination'};
+const ENCAT = {edificios: 'buildings', industrial: 'industrial', infraestructura: 'infrastructure', comercial: 'commercial', institucional: 'institutional'};
+const ENART = {'amenaza-sismica-costa': 'seismic-hazard-caribbean-coast', arcillas: 'expansive-clays', 'casas-uno-dos-pisos': 'one-and-two-story-houses', 'caso-cali-terremoto-2026': 'case-study-cali-earthquake-2026', 'caso-pereira-terremoto-2026': 'case-study-pereira-earthquake-2026', cloruros: 'chlorides-in-concrete', 'concreto-salitre': 'concrete-and-salt-air', cto: 'certificate-of-occupancy-cto', derivas: 'story-drift', 'diseno-estructural-colombia': 'structural-design-in-colombia', 'edificios-existentes': 'existing-buildings', 'elementos-no-estructurales': 'nonstructural-elements', 'ensayo-cilindros': 'concrete-cylinder-tests', 'estudio-de-suelos': 'geotechnical-study', fisuras: 'cracks', 'grupos-de-uso': 'occupancy-groups', 'interventoria-de-obra': 'construction-oversight-interventoria', ley1796: 'law-1796-explained', 'perfil-de-suelo': 'soil-profile-site-class', 'revision-supervision': 'design-review-vs-supervision', 'sismo-barranquilla': 'earthquake-risk-barranquilla', 'supervision-titulo-i': 'technical-supervision-title-i', 'vulnerabilidad-sismica': 'seismic-vulnerability-study'};
+const k2en = k => { let m; if (!k || k === 'inicio') return ''; if (ENFIX[k]) return ENFIX[k];
+  if ((m = /^servicio-(\w+)$/.exec(k))) return 'service-' + (ENSVC[m[1]] || m[1]); if ((m = /^experiencia-(\w+)$/.exec(k))) return 'projects-' + (ENCAT[m[1]] || m[1]);
+  if ((m = /^proyecto-(\w+)$/.exec(k))) return 'project-' + m[1]; if ((m = /^articulo-([\w-]+)$/.exec(k))) return 'article-' + (ENART[m[1]] || m[1]);
+  if ((m = /^amenaza-sismica-([\w-]+)$/.exec(k))) return 'seismic-hazard-' + m[1]; if ((m = /^ingenieria-estructural-([\w-]+)$/.exec(k))) return 'structural-engineering-' + m[1];
+  return k; };
+const ALLKEYS = () => ['', 'nosotros', 'servicios', 'ley', ...SVC.map(s => 'servicio-' + s.id), 'experiencia', ...Object.keys(CATS).map(c => 'experiencia-' + c), ...PRJ.map(p => 'proyecto-' + p.id), 'perspectivas', ...ART.map(a => 'articulo-' + a.id), ...NSRKEYS(), 'contacto', 'privacidad'];
+let EN2K = null; const en2k = slug => (EN2K || (EN2K = new Map(ALLKEYS().map(k => [k2en(k), k])))).get(slug);
+const langOf = () => PATHS && /^\/en(\/|$)/.test(location.pathname) ? 'en' : 'es';
+let LANG = langOf(); const LANG_BOOT = LANG, LANG_ATTR = document.documentElement.lang || 'es';
+// a Spanish string as the visitor reads it (the English dictionary when the page is in English)
+const tx = t => LANG === 'en' && window.EN ? EN.str(t) : t;
+const loadEN = () => window.EN ? Promise.resolve() : loadEN.p || (loadEN.p = new Promise((ok, no) => { const sc = document.createElement('script'); sc.src = (document.querySelector('meta[name="ddes:en"]') || {}).content || 'en.js'; sc.onload = ok; sc.onerror = () => { loadEN.p = null; no(); }; document.head.appendChild(sc); }));
+const k2p = (h, l = LANG) => { const k = String(h).replace(/^#/, ''); if (l === 'en') { const e = k2en(k); return e ? '/en/' + e + '/' : '/en/'; } return !k || k === 'inicio' ? '/' : '/' + k + '/'; };
+const here = () => { if (!PATHS) return location.hash; let k = ''; try { k = decodeURIComponent(location.pathname).replace(/^\/+|\/+$/g, ''); } catch (e) {}
+  if (/^en(\/|$)/.test(k)) { k = k.slice(3); if (k) { const s = en2k(k); if (s != null) k = s; } } return k ? '#' + k : ''; };
 const hrefOf = a => a.dataset.h || a.getAttribute('href'), linkSel = 'a[href^="#"],a[data-h]';
 const pathLink = a => { const h = a.getAttribute('href'), k = h.slice(1); if (k && routes.some(r => r.re.test(k))) { a.dataset.h = h; a.setAttribute('href', k2p(h)); } };
 const goTo = h => { if (!PATHS) { location.hash = h; return; } history.pushState(null, '', k2p(h)); dispatchEvent(new HashChangeEvent('hashchange')); };
+const relink = () => document.querySelectorAll('a[data-h]').forEach(a => a.setAttribute('href', k2p(a.dataset.h)));
+const langUI = () => { const k = here() || '#inicio'; document.querySelectorAll('a[data-lang]').forEach(a => { const l = a.dataset.lang; a.setAttribute('href', k2p(k, l)); if (a.closest('.lang') && !a.closest('.lang-prompt')) a.toggleAttribute('aria-current', l === LANG), a.hasAttribute('aria-current') && a.setAttribute('aria-current', 'true'); });
+  const pr = document.querySelector('.lang-prompt'); if (pr && LANG === 'en') pr.remove(); };
+// the page's language changes (switch, back/forward): the header, menus and footer follow; the page itself is drawn by route()
+let shellLang = 'es';
+function langSet(l) {
+  LANG = l; shellLang = l; document.documentElement.lang = l === 'en' ? 'en' : LANG_ATTR;
+  clockF = null; tick(); stamp();
+  if (window.EN) EN.shell(l);
+  relink();
+}
 const pathLinks = (root = document) => { if (!PATHS) return; if (root.matches && root.matches('a[href^="#"]')) pathLink(root); root.querySelectorAll('a[href^="#"]').forEach(pathLink); };
 // Measurement (Google Analytics on the published site; does nothing in the preview): the moments that matter to the firm
 const track = (name, params = {}) => { try { if (typeof gtag === 'function') gtag('event', name, params); } catch (e) {} };
@@ -1195,6 +1235,7 @@ function sCharge() {
   if (document.documentElement.classList.contains('pre')) setTimeout(start, 2700); else start();
 }
 function route() {
+  { const l = langOf(); if (l !== shellLang) { if (l === 'en' && !window.EN) { loadEN().then(route, () => {}); return; } langSet(l); } }
   let h = ''; try { h = decodeURIComponent(here().slice(1)); } catch (e) {}
   const known = !h || routes.some(x => x.re.test(h));
   let r = routes.find(x => x.re.test(h)) || routes[0], m = h.match(r.re) || [''], html = null;
@@ -1206,19 +1247,21 @@ function route() {
   leaveFns.forEach(f => f()); leaveFns.clear(); scrollFns.clear();
   // Arriving through the drop, the page is already whole: its own entrance (rising lines, settling photo) would be a second step
   app.classList.toggle('arrive', routed && !reduce && SVT);
-  if (!keep) app.innerHTML = html; pathLinks(app);
+  if (!keep) { if (LANG === 'en') html = EN.page(html); app.innerHTML = html; if (LANG === 'en') EN.quiet(); } pathLinks(app);
   nav.querySelectorAll('[data-sec]').forEach(a => a.dataset.sec === r.sec ? a.setAttribute('aria-current', 'page') : a.removeAttribute('aria-current'));
   navSync(r.sec);
-  const t = r.title(m); document.title = t ? `${t} · DDES` : 'DDES · Ingeniería estructural en Barranquilla';
-  const sh = sheetOf(known ? h : ''), rh = document.getElementById('rt-hoja'); if (rh) rh.textContent = sh + ' · ' + (t || 'Inicio');
-  const cr = app.querySelector('.crumbs'); if (cr) cr.insertAdjacentHTML('afterbegin', `<span class="sheet" title="Hoja del juego de planos">${sh}</span>`);
+  const t = tx(r.title(m)); document.title = t ? `${t} · DDES` : tx('DDES · Ingeniería estructural en Barranquilla');
+  const sh = sheetOf(known ? h : ''), rh = document.getElementById('rt-hoja'); if (rh) rh.textContent = sh + ' · ' + (t || tx('Inicio'));
+  const cr = app.querySelector('.crumbs'); if (cr) cr.insertAdjacentHTML('afterbegin', `<span class="sheet" title="${tx('Hoja del juego de planos')}">${sh}</span>`);
   window.scrollTo(0, 0);
   app.classList.remove('leave'); if (!SVT) { app.style.animation = 'none'; void app.offsetWidth; app.style.animation = ''; } else app.style.animation = 'none';
   wire(h);
   darkT = 0; hdrState();
   glassify();
   if (r.anchor) { const el = document.getElementById(r.anchor); if (el) cvAll(), window.scrollTo(0, Math.max(0, el.getBoundingClientRect().top + scrollY - topEl.offsetHeight - 16)); }
-  if (!known) toast('Esa página no está en los planos. Le trajimos al inicio.');
+  if (!known) toast(tx('Esa página no está en los planos. Le trajimos al inicio.'));
+  if (langJump) { const el = document.getElementById(langJump); langJump = null; if (el && el.closest('#app')) { cvAll(); window.scrollTo(0, Math.max(0, el.getBoundingClientRect().top + scrollY - topEl.offsetHeight - 16)); } }
+  langUI();
   // Keyboard and screen-reader users land on the new page's heading, not on a link that no longer exists
   if (routed) { const h1 = app.querySelector('h1'); if (h1) { h1.tabIndex = -1; h1.focus({preventScroll: true}); } }
   boldName(app);
@@ -1345,14 +1388,14 @@ function beamHero() {
     g.strokeStyle = rg; g.lineWidth = hl; g.beginPath(); g.moveTo(B.x, y0 - .5); g.lineTo(B.x + B.w, y0 - .5); g.stroke();
     g.strokeStyle = 'rgba(255,255,255,.8)'; g.beginPath(); g.moveTo(x, y0 - 7); g.lineTo(x, y1); g.stroke();
     g.fillStyle = '#fff'; for (const yy of [y0, y1]) { g.beginPath(); g.arc(x, yy, 1.9, 0, 6.2832); g.fill(); }
-    const mm = (D / (B.h * .46) * (hold ? 34.1 : 48)).toFixed(1).replace('.', ',');
+    const mm = (D / (B.h * .46) * (hold ? 34.1 : 48)).toFixed(1).replace('.', LANG === 'en' ? '.' : ',');
     try { g.fontVariantNumeric = 'tabular-nums'; } catch (e) {} g.textBaseline = 'alphabetic'; g.textAlign = 'left';
     const by = y0 - 13, fv = sm ? 15 : 17; let tx = x + 10;
     g.font = `italic 300 ${fv * 1.25}px Newsreader, Georgia, serif`; g.fillStyle = '#fff'; g.fillText('δ', tx, by); tx += g.measureText('δ').width + 6;
     g.font = `300 ${fv}px ${font}`; g.fillText(mm, tx, by); tx += g.measureText(mm).width + 4;
     g.font = `400 ${fv * .62}px ${font}`; g.fillStyle = 'rgba(255,255,255,.62)'; g.fillText('mm', tx, by); tx += g.measureText('mm').width;
     if (adm > .01) { g.globalAlpha = a * adm; g.font = `500 ${sm ? 9 : 9.5}px ${font}`; try { g.letterSpacing = '1.6px'; } catch (e) {} g.fillStyle = 'rgba(255,255,255,.5)';
-      const lim = 'ADMISIBLE  L/240 · 33,3 MM', lw = g.measureText(lim).width;
+      const lim = LANG === 'en' ? 'ALLOWABLE  L/240 · 33.3 MM' : 'ADMISIBLE  L/240 · 33,3 MM', lw = g.measureText(lim).width;
       if (tx + 22 + lw < W - 24) { g.fillRect(tx + 11, by - fv * .62, hl, fv * .62); g.fillText(lim, tx + 22, by - 1); }
       else g.fillText(lim, x + 10, by - fv * 1.55); try { g.letterSpacing = '0px'; } catch (e) {} }
     g.restore(); };
@@ -1426,20 +1469,35 @@ function wire(h) {
   mzDrag(); etapas();
   hscroll();
   deferLaw();
-  // Contact form prefilled by the law assistant
+  // Contact form: short (name, email or WhatsApp, one line); the rest folded under "Agregar detalles", opened when a tool
+  // or the law assistant already filled it; a call instead of an email, on the days and hours that suit the visitor
   const cf = document.getElementById('cform');
-  if (cf) { try { const d = JSON.parse(sessionStorage.getItem('ddes-ley') || 'null'); if (d) {
-    const sel = cf.querySelector('#f-area'); sel.selectedIndex = d.area <= 2000 ? 0 : d.area <= 10000 ? 1 : 2;
-    cf.querySelector('#f-msg').value = `${d.usoTxt}, ${d.pisos} pisos, ${d.area.toLocaleString('es-CO')} m². ${d.summary}`;
-    ['c-revision', 'c-supervision'].forEach(id => { const c = cf.querySelector('#' + id); if (c && d.big) c.checked = true; });
-    sessionStorage.removeItem('ddes-ley'); } } catch (e) {} }
-  // ... or by a tool, a city page or a service page (data-lead on the link that brought the visitor here)
-  if (cf) { try { const d = JSON.parse(sessionStorage.getItem('ddes-nsr') || 'null'); if (d) {
-    if (d.city) cf.querySelector('#f-city').value = d.city; if (d.msg) cf.querySelector('#f-msg').value = d.msg;
-    if (d.svc) cf.querySelectorAll('.pick input').forEach(c => { c.checked = d.svc.includes(c.id.slice(2)); });
-    sessionStorage.removeItem('ddes-nsr'); } } catch (e) {} }
+  if (cf) {
+    const more = cf.querySelector('#f-more'), call = cf.querySelector('#f-call');
+    // the next five business days in Colombia (Monday to Friday; today only before 3 p. m., Bogotá time)
+    try { const p = {}; new Intl.DateTimeFormat('en-US', {timeZone: 'America/Bogota', year: 'numeric', month: 'numeric', day: 'numeric', hour: 'numeric', hourCycle: 'h23'}).formatToParts(new Date()).forEach(x => { p[x.type] = Number(x.value); });
+      const d = new Date(Date.UTC(p.year, p.month - 1, p.day, 12)), list = []; if (p.hour >= 15) d.setUTCDate(d.getUTCDate() + 1);
+      while (list.length < 5) { const w = d.getUTCDay(); if (w > 0 && w < 6) list.push(new Date(d)); d.setUTCDate(d.getUTCDate() + 1); }
+      const U = {timeZone: 'UTC'};
+      cf.querySelector('#f-days').innerHTML = list.map(x => `<label><input type="checkbox" name="f-day" value="${x.toLocaleDateString('es-CO', {...U, weekday: 'long', day: 'numeric', month: 'long'})}"><span>${LANG === 'en' ? x.toLocaleDateString('en-US', {...U, weekday: 'short', month: 'short', day: 'numeric'}).replace(',', '') : cap1(x.toLocaleDateString('es-CO', {...U, weekday: 'short'}).replace('.', '')) + ' ' + x.getUTCDate()}</span></label>`).join(''); } catch (e) {}
+    const setCall = () => { const on = cf.querySelector('input[name=f-reply]:checked').value === 'llamada'; call.classList.toggle('on', on); call.inert = !on; };
+    cf.querySelectorAll('input[name=f-reply]').forEach(r => r.addEventListener('change', setCall)); setCall();
+    // prefilled by the law assistant
+    try { const d = JSON.parse(sessionStorage.getItem('ddes-ley') || 'null'); if (d) {
+      cf.querySelector('#f-area').selectedIndex = (d.area <= 2000 ? 0 : d.area <= 10000 ? 1 : 2) + 1;
+      cf.querySelector('#f-msg').value = `${tx(d.usoTxt)}, ${tx(d.pisos + ' pisos')}, ${d.area.toLocaleString(LANG === 'en' ? 'en-US' : 'es-CO')} m². ${tx(d.summary)}`;
+      ['c-revision', 'c-supervision'].forEach(id => { const c = cf.querySelector('#' + id); if (c && d.big) c.checked = true; });
+      more.open = true; sessionStorage.removeItem('ddes-ley'); } } catch (e) {}
+    // ... or by a tool, a city page or a service page (data-lead on the link that brought the visitor here)
+    try { const d = JSON.parse(sessionStorage.getItem('ddes-nsr') || 'null'); if (d) {
+      if (d.city) cf.querySelector('#f-city').value = d.city; if (d.msg) cf.querySelector('#f-msg').value = tx(d.msg);
+      if (d.svc) cf.querySelectorAll('.pick input[id^="c-"]').forEach(c => { c.checked = d.svc.includes(c.id.slice(2)); });
+      if (d.city || (d.svc && d.svc.length)) more.open = true; sessionStorage.removeItem('ddes-nsr'); } } catch (e) {}
+    // "Escríbanos o pida una llamada" on another page: arrive at the form, cursor in the first field
+    try { if (sessionStorage.getItem('ddes-form')) { sessionStorage.removeItem('ddes-form'); setTimeout(toForm, 60); } } catch (e) {}
+  }
   const fa = document.getElementById('f-area');
-  if (fa) { const hint = document.getElementById('f-area-hint'), say = () => { hint.textContent = fa.selectedIndex === 1 || fa.selectedIndex === 2 ? 'Con esta área la Ley 1796 exige revisión independiente del diseño y supervisión técnica.' : fa.selectedIndex === 3 ? 'Si el lote permite construir más de 2.000 m², la ley exige revisión y supervisión independientes.' : ''; }; fa.addEventListener('change', say); say(); }
+  if (fa) { const hint = document.getElementById('f-area-hint'), say = () => { hint.textContent = fa.selectedIndex === 2 || fa.selectedIndex === 3 ? tx('Con esta área la Ley 1796 exige revisión independiente del diseño y supervisión técnica.') : fa.selectedIndex === 4 ? tx('Si el lote permite construir más de 2.000 m², la ley exige revisión y supervisión independientes.') : ''; }; fa.addEventListener('change', say); say(); }
   details();
   nsrWire();
   // Exploded node
@@ -1481,34 +1539,46 @@ function wire(h) {
   const f = document.getElementById('cform');
   if (f) f.addEventListener('submit', e => {
     e.preventDefault();
-    const name = f.querySelector('#f-name'), mail = f.querySelector('#f-mail'), okc = f.querySelector('#f-ok'), out = document.getElementById('fmsg'), bad = [];
+    const $ = id => f.querySelector('#' + id), name = $('f-name'), mail = $('f-mail'), tel = $('f-tel'), okc = $('f-ok'), out = document.getElementById('fmsg'), bad = [];
+    const cv = mail.value.trim(), isMail = /^\S+@\S+\.\S+$/.test(cv), isTel = t => /^\+?\d{7,15}$/.test(t.replace(/[\s().-]/g, ''));
+    const callMe = f.querySelector('input[name=f-reply]:checked').value === 'llamada', phone = tel.value.trim() || (isMail ? '' : cv);
     if (!name.value.trim()) bad.push(name);
-    if (!/^\S+@\S+\.\S+$/.test(mail.value.trim())) bad.push(mail);
+    if (!isMail && !isTel(cv)) bad.push(mail);
+    if (callMe && !isTel(phone)) bad.push(tel);
     if (!okc.checked) bad.push(okc);
-    [name, mail, okc].forEach(el => el.setAttribute('aria-invalid', bad.includes(el)));
-    if (bad.length) { out.textContent = bad.length === 1 && bad[0] === okc ? 'Para responderle necesitamos su autorización para tratar sus datos.' : 'Escriba su nombre y un correo válido para poder responderle.'; bad[0].focus(); return; }
+    [name, mail, tel, okc].forEach(el => el.setAttribute('aria-invalid', bad.includes(el)));
+    if (bad.length) { out.textContent = bad[0] === okc ? tx('Para responderle necesitamos su autorización para tratar sus datos.') : bad[0] === tel ? tx('Para llamarle necesitamos un teléfono o WhatsApp.') : tx('Escriba su nombre y un correo o un número de WhatsApp para poder responderle.'); bad[0].focus(); return; }
     f.querySelector('.nut')?.classList.add('torqued');
-    const v = id => (f.querySelector('#' + id) || {}).value || '', svcs = [...f.querySelectorAll('.pick input:checked')].map(i => i.nextElementSibling.textContent).join(', ');
-    const body = [['Nombre', v('f-name')], ['Empresa', v('f-co')], ['Correo', v('f-mail')], ['Teléfono', v('f-tel')], ['Etapa', v('f-stage')], ['Servicios', svcs],
-      ['Ciudad del proyecto', v('f-city')], ['Área construida', v('f-area')], ['Proyecto', v('f-msg')]].filter(r => r[1].trim()).map(r => `${r[0]}: ${r[1].trim()}`).join('\n');
-    const via = (e.submitter && e.submitter.dataset.via) || 'web', who = name.value.trim().replace(/[<&]/g, ''), subject = 'Solicitud de propuesta — ' + v('f-name').trim();
+    const v = id => ($(id) || {}).value || '', svcs = [...f.querySelectorAll('.pick input[id^="c-"]:checked')].map(i => svc(i.id.slice(2)).name).join(', ');
+    const days = [...f.querySelectorAll('input[name=f-day]:checked')].map(i => i.value).join('; '), wins = [...f.querySelectorAll('input[name=f-win]:checked')].map(i => i.value).join(', ');
+    // the team reads the request in Spanish; how to answer goes first
+    const rows = [['Prefiere', callMe ? 'llamada' : 'correo']];
+    if (callMe) rows.push(['Llamar al', phone], ['Días', days || 'sin preferencia'], ['Franja (hora de Colombia)', wins || 'sin preferencia'], ['Otro horario', v('f-when')]);
+    if (LANG === 'en') rows.push(['Sitio', 'Escribió desde la versión en inglés del sitio (ddes.co/en/)']);
+    rows.push(['Nombre', v('f-name')], isMail ? ['Correo', cv] : ['WhatsApp/Teléfono', cv], ['Proyecto', v('f-msg')], ['Empresa', v('f-co')], ['Etapa', v('f-stage')], ['Servicios', svcs], ['Ciudad del proyecto', v('f-city')], ['Área construida', v('f-area')]);
+    const body = rows.filter(r => r[1].trim()).map(r => `${r[0]}: ${r[1].trim()}`).join('\n');
+    const via = (e.submitter && e.submitter.dataset.via) || 'web', who = name.value.trim().replace(/[<&]/g, ''), subject = 'Solicitud de propuesta' + (LANG === 'en' ? ' (English site)' : '') + ' — ' + v('f-name').trim();
     if (f.querySelector('[name=_honey]').value) return;
-    track('generate_lead', {method: via, etapa: v('f-stage'), servicios: svcs, area: v('f-area')});
+    track('generate_lead', {method: via, etapa: v('f-stage'), servicios: svcs, area: v('f-area'), respuesta: callMe ? 'llamada' : 'correo', idioma: LANG});
+    const wa = '<a href="https://wa.me/573002021920" target="_blank" rel="noopener">WhatsApp</a>', put = (t, ...x) => x.reduce((m, y, i) => m.replace('{' + i + '}', y), tx(t));
     if (via === 'correo') {
       location.href = `mailto:gerencia@ddes.co?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
-      out.innerHTML = `Gracias, ${who}. Su correo se abrió con la solicitud lista para enviar. Si no se abrió, use «Enviar solicitud» o escríbanos por <a href="https://wa.me/573002021920" target="_blank" rel="noopener">WhatsApp</a>.`;
+      out.innerHTML = put('Gracias, {0}. Su correo se abrió con la solicitud lista para enviar. Si no se abrió, use «Enviar solicitud» o escríbanos por {1}.', who, wa);
       return;
     }
-    const btns = f.querySelectorAll('button[type=submit]'); btns.forEach(x => x.disabled = true); out.textContent = 'Enviando…';
+    const btns = f.querySelectorAll('button[type=submit]'); btns.forEach(x => x.disabled = true); out.textContent = tx('Enviando…');
     // every request also reaches a copy (the address is split so that simple scrapers do not collect it)
-    const data = {_subject: subject, _template: 'table', _replyto: v('f-mail').trim(), _captcha: 'false', _cc: ['juandabarrios12', 'gmail.com'].join('@')};
+    const data = {_subject: subject, _template: 'table', _captcha: 'false', _cc: ['juandabarrios12', 'gmail.com'].join('@')}; if (isMail) data._replyto = cv;
     body.split('\n').forEach(l => { const k = l.indexOf(': '); data[l.slice(0, k)] = l.slice(k + 2); });
+    const safe = t => t.replace(/[<&]/g, '');
     fetch('https://formsubmit.co/ajax/gerencia@ddes.co', {method: 'POST', headers: {'Content-Type': 'application/json', Accept: 'application/json'}, body: JSON.stringify(data)})
       .then(r => r.json()).then(j => { if (String(j.success) !== 'true') throw new Error(j.message || 'no enviado');
-        out.innerHTML = `Gracias, ${who}. Recibimos su solicitud: un ingeniero le responde a ${v('f-mail').trim().replace(/[<&]/g, '')} con una propuesta.`; f.reset(); })
-      .catch(() => { out.innerHTML = `No pudimos enviarla desde aquí. Use «Enviar desde mi correo» o escríbanos por <a href="https://wa.me/573002021920" target="_blank" rel="noopener">WhatsApp</a>.`; })
+        out.innerHTML = callMe ? put('Gracias, {0}. Recibimos su solicitud: un ingeniero le llama al {1}.', who, safe(phone)) : isMail ? put('Gracias, {0}. Recibimos su solicitud: un ingeniero le responde a {1} con una propuesta.', who, safe(cv)) : put('Gracias, {0}. Recibimos su solicitud: un ingeniero le escribe por WhatsApp al {1}.', who, safe(cv));
+        f.reset(); setCall2(); })
+      .catch(() => { out.innerHTML = put('No pudimos enviarla desde aquí. Use «Enviar desde mi correo» o escríbanos por {0}.', wa); })
       .finally(() => btns.forEach(x => x.disabled = false));
   });
+  function setCall2() { const c = document.getElementById('f-call'); if (c) { c.classList.remove('on'); c.inert = true; } }
 }
 
 // 2 · Each service row sits on a simply supported beam. Hovering applies a point load P at the cursor:
@@ -2047,7 +2117,7 @@ const UI = (() => {
   const bar = document.querySelector('.tabbar'), cap = bar.querySelector('.tb-cap'), row = bar.querySelector('.tb-row'), tabs = [...row.querySelectorAll('a')];
   const more = document.getElementById('tb-more'), sheet = document.getElementById('sheet'), mq = matchMedia('(max-width: 1060px)');
   const DARK = '.mani,.hero,.hhero,.hs,.obra,.band:not(.lite),.grow,.touch,.ley-band';
-  sheet.querySelector('.sh-in').innerHTML = `<nav aria-label="Secciones">${[['inicio', 'Inicio', ''], ['nosotros', 'Nosotros', 'nosotros'], ['servicios', 'Servicios', 'servicios'], ['experiencia', 'Experiencia', 'experiencia'], ['perspectivas', 'Perspectivas', 'perspectivas'], ['contacto', 'Contacto', 'contacto']].map(([h, t, sec]) => `<a href="#${h}" data-sec="${sec}">${t}</a>`).join('')}</nav>
+  sheet.querySelector('.sh-in').innerHTML = `<nav class="lang sh-lang" aria-label="Idioma"><a href="${k2p(here() || '#inicio', 'es')}" hreflang="es" lang="es" data-lang="es"${LANG === 'es' ? ' aria-current="true"' : ''}>ES</a><i aria-hidden="true">|</i><a href="${k2p(here() || '#inicio', 'en')}" hreflang="en" lang="en" data-lang="en"${LANG === 'en' ? ' aria-current="true"' : ''}>EN</a></nav><nav aria-label="Secciones">${[['inicio', 'Inicio', ''], ['nosotros', 'Nosotros', 'nosotros'], ['servicios', 'Servicios', 'servicios'], ['experiencia', 'Experiencia', 'experiencia'], ['perspectivas', 'Perspectivas', 'perspectivas'], ['contacto', 'Contacto', 'contacto']].map(([h, t, sec]) => `<a href="#${h}" data-sec="${sec}">${t}</a>`).join('')}</nav>
     <div class="sh-svc">${SVC.map(v => `<a href="#servicio-${v.id}">${v.name}</a>`).join('')}</div><a class="btn primary" href="#contacto">Pedir propuesta</a><p class="sh-note"><a href="https://wa.me/573002021920" target="_blank" rel="noopener">WhatsApp +57 300 202 1920</a> · <a href="mailto:gerencia@ddes.co">gerencia@ddes.co</a></p>`;
   let press = null, comp = 0, compT = 0, full = 0, lastSY = 0, craf = 0, tq = 0;
   const current = () => tabs.find(a => a.getAttribute('aria-current') === 'page');
@@ -2423,7 +2493,7 @@ function details() {
   const seen = new Set();
   app.querySelectorAll('.intro p, .zz p, .article p, .faq details p, .story p, .law, .steps p').forEach(par => {
     const walk = document.createTreeWalker(par, NodeFilter.SHOW_TEXT), nodes = []; while (walk.nextNode()) nodes.push(walk.currentNode);
-    nodes.forEach(n => { for (const [term, def] of GLOSS) { if (seen.has(term)) continue; const i = n.nodeValue.indexOf(term); if (i < 0 || n.parentElement.closest('a,.gl-term')) continue; const rg = document.createRange(); rg.setStart(n, i); rg.setEnd(n, i + term.length); const sp = document.createElement('span'); sp.className = 'gl-term'; sp.tabIndex = 0; sp.dataset.def = def; rg.surroundContents(sp); seen.add(term); break; } });
+    nodes.forEach(n => { for (const [term, def] of (LANG === 'en' && window.EN && EN.GLOSS) || GLOSS) { if (seen.has(term)) continue; const i = n.nodeValue.indexOf(term); if (i < 0 || n.parentElement.closest('a,.gl-term')) continue; const rg = document.createRange(); rg.setStart(n, i); rg.setEnd(n, i + term.length); const sp = document.createElement('span'); sp.className = 'gl-term'; sp.tabIndex = 0; sp.dataset.def = def; rg.surroundContents(sp); seen.add(term); break; } });
   });
   // The big words carry a dimension line: hover one and the site measures it, in millimetres on your screen
   app.querySelectorAll('.hhero:not(.hh-scene) .hello, .bigword').forEach(w => {
@@ -2431,7 +2501,7 @@ function details() {
     w.addEventListener('pointerenter', () => {
       const rg = document.createRange(); rg.selectNodeContents(w); const t = rg.getBoundingClientRect(), H = host.getBoundingClientRect();
       if (!dim) { dim = document.createElement('span'); dim.className = 'dim'; dim.setAttribute('aria-hidden', 'true'); host.appendChild(dim); }
-      dim.innerHTML = `<b>≈ ${Math.round(t.width * 25.4 / 96).toLocaleString('es-CO')} mm</b>`;
+      dim.innerHTML = `<b>≈ ${Math.round(t.width * 25.4 / 96).toLocaleString(LANG === 'en' ? 'en-US' : 'es-CO')} mm</b>`;
       dim.style.left = (t.left - H.left) + 'px'; dim.style.top = (t.top - H.top - 18) + 'px'; dim.style.width = t.width + 'px';
       requestAnimationFrame(() => dim.classList.add('on'));
     });
@@ -2439,7 +2509,7 @@ function details() {
   });
   // Contact details copy themselves
   app.querySelectorAll('.office dd').forEach(dd => {
-    const dt = dd.previousElementSibling ? dd.previousElementSibling.textContent : ''; if (!/Correo|Teléfono|WhatsApp/.test(dt)) return;
+    const dt = dd.previousElementSibling ? dd.previousElementSibling.textContent : ''; if (!/Correo|Teléfono|WhatsApp|Email|Phone/.test(dt)) return;
     dd.dataset.cursor = 'Copiar'; dd.tabIndex = 0;
     const copy = () => { (navigator.clipboard ? navigator.clipboard.writeText(dd.textContent.trim()) : Promise.reject()).then(() => { dd.classList.add('copied'); setTimeout(() => dd.classList.remove('copied'), 1400); }, () => {}); };
     dd.addEventListener('click', copy); dd.addEventListener('keydown', e => { if (e.key === 'Enter') copy(); });
@@ -2449,7 +2519,7 @@ function details() {
   if (art) {
     const bar = document.createElement('div'); bar.className = 'fragua'; bar.setAttribute('aria-hidden', 'true'); bar.innerHTML = '<i></i><span></span>'; app.appendChild(bar);
     const fill = bar.querySelector('i'), lab = bar.querySelector('span');
-    const f = () => { const r = art.getBoundingClientRect(), q = Math.min(1, Math.max(0, (innerHeight * .5 - r.top) / r.height)); fill.style.transform = `scaleX(${q.toFixed(3)})`; lab.textContent = q >= .99 ? 'f′c alcanzado · 28 días' : `Fraguado ${Math.round(q * 100)} %`; bar.classList.toggle('on', q > .01); };
+    const f = () => { const r = art.getBoundingClientRect(), q = Math.min(1, Math.max(0, (innerHeight * .5 - r.top) / r.height)); fill.style.transform = `scaleX(${q.toFixed(3)})`; lab.textContent = tx(q >= .99 ? 'f′c alcanzado · 28 días' : `Fraguado ${Math.round(q * 100)} %`); bar.classList.toggle('on', q > .01); };
     scrollFns.add(f); f();
   }
   if (document.fonts) document.fonts.ready.then(() => { const fl = app.querySelector('.filters'); if (fl) railTo(fl, fl.querySelector('[aria-pressed="true"]')); });
@@ -2970,7 +3040,7 @@ function lawAssistant() {
   iso.querySelectorAll('.iso-hitos li').forEach(li => { li.addEventListener('pointerenter', () => { if (scene) hl.setAttribute('points', scene.R[li.dataset.h] || ''); }); li.addEventListener('pointerleave', () => hl.setAttribute('points', '')); });
   hitG.addEventListener('pointerleave', () => { hl.setAttribute('points', ''); if (S) say(S); });
   scrollFns.add(r => { if (r === true) knobAt(); const b = iso.getBoundingClientRect(); document.documentElement.classList.toggle('no-cota', b.top < innerHeight * .7 && b.bottom > innerHeight * .3); if (!shown && inView()) start(); if (r === true && scene) { aim(); leaders(); } });
-  document.getElementById('ley-go').onclick = e => { const b = e.currentTarget, s = S; b.classList.add('torqued'); try { sessionStorage.setItem('ddes-ley', JSON.stringify({area: s.area, pisos: s.pisos, usoTxt: s.usoTxt, summary, big: s.big})); } catch (x) {} setTimeout(() => { byClick = true; location.hash = '#contacto'; }, reduce ? 0 : 650); };
+  document.getElementById('ley-go').onclick = e => { const b = e.currentTarget, s = S; b.classList.add('torqued'); try { sessionStorage.setItem('ddes-ley', JSON.stringify({area: s.area, pisos: s.pisos, usoTxt: s.usoTxt, summary, big: s.big})); } catch (x) {} setTimeout(() => { byClick = true; goTo('#contacto'); }, reduce ? 0 : 650); };
   const sc = form.querySelector('.ley-scale'), mark = () => { const a = areaOf(); sc.querySelector('.mk').style.left = (Math.min(a, 10000) / 100).toFixed(2) + '%'; sc.classList.toggle('on', a > 2000 || ampIn.checked); };
   [areaIn, pisosIn].forEach(el => el.addEventListener('pointerdown', () => { dragging = true; }));
   ['pointerup', 'pointercancel'].forEach(ev => addEventListener(ev, () => { if (dragging) { dragging = false; queue(); } }));
@@ -3360,9 +3430,38 @@ window.addEventListener('hashchange', () => {
   }
 });
 document.addEventListener('click', e => { const a = e.target instanceof Element && e.target.closest('a'); if (!a) return; if (a.dataset.lead) try { sessionStorage.setItem('ddes-nsr', a.dataset.lead); } catch (x) {} const h = a.getAttribute('href') || '', where = a.closest('header,footer,.tabbar,.sheet') ? (a.closest('header') ? 'encabezado' : a.closest('footer') ? 'pie' : 'menu') : 'pagina';
-  if (/wa\.me\//.test(h)) track('contact', {method: 'whatsapp', ubicacion: where, pagina: location.pathname});
-  else if (h.startsWith('tel:')) track('contact', {method: 'telefono', ubicacion: where, pagina: location.pathname});
-  else if (h.startsWith('mailto:')) track('contact', {method: 'correo', ubicacion: where, pagina: location.pathname});
-  else if ((a.dataset.h || h) === '#contacto' || h === '/contacto/') track('pedir_propuesta', {ubicacion: where, pagina: location.pathname, texto: a.textContent.trim().slice(0, 40)});
+  if (/wa\.me\//.test(h)) track('contact', {method: 'whatsapp', ubicacion: where, pagina: location.pathname, idioma: LANG});
+  else if (h.startsWith('tel:')) track('contact', {method: 'telefono', ubicacion: where, pagina: location.pathname, idioma: LANG});
+  else if (h.startsWith('mailto:')) track('contact', {method: 'correo', ubicacion: where, pagina: location.pathname, idioma: LANG});
+  else if ((a.dataset.h || h) === '#contacto' || h === '/contacto/' || h === '/en/contact/') track('pedir_propuesta', {ubicacion: where, pagina: location.pathname, texto: a.textContent.trim().slice(0, 40), idioma: LANG});
 }, true);
+// "Escríbanos o pida una llamada": on the contact page it goes to the form; elsewhere the form waits for the visitor there
+let langJump = null;
+function toForm() { const f = document.getElementById('cform'); if (!f) return; cvAll(1600); window.scrollTo({top: Math.max(0, f.getBoundingClientRect().top + scrollY - topEl.offsetHeight - 24), behavior: reduce ? 'auto' : 'smooth'}); const n = f.querySelector('#f-name'); if (n) n.focus({preventScroll: true}); }
+document.addEventListener('click', e => { const a = e.target instanceof Element && e.target.closest('a[data-form]'); if (!a || e.button > 0) return;
+  if (here() === '#contacto') { e.preventDefault(); toForm(); } else try { sessionStorage.setItem('ddes-form', '1'); } catch (x) {} }, true);
+// ES | EN: the same page in the other language, at the same section. Into English it is one more page change (the drop);
+// back into Spanish from a page that opened in English the browser simply loads the Spanish page.
+document.addEventListener('click', e => {
+  const a = e.target instanceof Element && e.target.closest('a[data-lang]'); if (!a || e.button > 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+  const to = a.dataset.lang === 'en' ? 'en' : 'es'; try { localStorage.setItem('ddes-lang', to); } catch (x) {}
+  track('idioma', {de: LANG, a: to, ubicacion: a.closest('.lang-prompt') ? 'aviso' : a.closest('.sheet') ? 'menu' : 'encabezado', pagina: location.pathname});
+  const pr = a.closest('.lang-prompt'); if (pr) pr.remove();
+  if (to === LANG) { e.preventDefault(); return; }
+  if (!PATHS || (to === 'es' && LANG_BOOT === 'en')) return;
+  e.preventDefault();
+  const sec = scrollY > innerHeight * .5 ? ([...app.querySelectorAll('section[id],div[id].sec')].filter(el => el.getBoundingClientRect().top < innerHeight * .35).pop() || {}).id : null;
+  (to === 'en' ? loadEN() : Promise.resolve()).then(() => { langJump = sec || null; byClick = true; history.pushState(null, '', a.getAttribute('href')); dispatchEvent(new HashChangeEvent('hashchange')); }, () => { location.href = a.href; });
+}, true);
+// A visitor whose browser speaks English, on a Spanish page: one small offer, never a redirect. Dismissed, it does not come back.
+setTimeout(() => {
+  if (LANG !== 'es' || !PATHS) return;
+  let skip = true; try { skip = !!(localStorage.getItem('ddes-en-x') || localStorage.getItem('ddes-lang') === 'es' || sessionStorage.getItem('ddes-en-p')); sessionStorage.setItem('ddes-en-p', '1'); } catch (x) {}
+  const nl = (navigator.languages && navigator.languages[0]) || navigator.language || '';
+  if (skip || !/^en\b/i.test(nl)) return;
+  const t = document.createElement('div'); t.className = 'toast g lang-prompt'; t.lang = 'en'; t.setAttribute('role', 'region'); t.setAttribute('aria-label', 'Language');
+  t.innerHTML = `<span class="gl" aria-hidden="true"></span><a href="${k2p(here() || '#inicio', 'en')}" hreflang="en" data-lang="en">View this page in English</a><button type="button" aria-label="Dismiss">×</button>`;
+  t.querySelector('button').onclick = () => { try { localStorage.setItem('ddes-en-x', '1'); } catch (x) {} track('idioma', {de: 'es', a: 'es', ubicacion: 'aviso_cerrado', pagina: location.pathname}); t.classList.remove('on'); setTimeout(() => t.remove(), 600); };
+  document.body.appendChild(t); UI.add(t, {blur: 10, sat: 1.8}); requestAnimationFrame(() => requestAnimationFrame(() => t.classList.add('on')));
+}, 3200);
 pathLinks(); route(); boldName(document.querySelector('body > footer') || document.createElement('i'));
