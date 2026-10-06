@@ -1576,6 +1576,20 @@ Lo que pide la NSR-10 en cada una, con sus valores sísmicos.
 - [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
 - [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
 - [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -1947,6 +1961,20 @@ Cada página explica qué pide la NSR-10 en la ciudad: amenaza sísmica, suelo y
 | [Tauramena](https://ddes.co/ingenieria-estructural-tauramena/) | [Casanare](https://ddes.co/amenaza-sismica-casanare/) | 0,15 | 0,20 | Intermedia | Interior |
 | [Monterrey](https://ddes.co/ingenieria-estructural-monterrey/) | [Casanare](https://ddes.co/amenaza-sismica-casanare/) | 0,30 | 0,25 | Alta | Interior |
 | [Paz de Ariporo](https://ddes.co/ingenieria-estructural-paz-de-ariporo/) | [Casanare](https://ddes.co/amenaza-sismica-casanare/) | 0,05 | 0,15 | Intermedia | Interior |
+| [Bogotá](https://ddes.co/ingenieria-estructural-bogota/) | [Bogotá D. C.](https://ddes.co/amenaza-sismica-bogota/) | 0,15 | 0,20 | Intermedia | Interior |
+| [Medellín](https://ddes.co/ingenieria-estructural-medellin/) | [Antioquia](https://ddes.co/amenaza-sismica-antioquia/) | 0,15 | 0,20 | Intermedia | Interior |
+| [Cali](https://ddes.co/ingenieria-estructural-cali/) | [Valle del Cauca](https://ddes.co/amenaza-sismica-valle-del-cauca/) | 0,25 | 0,25 | Alta | Interior |
+| [Bucaramanga](https://ddes.co/ingenieria-estructural-bucaramanga/) | [Santander](https://ddes.co/amenaza-sismica-santander/) | 0,25 | 0,25 | Alta | Interior |
+| [Cúcuta](https://ddes.co/ingenieria-estructural-cucuta/) | [Norte de Santander](https://ddes.co/amenaza-sismica-norte-de-santander/) | 0,35 | 0,25 | Alta | Interior |
+| [Villavicencio](https://ddes.co/ingenieria-estructural-villavicencio/) | [Meta](https://ddes.co/amenaza-sismica-meta/) | 0,25 | 0,30 | Alta | Interior |
+| [Ibagué](https://ddes.co/ingenieria-estructural-ibague/) | [Tolima](https://ddes.co/amenaza-sismica-tolima/) | 0,20 | 0,20 | Intermedia | Interior |
+| [Pereira](https://ddes.co/ingenieria-estructural-pereira/) | [Risaralda](https://ddes.co/amenaza-sismica-risaralda/) | 0,25 | 0,25 | Alta | Interior |
+| [Manizales](https://ddes.co/ingenieria-estructural-manizales/) | [Caldas](https://ddes.co/amenaza-sismica-caldas/) | 0,25 | 0,25 | Alta | Interior |
+| [Neiva](https://ddes.co/ingenieria-estructural-neiva/) | [Huila](https://ddes.co/amenaza-sismica-huila/) | 0,25 | 0,25 | Alta | Interior |
+| [Pasto](https://ddes.co/ingenieria-estructural-pasto/) | [Nariño](https://ddes.co/amenaza-sismica-narino/) | 0,25 | 0,25 | Alta | Interior |
+| [Armenia](https://ddes.co/ingenieria-estructural-armenia/) | [Quindío](https://ddes.co/amenaza-sismica-quindio/) | 0,25 | 0,25 | Alta | Interior |
+| [Tunja](https://ddes.co/ingenieria-estructural-tunja/) | [Boyacá](https://ddes.co/amenaza-sismica-boyaca/) | 0,20 | 0,20 | Intermedia | Interior |
+| [Popayán](https://ddes.co/ingenieria-estructural-popayan/) | [Cauca](https://ddes.co/amenaza-sismica-cauca/) | 0,25 | 0,20 | Alta | Interior |
 
 Aa y Av: NSR-10, Apéndice A-4.
 
@@ -2101,6 +2129,20 @@ Sí, aunque con poca fuerza. La NSR-10 ubica a Barranquilla en amenaza sísmica 
 - [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
 - [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
 - [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -2203,6 +2245,20 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
 - [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
 - [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -2305,6 +2361,20 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
 - [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
 - [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -2415,6 +2485,20 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
 - [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
 - [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -2523,6 +2607,20 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
 - [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
 - [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -2625,6 +2723,20 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
 - [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
 - [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -2727,6 +2839,20 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para 
 - [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
 - [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
 - [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -2829,6 +2955,20 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
 - [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
 - [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -2931,6 +3071,20 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
 - [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
 - [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -3033,6 +3187,20 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para 
 - [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
 - [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
 - [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -3135,6 +3303,20 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
 - [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
 - [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -3237,6 +3419,20 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
 - [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
 - [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -3339,6 +3535,20 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
 - [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
 - [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -3441,6 +3651,20 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
 - [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
 - [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -3543,6 +3767,20 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
 - [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
 - [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -3645,6 +3883,20 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
 - [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
 - [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -3747,6 +3999,1648 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
 - [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
 - [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
+
+Última actualización: 6 de octubre de 2026
+
+---
+
+URL: https://ddes.co/ingenieria-estructural-bogota/
+Última actualización: 2026-10-06
+
+[Cobertura](https://ddes.co/cobertura/)
+
+# Ingeniería estructural en Bogotá
+
+Diseño estructural, revisión y supervisión técnica en zona de amenaza sísmica intermedia.
+
+DDES hace diseño estructural, revisión independiente, supervisión técnica e interventoría para proyectos en Bogotá, Bogotá D. C., bajo la NSR-10 y la Ley 1796 de 2016. Bogotá está en zona de amenaza sísmica intermedia, con Aa = 0,15 y Av = 0,20. DDES trabaja desde Barranquilla con cobertura nacional.
+
+- Amenaza sísmica: Intermedia
+- Aa / Av: 0,15 / 0,20
+- Ae / Ad: 0,13 / 0,06
+- Departamento: [Bogotá D. C.](https://ddes.co/amenaza-sismica-bogota/)
+
+## ¿Qué exige la NSR-10 para construir en Bogotá?
+
+En concreto reforzado, la amenaza intermedia ya no admite la disipación mínima (DMI): la estructura se diseña con capacidad moderada (DMO) o especial (DES) de disipación de energía, con más exigencias de detallado del refuerzo.
+
+Si el estudio de suelos da un perfil D, el espectro de diseño de Bogotá para un edificio de vivienda u oficinas (grupo de uso I) tiene una meseta de Sa = 0,56 g hasta TC = 0,85 s, y TL = 4,80 s. Con otro suelo u otro uso los valores cambian: [calcúlelos en el espectro de diseño](https://ddes.co/espectro-nsr10/?m=11001).
+
+## ¿Cómo se compara con Barranquilla?
+
+El coeficiente de aceleración de Bogotá, Aa = 0,15, es una vez y media de Barranquilla (Aa = 0,10). Barranquilla está en amenaza baja y Bogotá en amenaza intermedia: en concreto reforzado, Bogotá ya no admite la disipación mínima (DMI) y exige al menos capacidad moderada (DMO).
+
+## ¿Qué valores usa la NSR-10 para edificaciones existentes e indispensables?
+
+Para evaluar edificaciones existentes con seguridad limitada, la NSR-10 usa Ae, que en Bogotá vale 0,13 (A.10.3). Las edificaciones indispensables de los grupos de uso III y IV se revisan además para el umbral de daño con Ad = 0,06 (A.12.2).
+
+## ¿Cuándo exige la Ley 1796 revisión y supervisión técnica en Bogotá?
+
+La regla es la misma en todo el país: cuando el lote permite construir más de 2.000 m², sin importar el uso, la Ley 1796 de 2016 exige revisión independiente de los diseños estructurales antes de la licencia y supervisión técnica independiente durante la obra. Las edificaciones de los grupos de uso III y IV, como colegios y hospitales, requieren supervisión técnica sin importar el área (A.1.3.9.1). Compruebe su caso en el [asistente de la Ley 1796](https://ddes.co/ley/).
+
+## Servicios de DDES en Bogotá
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Revisión independiente](https://ddes.co/servicio-revision/): Revisión de diseños estructurales de terceros, obligatoria en proyectos de más de 2.000 m².
+
+- [Supervisión técnica](https://ddes.co/servicio-supervision/): Supervisión técnica independiente según la Ley 1796 y el Título I de la NSR-10, antes de cada fundida.
+
+## Notas técnicas para Bogotá
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
+
+- [Grupos de uso: por qué un colegio o una clínica se diseñan más fuertes](https://ddes.co/articulo-grupos-de-uso/): La NSR-10 clasifica las edificaciones en cuatro grupos y aumenta las fuerzas de diseño hasta en un 50%.
+
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+## Preguntas frecuentes
+
+**¿En qué zona de amenaza sísmica está Bogotá?**
+
+En amenaza sísmica intermedia, con Aa = 0,15 y Av = 0,20 según el Apéndice A-4 de la NSR-10.
+
+**¿DDES trabaja en Bogotá?**
+
+Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para una propuesta, envíe los planos arquitectónicos y la ubicación del lote por el formulario de contacto o por WhatsApp.
+
+## Otras ciudades
+
+[Todos los municipios de Bogotá D. C.](https://ddes.co/amenaza-sismica-bogota/)
+
+- [BarranquillaAmenaza baja](https://ddes.co/ingenieria-estructural-barranquilla/)
+- [SoledadAmenaza baja](https://ddes.co/ingenieria-estructural-soledad/)
+- [Puerto ColombiaAmenaza baja](https://ddes.co/ingenieria-estructural-puerto-colombia/)
+- [MalamboAmenaza baja](https://ddes.co/ingenieria-estructural-malambo/)
+- [GalapaAmenaza baja](https://ddes.co/ingenieria-estructural-galapa/)
+- [CartagenaAmenaza baja](https://ddes.co/ingenieria-estructural-cartagena/)
+- [Santa MartaAmenaza intermedia](https://ddes.co/ingenieria-estructural-santa-marta/)
+- [MonteríaAmenaza intermedia](https://ddes.co/ingenieria-estructural-monteria/)
+- [SincelejoAmenaza intermedia](https://ddes.co/ingenieria-estructural-sincelejo/)
+- [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
+- [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
+- [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
+
+Última actualización: 6 de octubre de 2026
+
+---
+
+URL: https://ddes.co/ingenieria-estructural-medellin/
+Última actualización: 2026-10-06
+
+[Cobertura](https://ddes.co/cobertura/)
+
+# Ingeniería estructural en Medellín
+
+Diseño estructural, revisión y supervisión técnica en zona de amenaza sísmica intermedia.
+
+DDES hace diseño estructural, revisión independiente, supervisión técnica e interventoría para proyectos en Medellín, Antioquia, bajo la NSR-10 y la Ley 1796 de 2016. Medellín está en zona de amenaza sísmica intermedia, con Aa = 0,15 y Av = 0,20. DDES trabaja desde Barranquilla con cobertura nacional.
+
+- Amenaza sísmica: Intermedia
+- Aa / Av: 0,15 / 0,20
+- Ae / Ad: 0,13 / 0,07
+- Departamento: [Antioquia](https://ddes.co/amenaza-sismica-antioquia/)
+
+## ¿Qué exige la NSR-10 para construir en Medellín?
+
+En concreto reforzado, la amenaza intermedia ya no admite la disipación mínima (DMI): la estructura se diseña con capacidad moderada (DMO) o especial (DES) de disipación de energía, con más exigencias de detallado del refuerzo.
+
+Si el estudio de suelos da un perfil D, el espectro de diseño de Medellín para un edificio de vivienda u oficinas (grupo de uso I) tiene una meseta de Sa = 0,56 g hasta TC = 0,85 s, y TL = 4,80 s. Con otro suelo u otro uso los valores cambian: [calcúlelos en el espectro de diseño](https://ddes.co/espectro-nsr10/?m=05001).
+
+## ¿Cómo se compara con Barranquilla?
+
+El coeficiente de aceleración de Medellín, Aa = 0,15, es una vez y media de Barranquilla (Aa = 0,10). Barranquilla está en amenaza baja y Medellín en amenaza intermedia: en concreto reforzado, Medellín ya no admite la disipación mínima (DMI) y exige al menos capacidad moderada (DMO).
+
+## ¿Qué valores usa la NSR-10 para edificaciones existentes e indispensables?
+
+Para evaluar edificaciones existentes con seguridad limitada, la NSR-10 usa Ae, que en Medellín vale 0,13 (A.10.3). Las edificaciones indispensables de los grupos de uso III y IV se revisan además para el umbral de daño con Ad = 0,07 (A.12.2).
+
+## ¿Cuándo exige la Ley 1796 revisión y supervisión técnica en Medellín?
+
+La regla es la misma en todo el país: cuando el lote permite construir más de 2.000 m², sin importar el uso, la Ley 1796 de 2016 exige revisión independiente de los diseños estructurales antes de la licencia y supervisión técnica independiente durante la obra. Las edificaciones de los grupos de uso III y IV, como colegios y hospitales, requieren supervisión técnica sin importar el área (A.1.3.9.1). Compruebe su caso en el [asistente de la Ley 1796](https://ddes.co/ley/).
+
+## Servicios de DDES en Medellín
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Revisión independiente](https://ddes.co/servicio-revision/): Revisión de diseños estructurales de terceros, obligatoria en proyectos de más de 2.000 m².
+
+- [Supervisión técnica](https://ddes.co/servicio-supervision/): Supervisión técnica independiente según la Ley 1796 y el Título I de la NSR-10, antes de cada fundida.
+
+## Notas técnicas para Medellín
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
+
+- [Grupos de uso: por qué un colegio o una clínica se diseñan más fuertes](https://ddes.co/articulo-grupos-de-uso/): La NSR-10 clasifica las edificaciones en cuatro grupos y aumenta las fuerzas de diseño hasta en un 50%.
+
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+## Preguntas frecuentes
+
+**¿En qué zona de amenaza sísmica está Medellín?**
+
+En amenaza sísmica intermedia, con Aa = 0,15 y Av = 0,20 según el Apéndice A-4 de la NSR-10.
+
+**¿DDES trabaja en Medellín?**
+
+Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para una propuesta, envíe los planos arquitectónicos y la ubicación del lote por el formulario de contacto o por WhatsApp.
+
+## Otras ciudades
+
+[Todos los municipios de Antioquia](https://ddes.co/amenaza-sismica-antioquia/)
+
+- [BarranquillaAmenaza baja](https://ddes.co/ingenieria-estructural-barranquilla/)
+- [SoledadAmenaza baja](https://ddes.co/ingenieria-estructural-soledad/)
+- [Puerto ColombiaAmenaza baja](https://ddes.co/ingenieria-estructural-puerto-colombia/)
+- [MalamboAmenaza baja](https://ddes.co/ingenieria-estructural-malambo/)
+- [GalapaAmenaza baja](https://ddes.co/ingenieria-estructural-galapa/)
+- [CartagenaAmenaza baja](https://ddes.co/ingenieria-estructural-cartagena/)
+- [Santa MartaAmenaza intermedia](https://ddes.co/ingenieria-estructural-santa-marta/)
+- [MonteríaAmenaza intermedia](https://ddes.co/ingenieria-estructural-monteria/)
+- [SincelejoAmenaza intermedia](https://ddes.co/ingenieria-estructural-sincelejo/)
+- [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
+- [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
+- [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
+
+Última actualización: 6 de octubre de 2026
+
+---
+
+URL: https://ddes.co/ingenieria-estructural-cali/
+Última actualización: 2026-10-06
+
+[Cobertura](https://ddes.co/cobertura/)
+
+# Ingeniería estructural en Cali
+
+Diseño estructural, revisión y supervisión técnica en zona de amenaza sísmica alta.
+
+DDES hace diseño estructural, revisión independiente, supervisión técnica e interventoría para proyectos en Cali, Valle del Cauca, bajo la NSR-10 y la Ley 1796 de 2016. Cali está en zona de amenaza sísmica alta, con Aa = 0,25 y Av = 0,25. DDES trabaja desde Barranquilla con cobertura nacional.
+
+- Amenaza sísmica: Alta
+- Aa / Av: 0,25 / 0,25
+- Ae / Ad: 0,15 / 0,09
+- Departamento: [Valle del Cauca](https://ddes.co/amenaza-sismica-valle-del-cauca/)
+
+## ¿Qué exige la NSR-10 para construir en Cali?
+
+En concreto reforzado, la NSR-10 solo admite en amenaza alta sistemas con capacidad especial de disipación de energía (DES), el detallado más exigente del Reglamento: confinamiento de columnas y nudos, y control estricto de las derivas.
+
+Si el estudio de suelos da un perfil D, el espectro de diseño de Cali para un edificio de vivienda u oficinas (grupo de uso I) tiene una meseta de Sa = 0,81 g hasta TC = 0,70 s, y TL = 4,56 s. Con otro suelo u otro uso los valores cambian: [calcúlelos en el espectro de diseño](https://ddes.co/espectro-nsr10/?m=76001).
+
+## ¿Cómo se compara con Barranquilla?
+
+El coeficiente de aceleración de Cali, Aa = 0,25, es dos veces y media de Barranquilla (Aa = 0,10). Barranquilla está en amenaza baja y Cali en amenaza alta: en concreto reforzado, un diseño de Barranquilla con disipación mínima (DMI) no sirve en Cali, que exige capacidad especial de disipación de energía (DES) y un control estricto de las derivas.
+
+## ¿Qué valores usa la NSR-10 para edificaciones existentes e indispensables?
+
+Para evaluar edificaciones existentes con seguridad limitada, la NSR-10 usa Ae, que en Cali vale 0,15 (A.10.3). Las edificaciones indispensables de los grupos de uso III y IV se revisan además para el umbral de daño con Ad = 0,09 (A.12.2).
+
+## ¿Cuándo exige la Ley 1796 revisión y supervisión técnica en Cali?
+
+La regla es la misma en todo el país: cuando el lote permite construir más de 2.000 m², sin importar el uso, la Ley 1796 de 2016 exige revisión independiente de los diseños estructurales antes de la licencia y supervisión técnica independiente durante la obra. Las edificaciones de los grupos de uso III y IV, como colegios y hospitales, requieren supervisión técnica sin importar el área (A.1.3.9.1). Compruebe su caso en el [asistente de la Ley 1796](https://ddes.co/ley/).
+
+## Servicios de DDES en Cali
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Revisión independiente](https://ddes.co/servicio-revision/): Revisión de diseños estructurales de terceros, obligatoria en proyectos de más de 2.000 m².
+
+- [Supervisión técnica](https://ddes.co/servicio-supervision/): Supervisión técnica independiente según la Ley 1796 y el Título I de la NSR-10, antes de cada fundida.
+
+## Notas técnicas para Cali
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Terremoto del 10 de agosto de 2026: qué falló en Cali](https://ddes.co/articulo-caso-cali-terremoto-2026/): Los edificios que colapsaron no se construyeron con la NSR-10. Pórticos flexibles, normas anteriores y un suelo que amplificó el movimiento.
+
+- [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
+
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+## Preguntas frecuentes
+
+**¿En qué zona de amenaza sísmica está Cali?**
+
+En amenaza sísmica alta, con Aa = 0,25 y Av = 0,25 según el Apéndice A-4 de la NSR-10.
+
+**¿DDES trabaja en Cali?**
+
+Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para una propuesta, envíe los planos arquitectónicos y la ubicación del lote por el formulario de contacto o por WhatsApp.
+
+## Otras ciudades
+
+[Todos los municipios de Valle del Cauca](https://ddes.co/amenaza-sismica-valle-del-cauca/)
+
+- [BarranquillaAmenaza baja](https://ddes.co/ingenieria-estructural-barranquilla/)
+- [SoledadAmenaza baja](https://ddes.co/ingenieria-estructural-soledad/)
+- [Puerto ColombiaAmenaza baja](https://ddes.co/ingenieria-estructural-puerto-colombia/)
+- [MalamboAmenaza baja](https://ddes.co/ingenieria-estructural-malambo/)
+- [GalapaAmenaza baja](https://ddes.co/ingenieria-estructural-galapa/)
+- [CartagenaAmenaza baja](https://ddes.co/ingenieria-estructural-cartagena/)
+- [Santa MartaAmenaza intermedia](https://ddes.co/ingenieria-estructural-santa-marta/)
+- [MonteríaAmenaza intermedia](https://ddes.co/ingenieria-estructural-monteria/)
+- [SincelejoAmenaza intermedia](https://ddes.co/ingenieria-estructural-sincelejo/)
+- [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
+- [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
+- [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
+
+Última actualización: 6 de octubre de 2026
+
+---
+
+URL: https://ddes.co/ingenieria-estructural-bucaramanga/
+Última actualización: 2026-10-06
+
+[Cobertura](https://ddes.co/cobertura/)
+
+# Ingeniería estructural en Bucaramanga
+
+Diseño estructural, revisión y supervisión técnica en zona de amenaza sísmica alta.
+
+DDES hace diseño estructural, revisión independiente, supervisión técnica e interventoría para proyectos en Bucaramanga, Santander, bajo la NSR-10 y la Ley 1796 de 2016. Bucaramanga está en zona de amenaza sísmica alta, con Aa = 0,25 y Av = 0,25. DDES trabaja desde Barranquilla con cobertura nacional.
+
+- Amenaza sísmica: Alta
+- Aa / Av: 0,25 / 0,25
+- Ae / Ad: 0,15 / 0,09
+- Departamento: [Santander](https://ddes.co/amenaza-sismica-santander/)
+
+## ¿Qué exige la NSR-10 para construir en Bucaramanga?
+
+En concreto reforzado, la NSR-10 solo admite en amenaza alta sistemas con capacidad especial de disipación de energía (DES), el detallado más exigente del Reglamento: confinamiento de columnas y nudos, y control estricto de las derivas.
+
+Si el estudio de suelos da un perfil D, el espectro de diseño de Bucaramanga para un edificio de vivienda u oficinas (grupo de uso I) tiene una meseta de Sa = 0,81 g hasta TC = 0,70 s, y TL = 4,56 s. Con otro suelo u otro uso los valores cambian: [calcúlelos en el espectro de diseño](https://ddes.co/espectro-nsr10/?m=68001).
+
+## ¿Cómo se compara con Barranquilla?
+
+El coeficiente de aceleración de Bucaramanga, Aa = 0,25, es dos veces y media de Barranquilla (Aa = 0,10). Barranquilla está en amenaza baja y Bucaramanga en amenaza alta: en concreto reforzado, un diseño de Barranquilla con disipación mínima (DMI) no sirve en Bucaramanga, que exige capacidad especial de disipación de energía (DES) y un control estricto de las derivas.
+
+## ¿Qué valores usa la NSR-10 para edificaciones existentes e indispensables?
+
+Para evaluar edificaciones existentes con seguridad limitada, la NSR-10 usa Ae, que en Bucaramanga vale 0,15 (A.10.3). Las edificaciones indispensables de los grupos de uso III y IV se revisan además para el umbral de daño con Ad = 0,09 (A.12.2).
+
+## ¿Cuándo exige la Ley 1796 revisión y supervisión técnica en Bucaramanga?
+
+La regla es la misma en todo el país: cuando el lote permite construir más de 2.000 m², sin importar el uso, la Ley 1796 de 2016 exige revisión independiente de los diseños estructurales antes de la licencia y supervisión técnica independiente durante la obra. Las edificaciones de los grupos de uso III y IV, como colegios y hospitales, requieren supervisión técnica sin importar el área (A.1.3.9.1). Compruebe su caso en el [asistente de la Ley 1796](https://ddes.co/ley/).
+
+## Servicios de DDES en Bucaramanga
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Revisión independiente](https://ddes.co/servicio-revision/): Revisión de diseños estructurales de terceros, obligatoria en proyectos de más de 2.000 m².
+
+- [Supervisión técnica](https://ddes.co/servicio-supervision/): Supervisión técnica independiente según la Ley 1796 y el Título I de la NSR-10, antes de cada fundida.
+
+## Notas técnicas para Bucaramanga
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
+
+- [Grupos de uso: por qué un colegio o una clínica se diseñan más fuertes](https://ddes.co/articulo-grupos-de-uso/): La NSR-10 clasifica las edificaciones en cuatro grupos y aumenta las fuerzas de diseño hasta en un 50%.
+
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+## Preguntas frecuentes
+
+**¿En qué zona de amenaza sísmica está Bucaramanga?**
+
+En amenaza sísmica alta, con Aa = 0,25 y Av = 0,25 según el Apéndice A-4 de la NSR-10.
+
+**¿DDES trabaja en Bucaramanga?**
+
+Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para una propuesta, envíe los planos arquitectónicos y la ubicación del lote por el formulario de contacto o por WhatsApp.
+
+## Otras ciudades
+
+[Todos los municipios de Santander](https://ddes.co/amenaza-sismica-santander/)
+
+- [BarranquillaAmenaza baja](https://ddes.co/ingenieria-estructural-barranquilla/)
+- [SoledadAmenaza baja](https://ddes.co/ingenieria-estructural-soledad/)
+- [Puerto ColombiaAmenaza baja](https://ddes.co/ingenieria-estructural-puerto-colombia/)
+- [MalamboAmenaza baja](https://ddes.co/ingenieria-estructural-malambo/)
+- [GalapaAmenaza baja](https://ddes.co/ingenieria-estructural-galapa/)
+- [CartagenaAmenaza baja](https://ddes.co/ingenieria-estructural-cartagena/)
+- [Santa MartaAmenaza intermedia](https://ddes.co/ingenieria-estructural-santa-marta/)
+- [MonteríaAmenaza intermedia](https://ddes.co/ingenieria-estructural-monteria/)
+- [SincelejoAmenaza intermedia](https://ddes.co/ingenieria-estructural-sincelejo/)
+- [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
+- [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
+- [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
+
+Última actualización: 6 de octubre de 2026
+
+---
+
+URL: https://ddes.co/ingenieria-estructural-cucuta/
+Última actualización: 2026-10-06
+
+[Cobertura](https://ddes.co/cobertura/)
+
+# Ingeniería estructural en Cúcuta
+
+Diseño estructural, revisión y supervisión técnica en zona de amenaza sísmica alta.
+
+DDES hace diseño estructural, revisión independiente, supervisión técnica e interventoría para proyectos en Cúcuta, Norte de Santander, bajo la NSR-10 y la Ley 1796 de 2016. Cúcuta está en zona de amenaza sísmica alta, con Aa = 0,35 y Av = 0,25. DDES trabaja desde Barranquilla con cobertura nacional.
+
+- Amenaza sísmica: Alta
+- Aa / Av: 0,35 / 0,25
+- Ae / Ad: 0,25 / 0,10
+- Departamento: [Norte de Santander](https://ddes.co/amenaza-sismica-norte-de-santander/)
+
+## ¿Qué exige la NSR-10 para construir en Cúcuta?
+
+En concreto reforzado, la NSR-10 solo admite en amenaza alta sistemas con capacidad especial de disipación de energía (DES), el detallado más exigente del Reglamento: confinamiento de columnas y nudos, y control estricto de las derivas.
+
+Si el estudio de suelos da un perfil D, el espectro de diseño de Cúcuta para un edificio de vivienda u oficinas (grupo de uso I) tiene una meseta de Sa = 1,01 g hasta TC = 0,57 s, y TL = 4,56 s. Con otro suelo u otro uso los valores cambian: [calcúlelos en el espectro de diseño](https://ddes.co/espectro-nsr10/?m=54001).
+
+La tabla A.2.3-2 de la NSR-10, de capitales, da para Cúcuta Aa = 0,35 y Av = 0,30; el Apéndice A-4 da Aa = 0,35 y Av = 0,25. El Reglamento no dice cuál prevalece: la opción conservadora es diseñar con el mayor de cada par y acordarlo desde el principio con el revisor independiente y la curaduría.
+
+## ¿Cómo se compara con Barranquilla?
+
+El coeficiente de aceleración de Cúcuta, Aa = 0,35, es tres veces y media de Barranquilla (Aa = 0,10). Barranquilla está en amenaza baja y Cúcuta en amenaza alta: en concreto reforzado, un diseño de Barranquilla con disipación mínima (DMI) no sirve en Cúcuta, que exige capacidad especial de disipación de energía (DES) y un control estricto de las derivas.
+
+## ¿Qué valores usa la NSR-10 para edificaciones existentes e indispensables?
+
+Para evaluar edificaciones existentes con seguridad limitada, la NSR-10 usa Ae, que en Cúcuta vale 0,25 (A.10.3). Las edificaciones indispensables de los grupos de uso III y IV se revisan además para el umbral de daño con Ad = 0,10 (A.12.2).
+
+## ¿Cuándo exige la Ley 1796 revisión y supervisión técnica en Cúcuta?
+
+La regla es la misma en todo el país: cuando el lote permite construir más de 2.000 m², sin importar el uso, la Ley 1796 de 2016 exige revisión independiente de los diseños estructurales antes de la licencia y supervisión técnica independiente durante la obra. Las edificaciones de los grupos de uso III y IV, como colegios y hospitales, requieren supervisión técnica sin importar el área (A.1.3.9.1). Compruebe su caso en el [asistente de la Ley 1796](https://ddes.co/ley/).
+
+## Servicios de DDES en Cúcuta
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Revisión independiente](https://ddes.co/servicio-revision/): Revisión de diseños estructurales de terceros, obligatoria en proyectos de más de 2.000 m².
+
+- [Supervisión técnica](https://ddes.co/servicio-supervision/): Supervisión técnica independiente según la Ley 1796 y el Título I de la NSR-10, antes de cada fundida.
+
+## Notas técnicas para Cúcuta
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
+
+- [Grupos de uso: por qué un colegio o una clínica se diseñan más fuertes](https://ddes.co/articulo-grupos-de-uso/): La NSR-10 clasifica las edificaciones en cuatro grupos y aumenta las fuerzas de diseño hasta en un 50%.
+
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+## Preguntas frecuentes
+
+**¿En qué zona de amenaza sísmica está Cúcuta?**
+
+En amenaza sísmica alta, con Aa = 0,35 y Av = 0,25 según el Apéndice A-4 de la NSR-10; la tabla A.2.3-2, de capitales, da Av = 0,30.
+
+**¿DDES trabaja en Cúcuta?**
+
+Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para una propuesta, envíe los planos arquitectónicos y la ubicación del lote por el formulario de contacto o por WhatsApp.
+
+## Otras ciudades
+
+[Todos los municipios de Norte de Santander](https://ddes.co/amenaza-sismica-norte-de-santander/)
+
+- [BarranquillaAmenaza baja](https://ddes.co/ingenieria-estructural-barranquilla/)
+- [SoledadAmenaza baja](https://ddes.co/ingenieria-estructural-soledad/)
+- [Puerto ColombiaAmenaza baja](https://ddes.co/ingenieria-estructural-puerto-colombia/)
+- [MalamboAmenaza baja](https://ddes.co/ingenieria-estructural-malambo/)
+- [GalapaAmenaza baja](https://ddes.co/ingenieria-estructural-galapa/)
+- [CartagenaAmenaza baja](https://ddes.co/ingenieria-estructural-cartagena/)
+- [Santa MartaAmenaza intermedia](https://ddes.co/ingenieria-estructural-santa-marta/)
+- [MonteríaAmenaza intermedia](https://ddes.co/ingenieria-estructural-monteria/)
+- [SincelejoAmenaza intermedia](https://ddes.co/ingenieria-estructural-sincelejo/)
+- [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
+- [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
+- [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
+
+Última actualización: 6 de octubre de 2026
+
+---
+
+URL: https://ddes.co/ingenieria-estructural-villavicencio/
+Última actualización: 2026-10-06
+
+[Cobertura](https://ddes.co/cobertura/)
+
+# Ingeniería estructural en Villavicencio
+
+Diseño estructural, revisión y supervisión técnica en zona de amenaza sísmica alta.
+
+DDES hace diseño estructural, revisión independiente, supervisión técnica e interventoría para proyectos en Villavicencio, Meta, bajo la NSR-10 y la Ley 1796 de 2016. Villavicencio está en zona de amenaza sísmica alta, con Aa = 0,25 y Av = 0,30. DDES trabaja desde Barranquilla con cobertura nacional.
+
+- Amenaza sísmica: Alta
+- Aa / Av: 0,25 / 0,30
+- Ae / Ad: 0,20 / 0,07
+- Departamento: [Meta](https://ddes.co/amenaza-sismica-meta/)
+
+## ¿Qué exige la NSR-10 para construir en Villavicencio?
+
+En concreto reforzado, la NSR-10 solo admite en amenaza alta sistemas con capacidad especial de disipación de energía (DES), el detallado más exigente del Reglamento: confinamiento de columnas y nudos, y control estricto de las derivas.
+
+Si el estudio de suelos da un perfil D, el espectro de diseño de Villavicencio para un edificio de vivienda u oficinas (grupo de uso I) tiene una meseta de Sa = 0,81 g hasta TC = 0,80 s, y TL = 4,32 s. Con otro suelo u otro uso los valores cambian: [calcúlelos en el espectro de diseño](https://ddes.co/espectro-nsr10/?m=50001).
+
+La tabla A.2.3-2 de la NSR-10, de capitales, da para Villavicencio Aa = 0,35 y Av = 0,30; el Apéndice A-4 da Aa = 0,25 y Av = 0,30. El Reglamento no dice cuál prevalece: la opción conservadora es diseñar con el mayor de cada par y acordarlo desde el principio con el revisor independiente y la curaduría.
+
+## ¿Cómo se compara con Barranquilla?
+
+El coeficiente de aceleración de Villavicencio, Aa = 0,25, es dos veces y media de Barranquilla (Aa = 0,10). Barranquilla está en amenaza baja y Villavicencio en amenaza alta: en concreto reforzado, un diseño de Barranquilla con disipación mínima (DMI) no sirve en Villavicencio, que exige capacidad especial de disipación de energía (DES) y un control estricto de las derivas.
+
+## ¿Qué valores usa la NSR-10 para edificaciones existentes e indispensables?
+
+Para evaluar edificaciones existentes con seguridad limitada, la NSR-10 usa Ae, que en Villavicencio vale 0,20 (A.10.3). Las edificaciones indispensables de los grupos de uso III y IV se revisan además para el umbral de daño con Ad = 0,07 (A.12.2).
+
+## ¿Cuándo exige la Ley 1796 revisión y supervisión técnica en Villavicencio?
+
+La regla es la misma en todo el país: cuando el lote permite construir más de 2.000 m², sin importar el uso, la Ley 1796 de 2016 exige revisión independiente de los diseños estructurales antes de la licencia y supervisión técnica independiente durante la obra. Las edificaciones de los grupos de uso III y IV, como colegios y hospitales, requieren supervisión técnica sin importar el área (A.1.3.9.1). Compruebe su caso en el [asistente de la Ley 1796](https://ddes.co/ley/).
+
+## Servicios de DDES en Villavicencio
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Revisión independiente](https://ddes.co/servicio-revision/): Revisión de diseños estructurales de terceros, obligatoria en proyectos de más de 2.000 m².
+
+- [Supervisión técnica](https://ddes.co/servicio-supervision/): Supervisión técnica independiente según la Ley 1796 y el Título I de la NSR-10, antes de cada fundida.
+
+## Notas técnicas para Villavicencio
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
+
+- [Grupos de uso: por qué un colegio o una clínica se diseñan más fuertes](https://ddes.co/articulo-grupos-de-uso/): La NSR-10 clasifica las edificaciones en cuatro grupos y aumenta las fuerzas de diseño hasta en un 50%.
+
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+## Preguntas frecuentes
+
+**¿En qué zona de amenaza sísmica está Villavicencio?**
+
+En amenaza sísmica alta, con Aa = 0,25 y Av = 0,30 según el Apéndice A-4 de la NSR-10; la tabla A.2.3-2, de capitales, da Av = 0,30.
+
+**¿DDES trabaja en Villavicencio?**
+
+Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para una propuesta, envíe los planos arquitectónicos y la ubicación del lote por el formulario de contacto o por WhatsApp.
+
+## Otras ciudades
+
+[Todos los municipios de Meta](https://ddes.co/amenaza-sismica-meta/)
+
+- [BarranquillaAmenaza baja](https://ddes.co/ingenieria-estructural-barranquilla/)
+- [SoledadAmenaza baja](https://ddes.co/ingenieria-estructural-soledad/)
+- [Puerto ColombiaAmenaza baja](https://ddes.co/ingenieria-estructural-puerto-colombia/)
+- [MalamboAmenaza baja](https://ddes.co/ingenieria-estructural-malambo/)
+- [GalapaAmenaza baja](https://ddes.co/ingenieria-estructural-galapa/)
+- [CartagenaAmenaza baja](https://ddes.co/ingenieria-estructural-cartagena/)
+- [Santa MartaAmenaza intermedia](https://ddes.co/ingenieria-estructural-santa-marta/)
+- [MonteríaAmenaza intermedia](https://ddes.co/ingenieria-estructural-monteria/)
+- [SincelejoAmenaza intermedia](https://ddes.co/ingenieria-estructural-sincelejo/)
+- [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
+- [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
+- [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
+
+Última actualización: 6 de octubre de 2026
+
+---
+
+URL: https://ddes.co/ingenieria-estructural-ibague/
+Última actualización: 2026-10-06
+
+[Cobertura](https://ddes.co/cobertura/)
+
+# Ingeniería estructural en Ibagué
+
+Diseño estructural, revisión y supervisión técnica en zona de amenaza sísmica intermedia.
+
+DDES hace diseño estructural, revisión independiente, supervisión técnica e interventoría para proyectos en Ibagué, Tolima, bajo la NSR-10 y la Ley 1796 de 2016. Ibagué está en zona de amenaza sísmica intermedia, con Aa = 0,20 y Av = 0,20. DDES trabaja desde Barranquilla con cobertura nacional.
+
+- Amenaza sísmica: Intermedia
+- Aa / Av: 0,20 / 0,20
+- Ae / Ad: 0,15 / 0,08
+- Departamento: [Tolima](https://ddes.co/amenaza-sismica-tolima/)
+
+## ¿Qué exige la NSR-10 para construir en Ibagué?
+
+En concreto reforzado, la amenaza intermedia ya no admite la disipación mínima (DMI): la estructura se diseña con capacidad moderada (DMO) o especial (DES) de disipación de energía, con más exigencias de detallado del refuerzo.
+
+Si el estudio de suelos da un perfil D, el espectro de diseño de Ibagué para un edificio de vivienda u oficinas (grupo de uso I) tiene una meseta de Sa = 0,70 g hasta TC = 0,69 s, y TL = 4,80 s. Con otro suelo u otro uso los valores cambian: [calcúlelos en el espectro de diseño](https://ddes.co/espectro-nsr10/?m=73001).
+
+## ¿Cómo se compara con Barranquilla?
+
+El coeficiente de aceleración de Ibagué, Aa = 0,20, es el doble del de Barranquilla (Aa = 0,10). Barranquilla está en amenaza baja y Ibagué en amenaza intermedia: en concreto reforzado, Ibagué ya no admite la disipación mínima (DMI) y exige al menos capacidad moderada (DMO).
+
+## ¿Qué valores usa la NSR-10 para edificaciones existentes e indispensables?
+
+Para evaluar edificaciones existentes con seguridad limitada, la NSR-10 usa Ae, que en Ibagué vale 0,15 (A.10.3). Las edificaciones indispensables de los grupos de uso III y IV se revisan además para el umbral de daño con Ad = 0,08 (A.12.2).
+
+## ¿Cuándo exige la Ley 1796 revisión y supervisión técnica en Ibagué?
+
+La regla es la misma en todo el país: cuando el lote permite construir más de 2.000 m², sin importar el uso, la Ley 1796 de 2016 exige revisión independiente de los diseños estructurales antes de la licencia y supervisión técnica independiente durante la obra. Las edificaciones de los grupos de uso III y IV, como colegios y hospitales, requieren supervisión técnica sin importar el área (A.1.3.9.1). Compruebe su caso en el [asistente de la Ley 1796](https://ddes.co/ley/).
+
+## Servicios de DDES en Ibagué
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Revisión independiente](https://ddes.co/servicio-revision/): Revisión de diseños estructurales de terceros, obligatoria en proyectos de más de 2.000 m².
+
+- [Supervisión técnica](https://ddes.co/servicio-supervision/): Supervisión técnica independiente según la Ley 1796 y el Título I de la NSR-10, antes de cada fundida.
+
+## Notas técnicas para Ibagué
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
+
+- [Grupos de uso: por qué un colegio o una clínica se diseñan más fuertes](https://ddes.co/articulo-grupos-de-uso/): La NSR-10 clasifica las edificaciones en cuatro grupos y aumenta las fuerzas de diseño hasta en un 50%.
+
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+## Preguntas frecuentes
+
+**¿En qué zona de amenaza sísmica está Ibagué?**
+
+En amenaza sísmica intermedia, con Aa = 0,20 y Av = 0,20 según el Apéndice A-4 de la NSR-10.
+
+**¿DDES trabaja en Ibagué?**
+
+Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para una propuesta, envíe los planos arquitectónicos y la ubicación del lote por el formulario de contacto o por WhatsApp.
+
+## Otras ciudades
+
+[Todos los municipios de Tolima](https://ddes.co/amenaza-sismica-tolima/)
+
+- [BarranquillaAmenaza baja](https://ddes.co/ingenieria-estructural-barranquilla/)
+- [SoledadAmenaza baja](https://ddes.co/ingenieria-estructural-soledad/)
+- [Puerto ColombiaAmenaza baja](https://ddes.co/ingenieria-estructural-puerto-colombia/)
+- [MalamboAmenaza baja](https://ddes.co/ingenieria-estructural-malambo/)
+- [GalapaAmenaza baja](https://ddes.co/ingenieria-estructural-galapa/)
+- [CartagenaAmenaza baja](https://ddes.co/ingenieria-estructural-cartagena/)
+- [Santa MartaAmenaza intermedia](https://ddes.co/ingenieria-estructural-santa-marta/)
+- [MonteríaAmenaza intermedia](https://ddes.co/ingenieria-estructural-monteria/)
+- [SincelejoAmenaza intermedia](https://ddes.co/ingenieria-estructural-sincelejo/)
+- [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
+- [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
+- [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
+
+Última actualización: 6 de octubre de 2026
+
+---
+
+URL: https://ddes.co/ingenieria-estructural-pereira/
+Última actualización: 2026-10-06
+
+[Cobertura](https://ddes.co/cobertura/)
+
+# Ingeniería estructural en Pereira
+
+Diseño estructural, revisión y supervisión técnica en zona de amenaza sísmica alta.
+
+DDES hace diseño estructural, revisión independiente, supervisión técnica e interventoría para proyectos en Pereira, Risaralda, bajo la NSR-10 y la Ley 1796 de 2016. Pereira está en zona de amenaza sísmica alta, con Aa = 0,25 y Av = 0,25. DDES trabaja desde Barranquilla con cobertura nacional.
+
+- Amenaza sísmica: Alta
+- Aa / Av: 0,25 / 0,25
+- Ae / Ad: 0,20 / 0,10
+- Departamento: [Risaralda](https://ddes.co/amenaza-sismica-risaralda/)
+
+## ¿Qué exige la NSR-10 para construir en Pereira?
+
+En concreto reforzado, la NSR-10 solo admite en amenaza alta sistemas con capacidad especial de disipación de energía (DES), el detallado más exigente del Reglamento: confinamiento de columnas y nudos, y control estricto de las derivas.
+
+Si el estudio de suelos da un perfil D, el espectro de diseño de Pereira para un edificio de vivienda u oficinas (grupo de uso I) tiene una meseta de Sa = 0,81 g hasta TC = 0,70 s, y TL = 4,56 s. Con otro suelo u otro uso los valores cambian: [calcúlelos en el espectro de diseño](https://ddes.co/espectro-nsr10/?m=66001).
+
+## ¿Cómo se compara con Barranquilla?
+
+El coeficiente de aceleración de Pereira, Aa = 0,25, es dos veces y media de Barranquilla (Aa = 0,10). Barranquilla está en amenaza baja y Pereira en amenaza alta: en concreto reforzado, un diseño de Barranquilla con disipación mínima (DMI) no sirve en Pereira, que exige capacidad especial de disipación de energía (DES) y un control estricto de las derivas.
+
+## ¿Qué valores usa la NSR-10 para edificaciones existentes e indispensables?
+
+Para evaluar edificaciones existentes con seguridad limitada, la NSR-10 usa Ae, que en Pereira vale 0,20 (A.10.3). Las edificaciones indispensables de los grupos de uso III y IV se revisan además para el umbral de daño con Ad = 0,10 (A.12.2).
+
+## ¿Cuándo exige la Ley 1796 revisión y supervisión técnica en Pereira?
+
+La regla es la misma en todo el país: cuando el lote permite construir más de 2.000 m², sin importar el uso, la Ley 1796 de 2016 exige revisión independiente de los diseños estructurales antes de la licencia y supervisión técnica independiente durante la obra. Las edificaciones de los grupos de uso III y IV, como colegios y hospitales, requieren supervisión técnica sin importar el área (A.1.3.9.1). Compruebe su caso en el [asistente de la Ley 1796](https://ddes.co/ley/).
+
+## Servicios de DDES en Pereira
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Revisión independiente](https://ddes.co/servicio-revision/): Revisión de diseños estructurales de terceros, obligatoria en proyectos de más de 2.000 m².
+
+- [Supervisión técnica](https://ddes.co/servicio-supervision/): Supervisión técnica independiente según la Ley 1796 y el Título I de la NSR-10, antes de cada fundida.
+
+## Notas técnicas para Pereira
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Terremoto del 10 de agosto de 2026: lecciones de Pereira](https://ddes.co/articulo-caso-pereira-terremoto-2026/): Haber resistido el sismo de 1999 no era una garantía. Y el aeropuerto cerró por daños que no eran estructurales.
+
+- [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
+
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+## Preguntas frecuentes
+
+**¿En qué zona de amenaza sísmica está Pereira?**
+
+En amenaza sísmica alta, con Aa = 0,25 y Av = 0,25 según el Apéndice A-4 de la NSR-10.
+
+**¿DDES trabaja en Pereira?**
+
+Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para una propuesta, envíe los planos arquitectónicos y la ubicación del lote por el formulario de contacto o por WhatsApp.
+
+## Otras ciudades
+
+[Todos los municipios de Risaralda](https://ddes.co/amenaza-sismica-risaralda/)
+
+- [BarranquillaAmenaza baja](https://ddes.co/ingenieria-estructural-barranquilla/)
+- [SoledadAmenaza baja](https://ddes.co/ingenieria-estructural-soledad/)
+- [Puerto ColombiaAmenaza baja](https://ddes.co/ingenieria-estructural-puerto-colombia/)
+- [MalamboAmenaza baja](https://ddes.co/ingenieria-estructural-malambo/)
+- [GalapaAmenaza baja](https://ddes.co/ingenieria-estructural-galapa/)
+- [CartagenaAmenaza baja](https://ddes.co/ingenieria-estructural-cartagena/)
+- [Santa MartaAmenaza intermedia](https://ddes.co/ingenieria-estructural-santa-marta/)
+- [MonteríaAmenaza intermedia](https://ddes.co/ingenieria-estructural-monteria/)
+- [SincelejoAmenaza intermedia](https://ddes.co/ingenieria-estructural-sincelejo/)
+- [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
+- [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
+- [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
+
+Última actualización: 6 de octubre de 2026
+
+---
+
+URL: https://ddes.co/ingenieria-estructural-manizales/
+Última actualización: 2026-10-06
+
+[Cobertura](https://ddes.co/cobertura/)
+
+# Ingeniería estructural en Manizales
+
+Diseño estructural, revisión y supervisión técnica en zona de amenaza sísmica alta.
+
+DDES hace diseño estructural, revisión independiente, supervisión técnica e interventoría para proyectos en Manizales, Caldas, bajo la NSR-10 y la Ley 1796 de 2016. Manizales está en zona de amenaza sísmica alta, con Aa = 0,25 y Av = 0,25. DDES trabaja desde Barranquilla con cobertura nacional.
+
+- Amenaza sísmica: Alta
+- Aa / Av: 0,25 / 0,25
+- Ae / Ad: 0,20 / 0,10
+- Departamento: [Caldas](https://ddes.co/amenaza-sismica-caldas/)
+
+## ¿Qué exige la NSR-10 para construir en Manizales?
+
+En concreto reforzado, la NSR-10 solo admite en amenaza alta sistemas con capacidad especial de disipación de energía (DES), el detallado más exigente del Reglamento: confinamiento de columnas y nudos, y control estricto de las derivas.
+
+Si el estudio de suelos da un perfil D, el espectro de diseño de Manizales para un edificio de vivienda u oficinas (grupo de uso I) tiene una meseta de Sa = 0,81 g hasta TC = 0,70 s, y TL = 4,56 s. Con otro suelo u otro uso los valores cambian: [calcúlelos en el espectro de diseño](https://ddes.co/espectro-nsr10/?m=17001).
+
+## ¿Cómo se compara con Barranquilla?
+
+El coeficiente de aceleración de Manizales, Aa = 0,25, es dos veces y media de Barranquilla (Aa = 0,10). Barranquilla está en amenaza baja y Manizales en amenaza alta: en concreto reforzado, un diseño de Barranquilla con disipación mínima (DMI) no sirve en Manizales, que exige capacidad especial de disipación de energía (DES) y un control estricto de las derivas.
+
+## ¿Qué valores usa la NSR-10 para edificaciones existentes e indispensables?
+
+Para evaluar edificaciones existentes con seguridad limitada, la NSR-10 usa Ae, que en Manizales vale 0,20 (A.10.3). Las edificaciones indispensables de los grupos de uso III y IV se revisan además para el umbral de daño con Ad = 0,10 (A.12.2).
+
+## ¿Cuándo exige la Ley 1796 revisión y supervisión técnica en Manizales?
+
+La regla es la misma en todo el país: cuando el lote permite construir más de 2.000 m², sin importar el uso, la Ley 1796 de 2016 exige revisión independiente de los diseños estructurales antes de la licencia y supervisión técnica independiente durante la obra. Las edificaciones de los grupos de uso III y IV, como colegios y hospitales, requieren supervisión técnica sin importar el área (A.1.3.9.1). Compruebe su caso en el [asistente de la Ley 1796](https://ddes.co/ley/).
+
+## Servicios de DDES en Manizales
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Revisión independiente](https://ddes.co/servicio-revision/): Revisión de diseños estructurales de terceros, obligatoria en proyectos de más de 2.000 m².
+
+- [Supervisión técnica](https://ddes.co/servicio-supervision/): Supervisión técnica independiente según la Ley 1796 y el Título I de la NSR-10, antes de cada fundida.
+
+## Notas técnicas para Manizales
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
+
+- [Grupos de uso: por qué un colegio o una clínica se diseñan más fuertes](https://ddes.co/articulo-grupos-de-uso/): La NSR-10 clasifica las edificaciones en cuatro grupos y aumenta las fuerzas de diseño hasta en un 50%.
+
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+## Preguntas frecuentes
+
+**¿En qué zona de amenaza sísmica está Manizales?**
+
+En amenaza sísmica alta, con Aa = 0,25 y Av = 0,25 según el Apéndice A-4 de la NSR-10.
+
+**¿DDES trabaja en Manizales?**
+
+Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para una propuesta, envíe los planos arquitectónicos y la ubicación del lote por el formulario de contacto o por WhatsApp.
+
+## Otras ciudades
+
+[Todos los municipios de Caldas](https://ddes.co/amenaza-sismica-caldas/)
+
+- [BarranquillaAmenaza baja](https://ddes.co/ingenieria-estructural-barranquilla/)
+- [SoledadAmenaza baja](https://ddes.co/ingenieria-estructural-soledad/)
+- [Puerto ColombiaAmenaza baja](https://ddes.co/ingenieria-estructural-puerto-colombia/)
+- [MalamboAmenaza baja](https://ddes.co/ingenieria-estructural-malambo/)
+- [GalapaAmenaza baja](https://ddes.co/ingenieria-estructural-galapa/)
+- [CartagenaAmenaza baja](https://ddes.co/ingenieria-estructural-cartagena/)
+- [Santa MartaAmenaza intermedia](https://ddes.co/ingenieria-estructural-santa-marta/)
+- [MonteríaAmenaza intermedia](https://ddes.co/ingenieria-estructural-monteria/)
+- [SincelejoAmenaza intermedia](https://ddes.co/ingenieria-estructural-sincelejo/)
+- [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
+- [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
+- [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
+
+Última actualización: 6 de octubre de 2026
+
+---
+
+URL: https://ddes.co/ingenieria-estructural-neiva/
+Última actualización: 2026-10-06
+
+[Cobertura](https://ddes.co/cobertura/)
+
+# Ingeniería estructural en Neiva
+
+Diseño estructural, revisión y supervisión técnica en zona de amenaza sísmica alta.
+
+DDES hace diseño estructural, revisión independiente, supervisión técnica e interventoría para proyectos en Neiva, Huila, bajo la NSR-10 y la Ley 1796 de 2016. Neiva está en zona de amenaza sísmica alta, con Aa = 0,25 y Av = 0,25. DDES trabaja desde Barranquilla con cobertura nacional.
+
+- Amenaza sísmica: Alta
+- Aa / Av: 0,25 / 0,25
+- Ae / Ad: 0,20 / 0,08
+- Departamento: [Huila](https://ddes.co/amenaza-sismica-huila/)
+
+## ¿Qué exige la NSR-10 para construir en Neiva?
+
+En concreto reforzado, la NSR-10 solo admite en amenaza alta sistemas con capacidad especial de disipación de energía (DES), el detallado más exigente del Reglamento: confinamiento de columnas y nudos, y control estricto de las derivas.
+
+Si el estudio de suelos da un perfil D, el espectro de diseño de Neiva para un edificio de vivienda u oficinas (grupo de uso I) tiene una meseta de Sa = 0,81 g hasta TC = 0,70 s, y TL = 4,56 s. Con otro suelo u otro uso los valores cambian: [calcúlelos en el espectro de diseño](https://ddes.co/espectro-nsr10/?m=41001).
+
+## ¿Cómo se compara con Barranquilla?
+
+El coeficiente de aceleración de Neiva, Aa = 0,25, es dos veces y media de Barranquilla (Aa = 0,10). Barranquilla está en amenaza baja y Neiva en amenaza alta: en concreto reforzado, un diseño de Barranquilla con disipación mínima (DMI) no sirve en Neiva, que exige capacidad especial de disipación de energía (DES) y un control estricto de las derivas.
+
+## ¿Qué valores usa la NSR-10 para edificaciones existentes e indispensables?
+
+Para evaluar edificaciones existentes con seguridad limitada, la NSR-10 usa Ae, que en Neiva vale 0,20 (A.10.3). Las edificaciones indispensables de los grupos de uso III y IV se revisan además para el umbral de daño con Ad = 0,08 (A.12.2).
+
+## ¿Cuándo exige la Ley 1796 revisión y supervisión técnica en Neiva?
+
+La regla es la misma en todo el país: cuando el lote permite construir más de 2.000 m², sin importar el uso, la Ley 1796 de 2016 exige revisión independiente de los diseños estructurales antes de la licencia y supervisión técnica independiente durante la obra. Las edificaciones de los grupos de uso III y IV, como colegios y hospitales, requieren supervisión técnica sin importar el área (A.1.3.9.1). Compruebe su caso en el [asistente de la Ley 1796](https://ddes.co/ley/).
+
+## Servicios de DDES en Neiva
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Revisión independiente](https://ddes.co/servicio-revision/): Revisión de diseños estructurales de terceros, obligatoria en proyectos de más de 2.000 m².
+
+- [Supervisión técnica](https://ddes.co/servicio-supervision/): Supervisión técnica independiente según la Ley 1796 y el Título I de la NSR-10, antes de cada fundida.
+
+## Notas técnicas para Neiva
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
+
+- [Grupos de uso: por qué un colegio o una clínica se diseñan más fuertes](https://ddes.co/articulo-grupos-de-uso/): La NSR-10 clasifica las edificaciones en cuatro grupos y aumenta las fuerzas de diseño hasta en un 50%.
+
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+## Preguntas frecuentes
+
+**¿En qué zona de amenaza sísmica está Neiva?**
+
+En amenaza sísmica alta, con Aa = 0,25 y Av = 0,25 según el Apéndice A-4 de la NSR-10.
+
+**¿DDES trabaja en Neiva?**
+
+Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para una propuesta, envíe los planos arquitectónicos y la ubicación del lote por el formulario de contacto o por WhatsApp.
+
+## Otras ciudades
+
+[Todos los municipios de Huila](https://ddes.co/amenaza-sismica-huila/)
+
+- [BarranquillaAmenaza baja](https://ddes.co/ingenieria-estructural-barranquilla/)
+- [SoledadAmenaza baja](https://ddes.co/ingenieria-estructural-soledad/)
+- [Puerto ColombiaAmenaza baja](https://ddes.co/ingenieria-estructural-puerto-colombia/)
+- [MalamboAmenaza baja](https://ddes.co/ingenieria-estructural-malambo/)
+- [GalapaAmenaza baja](https://ddes.co/ingenieria-estructural-galapa/)
+- [CartagenaAmenaza baja](https://ddes.co/ingenieria-estructural-cartagena/)
+- [Santa MartaAmenaza intermedia](https://ddes.co/ingenieria-estructural-santa-marta/)
+- [MonteríaAmenaza intermedia](https://ddes.co/ingenieria-estructural-monteria/)
+- [SincelejoAmenaza intermedia](https://ddes.co/ingenieria-estructural-sincelejo/)
+- [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
+- [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
+- [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
+
+Última actualización: 6 de octubre de 2026
+
+---
+
+URL: https://ddes.co/ingenieria-estructural-pasto/
+Última actualización: 2026-10-06
+
+[Cobertura](https://ddes.co/cobertura/)
+
+# Ingeniería estructural en Pasto
+
+Diseño estructural, revisión y supervisión técnica en zona de amenaza sísmica alta.
+
+DDES hace diseño estructural, revisión independiente, supervisión técnica e interventoría para proyectos en Pasto, Nariño, bajo la NSR-10 y la Ley 1796 de 2016. Pasto está en zona de amenaza sísmica alta, con Aa = 0,25 y Av = 0,25. DDES trabaja desde Barranquilla con cobertura nacional.
+
+- Amenaza sísmica: Alta
+- Aa / Av: 0,25 / 0,25
+- Ae / Ad: 0,15 / 0,08
+- Departamento: [Nariño](https://ddes.co/amenaza-sismica-narino/)
+
+## ¿Qué exige la NSR-10 para construir en Pasto?
+
+En concreto reforzado, la NSR-10 solo admite en amenaza alta sistemas con capacidad especial de disipación de energía (DES), el detallado más exigente del Reglamento: confinamiento de columnas y nudos, y control estricto de las derivas.
+
+Si el estudio de suelos da un perfil D, el espectro de diseño de Pasto para un edificio de vivienda u oficinas (grupo de uso I) tiene una meseta de Sa = 0,81 g hasta TC = 0,70 s, y TL = 4,56 s. Con otro suelo u otro uso los valores cambian: [calcúlelos en el espectro de diseño](https://ddes.co/espectro-nsr10/?m=52001).
+
+## ¿Cómo se compara con Barranquilla?
+
+El coeficiente de aceleración de Pasto, Aa = 0,25, es dos veces y media de Barranquilla (Aa = 0,10). Barranquilla está en amenaza baja y Pasto en amenaza alta: en concreto reforzado, un diseño de Barranquilla con disipación mínima (DMI) no sirve en Pasto, que exige capacidad especial de disipación de energía (DES) y un control estricto de las derivas.
+
+## ¿Qué valores usa la NSR-10 para edificaciones existentes e indispensables?
+
+Para evaluar edificaciones existentes con seguridad limitada, la NSR-10 usa Ae, que en Pasto vale 0,15 (A.10.3). Las edificaciones indispensables de los grupos de uso III y IV se revisan además para el umbral de daño con Ad = 0,08 (A.12.2).
+
+## ¿Cuándo exige la Ley 1796 revisión y supervisión técnica en Pasto?
+
+La regla es la misma en todo el país: cuando el lote permite construir más de 2.000 m², sin importar el uso, la Ley 1796 de 2016 exige revisión independiente de los diseños estructurales antes de la licencia y supervisión técnica independiente durante la obra. Las edificaciones de los grupos de uso III y IV, como colegios y hospitales, requieren supervisión técnica sin importar el área (A.1.3.9.1). Compruebe su caso en el [asistente de la Ley 1796](https://ddes.co/ley/).
+
+## Servicios de DDES en Pasto
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Revisión independiente](https://ddes.co/servicio-revision/): Revisión de diseños estructurales de terceros, obligatoria en proyectos de más de 2.000 m².
+
+- [Supervisión técnica](https://ddes.co/servicio-supervision/): Supervisión técnica independiente según la Ley 1796 y el Título I de la NSR-10, antes de cada fundida.
+
+## Notas técnicas para Pasto
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
+
+- [Grupos de uso: por qué un colegio o una clínica se diseñan más fuertes](https://ddes.co/articulo-grupos-de-uso/): La NSR-10 clasifica las edificaciones en cuatro grupos y aumenta las fuerzas de diseño hasta en un 50%.
+
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+## Preguntas frecuentes
+
+**¿En qué zona de amenaza sísmica está Pasto?**
+
+En amenaza sísmica alta, con Aa = 0,25 y Av = 0,25 según el Apéndice A-4 de la NSR-10.
+
+**¿DDES trabaja en Pasto?**
+
+Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para una propuesta, envíe los planos arquitectónicos y la ubicación del lote por el formulario de contacto o por WhatsApp.
+
+## Otras ciudades
+
+[Todos los municipios de Nariño](https://ddes.co/amenaza-sismica-narino/)
+
+- [BarranquillaAmenaza baja](https://ddes.co/ingenieria-estructural-barranquilla/)
+- [SoledadAmenaza baja](https://ddes.co/ingenieria-estructural-soledad/)
+- [Puerto ColombiaAmenaza baja](https://ddes.co/ingenieria-estructural-puerto-colombia/)
+- [MalamboAmenaza baja](https://ddes.co/ingenieria-estructural-malambo/)
+- [GalapaAmenaza baja](https://ddes.co/ingenieria-estructural-galapa/)
+- [CartagenaAmenaza baja](https://ddes.co/ingenieria-estructural-cartagena/)
+- [Santa MartaAmenaza intermedia](https://ddes.co/ingenieria-estructural-santa-marta/)
+- [MonteríaAmenaza intermedia](https://ddes.co/ingenieria-estructural-monteria/)
+- [SincelejoAmenaza intermedia](https://ddes.co/ingenieria-estructural-sincelejo/)
+- [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
+- [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
+- [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
+
+Última actualización: 6 de octubre de 2026
+
+---
+
+URL: https://ddes.co/ingenieria-estructural-armenia/
+Última actualización: 2026-10-06
+
+[Cobertura](https://ddes.co/cobertura/)
+
+# Ingeniería estructural en Armenia
+
+Diseño estructural, revisión y supervisión técnica en zona de amenaza sísmica alta.
+
+DDES hace diseño estructural, revisión independiente, supervisión técnica e interventoría para proyectos en Armenia, Quindío, bajo la NSR-10 y la Ley 1796 de 2016. Armenia está en zona de amenaza sísmica alta, con Aa = 0,25 y Av = 0,25. DDES trabaja desde Barranquilla con cobertura nacional.
+
+- Amenaza sísmica: Alta
+- Aa / Av: 0,25 / 0,25
+- Ae / Ad: 0,20 / 0,10
+- Departamento: [Quindío](https://ddes.co/amenaza-sismica-quindio/)
+
+## ¿Qué exige la NSR-10 para construir en Armenia?
+
+En concreto reforzado, la NSR-10 solo admite en amenaza alta sistemas con capacidad especial de disipación de energía (DES), el detallado más exigente del Reglamento: confinamiento de columnas y nudos, y control estricto de las derivas.
+
+Si el estudio de suelos da un perfil D, el espectro de diseño de Armenia para un edificio de vivienda u oficinas (grupo de uso I) tiene una meseta de Sa = 0,81 g hasta TC = 0,70 s, y TL = 4,56 s. Con otro suelo u otro uso los valores cambian: [calcúlelos en el espectro de diseño](https://ddes.co/espectro-nsr10/?m=63001).
+
+## ¿Cómo se compara con Barranquilla?
+
+El coeficiente de aceleración de Armenia, Aa = 0,25, es dos veces y media de Barranquilla (Aa = 0,10). Barranquilla está en amenaza baja y Armenia en amenaza alta: en concreto reforzado, un diseño de Barranquilla con disipación mínima (DMI) no sirve en Armenia, que exige capacidad especial de disipación de energía (DES) y un control estricto de las derivas.
+
+## ¿Qué valores usa la NSR-10 para edificaciones existentes e indispensables?
+
+Para evaluar edificaciones existentes con seguridad limitada, la NSR-10 usa Ae, que en Armenia vale 0,20 (A.10.3). Las edificaciones indispensables de los grupos de uso III y IV se revisan además para el umbral de daño con Ad = 0,10 (A.12.2).
+
+## ¿Cuándo exige la Ley 1796 revisión y supervisión técnica en Armenia?
+
+La regla es la misma en todo el país: cuando el lote permite construir más de 2.000 m², sin importar el uso, la Ley 1796 de 2016 exige revisión independiente de los diseños estructurales antes de la licencia y supervisión técnica independiente durante la obra. Las edificaciones de los grupos de uso III y IV, como colegios y hospitales, requieren supervisión técnica sin importar el área (A.1.3.9.1). Compruebe su caso en el [asistente de la Ley 1796](https://ddes.co/ley/).
+
+## Servicios de DDES en Armenia
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Revisión independiente](https://ddes.co/servicio-revision/): Revisión de diseños estructurales de terceros, obligatoria en proyectos de más de 2.000 m².
+
+- [Supervisión técnica](https://ddes.co/servicio-supervision/): Supervisión técnica independiente según la Ley 1796 y el Título I de la NSR-10, antes de cada fundida.
+
+## Notas técnicas para Armenia
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
+
+- [Grupos de uso: por qué un colegio o una clínica se diseñan más fuertes](https://ddes.co/articulo-grupos-de-uso/): La NSR-10 clasifica las edificaciones en cuatro grupos y aumenta las fuerzas de diseño hasta en un 50%.
+
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+## Preguntas frecuentes
+
+**¿En qué zona de amenaza sísmica está Armenia?**
+
+En amenaza sísmica alta, con Aa = 0,25 y Av = 0,25 según el Apéndice A-4 de la NSR-10.
+
+**¿DDES trabaja en Armenia?**
+
+Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para una propuesta, envíe los planos arquitectónicos y la ubicación del lote por el formulario de contacto o por WhatsApp.
+
+## Otras ciudades
+
+[Todos los municipios de Quindío](https://ddes.co/amenaza-sismica-quindio/)
+
+- [BarranquillaAmenaza baja](https://ddes.co/ingenieria-estructural-barranquilla/)
+- [SoledadAmenaza baja](https://ddes.co/ingenieria-estructural-soledad/)
+- [Puerto ColombiaAmenaza baja](https://ddes.co/ingenieria-estructural-puerto-colombia/)
+- [MalamboAmenaza baja](https://ddes.co/ingenieria-estructural-malambo/)
+- [GalapaAmenaza baja](https://ddes.co/ingenieria-estructural-galapa/)
+- [CartagenaAmenaza baja](https://ddes.co/ingenieria-estructural-cartagena/)
+- [Santa MartaAmenaza intermedia](https://ddes.co/ingenieria-estructural-santa-marta/)
+- [MonteríaAmenaza intermedia](https://ddes.co/ingenieria-estructural-monteria/)
+- [SincelejoAmenaza intermedia](https://ddes.co/ingenieria-estructural-sincelejo/)
+- [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
+- [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
+- [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
+
+Última actualización: 6 de octubre de 2026
+
+---
+
+URL: https://ddes.co/ingenieria-estructural-tunja/
+Última actualización: 2026-10-06
+
+[Cobertura](https://ddes.co/cobertura/)
+
+# Ingeniería estructural en Tunja
+
+Diseño estructural, revisión y supervisión técnica en zona de amenaza sísmica intermedia.
+
+DDES hace diseño estructural, revisión independiente, supervisión técnica e interventoría para proyectos en Tunja, Boyacá, bajo la NSR-10 y la Ley 1796 de 2016. Tunja está en zona de amenaza sísmica intermedia, con Aa = 0,20 y Av = 0,20. DDES trabaja desde Barranquilla con cobertura nacional.
+
+- Amenaza sísmica: Intermedia
+- Aa / Av: 0,20 / 0,20
+- Ae / Ad: 0,15 / 0,07
+- Departamento: [Boyacá](https://ddes.co/amenaza-sismica-boyaca/)
+
+## ¿Qué exige la NSR-10 para construir en Tunja?
+
+En concreto reforzado, la amenaza intermedia ya no admite la disipación mínima (DMI): la estructura se diseña con capacidad moderada (DMO) o especial (DES) de disipación de energía, con más exigencias de detallado del refuerzo.
+
+Si el estudio de suelos da un perfil D, el espectro de diseño de Tunja para un edificio de vivienda u oficinas (grupo de uso I) tiene una meseta de Sa = 0,70 g hasta TC = 0,69 s, y TL = 4,80 s. Con otro suelo u otro uso los valores cambian: [calcúlelos en el espectro de diseño](https://ddes.co/espectro-nsr10/?m=15001).
+
+## ¿Cómo se compara con Barranquilla?
+
+El coeficiente de aceleración de Tunja, Aa = 0,20, es el doble del de Barranquilla (Aa = 0,10). Barranquilla está en amenaza baja y Tunja en amenaza intermedia: en concreto reforzado, Tunja ya no admite la disipación mínima (DMI) y exige al menos capacidad moderada (DMO).
+
+## ¿Qué valores usa la NSR-10 para edificaciones existentes e indispensables?
+
+Para evaluar edificaciones existentes con seguridad limitada, la NSR-10 usa Ae, que en Tunja vale 0,15 (A.10.3). Las edificaciones indispensables de los grupos de uso III y IV se revisan además para el umbral de daño con Ad = 0,07 (A.12.2).
+
+## ¿Cuándo exige la Ley 1796 revisión y supervisión técnica en Tunja?
+
+La regla es la misma en todo el país: cuando el lote permite construir más de 2.000 m², sin importar el uso, la Ley 1796 de 2016 exige revisión independiente de los diseños estructurales antes de la licencia y supervisión técnica independiente durante la obra. Las edificaciones de los grupos de uso III y IV, como colegios y hospitales, requieren supervisión técnica sin importar el área (A.1.3.9.1). Compruebe su caso en el [asistente de la Ley 1796](https://ddes.co/ley/).
+
+## Servicios de DDES en Tunja
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Revisión independiente](https://ddes.co/servicio-revision/): Revisión de diseños estructurales de terceros, obligatoria en proyectos de más de 2.000 m².
+
+- [Supervisión técnica](https://ddes.co/servicio-supervision/): Supervisión técnica independiente según la Ley 1796 y el Título I de la NSR-10, antes de cada fundida.
+
+## Notas técnicas para Tunja
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
+
+- [Grupos de uso: por qué un colegio o una clínica se diseñan más fuertes](https://ddes.co/articulo-grupos-de-uso/): La NSR-10 clasifica las edificaciones en cuatro grupos y aumenta las fuerzas de diseño hasta en un 50%.
+
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+## Preguntas frecuentes
+
+**¿En qué zona de amenaza sísmica está Tunja?**
+
+En amenaza sísmica intermedia, con Aa = 0,20 y Av = 0,20 según el Apéndice A-4 de la NSR-10.
+
+**¿DDES trabaja en Tunja?**
+
+Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para una propuesta, envíe los planos arquitectónicos y la ubicación del lote por el formulario de contacto o por WhatsApp.
+
+## Otras ciudades
+
+[Todos los municipios de Boyacá](https://ddes.co/amenaza-sismica-boyaca/)
+
+- [BarranquillaAmenaza baja](https://ddes.co/ingenieria-estructural-barranquilla/)
+- [SoledadAmenaza baja](https://ddes.co/ingenieria-estructural-soledad/)
+- [Puerto ColombiaAmenaza baja](https://ddes.co/ingenieria-estructural-puerto-colombia/)
+- [MalamboAmenaza baja](https://ddes.co/ingenieria-estructural-malambo/)
+- [GalapaAmenaza baja](https://ddes.co/ingenieria-estructural-galapa/)
+- [CartagenaAmenaza baja](https://ddes.co/ingenieria-estructural-cartagena/)
+- [Santa MartaAmenaza intermedia](https://ddes.co/ingenieria-estructural-santa-marta/)
+- [MonteríaAmenaza intermedia](https://ddes.co/ingenieria-estructural-monteria/)
+- [SincelejoAmenaza intermedia](https://ddes.co/ingenieria-estructural-sincelejo/)
+- [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
+- [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
+- [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
+
+Última actualización: 6 de octubre de 2026
+
+---
+
+URL: https://ddes.co/ingenieria-estructural-popayan/
+Última actualización: 2026-10-06
+
+[Cobertura](https://ddes.co/cobertura/)
+
+# Ingeniería estructural en Popayán
+
+Diseño estructural, revisión y supervisión técnica en zona de amenaza sísmica alta.
+
+DDES hace diseño estructural, revisión independiente, supervisión técnica e interventoría para proyectos en Popayán, Cauca, bajo la NSR-10 y la Ley 1796 de 2016. Popayán está en zona de amenaza sísmica alta, con Aa = 0,25 y Av = 0,20. DDES trabaja desde Barranquilla con cobertura nacional.
+
+- Amenaza sísmica: Alta
+- Aa / Av: 0,25 / 0,20
+- Ae / Ad: 0,15 / 0,08
+- Departamento: [Cauca](https://ddes.co/amenaza-sismica-cauca/)
+
+## ¿Qué exige la NSR-10 para construir en Popayán?
+
+En concreto reforzado, la NSR-10 solo admite en amenaza alta sistemas con capacidad especial de disipación de energía (DES), el detallado más exigente del Reglamento: confinamiento de columnas y nudos, y control estricto de las derivas.
+
+Si el estudio de suelos da un perfil D, el espectro de diseño de Popayán para un edificio de vivienda u oficinas (grupo de uso I) tiene una meseta de Sa = 0,81 g hasta TC = 0,59 s, y TL = 4,80 s. Con otro suelo u otro uso los valores cambian: [calcúlelos en el espectro de diseño](https://ddes.co/espectro-nsr10/?m=19001).
+
+## ¿Cómo se compara con Barranquilla?
+
+El coeficiente de aceleración de Popayán, Aa = 0,25, es dos veces y media de Barranquilla (Aa = 0,10). Barranquilla está en amenaza baja y Popayán en amenaza alta: en concreto reforzado, un diseño de Barranquilla con disipación mínima (DMI) no sirve en Popayán, que exige capacidad especial de disipación de energía (DES) y un control estricto de las derivas.
+
+## ¿Qué valores usa la NSR-10 para edificaciones existentes e indispensables?
+
+Para evaluar edificaciones existentes con seguridad limitada, la NSR-10 usa Ae, que en Popayán vale 0,15 (A.10.3). Las edificaciones indispensables de los grupos de uso III y IV se revisan además para el umbral de daño con Ad = 0,08 (A.12.2).
+
+## ¿Cuándo exige la Ley 1796 revisión y supervisión técnica en Popayán?
+
+La regla es la misma en todo el país: cuando el lote permite construir más de 2.000 m², sin importar el uso, la Ley 1796 de 2016 exige revisión independiente de los diseños estructurales antes de la licencia y supervisión técnica independiente durante la obra. Las edificaciones de los grupos de uso III y IV, como colegios y hospitales, requieren supervisión técnica sin importar el área (A.1.3.9.1). Compruebe su caso en el [asistente de la Ley 1796](https://ddes.co/ley/).
+
+## Servicios de DDES en Popayán
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Revisión independiente](https://ddes.co/servicio-revision/): Revisión de diseños estructurales de terceros, obligatoria en proyectos de más de 2.000 m².
+
+- [Supervisión técnica](https://ddes.co/servicio-supervision/): Supervisión técnica independiente según la Ley 1796 y el Título I de la NSR-10, antes de cada fundida.
+
+## Notas técnicas para Popayán
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
+
+- [Grupos de uso: por qué un colegio o una clínica se diseñan más fuertes](https://ddes.co/articulo-grupos-de-uso/): La NSR-10 clasifica las edificaciones en cuatro grupos y aumenta las fuerzas de diseño hasta en un 50%.
+
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+
+## Situaciones comunes
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+## Preguntas frecuentes
+
+**¿En qué zona de amenaza sísmica está Popayán?**
+
+En amenaza sísmica alta, con Aa = 0,25 y Av = 0,20 según el Apéndice A-4 de la NSR-10.
+
+**¿DDES trabaja en Popayán?**
+
+Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para una propuesta, envíe los planos arquitectónicos y la ubicación del lote por el formulario de contacto o por WhatsApp.
+
+## Otras ciudades
+
+[Todos los municipios de Cauca](https://ddes.co/amenaza-sismica-cauca/)
+
+- [BarranquillaAmenaza baja](https://ddes.co/ingenieria-estructural-barranquilla/)
+- [SoledadAmenaza baja](https://ddes.co/ingenieria-estructural-soledad/)
+- [Puerto ColombiaAmenaza baja](https://ddes.co/ingenieria-estructural-puerto-colombia/)
+- [MalamboAmenaza baja](https://ddes.co/ingenieria-estructural-malambo/)
+- [GalapaAmenaza baja](https://ddes.co/ingenieria-estructural-galapa/)
+- [CartagenaAmenaza baja](https://ddes.co/ingenieria-estructural-cartagena/)
+- [Santa MartaAmenaza intermedia](https://ddes.co/ingenieria-estructural-santa-marta/)
+- [MonteríaAmenaza intermedia](https://ddes.co/ingenieria-estructural-monteria/)
+- [SincelejoAmenaza intermedia](https://ddes.co/ingenieria-estructural-sincelejo/)
+- [ValleduparAmenaza baja](https://ddes.co/ingenieria-estructural-valledupar/)
+- [RiohachaAmenaza intermedia](https://ddes.co/ingenieria-estructural-riohacha/)
+- [YopalAmenaza alta](https://ddes.co/ingenieria-estructural-yopal/)
+- [AguazulAmenaza alta](https://ddes.co/ingenieria-estructural-aguazul/)
+- [VillanuevaAmenaza intermedia](https://ddes.co/ingenieria-estructural-villanueva/)
+- [TauramenaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tauramena/)
+- [MonterreyAmenaza alta](https://ddes.co/ingenieria-estructural-monterrey/)
+- [Paz de AriporoAmenaza intermedia](https://ddes.co/ingenieria-estructural-paz-de-ariporo/)
+- [BogotáAmenaza intermedia](https://ddes.co/ingenieria-estructural-bogota/)
+- [MedellínAmenaza intermedia](https://ddes.co/ingenieria-estructural-medellin/)
+- [CaliAmenaza alta](https://ddes.co/ingenieria-estructural-cali/)
+- [BucaramangaAmenaza alta](https://ddes.co/ingenieria-estructural-bucaramanga/)
+- [CúcutaAmenaza alta](https://ddes.co/ingenieria-estructural-cucuta/)
+- [VillavicencioAmenaza alta](https://ddes.co/ingenieria-estructural-villavicencio/)
+- [IbaguéAmenaza intermedia](https://ddes.co/ingenieria-estructural-ibague/)
+- [PereiraAmenaza alta](https://ddes.co/ingenieria-estructural-pereira/)
+- [ManizalesAmenaza alta](https://ddes.co/ingenieria-estructural-manizales/)
+- [NeivaAmenaza alta](https://ddes.co/ingenieria-estructural-neiva/)
+- [PastoAmenaza alta](https://ddes.co/ingenieria-estructural-pasto/)
+- [ArmeniaAmenaza alta](https://ddes.co/ingenieria-estructural-armenia/)
+- [TunjaAmenaza intermedia](https://ddes.co/ingenieria-estructural-tunja/)
 
 Última actualización: 6 de octubre de 2026
 
