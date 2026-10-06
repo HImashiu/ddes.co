@@ -1038,7 +1038,7 @@ function statements() {
       const r = zone.getBoundingClientRect(), x = e.clientX - r.left, y = e.clientY - r.top;
       if (lx === null) { lx = x; ly = y; return; }
       acc += Math.hypot(x - lx, y - ly); lx = x; ly = y; if (acc < 120) return; acc = 0;
-      const im = document.createElement('img'); im.src = `/fotos/t/${pics[n++ % pics.length]}.jpg`; im.alt = ''; im.className = 'trail';
+      const im = document.createElement('img'); im.src = `/fotos/t/${pics[n++ % pics.length]}.jpg`; im.alt = ''; im.className = 'trail'; im.onerror = () => im.remove();
       im.style.left = x + 'px'; im.style.top = y + 'px'; im.style.setProperty('--rot', (Math.random() * 8 - 4).toFixed(1) + 'deg');
       zone.appendChild(im); setTimeout(() => im.classList.add('gone'), 650); setTimeout(() => im.remove(), 1300);
       const all = zone.querySelectorAll('.trail'); if (all.length > 9) all[0].remove();
