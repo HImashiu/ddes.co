@@ -533,6 +533,7 @@ a.card:focus-visible,.hs-card:focus-visible,.pill:focus-visible{outline:2px soli
 
 /* Subnav */
 .subnav{position:sticky;top:calc(env(safe-area-inset-top,0px) + var(--hdr));z-index:40;background:var(--bg);border-block:1px solid var(--line)}
+.cv-q{margin-bottom:18px}.cv-q input{width:100%;max-width:520px;padding:14px 16px;border:1px solid var(--line);border-radius:12px;background:var(--bg);color:var(--ink);font:inherit}
 .subnav .wrap{display:flex;align-items:stretch;min-height:58px}
 .sn-links{display:flex;overflow-x:auto;scrollbar-width:none}
 .sn-links button{background:none;border:0;padding:0 18px;font-size:var(--fs-ui);font-weight:500;cursor:pointer;white-space:nowrap;box-shadow:inset 0 -2px 0 transparent}

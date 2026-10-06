@@ -1513,6 +1513,8 @@ DDES publica tres herramientas gratuitas basadas en el texto oficial de la NSR-1
 
 - [Espectro de diseño](https://ddes.co/espectro-nsr10/): Fa, Fv, I, T0, TC, TL y la curva Sa(T) de la sección A.2.6, para su suelo y su uso.
 
+- [Cargas vivas por uso](https://ddes.co/cargas-vivas-nsr10/): La Tabla B.4.2.1-1 completa: vivienda, oficinas, comercio, bodegas, garajes y más, con buscador.
+
 - [Asistente de la Ley 1796](https://ddes.co/ley/): ¿Su proyecto necesita revisión independiente y supervisión técnica? Con el área, los pisos y el uso.
 
 ## Amenaza sísmica por departamento
