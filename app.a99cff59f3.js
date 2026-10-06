@@ -636,14 +636,15 @@ function route() {
   let h = ''; try { h = decodeURIComponent(here().slice(1)); } catch (e) {}
   const known = !h || routes.some(x => x.re.test(h));
   let r = routes.find(x => x.re.test(h)) || routes[0], m = h.match(r.re) || [''], html = null;
+  const keep = !routed && known && app.dataset.pre === h && !!app.firstElementChild; delete app.dataset.pre;
   // the finger landed on this link a moment ago and the intent preload already wrote this page's HTML: use it
-  if (preHtml && preHtml.h === h && performance.now() - preHtml.t < 4000) html = preHtml.html; else { try { html = r.page(m); } catch (e) { console.error(e); } }
+  if (keep) html = ''; else if (preHtml && preHtml.h === h && performance.now() - preHtml.t < 4000) html = preHtml.html; else { try { html = r.page(m); } catch (e) { console.error(e); } }
   preHtml = null;
   if (html == null) { r = routes[0]; m = ['']; html = PAGES.home(); }
   leaveFns.forEach(f => f()); leaveFns.clear(); scrollFns.clear();
   // Arriving through the drop, the page is already whole: its own entrance (rising lines, settling photo) would be a second step
   app.classList.toggle('arrive', routed && !reduce && SVT);
-  app.innerHTML = html; pathLinks(app);
+  if (!keep) app.innerHTML = html; pathLinks(app);
   nav.querySelectorAll('[data-sec]').forEach(a => a.dataset.sec === r.sec ? a.setAttribute('aria-current', 'page') : a.removeAttribute('aria-current'));
   navSync(r.sec);
   const t = r.title(m); document.title = t ? `${t} · DDES` : 'DDES · Ingeniería estructural en Barranquilla';
@@ -664,6 +665,8 @@ function route() {
   later(obra);
 }
 
+// run f once, when el comes within a screen of the viewport (the page's heavy drawings wait for it)
+const whenNear = (el, f) => { const io = new IntersectionObserver(es => { if (es.some(e => e.isIntersecting)) { io.disconnect(); f(); } }, {rootMargin: '100% 0px'}); io.observe(el); leaveFns.add(() => io.disconnect()); };
 // work that cannot be seen during a page change (it builds sections far below the fold) waits for the drop to finish
 // (only if the same page is still there: a quick second page change must not wire a page that has already been replaced)
 const later = f => { if (!navBusy) return f(); const k = app.firstElementChild; navBusy.then(() => (window.requestIdleCallback || setTimeout)(() => { if (app.firstElementChild === k) f(); }, {timeout: 600})); };
@@ -872,7 +875,7 @@ function wire(h) {
   if (fa) { const hint = document.getElementById('f-area-hint'), say = () => { hint.textContent = fa.selectedIndex === 1 || fa.selectedIndex === 2 ? 'Con esta área la Ley 1796 exige revisión independiente del diseño y supervisión técnica.' : fa.selectedIndex === 3 ? 'Si el lote permite construir más de 2.000 m², la ley exige revisión y supervisión independientes.' : ''; }; fa.addEventListener('change', say); say(); }
   details();
   // Exploded node
-  if (document.getElementById('node')) nodeDiagram();
+  if (document.getElementById('node')) whenNear(document.getElementById('node'), nodeDiagram);
   // The questions rest on beams too, like the service rows in the menu
   if (!reduce && matchMedia('(pointer: fine)').matches) app.querySelectorAll('.faq').forEach(fq => { fq.classList.add('beams'); beams(fq, 'details', 'summary', true); });
   // Featured projects
