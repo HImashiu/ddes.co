@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Perspectivas · DDES Ingeniería estructural</title>
+  <link>https://ddes.co/perspectivas/</link>
+  <atom:link href="https://ddes.co/perspectivas/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>Notas técnicas de DDES sobre diseño estructural, la NSR-10, la Ley 1796, sismo, suelos y durabilidad en Colombia.</description>
+  <language>es-co</language>
+  <lastBuildDate>Mon, 05 Oct 2026 17:00:00 GMT</lastBuildDate>
+  <item>
+    <title>Terremoto del 10 de agosto de 2026: qué falló en Cali</title>
+    <link>https://ddes.co/articulo-caso-cali-terremoto-2026/</link>
+    <guid isPermaLink="true">https://ddes.co/articulo-caso-cali-terremoto-2026/</guid>
+    <pubDate>Mon, 05 Oct 2026 17:00:00 GMT</pubDate>
+    <category>Caso de estudio</category>
+    <description>Los edificios que colapsaron no se construyeron con la NSR-10. Pórticos flexibles, normas anteriores y un suelo que amplificó el movimiento.</description>
+  </item>
+  <item>
+    <title>Terremoto del 10 de agosto de 2026: lecciones de Pereira</title>
+    <link>https://ddes.co/articulo-caso-pereira-terremoto-2026/</link>
+    <guid isPermaLink="true">https://ddes.co/articulo-caso-pereira-terremoto-2026/</guid>
+    <pubDate>Mon, 05 Oct 2026 17:00:00 GMT</pubDate>
+    <category>Caso de estudio</category>
+    <description>Haber resistido el sismo de 1999 no era una garantía. Y el aeropuerto cerró por daños que no eran estructurales.</description>
+  </item>
+  <item>
+    <title>Casas de uno y dos pisos: lo que exige el Título E de la NSR-10</title>
+    <link>https://ddes.co/articulo-casas-uno-dos-pisos/</link>
+    <guid isPermaLink="true">https://ddes.co/articulo-casas-uno-dos-pisos/</guid>
+    <pubDate>Mon, 05 Oct 2026 17:00:00 GMT</pubDate>
+    <category>Normativa</category>
+    <description>Cimentación, muros confinados, aberturas y columnas de amarre: los mínimos para construir una casa sismo resistente.</description>
+  </item>
+  <item>
+    <title>Estudio de suelos: cuántos sondeos y a qué profundidad pide la NSR-10</title>
+    <link>https://ddes.co/articulo-estudio-de-suelos/</link>
+    <guid isPermaLink="true">https://ddes.co/articulo-estudio-de-suelos/</guid>
+    <pubDate>Mon, 05 Oct 2026 17:00:00 GMT</pubDate>
+    <category>Suelos</category>
+    <description>La categoría de la edificación define el número mínimo de sondeos y su profundidad. Así lo fija el Título H.</description>
+  </item>
+  <item>
+    <title>Concreto cerca al mar: lo que exige la NSR-10 contra el salitre</title>
+    <link>https://ddes.co/articulo-concreto-salitre/</link>
+    <guid isPermaLink="true">https://ddes.co/articulo-concreto-salitre/</guid>
+    <pubDate>Mon, 05 Oct 2026 17:00:00 GMT</pubDate>
+    <category>Durabilidad</category>
+    <description>Clase de exposición C2, relación agua-cemento de 0,40, 35 MPa y recubrimientos: la receta de la norma para la costa.</description>
+  </item>
+  <item>
+    <title>Ensayo de cilindros: cuándo se acepta el concreto según la NSR-10</title>
+    <link>https://ddes.co/articulo-ensayo-cilindros/</link>
+    <guid isPermaLink="true">https://ddes.co/articulo-ensayo-cilindros/</guid>
+    <pubDate>Mon, 05 Oct 2026 17:00:00 GMT</pubDate>
+    <category>Obra</category>
+    <description>Cuántas muestras tomar, cómo se evalúan y qué pasa si un resultado sale bajo: la sección C.5.6.</description>
+  </item>
+  <item>
+    <title>Amenaza sísmica en la Costa Caribe: ciudad por ciudad según la NSR-10</title>
+    <link>https://ddes.co/articulo-amenaza-sismica-costa/</link>
+    <guid isPermaLink="true">https://ddes.co/articulo-amenaza-sismica-costa/</guid>
+    <pubDate>Mon, 05 Oct 2026 17:00:00 GMT</pubDate>
+    <category>Sismo</category>
+    <description>Barranquilla y Cartagena están en amenaza baja; Santa Marta, Montería, Sincelejo y Riohacha, en intermedia.</description>
+  </item>
+  <item>
+    <title>Grupos de uso: por qué un colegio o una clínica se diseñan más fuertes</title>
+    <link>https://ddes.co/articulo-grupos-de-uso/</link>
+    <guid isPermaLink="true">https://ddes.co/articulo-grupos-de-uso/</guid>
+    <pubDate>Mon, 05 Oct 2026 17:00:00 GMT</pubDate>
+    <category>Sismo</category>
+    <description>La NSR-10 clasifica las edificaciones en cuatro grupos y aumenta las fuerzas de diseño hasta en un 50%.</description>
+  </item>
+  <item>
+    <title>Derivas: cuánto se puede mover un edificio durante un sismo</title>
+    <link>https://ddes.co/articulo-derivas/</link>
+    <guid isPermaLink="true">https://ddes.co/articulo-derivas/</guid>
+    <pubDate>Mon, 05 Oct 2026 17:00:00 GMT</pubDate>
+    <category>Sismo</category>
+    <description>La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.</description>
+  </item>
+  <item>
+    <title>Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10</title>
+    <link>https://ddes.co/articulo-edificios-existentes/</link>
+    <guid isPermaLink="true">https://ddes.co/articulo-edificios-existentes/</guid>
+    <pubDate>Mon, 05 Oct 2026 17:00:00 GMT</pubDate>
+    <category>Patología</category>
+    <description>Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.</description>
+  </item>
+  <item>
+    <title>Supervisión técnica según el Título I: qué verifica y qué documentos deja</title>
+    <link>https://ddes.co/articulo-supervision-titulo-i/</link>
+    <guid isPermaLink="true">https://ddes.co/articulo-supervision-titulo-i/</guid>
+    <pubDate>Mon, 05 Oct 2026 17:00:00 GMT</pubDate>
+    <category>Normativa</category>
+    <description>El alcance mínimo de la supervisión, el registro que debe llevar y la constancia final que firma.</description>
+  </item>
+  <item>
+    <title>Elementos no estructurales: muros, fachadas e instalaciones en la NSR-10</title>
+    <link>https://ddes.co/articulo-elementos-no-estructurales/</link>
+    <guid isPermaLink="true">https://ddes.co/articulo-elementos-no-estructurales/</guid>
+    <pubDate>Mon, 05 Oct 2026 17:00:00 GMT</pubDate>
+    <category>Sismo</category>
+    <description>Lo que no sostiene el edificio también debe diseñarse para el sismo. Y en la costa hay una exención.</description>
+  </item>
+  <item>
+    <title>¿Tiembla en Barranquilla? Lo que exige la NSR-10 en la costa</title>
+    <link>https://ddes.co/articulo-sismo-barranquilla/</link>
+    <guid isPermaLink="true">https://ddes.co/articulo-sismo-barranquilla/</guid>
+    <pubDate>Mon, 05 Oct 2026 17:00:00 GMT</pubDate>
+    <category>Normativa</category>
+    <description>La amenaza sísmica es baja, pero el diseño debe resolver también el suelo, el viento y el salitre.</description>
+  </item>
+  <item>
+    <title>Revisión independiente y supervisión técnica: en qué se diferencian</title>
+    <link>https://ddes.co/articulo-revision-supervision/</link>
+    <guid isPermaLink="true">https://ddes.co/articulo-revision-supervision/</guid>
+    <pubDate>Mon, 05 Oct 2026 17:00:00 GMT</pubDate>
+    <category>Normativa</category>
+    <description>Una revisa el papel antes de la licencia; la otra, lo construido durante la obra. Las dos las exige la Ley 1796.</description>
+  </item>
+  <item>
+    <title>Certificado Técnico de Ocupación: qué es y cómo se obtiene</title>
+    <link>https://ddes.co/articulo-cto/</link>
+    <guid isPermaLink="true">https://ddes.co/articulo-cto/</guid>
+    <pubDate>Mon, 05 Oct 2026 17:00:00 GMT</pubDate>
+    <category>Normativa</category>
+    <description>Quién lo firma, cuándo se necesita y por qué depende de supervisar la obra desde la primera fundida.</description>
+  </item>
+  <item>
+    <title>¿Cuándo es peligrosa una fisura?</title>
+    <link>https://ddes.co/articulo-fisuras/</link>
+    <guid isPermaLink="true">https://ddes.co/articulo-fisuras/</guid>
+    <pubDate>Mon, 05 Oct 2026 17:00:00 GMT</pubDate>
+    <category>Patología</category>
+    <description>Cómo distinguir una fisura de acabado de una que pide un ingeniero: ancho, dirección, dónde aparece y si crece.</description>
+  </item>
+  <item>
+    <title>Cloruros y refuerzo: el recubrimiento que sí protege</title>
+    <link>https://ddes.co/articulo-cloruros/</link>
+    <guid isPermaLink="true">https://ddes.co/articulo-cloruros/</guid>
+    <pubDate>Sat, 03 Oct 2026 17:00:00 GMT</pubDate>
+    <category>Durabilidad</category>
+    <description>Por qué la brisa marina corroe el concreto desde adentro y qué especificar para evitarlo.</description>
+  </item>
+  <item>
+    <title>Arcillas expansivas en el suroccidente de Barranquilla</title>
+    <link>https://ddes.co/articulo-arcillas/</link>
+    <guid isPermaLink="true">https://ddes.co/articulo-arcillas/</guid>
+    <pubDate>Sat, 03 Oct 2026 17:00:00 GMT</pubDate>
+    <category>Suelos</category>
+    <description>Cimentaciones para suelos que se hinchan en invierno y se contraen en verano.</description>
+  </item>
+  <item>
+    <title>Ley 1796: cuándo es obligatoria la supervisión técnica</title>
+    <link>https://ddes.co/articulo-ley1796/</link>
+    <guid isPermaLink="true">https://ddes.co/articulo-ley1796/</guid>
+    <pubDate>Sat, 03 Oct 2026 17:00:00 GMT</pubDate>
+    <category>Normativa</category>
+    <description>Umbrales de área, quién puede supervisar y qué pide la curaduría.</description>
+  </item>
+</channel>
+</rss>
