@@ -662,7 +662,7 @@ function route() {
   boldName(app);
   routed = true;
   sCharge();
-  later(obra);
+  later(() => { const d = document.getElementById('datos'); if (d) whenNear(d, obra); });
 }
 
 // run f once, when el comes within a screen of the viewport (the page's heavy drawings wait for it)
@@ -860,7 +860,7 @@ function beamHero() {
 function wire(h) {
   statements();
   beamHero();
-  dataColumns(); countUp();
+  { const d = document.getElementById('datos'); if (d) whenNear(d, dataColumns); } countUp();
   mzDrag(); etapas();
   hscroll();
   deferLaw();

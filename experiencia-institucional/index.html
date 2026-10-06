@@ -2,8 +2,8 @@
 <html lang="es-CO">
 <head>
 <!-- Google tag (gtag.js): Google Analytics 4, property ddes.co. Page changes inside the site are counted by its enhanced
-     measurement (browser history events). -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VB8S102L6T"></script>
+     measurement (browser history events). gtag.js itself is loaded after the first paint, with the site's script (end of body);
+     the calls below wait in dataLayer until it arrives. -->
 <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-VB8S102L6T');</script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
@@ -24,7 +24,7 @@
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<link rel="preload" href="/app.a99cff59f3.js" as="script">
+<link rel="preload" href="/app.c465a21e45.js" as="script">
 <link rel="alternate" type="application/rss+xml" title="Perspectivas · DDES" href="https://ddes.co/perspectivas/feed.xml">
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"ProfessionalService","@id":"https://ddes.co/#org","name":"DDES Ingeniería Estructural","alternateName":"DDES","legalName":"Diseño de Estructuras y Soluciones S.A.S.","foundingDate":"2020","url":"https://ddes.co/","logo":"https://ddes.co/logo.png","image":"https://ddes.co/og.jpg","email":"gerencia@ddes.co","telephone":"+57 300 202 1920","address":{"@type":"PostalAddress","addressLocality":"Barranquilla","addressRegion":"Atlántico","addressCountry":"CO"},"areaServed":[{"@type":"Country","name":"Colombia"},{"@type":"AdministrativeArea","name":"Atlántico"},{"@type":"AdministrativeArea","name":"Bolívar"},{"@type":"AdministrativeArea","name":"Córdoba"},{"@type":"AdministrativeArea","name":"Sucre"},{"@type":"AdministrativeArea","name":"La Guajira"},{"@type":"AdministrativeArea","name":"Casanare"}],"employee":[{"@type":"Person","name":"Orlando Barrios Lozano","jobTitle":"Gerente, ingeniero civil"},{"@type":"Person","name":"Andrea Polo González","jobTitle":"Ingeniera de proyectos"}],"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"07:30","closes":"17:30"}],"knowsAbout":["Diseño estructural","NSR-10","Ley 1796 de 2016","Revisión independiente de diseños estructurales","Supervisión técnica independiente","Patología estructural","Reforzamiento estructural","Interventoría","BIM"],"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","email":"gerencia@ddes.co","telephone":"+57 300 202 1920","areaServed":"CO","availableLanguage":"es"}],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Servicios de ingeniería estructural","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Diseño estructural","url":"https://ddes.co/servicio-diseno/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Interventoría de obra","url":"https://ddes.co/servicio-interventoria/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Supervisión técnica independiente","url":"https://ddes.co/servicio-supervision/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Revisión independiente de diseños estructurales","url":"https://ddes.co/servicio-revision/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Patología y reforzamiento estructural","url":"https://ddes.co/servicio-patologia/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Coordinación BIM","url":"https://ddes.co/servicio-bim/"}}]}},{"@type":"WebSite","@id":"https://ddes.co/#web","url":"https://ddes.co/","name":"DDES","inLanguage":"es-CO","publisher":{"@id":"https://ddes.co/#org"}},{"@type":"WebPage","@id":"https://ddes.co/experiencia-institucional/#page","url":"https://ddes.co/experiencia-institucional/","name":"Experiencia en institucional | DDES Ingeniería estructural","description":"Proyectos de institucional de DDES en Colombia: diseño estructural, revisión independiente, supervisión técnica e interventoría.","inLanguage":"es-CO","isPartOf":{"@id":"https://ddes.co/#web"},"about":{"@id":"https://ddes.co/#org"},"primaryImageOfPage":{"@type":"ImageObject","url":"https://ddes.co/fotos/refuerzo-columnas.jpg"},"breadcrumb":{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://ddes.co/"},{"@type":"ListItem","position":2,"name":"Experiencia","item":"https://ddes.co/experiencia/"},{"@type":"ListItem","position":3,"name":"Experiencia en institucional","item":"https://ddes.co/experiencia-institucional/"}]}}]}</script>
 
@@ -1363,7 +1363,8 @@ var io=function(x){return x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2},eo=function(x){re
 var rp=function(P,rad){var n=P.length,A=[],B=[];for(var i=0;i<n;i++){var c=P[i],p=P[(i+n-1)%n],q=P[(i+1)%n],l1=Math.hypot(p[0]-c[0],p[1]-c[1])||1,l2=Math.hypot(q[0]-c[0],q[1]-c[1])||1,r=Math.min(rad,l1/2,l2/2);
 A.push([c[0]+(p[0]-c[0])/l1*r,c[1]+(p[1]-c[1])/l1*r]);B.push([c[0]+(q[0]-c[0])/l2*r,c[1]+(q[1]-c[1])/l2*r])}
 var f=function(v){return v[0].toFixed(1)+' '+v[1].toFixed(1)},d='M'+f(B[0]);for(var j=1;j<=n;j++){var k=j%n;d+='L'+f(A[k])+'Q'+f(P[k])+' '+f(B[k])}return d+'Z'};
-var frame=function(now){if(!t0)t0=now;var W=innerWidth,H=innerHeight,t=(now-t0)/1000,cx=W/2,cy=H/2,m=Math.min(24,W*.025),h0=H*.055,w0=W*.44,t0w=W*.06,h,w,tp,r;
+var vw=innerWidth,vh=innerHeight;addEventListener('resize',function(){vw=innerWidth;vh=innerHeight});
+var frame=function(now){if(!t0)t0=now;var W=vw,H=vh,t=(now-t0)/1000,cx=W/2,cy=H/2,m=Math.min(24,W*.025),h0=H*.055,w0=W*.44,t0w=W*.06,h,w,tp,r;
 if(t>1.1)pre.classList.add('go');if(t>1.25)pre.classList.add('open');
 if(t<1.25){h=0;w=w0;tp=t0w;r=4}
 else if(t<1.7){var a=eo((t-1.25)/.45);h=h0*a;w=w0;tp=t0w;r=4+4*a}
@@ -1420,7 +1421,7 @@ path.setAttribute('d',d);requestAnimationFrame(frame)};requestAnimationFrame(fra
   </div>
 </footer>
 
-<script>(function(){var d=0,go=function(){if(d)return;d=1;var s=document.createElement('script');s.src='/app.a99cff59f3.js';document.body.appendChild(s)};requestAnimationFrame(function(){setTimeout(go,0)});setTimeout(go,1200)})()</script>
+<script>(function(){var d=0,go=function(){if(d)return;d=1;var s=document.createElement('script');s.src='/app.c465a21e45.js';document.body.appendChild(s);var g=document.createElement('script');g.async=true;g.src='https://www.googletagmanager.com/gtag/js?id=G-VB8S102L6T';document.head.appendChild(g)};try{new PerformanceObserver(function(l){if(l.getEntries().length)setTimeout(go,0)}).observe({type:'paint',buffered:true})}catch(e){requestAnimationFrame(function(){setTimeout(go,0)})}setTimeout(go,1500)})()</script>
 
 </body>
 </html>
