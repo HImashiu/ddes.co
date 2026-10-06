@@ -29,6 +29,14 @@ Contacto: gerencia@ddes.co · WhatsApp +57 300 202 1920 · https://ddes.co/conta
 - [Revisión independiente](https://ddes.co/servicio-revision/): Revisión estructural independiente en Colombia (Ley 1796), obligatoria si el lote permite más de 2.000 m². Observaciones con la NSR-10 y memorial firmado.
 - [Patología y reforzamiento](https://ddes.co/servicio-patologia/): Patología estructural, estudios de vulnerabilidad sísmica (NSR-10, capítulo A.10) y diseño de reforzamiento para edificaciones existentes en Colombia.
 - [BIM y coordinación](https://ddes.co/servicio-bim/): Coordinación BIM de estructura, arquitectura e instalaciones: las interferencias se resuelven en el modelo antes de la obra. Revit y Navisworks.
+- [Construir un segundo piso](https://ddes.co/segundo-piso/): Qué necesita para construir un segundo piso sobre su casa: evaluación de la estructura, ampliación en altura según la NSR-10 (A.10.8) y planos para la licencia.
+- [Reforzamiento de vivienda](https://ddes.co/reforzamiento-de-vivienda/): Cuándo reforzar una casa o un edificio existente, qué exige el Capítulo A.10 de la NSR-10 y cómo se hace: evaluación, ensayos y diseño de la intervención.
+- [Peritaje de fisuras](https://ddes.co/peritaje-de-fisuras/): Fisuras en muros, vigas o placas: cuándo son graves, qué las causa y cómo se hace un peritaje estructural con diagnóstico, seguimiento y reparación.
+- [Diseño de bodegas](https://ddes.co/diseno-de-bodegas/): Diseño estructural de bodegas en Barranquilla y Colombia: pórticos, cubierta, viento (NSR-10 B.6), placa de piso y cimentación. Experiencia en Centurión y Cannon.
+- [Muros de contención](https://ddes.co/muros-de-contencion/): Diseño de muros de contención para sótanos, desniveles y lotes en pendiente: estudio de suelos, empujes, drenaje y Capítulo H.6 de la NSR-10.
+- [Tanques y piscinas](https://ddes.co/tanques-y-piscinas/): Diseño estructural de tanques enterrados y elevados, piscinas y cuartos de bombas según el Capítulo C.23 de la NSR-10: estanqueidad, fisuración y durabilidad.
+- [Mezzanine metálico](https://ddes.co/mezzanine-metalico/): Diseño estructural de mezzanines y entrepisos metálicos: cargas de uso NSR-10 (B.4.2), vigas y columnas en acero, placa y cimentación existentes, y montaje.
+- [Licencia de construcción](https://ddes.co/licencia-de-construccion/): Qué documentos estructurales pide la curaduría para la licencia de construcción: estudio de suelos, planos y memorias firmados y revisión independiente (Ley 1796).
 
 ## Proyectos
 - [Altos de Solemio](https://ddes.co/proyecto-solemio/): Altos de Solemio (Interventoría y diseño). Interventoría por etapas de un desarrollo de torres de vivienda y un lote comercial, con el rediseño de sus obras exteriores.

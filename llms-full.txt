@@ -770,6 +770,726 @@ Para licencia suele bastar un LOD 300. Para fabricar y cuantificar con precisió
 
 Última actualización: 6 de octubre de 2026
 
+---
+
+URL: https://ddes.co/segundo-piso/
+Última actualización: 2026-10-06
+
+[Soluciones](https://ddes.co/soluciones/)
+
+# Construir un segundo piso sobre su casa
+
+Antes de subir un piso hay que saber si la casa lo aguanta.
+
+Para construir un segundo piso sobre una casa existente, un ingeniero civil debe revisar la estructura actual y diseñar la ampliación: la NSR-10 la trata como una ampliación en altura (A.10.6.1 y A.10.8), en la que la casa y el piso nuevo trabajan juntos. DDES hace esa evaluación, el diseño y los planos que pide la curaduría para la licencia.
+
+- Norma: NSR-10, A.10.8
+- Servicio: Diseño estructural
+- Trámite: Licencia de construcción
+
+## Lo que necesita tener a mano
+
+- Planos de la casa, si existen, o un levantamiento de lo construido.
+- El certificado de tradición y la escritura del predio.
+- Fotos de las columnas, vigas, muros y de cualquier fisura visible.
+- Qué quiere construir arriba: número de pisos, uso y distribución aproximada.
+
+## Cómo lo resolvemos
+
+- Visita y levantamiento de la estructura existente: dimensiones, refuerzo visible y estado.
+- Evaluación de la cimentación y de las columnas con las cargas del piso nuevo, con estudio de suelos cuando la norma lo pide.
+- Diseño de la ampliación y, si hace falta, del reforzamiento de lo existente.
+- Planos y memorias firmados para radicar la licencia en la curaduría.
+
+## ¿Qué dice la NSR-10 de subir un piso?
+
+La NSR-10 llama a esto ampliación en altura (A.10.6.1). En ella la estructura existente y la nueva trabajan en conjunto (A.10.8.1), por eso no basta con diseñar el piso nuevo: hay que comprobar que las columnas, vigas y cimentación de abajo resisten las cargas y el sismo con el piso adicional.
+
+## ¿Y si la casa es de mampostería?
+
+El Título E de la NSR-10 da requisitos para viviendas de uno y dos pisos de mampostería confinada (E.1.1.1). Una casa de un piso hecha con ese sistema puede crecer a dos si sus muros, columnetas y cimientos cumplen esos requisitos; si no los cumplen, primero hay que reforzarla.
+
+## Servicios de DDES para este caso
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Patología y reforzamiento](https://ddes.co/servicio-patologia/): Evaluación de daños, vulnerabilidad sísmica y diseño de reforzamiento para edificaciones existentes.
+
+## Notas técnicas
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Casas de uno y dos pisos: lo que exige el Título E de la NSR-10](https://ddes.co/articulo-casas-uno-dos-pisos/): Cimentación, muros confinados, aberturas y columnas de amarre: los mínimos para construir una casa sismo resistente.
+
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+
+- [Estudio de suelos: cuántos sondeos y a qué profundidad pide la NSR-10](https://ddes.co/articulo-estudio-de-suelos/): La categoría de la edificación define el número mínimo de sondeos y su profundidad. Así lo fija el Título H.
+
+## Preguntas frecuentes
+
+**¿Necesito licencia para construir un segundo piso?**
+
+Sí. Ampliar una edificación requiere licencia de construcción de la curaduría urbana, y la curaduría pide planos estructurales y memorias firmados por un ingeniero civil (A.1.3.4 y A.1.5).
+
+**¿Cualquier casa aguanta un segundo piso?**
+
+No. Depende de la cimentación, de las columnas y vigas y del suelo. Muchas casas de un piso se construyeron sin pensar en crecer y necesitan reforzamiento antes de subir.
+
+**¿Hace falta estudio de suelos?**
+
+La NSR-10 exige exploración del subsuelo para las edificaciones (A.1.3.2). El ingeniero define su alcance según el tamaño de la ampliación y lo que se sabe del suelo.
+
+**¿Qué entrega DDES?**
+
+La evaluación de la estructura existente, el diseño de la ampliación y del reforzamiento si hace falta, y los planos y memorias firmados para la licencia.
+
+## Otras situaciones
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+Última actualización: 6 de octubre de 2026
+
+---
+
+URL: https://ddes.co/reforzamiento-de-vivienda/
+Última actualización: 2026-10-06
+
+[Soluciones](https://ddes.co/soluciones/)
+
+# Reforzamiento estructural de casas y edificios
+
+Para que una estructura vieja resista lo que exige la norma de hoy.
+
+El reforzamiento estructural adecúa una edificación existente para que resista las cargas y el sismo que exige la NSR-10. Empieza con una evaluación de la estructura y termina con un diseño de intervención firmado (A.10.1.3). DDES hace la evaluación, el diseño del reforzamiento y puede supervisar su construcción.
+
+- Norma: NSR-10, Capítulo A.10
+- Servicio: Patología y reforzamiento
+- Para: Casas y edificios existentes
+
+## Lo que necesita tener a mano
+
+- Planos y memorias originales, si existen.
+- El año aproximado de construcción y las reformas que se le han hecho.
+- Fotos de fisuras, humedades y elementos con óxido o concreto desprendido.
+- Qué quiere lograr: ampliar, cambiar el uso o solo dejarla segura.
+
+## Cómo lo resolvemos
+
+- Inspección y levantamiento de la estructura.
+- Ensayos donde hace falta: resistencia del concreto, ubicación del refuerzo, estado del acero.
+- Evaluación del comportamiento sísmico con los requisitos del Capítulo A.10.
+- Diseño del reforzamiento, con planos y memorias para la licencia y para el constructor.
+
+## ¿Cuándo obliga la NSR-10 a evaluar y reforzar?
+
+El Capítulo A.10 aplica a las edificaciones construidas antes de la norma vigente que se amplían, se modifican o cambian de uso (A.10.1.3). Las reparaciones menores que no tocan el sistema de resistencia sísmica no lo exigen, pero un cambio de uso sí (A.10.1.3.2). El propietario también puede actualizar su edificación por voluntad propia (A.10.6.2 y A.10.9).
+
+## ¿Qué nivel de seguridad se busca?
+
+Una edificación intervenida según el Capítulo A.10 debe resistir temblores pequeños sin daño, moderados sin daño estructural y fuertes sin colapso (A.10.1.2).
+
+## Servicios de DDES para este caso
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Patología y reforzamiento](https://ddes.co/servicio-patologia/): Evaluación de daños, vulnerabilidad sísmica y diseño de reforzamiento para edificaciones existentes.
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Supervisión técnica](https://ddes.co/servicio-supervision/): Supervisión técnica independiente según la Ley 1796 y el Título I de la NSR-10, antes de cada fundida.
+
+## Notas técnicas
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+
+- [Estudio de vulnerabilidad sísmica: qué es, cuándo lo exige la NSR-10 y qué incluye](https://ddes.co/articulo-vulnerabilidad-sismica/): El capítulo A.10 compara la estructura existente con una nueva y lo expresa en dos índices: sobreesfuerzo y flexibilidad.
+
+- [¿Cuándo es peligrosa una fisura?](https://ddes.co/articulo-fisuras/): Cómo distinguir una fisura de acabado de una que pide un ingeniero: ancho, dirección, dónde aparece y si crece.
+
+## Preguntas frecuentes
+
+**¿Cómo sé si mi casa necesita reforzamiento?**
+
+Las señales más comunes son fisuras que crecen, acero expuesto u oxidado, columnas o vigas muy pequeñas para lo que cargan, y casas construidas sin ingeniero. Solo una evaluación de la estructura lo confirma.
+
+**¿Reforzar es lo mismo que reparar?**
+
+No. Reparar devuelve a un elemento la capacidad que perdió; reforzar le da más capacidad de la que tenía, para que cumpla la norma actual o resista cargas nuevas.
+
+**¿Se puede seguir viviendo en la casa durante el reforzamiento?**
+
+Depende de la intervención. El diseño define el orden de los trabajos y si hace falta apuntalar o desocupar zonas.
+
+## Otras situaciones
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+Última actualización: 6 de octubre de 2026
+
+---
+
+URL: https://ddes.co/peritaje-de-fisuras/
+Última actualización: 2026-10-06
+
+[Soluciones](https://ddes.co/soluciones/)
+
+# Fisuras en muros, vigas o placas: qué hacer
+
+No toda fisura es grave, pero toda fisura que crece hay que estudiarla.
+
+Una fisura puede venir de retracción del concreto, de asentamientos del suelo, de sobrecarga o de corrosión del acero. Un peritaje estructural identifica la causa, mide si está activa y dice si la estructura está en riesgo. DDES hace peritajes con inspección, seguimiento de fisuras y, si hace falta, el diseño de la reparación.
+
+- Servicio: Patología y reforzamiento
+- Entregable: Informe de peritaje
+- Para: Propietarios y copropiedades
+
+## Lo que necesita tener a mano
+
+- Fotos de cada fisura con una regla o una moneda al lado para la escala.
+- Desde cuándo la ve y si ha crecido.
+- Si hubo obras, lluvias fuertes, un sismo o cambios de uso cerca de esa fecha.
+- Los planos de la edificación, si los tiene.
+
+## Cómo lo resolvemos
+
+- Inspección: patrón, ancho, longitud y ubicación de cada fisura.
+- Seguimiento con testigos para saber si la fisura está activa.
+- Diagnóstico de la causa: suelo, cargas, retracción o corrosión.
+- Informe con el nivel de riesgo y la reparación o el reforzamiento recomendado.
+
+## ¿Cuándo es grave una fisura?
+
+Preocupan las fisuras que crecen, las diagonales en muros y vigas, las que aparecen en columnas, las que vienen con puertas que se traban o pisos que se hunden, y las que dejan ver acero oxidado. Una fisura fina y estable en un pañete suele ser solo estética, pero eso lo confirma la inspección.
+
+## ¿Y en la costa?
+
+Cerca del mar, el salitre corroe el acero; el óxido ocupa más volumen que el acero y fisura el concreto desde adentro. En suelos arcillosos, los cambios de humedad hinchan y contraen el terreno y fisuran muros y placas.
+
+## Servicios de DDES para este caso
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Patología y reforzamiento](https://ddes.co/servicio-patologia/): Evaluación de daños, vulnerabilidad sísmica y diseño de reforzamiento para edificaciones existentes.
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+## Notas técnicas
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [¿Cuándo es peligrosa una fisura?](https://ddes.co/articulo-fisuras/): Cómo distinguir una fisura de acabado de una que pide un ingeniero: ancho, dirección, dónde aparece y si crece.
+
+- [Cloruros y refuerzo: el recubrimiento que sí protege](https://ddes.co/articulo-cloruros/): Por qué la brisa marina corroe el concreto desde adentro y qué especificar para evitarlo.
+
+- [Arcillas expansivas en el suroccidente de Barranquilla](https://ddes.co/articulo-arcillas/): Cimentaciones para suelos que se hinchan en invierno y se contraen en verano.
+
+## Preguntas frecuentes
+
+**¿Qué es un peritaje estructural?**
+
+Es una evaluación técnica de la estructura hecha por un ingeniero, con un informe que dice qué daño hay, por qué apareció y qué hay que hacer.
+
+**¿Sirve el informe para un reclamo?**
+
+El informe documenta el daño y su causa técnica, y puede acompañar un reclamo ante el constructor, la aseguradora o la administración.
+
+**¿Basta con resanar la fisura?**
+
+Si la causa sigue activa, la fisura vuelve a abrir. Primero hay que saber por qué apareció.
+
+## Otras situaciones
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+Última actualización: 6 de octubre de 2026
+
+---
+
+URL: https://ddes.co/diseno-de-bodegas/
+Última actualización: 2026-10-06
+
+[Soluciones](https://ddes.co/soluciones/)
+
+# Diseño estructural de bodegas y naves industriales
+
+Pórticos, cubierta, placa de piso y cimentación, pensados juntos.
+
+El diseño estructural de una bodega define los pórticos, la cubierta, las correas, la placa de piso y la cimentación con las cargas de la NSR-10, incluido el viento, que en estructuras livianas suele controlar el diseño (Capítulo B.6). DDES ha diseñado y supervisado bodegas en el Atlántico, como Bodegas Centurión y la planta de Industrias Cannon.
+
+- Norma: NSR-10, Títulos B y F
+- Servicio: Diseño estructural
+- Proyectos: Centurión, Cannon, Galapa
+
+## Lo que necesita tener a mano
+
+- El lote: dirección, topografía y estudio de suelos si ya existe.
+- Uso de la bodega: almacenamiento, carga de estanterías, montacargas, cuartos fríos.
+- Luces libres y altura que necesita la operación.
+- Si habrá mezzanine, puente grúa o muelles de carga.
+
+## Cómo lo resolvemos
+
+- Definición de cargas: muertas, vivas de uso y estanterías, viento y sismo.
+- Selección del sistema: pórticos de acero o concreto, cerchas y correas.
+- Diseño de la placa de piso para montacargas y estanterías, y de la cimentación según el suelo.
+- Planos, memorias y despieces para la licencia y para el montaje.
+
+## ¿Por qué el viento importa tanto en una bodega?
+
+Una bodega es liviana y de cubierta grande: el viento puede levantar la cubierta y empujar las fachadas con más fuerza que el sismo. El Capítulo B.6 de la NSR-10 da el procedimiento para calcular esas fuerzas.
+
+## ¿Acero o concreto?
+
+El acero cubre luces grandes con poco peso y se monta rápido; el Título F de la NSR-10 rige su diseño (F.1.1). El concreto prefabricado o fundido en sitio sirve para luces menores o cuando el ambiente corrosivo lo aconseja. La decisión depende de la luz, la altura, el ambiente y el plazo.
+
+## Servicios de DDES para este caso
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Interventoría de obra](https://ddes.co/servicio-interventoria/): Representamos al propietario: calidad, plazo y presupuesto de obras públicas y privadas.
+
+- [Revisión independiente](https://ddes.co/servicio-revision/): Revisión de diseños estructurales de terceros, obligatoria en proyectos de más de 2.000 m².
+
+## Proyectos relacionados
+
+[Toda la experiencia](https://ddes.co/experiencia/)
+
+- [Bodegas Centurión](https://ddes.co/proyecto-centurion/): Interventoría de las bodegas C10 y C11 hasta su cierre, revisión de sus diseños y diseño de las bodegas C9 y C5.
+
+- [Industrias Cannon](https://ddes.co/proyecto-cannon/): Diseño estructural e interventoría de una planta industrial, desde la licencia de construcción hasta la estructura.
+
+- [Bodega en Galapa](https://ddes.co/proyecto-galapa/): Interventoría de una bodega industrial, con revisión de planos estructurales y estudio de suelos.
+
+## Notas técnicas
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Concreto cerca al mar: lo que exige la NSR-10 contra el salitre](https://ddes.co/articulo-concreto-salitre/): Clase de exposición C2, relación agua-cemento de 0,40, 35 MPa y recubrimientos: la receta de la norma para la costa.
+
+- [Estudio de suelos: cuántos sondeos y a qué profundidad pide la NSR-10](https://ddes.co/articulo-estudio-de-suelos/): La categoría de la edificación define el número mínimo de sondeos y su profundidad. Así lo fija el Título H.
+
+- [Amenaza sísmica en la Costa Caribe: ciudad por ciudad según la NSR-10](https://ddes.co/articulo-amenaza-sismica-costa/): Barranquilla y Cartagena están en amenaza baja; Santa Marta, Montería, Sincelejo y Riohacha, en intermedia.
+
+## Preguntas frecuentes
+
+**¿Qué incluye el diseño estructural de una bodega?**
+
+Pórticos, cubierta, correas, arriostramientos, placa de piso, cimentación y, si los hay, mezzanines y muelles, con planos y memorias firmados.
+
+**¿La placa de piso necesita diseño?**
+
+Sí. Montacargas y estanterías concentran cargas grandes en puntos pequeños; una placa sin diseño se fisura y se hunde.
+
+**¿DDES también puede hacer la interventoría?**
+
+Sí. En Bodegas Centurión y en Industrias Cannon DDES acompañó la obra con interventoría.
+
+## Otras situaciones
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+Última actualización: 6 de octubre de 2026
+
+---
+
+URL: https://ddes.co/muros-de-contencion/
+Última actualización: 2026-10-06
+
+[Soluciones](https://ddes.co/soluciones/)
+
+# Diseño de muros de contención
+
+Para sótanos, desniveles y lotes en pendiente.
+
+Un muro de contención sostiene el empuje del terreno y del agua. Su diseño necesita el estudio de suelos y sigue el Capítulo H.6 de la NSR-10, que trata las estructuras de contención. DDES diseña muros en voladizo, de gravedad y de sótano, y supervisa su construcción.
+
+- Norma: NSR-10, Capítulo H.6
+- Servicio: Diseño estructural
+- Necesita: Estudio de suelos
+
+## Lo que necesita tener a mano
+
+- Altura del desnivel y longitud del muro.
+- El estudio de suelos o, si no existe, la autorización para hacerlo.
+- Qué hay detrás y encima: vía, edificación vecina, parqueaderos.
+- Fotos del sitio y del drenaje existente.
+
+## Cómo lo resolvemos
+
+- Lectura del estudio de suelos: parámetros del terreno y nivel del agua.
+- Cálculo de empujes, incluidos sobrecargas y sismo.
+- Diseño del muro y de su drenaje, y revisión de volcamiento, deslizamiento y capacidad portante.
+- Planos, memorias y acompañamiento durante la excavación.
+
+## ¿Por qué falla un muro de contención?
+
+Las fallas más comunes vienen del agua: un muro sin drenaje recibe la presión del agua además de la del suelo. También fallan muros diseñados sin estudio de suelos o con cargas encima que nadie tuvo en cuenta.
+
+## ¿Qué pide la NSR-10?
+
+El Capítulo H.6 trata las estructuras de contención y el Título H en general exige que el diseño se apoye en la caracterización geotécnica del sitio. Durante la excavación, el sistema constructivo también debe estar diseñado (H.8.1).
+
+## Servicios de DDES para este caso
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Supervisión técnica](https://ddes.co/servicio-supervision/): Supervisión técnica independiente según la Ley 1796 y el Título I de la NSR-10, antes de cada fundida.
+
+## Proyectos relacionados
+
+[Toda la experiencia](https://ddes.co/experiencia/)
+
+- [Edificio Ébano](https://ddes.co/proyecto-ebano/): Interventoría de un edificio con el concreto controlado en laboratorio, pedido por pedido.
+
+- [Edificio Casa Grande](https://ddes.co/proyecto-casagrande/): Diseño estructural e interventoría de la construcción del edificio.
+
+## Notas técnicas
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Estudio de suelos: cuántos sondeos y a qué profundidad pide la NSR-10](https://ddes.co/articulo-estudio-de-suelos/): La categoría de la edificación define el número mínimo de sondeos y su profundidad. Así lo fija el Título H.
+
+- [Perfil de suelo en la NSR-10: los tipos A a F y cómo cambian el sismo de diseño](https://ddes.co/articulo-perfil-de-suelo/): En la misma ciudad, el mismo edificio puede diseñarse para una aceleración tres veces mayor según el suelo. La tabla A.2.4-1, explicada.
+
+- [Arcillas expansivas en el suroccidente de Barranquilla](https://ddes.co/articulo-arcillas/): Cimentaciones para suelos que se hinchan en invierno y se contraen en verano.
+
+## Preguntas frecuentes
+
+**¿Todo muro de contención necesita estudio de suelos?**
+
+Sí. El empuje depende del suelo y del agua, y sin esos datos el diseño es una suposición.
+
+**¿Un muro de bloque sirve para contener tierra?**
+
+Solo para alturas muy pequeñas y con diseño. Los muros de mampostería sin refuerzo no están hechos para resistir empujes laterales del terreno.
+
+**¿DDES ha diseñado muros de sótano?**
+
+Sí. En los edificios Ébano y Casa Grande la obra incluyó muros de contención de sótano y semisótano.
+
+## Otras situaciones
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+Última actualización: 6 de octubre de 2026
+
+---
+
+URL: https://ddes.co/tanques-y-piscinas/
+Última actualización: 2026-10-06
+
+[Soluciones](https://ddes.co/soluciones/)
+
+# Diseño estructural de tanques de agua y piscinas
+
+Estructuras que además de resistir tienen que no filtrar.
+
+Un tanque de agua o una piscina de concreto se diseñan con requisitos más exigentes que una estructura común, porque además de resistir deben ser estancos: la NSR-10 les dedica el Capítulo C.23. DDES diseña tanques enterrados y elevados, piscinas y cuartos de bombas, y revisa su construcción.
+
+- Norma: NSR-10, Capítulo C.23
+- Servicio: Diseño estructural
+- Para: Conjuntos, industria, vivienda
+
+## Lo que necesita tener a mano
+
+- Capacidad del tanque o dimensiones de la piscina.
+- Si va enterrado, apoyado o elevado, y sobre qué.
+- El estudio de suelos del proyecto.
+- Planos arquitectónicos o hidráulicos, si existen.
+
+## Cómo lo resolvemos
+
+- Definición de cargas: agua, suelo, subpresión y sismo, incluido el oleaje del agua en el tanque.
+- Diseño de muros y losas con control de fisuración para que no filtren (Capítulo C.23).
+- Detalles de juntas, cintas y pasatubos.
+- Planos, memorias y la prueba de estanqueidad en obra.
+
+## ¿Qué cambia frente a una estructura común?
+
+El Capítulo C.23 de la NSR-10 pide limitar las fisuras y los esfuerzos del acero en servicio, más recubrimiento y un concreto de mejor calidad, porque una fisura que en un edificio no importa en un tanque deja pasar el agua y corroe el refuerzo.
+
+## ¿Y las piscinas en conjuntos?
+
+En Altos de Solemio, DDES acompañó como interventoría la construcción de las piscinas del conjunto, el tanque de agua y los cuartos técnicos, con pruebas de estanqueidad.
+
+## Servicios de DDES para este caso
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Interventoría de obra](https://ddes.co/servicio-interventoria/): Representamos al propietario: calidad, plazo y presupuesto de obras públicas y privadas.
+
+## Proyectos relacionados
+
+[Toda la experiencia](https://ddes.co/experiencia/)
+
+- [Altos de Solemio](https://ddes.co/proyecto-solemio/): Interventoría por etapas de un desarrollo de torres de vivienda y un lote comercial, con el rediseño de sus obras exteriores.
+
+## Notas técnicas
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Concreto cerca al mar: lo que exige la NSR-10 contra el salitre](https://ddes.co/articulo-concreto-salitre/): Clase de exposición C2, relación agua-cemento de 0,40, 35 MPa y recubrimientos: la receta de la norma para la costa.
+
+- [Cloruros y refuerzo: el recubrimiento que sí protege](https://ddes.co/articulo-cloruros/): Por qué la brisa marina corroe el concreto desde adentro y qué especificar para evitarlo.
+
+- [Ensayo de cilindros: cuándo se acepta el concreto según la NSR-10](https://ddes.co/articulo-ensayo-cilindros/): Cuántas muestras tomar, cómo se evalúan y qué pasa si un resultado sale bajo: la sección C.5.6.
+
+## Preguntas frecuentes
+
+**¿Un tanque de agua necesita diseño estructural?**
+
+Sí. Lleva cargas grandes de agua y suelo, y la NSR-10 le pone requisitos propios de fisuración y durabilidad (Capítulo C.23).
+
+**¿Qué es la prueba de estanqueidad?**
+
+Se llena el tanque o la piscina y se mide durante varios días si el nivel baja o aparecen humedades, antes de impermeabilizar y entregar.
+
+**¿Un tanque elevado sobre el edificio cambia el diseño del edificio?**
+
+Sí. El agua arriba agrega masa en la parte más alta, que aumenta las fuerzas sísmicas; el edificio debe diseñarse con ese peso.
+
+## Otras situaciones
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+Última actualización: 6 de octubre de 2026
+
+---
+
+URL: https://ddes.co/mezzanine-metalico/
+Última actualización: 2026-10-06
+
+[Soluciones](https://ddes.co/soluciones/)
+
+# Diseño de mezzanines y entrepisos metálicos
+
+Más área útil dentro de la misma bodega o local.
+
+Un mezzanine metálico agrega un nivel dentro de una bodega, un local o una planta. Su diseño define vigas, columnas, placa, escaleras y barandas con las cargas de uso de la NSR-10 (B.4.2), y revisa que la estructura y la cimentación existentes puedan recibirlo. DDES lo diseña y acompaña su montaje.
+
+- Norma: NSR-10, B.4 y Título F
+- Servicio: Diseño estructural
+- Para: Bodegas, locales, plantas
+
+## Lo que necesita tener a mano
+
+- Área y altura disponibles, y la ubicación de las columnas existentes.
+- Uso del mezzanine: oficinas, almacenamiento o estanterías.
+- Planos de la bodega o del local, si existen.
+- Fotos de la placa de piso donde apoyarán las columnas.
+
+## Cómo lo resolvemos
+
+- Definición de la carga de uso según la NSR-10 (B.4.2) y del sistema de placa.
+- Diseño de vigas, columnas, conexiones y arriostramientos en acero (Título F).
+- Revisión de la placa de piso y de la cimentación donde apoya cada columna.
+- Planos de taller y de montaje.
+
+## ¿Qué carga debe resistir un mezzanine?
+
+La que corresponde a su uso según la Tabla B.4.2.1-1 de la NSR-10: un mezzanine de almacenamiento lleva mucha más carga que uno de oficinas. Cambiar el uso después sin revisar el diseño es una de las causas más comunes de deflexiones y fallas.
+
+## ¿Se puede apoyar sobre la placa de piso existente?
+
+Solo si la placa y el suelo resisten la carga concentrada de cada columna. Si no, se diseñan dados de cimentación nuevos bajo las columnas.
+
+## Servicios de DDES para este caso
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Interventoría de obra](https://ddes.co/servicio-interventoria/): Representamos al propietario: calidad, plazo y presupuesto de obras públicas y privadas.
+
+## Proyectos relacionados
+
+[Toda la experiencia](https://ddes.co/experiencia/)
+
+- [Bodegas Centurión](https://ddes.co/proyecto-centurion/): Interventoría de las bodegas C10 y C11 hasta su cierre, revisión de sus diseños y diseño de las bodegas C9 y C5.
+
+## Notas técnicas
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Grupos de uso: por qué un colegio o una clínica se diseñan más fuertes](https://ddes.co/articulo-grupos-de-uso/): La NSR-10 clasifica las edificaciones en cuatro grupos y aumenta las fuerzas de diseño hasta en un 50%.
+
+- [Elementos no estructurales: muros, fachadas e instalaciones en la NSR-10](https://ddes.co/articulo-elementos-no-estructurales/): Lo que no sostiene el edificio también debe diseñarse para el sismo. Y en la costa hay una exención.
+
+- [Estudio de suelos: cuántos sondeos y a qué profundidad pide la NSR-10](https://ddes.co/articulo-estudio-de-suelos/): La categoría de la edificación define el número mínimo de sondeos y su profundidad. Así lo fija el Título H.
+
+## Preguntas frecuentes
+
+**¿Un mezzanine necesita licencia?**
+
+Un mezzanine agrega área construida y modifica la estructura, por lo que la curaduría suele exigir licencia con diseño estructural firmado. Confírmelo con su curaduría.
+
+**¿Cuánto se demora el montaje?**
+
+La estructura metálica se fabrica en taller y se monta en poco tiempo; el plazo depende del tamaño y de la placa que se elija.
+
+**¿DDES ha hecho mezzanines?**
+
+Sí. En Bodegas Centurión la obra que acompañó DDES incluyó el mezzanine de las bodegas.
+
+## Otras situaciones
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+Última actualización: 6 de octubre de 2026
+
+---
+
+URL: https://ddes.co/licencia-de-construccion/
+Última actualización: 2026-10-06
+
+[Soluciones](https://ddes.co/soluciones/)
+
+# Lo estructural de la licencia de construcción
+
+Qué documentos estructurales pide la curaduría y quién los firma.
+
+Para la licencia de construcción, la curaduría urbana pide el estudio geotécnico, los planos estructurales y las memorias de cálculo firmados por profesionales facultados (A.1.3.2, A.1.3.4, A.1.5.2 y A.1.5.3). Si el lote permite construir más de 2.000 m², pide además el memorial de un revisor independiente. DDES prepara el diseño, acompaña el trámite y responde las observaciones de la curaduría.
+
+- Norma: NSR-10, A.1.3 y A.1.5
+- Ley: Ley 1796 de 2016
+- Servicio: Diseño y revisión
+
+## Lo que necesita tener a mano
+
+- El proyecto arquitectónico, aunque sea preliminar.
+- El estudio de suelos o la autorización para contratarlo.
+- Certificado de tradición, norma urbana o concepto de uso del lote.
+- El área total que permite el lote, para saber si aplica la Ley 1796.
+
+## Cómo lo resolvemos
+
+- Revisión del proyecto y del estudio de suelos.
+- Diseño estructural con planos y memorias firmados (A.1.3.4 y A.1.5).
+- Coordinación con la revisión independiente cuando la ley la exige.
+- Respuesta a las observaciones de la curaduría hasta la expedición.
+
+## ¿Quién puede firmar los planos estructurales?
+
+El diseño estructural debe hacerlo un ingeniero civil facultado según la ley para ese fin (A.1.3.4), y los planos deben ir acompañados de memorias de diseño y cálculo (A.1.5.3).
+
+## ¿Cuándo aplica la Ley 1796?
+
+Si el lote permite construir más de 2.000 m², la Ley 1796 de 2016 exige además revisión independiente de los diseños y supervisión técnica independiente durante la obra. Calcúlelo en la página de la Ley 1796.
+
+## Servicios de DDES para este caso
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Revisión independiente](https://ddes.co/servicio-revision/): Revisión de diseños estructurales de terceros, obligatoria en proyectos de más de 2.000 m².
+
+- [Supervisión técnica](https://ddes.co/servicio-supervision/): Supervisión técnica independiente según la Ley 1796 y el Título I de la NSR-10, antes de cada fundida.
+
+## Notas técnicas
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Ley 1796: cuándo es obligatoria la supervisión técnica](https://ddes.co/articulo-ley1796/): Umbrales de área, quién puede supervisar y qué pide la curaduría.
+
+- [Revisión independiente y supervisión técnica: en qué se diferencian](https://ddes.co/articulo-revision-supervision/): Una revisa el papel antes de la licencia; la otra, lo construido durante la obra. Las dos las exige la Ley 1796.
+
+- [Diseño estructural en Colombia: qué incluye y qué pide la NSR-10 para la licencia](https://ddes.co/articulo-diseno-estructural-colombia/): Quién lo firma, qué deben traer los planos y la memoria de cálculo, y en qué orden se hace.
+
+## Preguntas frecuentes
+
+**¿Qué documentos estructurales pide la curaduría?**
+
+El estudio geotécnico, los planos estructurales y las memorias de cálculo firmados, y la revisión independiente cuando aplica la Ley 1796.
+
+**¿Qué pasa si la curaduría hace observaciones?**
+
+El diseñador las responde y ajusta los planos. DDES acompaña ese proceso hasta la expedición de la licencia.
+
+**¿El revisor independiente puede ser el mismo diseñador?**
+
+No. La revisión debe hacerla un profesional distinto del diseñador y sin relación laboral con él.
+
+## Otras situaciones
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+
+Última actualización: 6 de octubre de 2026
+
 # Herramientas
 
 ---
