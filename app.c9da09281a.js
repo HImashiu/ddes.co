@@ -1567,11 +1567,13 @@ function wire(h) {
       return;
     }
     const btns = f.querySelectorAll('button[type=submit]'); btns.forEach(x => x.disabled = true); out.textContent = tx('Enviando…');
-    // every request also reaches a copy (the address is split so that simple scrapers do not collect it)
-    const data = {_subject: subject, _template: 'table', _captcha: 'false', _cc: ['juandabarrios12', 'gmail.com'].join('@')}; if (isMail) data._replyto = cv;
+    // every request goes to the owner's Gmail (where the form service was activated) with a copy to gerencia@ddes.co
+    // (the Gmail address is split so that simple scrapers do not collect it)
+    const TO = ['juandabarrios12', 'gmail.com'].join('@');
+    const data = {_subject: subject, _template: 'table', _captcha: 'false', _cc: 'gerencia@ddes.co'}; if (isMail) data._replyto = cv;
     body.split('\n').forEach(l => { const k = l.indexOf(': '); data[l.slice(0, k)] = l.slice(k + 2); });
     const safe = t => t.replace(/[<&]/g, '');
-    fetch('https://formsubmit.co/ajax/gerencia@ddes.co', {method: 'POST', headers: {'Content-Type': 'application/json', Accept: 'application/json'}, body: JSON.stringify(data)})
+    fetch('https://formsubmit.co/ajax/' + TO, {method: 'POST', headers: {'Content-Type': 'application/json', Accept: 'application/json'}, body: JSON.stringify(data)})
       .then(r => r.json()).then(j => { if (String(j.success) !== 'true') throw new Error(j.message || 'no enviado');
         out.innerHTML = callMe ? put('Gracias, {0}. Recibimos su solicitud: un ingeniero le llama al {1}.', who, safe(phone)) : isMail ? put('Gracias, {0}. Recibimos su solicitud: un ingeniero le responde a {1} con una propuesta.', who, safe(cv)) : put('Gracias, {0}. Recibimos su solicitud: un ingeniero le escribe por WhatsApp al {1}.', who, safe(cv));
         f.reset(); setCall2(); })
