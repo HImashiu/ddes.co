@@ -1472,7 +1472,10 @@ function wire(h) {
     const io = new IntersectionObserver(es => es.forEach(e => { if (e.isIntersecting) { btns.forEach(b => b.classList.toggle('on', b.dataset.go === e.target.id)); railTo(sn.querySelector('.sn-links'), btns.find(b => b.classList.contains('on'))); } }), {rootMargin: '-40% 0px -55% 0px'});
     railTo(sn.querySelector('.sn-links'), btns.find(b => b.classList.contains('on')));
     btns.forEach(b => { const t = document.getElementById(b.dataset.go); if (t) io.observe(t); });
-    leaveFns.add(() => io.disconnect());
+    // while the bar is stuck under the header, the header's frosted band ends at the header so it does not blur the bar
+    const stuck = () => document.documentElement.classList.toggle('sn-stuck', sn.getBoundingClientRect().top <= topEl.offsetHeight + 1);
+    scrollFns.add(stuck); stuck();
+    leaveFns.add(() => { io.disconnect(); document.documentElement.classList.remove('sn-stuck'); });
   }
   // Form: say exactly what is missing, mark it, and put the cursor there
   const f = document.getElementById('cform');
