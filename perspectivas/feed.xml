@@ -6,7 +6,39 @@
   <atom:link href="https://ddes.co/perspectivas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Notas técnicas de DDES sobre diseño estructural, la NSR-10, la Ley 1796, sismo, suelos y durabilidad en Colombia.</description>
   <language>es-co</language>
-  <lastBuildDate>Mon, 05 Oct 2026 17:00:00 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 17:00:00 GMT</lastBuildDate>
+  <item>
+    <title>Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige</title>
+    <link>https://ddes.co/articulo-interventoria-de-obra/</link>
+    <guid isPermaLink="true">https://ddes.co/articulo-interventoria-de-obra/</guid>
+    <pubDate>Tue, 06 Oct 2026 17:00:00 GMT</pubDate>
+    <category>Normativa</category>
+    <description>El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.</description>
+  </item>
+  <item>
+    <title>Diseño estructural en Colombia: qué incluye y qué pide la NSR-10 para la licencia</title>
+    <link>https://ddes.co/articulo-diseno-estructural-colombia/</link>
+    <guid isPermaLink="true">https://ddes.co/articulo-diseno-estructural-colombia/</guid>
+    <pubDate>Tue, 06 Oct 2026 17:00:00 GMT</pubDate>
+    <category>Normativa</category>
+    <description>Quién lo firma, qué deben traer los planos y la memoria de cálculo, y en qué orden se hace.</description>
+  </item>
+  <item>
+    <title>Estudio de vulnerabilidad sísmica: qué es, cuándo lo exige la NSR-10 y qué incluye</title>
+    <link>https://ddes.co/articulo-vulnerabilidad-sismica/</link>
+    <guid isPermaLink="true">https://ddes.co/articulo-vulnerabilidad-sismica/</guid>
+    <pubDate>Tue, 06 Oct 2026 17:00:00 GMT</pubDate>
+    <category>Patología</category>
+    <description>El capítulo A.10 compara la estructura existente con una nueva y lo expresa en dos índices: sobreesfuerzo y flexibilidad.</description>
+  </item>
+  <item>
+    <title>Perfil de suelo en la NSR-10: los tipos A a F y cómo cambian el sismo de diseño</title>
+    <link>https://ddes.co/articulo-perfil-de-suelo/</link>
+    <guid isPermaLink="true">https://ddes.co/articulo-perfil-de-suelo/</guid>
+    <pubDate>Tue, 06 Oct 2026 17:00:00 GMT</pubDate>
+    <category>Suelos</category>
+    <description>En la misma ciudad, el mismo edificio puede diseñarse para una aceleración tres veces mayor según el suelo. La tabla A.2.4-1, explicada.</description>
+  </item>
   <item>
     <title>Terremoto del 10 de agosto de 2026: qué falló en Cali</title>
     <link>https://ddes.co/articulo-caso-cali-terremoto-2026/</link>

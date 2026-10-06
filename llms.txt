@@ -4,21 +4,30 @@
 
 Contacto: gerencia@ddes.co · WhatsApp +57 300 202 1920 · https://ddes.co/contacto/
 
+## Datos de la empresa
+- Razón social: Diseño de Estructuras y Soluciones S.A.S. (marca DDES), fundada en 2020.
+- Sede: Barranquilla, Atlántico, Colombia. Cobertura nacional; proyectos en Atlántico, Bolívar, Córdoba, Sucre, La Guajira y Casanare.
+- Servicios: diseño estructural (NSR-10), revisión independiente de diseños estructurales (Ley 1796 de 2016), supervisión técnica independiente, interventoría de obra, patología y reforzamiento estructural, coordinación BIM.
+- Contacto: gerencia@ddes.co, +57 300 202 1920 (teléfono y WhatsApp), lunes a viernes de 7:30 a. m. a 5:30 p. m.
+- Texto completo del sitio: https://ddes.co/llms-full.txt
+
 ## Páginas principales
-- [Inicio](https://ddes.co/): Firma de ingeniería estructural de Barranquilla: diseño estructural NSR-10, interventoría, supervisión técnica y revisión independiente (Ley 1796).
-- [Nosotros](https://ddes.co/nosotros/): DDES, Diseño de Estructuras y Soluciones S.A.S.: firma de ingeniería estructural de Barranquilla fundada en 2020, con más de 70 proyectos en 6 departamentos.
-- [Servicios](https://ddes.co/servicios/): Diseño estructural, interventoría de obra, supervisión técnica, revisión independiente, patología y reforzamiento y BIM, bajo la NSR-10 y la Ley 1796 de 2016.
+- [Inicio](https://ddes.co/): Firma de ingeniería estructural de Barranquilla con cobertura en Colombia: diseño estructural NSR-10, interventoría, supervisión técnica y revisión (Ley 1796).
+- [Nosotros: firma de ingeniería estructural en Colombia](https://ddes.co/nosotros/): DDES, Diseño de Estructuras y Soluciones S.A.S.: firma de ingeniería estructural de Barranquilla fundada en 2020, con más de 70 proyectos en 6 departamentos.
+- [Servicios de ingeniería estructural en Colombia](https://ddes.co/servicios/): Servicios de ingeniería estructural en Colombia: diseño estructural, interventoría, supervisión técnica, revisión independiente, patología y BIM, bajo la NSR-10.
 - [Ley 1796: ¿necesita revisión y supervisión técnica?](https://ddes.co/ley/): La Ley 1796 exige revisión independiente y supervisión técnica si el lote permite más de 2.000 m². Calcule en línea qué necesita su proyecto.
+- [Herramientas NSR-10 gratis: amenaza sísmica y espectro](https://ddes.co/herramientas/): Consulte la amenaza sísmica de los 1.117 municipios de Colombia, calcule el espectro de diseño NSR-10 y verifique qué exige la Ley 1796 a su proyecto.
+- [Ingeniería estructural en el Caribe y toda Colombia](https://ddes.co/cobertura/): DDES trabaja desde Barranquilla con cobertura nacional: Barranquilla, Soledad, Cartagena, Santa Marta, Montería, Sincelejo, Valledupar, Riohacha y Yopal.
 - [Experiencia](https://ddes.co/experiencia/): Proyectos de DDES en Colombia: torres de vivienda, bodegas, plantas industriales e infraestructura.
 - [Perspectivas](https://ddes.co/perspectivas/): Notas técnicas de DDES sobre los problemas estructurales que vemos en obra en Colombia: durabilidad, suelos, normativa y obra.
 - [Contacto](https://ddes.co/contacto/): Hablemos de su proyecto. Un ingeniero de DDES le responde con una propuesta de alcance y honorarios. Cobertura nacional · gerencia@ddes.co · +57 300 202 1920.
 
 ## Servicios
-- [Diseño estructural](https://ddes.co/servicio-diseno/): Diseño estructural bajo la NSR-10 para edificios, bodegas e infraestructura: modelo, memoria de cálculo y planos firmados, con trámite en curaduría.
-- [Interventoría de obra](https://ddes.co/servicio-interventoria/): Interventoría de obra: control técnico, administrativo y financiero en nombre del propietario, con informes mensuales. Barranquilla y todo el país.
-- [Supervisión técnica](https://ddes.co/servicio-supervision/): Supervisión técnica independiente (Ley 1796), obligatoria si el lote permite más de 2.000 m². Visitas antes de cada fundida y Certificado Técnico de Ocupación.
-- [Revisión independiente](https://ddes.co/servicio-revision/): Revisión independiente de diseños estructurales (Ley 1796), obligatoria si el lote permite más de 2.000 m². Observaciones con la NSR-10 y memorial firmado.
-- [Patología y reforzamiento](https://ddes.co/servicio-patologia/): Fisuras, corrosión por salitre o cambio de uso: inspección, ensayos, vulnerabilidad sísmica y diseño de reforzamiento bajo la NSR-10.
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Diseño estructural en Colombia bajo la NSR-10: edificios, bodegas e infraestructura, con memoria de cálculo, planos firmados y trámite en curaduría.
+- [Interventoría de obra](https://ddes.co/servicio-interventoria/): Empresa de interventoría de obra en Colombia: control técnico, administrativo y financiero en nombre del propietario, con informes mensuales.
+- [Supervisión técnica](https://ddes.co/servicio-supervision/): Supervisión técnica independiente en Colombia (Ley 1796), obligatoria si el lote permite más de 2.000 m². Visitas antes de cada fundida e informe para el CTO.
+- [Revisión independiente](https://ddes.co/servicio-revision/): Revisión estructural independiente en Colombia (Ley 1796), obligatoria si el lote permite más de 2.000 m². Observaciones con la NSR-10 y memorial firmado.
+- [Patología y reforzamiento](https://ddes.co/servicio-patologia/): Patología estructural, estudios de vulnerabilidad sísmica (NSR-10, capítulo A.10) y diseño de reforzamiento para edificaciones existentes en Colombia.
 - [BIM y coordinación](https://ddes.co/servicio-bim/): Coordinación BIM de estructura, arquitectura e instalaciones: las interferencias se resuelven en el modelo antes de la obra. Revit y Navisworks.
 
 ## Proyectos
@@ -34,6 +43,10 @@ Contacto: gerencia@ddes.co · WhatsApp +57 300 202 1920 · https://ddes.co/conta
 ## Notas técnicas
 - [Terremoto del 10 de agosto de 2026: qué falló en Cali](https://ddes.co/articulo-caso-cali-terremoto-2026/): Los edificios que colapsaron no se construyeron con la NSR-10. Pórticos flexibles, normas anteriores y un suelo que amplificó el movimiento.
 - [Terremoto del 10 de agosto de 2026: lecciones de Pereira](https://ddes.co/articulo-caso-pereira-terremoto-2026/): Haber resistido el sismo de 1999 no era una garantía. Y el aeropuerto cerró por daños que no eran estructurales.
+- [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
+- [Diseño estructural en Colombia: qué incluye y qué pide la NSR-10 para la licencia](https://ddes.co/articulo-diseno-estructural-colombia/): Diseño estructural en Colombia: quién lo firma, qué deben contener los planos y la memoria de cálculo según la NSR-10 (A.1.5) y qué va a la curaduría.
+- [Estudio de vulnerabilidad sísmica: qué es, cuándo lo exige la NSR-10 y qué incluye](https://ddes.co/articulo-vulnerabilidad-sismica/): Qué es un estudio de vulnerabilidad sísmica, cuándo lo exige la NSR-10 (capítulo A.10), qué incluye y cómo se leen sus índices de sobreesfuerzo y flexibilidad.
+- [Perfil de suelo en la NSR-10: los tipos A a F y cómo cambian el sismo de diseño](https://ddes.co/articulo-perfil-de-suelo/): En la misma ciudad, el mismo edificio puede diseñarse para una aceleración tres veces mayor según el suelo. La tabla A.2.4-1, explicada.
 - [Casas de uno y dos pisos: lo que exige el Título E de la NSR-10](https://ddes.co/articulo-casas-uno-dos-pisos/): Cimentación, muros confinados, aberturas y columnas de amarre: los mínimos para construir una casa sismo resistente.
 - [Estudio de suelos: cuántos sondeos y a qué profundidad pide la NSR-10](https://ddes.co/articulo-estudio-de-suelos/): La categoría de la edificación define el número mínimo de sondeos y su profundidad. Así lo fija el Título H.
 - [Concreto cerca al mar: lo que exige la NSR-10 contra el salitre](https://ddes.co/articulo-concreto-salitre/): Clase de exposición C2, relación agua-cemento de 0,40, 35 MPa y recubrimientos: la receta de la norma para la costa.
@@ -51,3 +64,58 @@ Contacto: gerencia@ddes.co · WhatsApp +57 300 202 1920 · https://ddes.co/conta
 - [Cloruros y refuerzo: el recubrimiento que sí protege](https://ddes.co/articulo-cloruros/): Por qué la brisa marina corroe el concreto desde adentro y qué especificar para evitarlo.
 - [Arcillas expansivas en el suroccidente de Barranquilla](https://ddes.co/articulo-arcillas/): Cimentaciones para suelos que se hinchan en invierno y se contraen en verano.
 - [Ley 1796: cuándo es obligatoria la supervisión técnica](https://ddes.co/articulo-ley1796/): Umbrales de área, quién puede supervisar y qué pide la curaduría.
+
+## Herramientas NSR-10 (gratuitas)
+- [Herramientas NSR-10 gratis: amenaza sísmica y espectro](https://ddes.co/herramientas/): Consulte la amenaza sísmica de los 1.117 municipios de Colombia, calcule el espectro de diseño NSR-10 y verifique qué exige la Ley 1796 a su proyecto.
+- [Amenaza sísmica por municipio, NSR-10: Aa, Av, Ae y Ad](https://ddes.co/amenaza-sismica/): Busque cualquier municipio de Colombia y obtenga Aa, Av, Ae, Ad y su zona de amenaza sísmica según el Apéndice A-4 de la NSR-10, con el espectro de diseño listo.
+- [Espectro de diseño NSR-10: calculadora de Sa, Fa, Fv y TC](https://ddes.co/espectro-nsr10/): Calcule en línea el espectro elástico de aceleraciones de la NSR-10 (A.2.6) para cualquier municipio de Colombia: Fa, Fv, coeficiente de importancia, T0, TC, TL, Ta y Sa.
+- [Ley 1796: ¿necesita revisión y supervisión técnica?](https://ddes.co/ley/): La Ley 1796 exige revisión independiente y supervisión técnica si el lote permite más de 2.000 m². Calcule en línea qué necesita su proyecto.
+
+## Ingeniería estructural por ciudad
+- [Ingeniería estructural en Barranquilla](https://ddes.co/ingenieria-estructural-barranquilla/): Diseño estructural, revisión independiente, supervisión técnica e interventoría en Barranquilla bajo la NSR-10. Amenaza sísmica baja (Aa 0,10, Av 0,10).
+- [Ingeniería estructural en Soledad](https://ddes.co/ingenieria-estructural-soledad/): Diseño estructural, revisión independiente, supervisión técnica e interventoría en Soledad bajo la NSR-10. Amenaza sísmica baja (Aa 0,10, Av 0,10).
+- [Ingeniería estructural en Puerto Colombia](https://ddes.co/ingenieria-estructural-puerto-colombia/): Diseño estructural, revisión independiente, supervisión técnica e interventoría en Puerto Colombia bajo la NSR-10. Amenaza sísmica baja (Aa 0,10, Av 0,10).
+- [Ingeniería estructural en Malambo](https://ddes.co/ingenieria-estructural-malambo/): Diseño estructural, revisión independiente, supervisión técnica e interventoría en Malambo bajo la NSR-10. Amenaza sísmica baja (Aa 0,10, Av 0,10).
+- [Ingeniería estructural en Galapa](https://ddes.co/ingenieria-estructural-galapa/): Diseño estructural, revisión independiente, supervisión técnica e interventoría en Galapa bajo la NSR-10. Amenaza sísmica baja (Aa 0,10, Av 0,10).
+- [Ingeniería estructural en Cartagena](https://ddes.co/ingenieria-estructural-cartagena/): Diseño estructural, revisión independiente, supervisión técnica e interventoría en Cartagena bajo la NSR-10. Amenaza sísmica baja (Aa 0,10, Av 0,10).
+- [Ingeniería estructural en Santa Marta](https://ddes.co/ingenieria-estructural-santa-marta/): Diseño estructural, revisión independiente, supervisión técnica e interventoría en Santa Marta bajo la NSR-10. Amenaza sísmica intermedia (Aa 0,15, Av 0,10).
+- [Ingeniería estructural en Montería](https://ddes.co/ingenieria-estructural-monteria/): Diseño estructural, revisión independiente, supervisión técnica e interventoría en Montería bajo la NSR-10. Amenaza sísmica intermedia (Aa 0,10, Av 0,20).
+- [Ingeniería estructural en Sincelejo](https://ddes.co/ingenieria-estructural-sincelejo/): Diseño estructural, revisión independiente, supervisión técnica e interventoría en Sincelejo bajo la NSR-10. Amenaza sísmica intermedia (Aa 0,10, Av 0,15).
+- [Ingeniería estructural en Valledupar](https://ddes.co/ingenieria-estructural-valledupar/): Diseño estructural, revisión independiente, supervisión técnica e interventoría en Valledupar bajo la NSR-10. Amenaza sísmica baja (Aa 0,10, Av 0,10).
+- [Ingeniería estructural en Riohacha](https://ddes.co/ingenieria-estructural-riohacha/): Diseño estructural, revisión independiente, supervisión técnica e interventoría en Riohacha bajo la NSR-10. Amenaza sísmica intermedia (Aa 0,10, Av 0,15).
+- [Ingeniería estructural en Yopal](https://ddes.co/ingenieria-estructural-yopal/): Diseño estructural, revisión independiente, supervisión técnica e interventoría en Yopal bajo la NSR-10. Amenaza sísmica alta (Aa 0,30, Av 0,20).
+
+## Amenaza sísmica por departamento (NSR-10, Apéndice A-4)
+- [Amenaza sísmica en Amazonas](https://ddes.co/amenaza-sismica-amazonas/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 11 municipios de Amazonas según la NSR-10. Leticia: Aa 0,05, Av 0,05, amenaza baja.
+- [Amenaza sísmica en Antioquia](https://ddes.co/amenaza-sismica-antioquia/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 125 municipios de Antioquia según la NSR-10. Medellín: Aa 0,15, Av 0,20, amenaza intermedia.
+- [Amenaza sísmica en Arauca](https://ddes.co/amenaza-sismica-arauca/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 7 municipios de Arauca según la NSR-10. Arauca: Aa 0,15, Av 0,15, amenaza intermedia.
+- [Amenaza sísmica en San Andrés y Providencia](https://ddes.co/amenaza-sismica-san-andres/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 2 municipios de San Andrés y Providencia según la NSR-10. San Andrés: Aa 0,10, Av 0,10, amenaza baja.
+- [Amenaza sísmica en Atlántico](https://ddes.co/amenaza-sismica-atlantico/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 23 municipios de Atlántico según la NSR-10. Barranquilla: Aa 0,10, Av 0,10, amenaza baja.
+- [Amenaza sísmica en Bolívar](https://ddes.co/amenaza-sismica-bolivar/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 45 municipios de Bolívar según la NSR-10. Cartagena: Aa 0,10, Av 0,10, amenaza baja.
+- [Amenaza sísmica en Boyacá](https://ddes.co/amenaza-sismica-boyaca/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 123 municipios de Boyacá según la NSR-10. Tunja: Aa 0,20, Av 0,20, amenaza intermedia.
+- [Amenaza sísmica en Caldas](https://ddes.co/amenaza-sismica-caldas/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 27 municipios de Caldas según la NSR-10. Manizales: Aa 0,25, Av 0,25, amenaza alta.
+- [Amenaza sísmica en Caquetá](https://ddes.co/amenaza-sismica-caqueta/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 16 municipios de Caquetá según la NSR-10. Florencia: Aa 0,20, Av 0,15, amenaza intermedia.
+- [Amenaza sísmica en Casanare](https://ddes.co/amenaza-sismica-casanare/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 19 municipios de Casanare según la NSR-10. Yopal: Aa 0,30, Av 0,20, amenaza alta.
+- [Amenaza sísmica en Cauca](https://ddes.co/amenaza-sismica-cauca/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 41 municipios de Cauca según la NSR-10. Popayán: Aa 0,25, Av 0,20, amenaza alta.
+- [Amenaza sísmica en Cesar](https://ddes.co/amenaza-sismica-cesar/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 25 municipios de Cesar según la NSR-10. Valledupar: Aa 0,10, Av 0,10, amenaza baja.
+- [Amenaza sísmica en Chocó](https://ddes.co/amenaza-sismica-choco/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 31 municipios de Chocó según la NSR-10. Quibdó: Aa 0,35, Av 0,35, amenaza alta.
+- [Amenaza sísmica en Córdoba](https://ddes.co/amenaza-sismica-cordoba/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 28 municipios de Córdoba según la NSR-10. Montería: Aa 0,10, Av 0,20, amenaza intermedia.
+- [Amenaza sísmica en Cundinamarca](https://ddes.co/amenaza-sismica-cundinamarca/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 116 municipios de Cundinamarca según la NSR-10. Agua de Dios: Aa 0,20, Av 0,20, amenaza intermedia.
+- [Amenaza sísmica en Bogotá D. C.](https://ddes.co/amenaza-sismica-bogota/): Bogotá D. C. según la NSR-10: Aa 0,15, Av 0,20, Ae 0,13, Ad 0,06, zona de amenaza sísmica intermedia. Tabla y espectro de diseño.
+- [Amenaza sísmica en Guainía](https://ddes.co/amenaza-sismica-guainia/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 9 municipios de Guainía según la NSR-10. Puerto Inírida: Aa 0,05, Av 0,05, amenaza baja.
+- [Amenaza sísmica en La Guajira](https://ddes.co/amenaza-sismica-la-guajira/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 15 municipios de La Guajira según la NSR-10. Riohacha: Aa 0,10, Av 0,15, amenaza intermedia.
+- [Amenaza sísmica en Guaviare](https://ddes.co/amenaza-sismica-guaviare/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 4 municipios de Guaviare según la NSR-10. San José Del Guaviare: Aa 0,05, Av 0,05, amenaza baja.
+- [Amenaza sísmica en Huila](https://ddes.co/amenaza-sismica-huila/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 37 municipios de Huila según la NSR-10. Neiva: Aa 0,25, Av 0,25, amenaza alta.
+- [Amenaza sísmica en Magdalena](https://ddes.co/amenaza-sismica-magdalena/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 30 municipios de Magdalena según la NSR-10. Santa Marta: Aa 0,15, Av 0,10, amenaza intermedia.
+- [Amenaza sísmica en Meta](https://ddes.co/amenaza-sismica-meta/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 29 municipios de Meta según la NSR-10. Villavicencio: Aa 0,25, Av 0,30, amenaza alta.
+- [Amenaza sísmica en Nariño](https://ddes.co/amenaza-sismica-narino/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 63 municipios de Nariño según la NSR-10. Pasto: Aa 0,25, Av 0,25, amenaza alta.
+- [Amenaza sísmica en Norte de Santander](https://ddes.co/amenaza-sismica-norte-de-santander/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 40 municipios de Norte de Santander según la NSR-10. Cúcuta: Aa 0,35, Av 0,25, amenaza alta.
+- [Amenaza sísmica en Putumayo](https://ddes.co/amenaza-sismica-putumayo/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 13 municipios de Putumayo según la NSR-10. Mocoa: Aa 0,30, Av 0,25, amenaza alta.
+- [Amenaza sísmica en Quindío](https://ddes.co/amenaza-sismica-quindio/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 12 municipios de Quindío según la NSR-10. Armenia: Aa 0,25, Av 0,25, amenaza alta.
+- [Amenaza sísmica en Risaralda](https://ddes.co/amenaza-sismica-risaralda/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 14 municipios de Risaralda según la NSR-10. Pereira: Aa 0,25, Av 0,25, amenaza alta.
+- [Amenaza sísmica en Santander](https://ddes.co/amenaza-sismica-santander/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 87 municipios de Santander según la NSR-10. Bucaramanga: Aa 0,25, Av 0,25, amenaza alta.
+- [Amenaza sísmica en Sucre](https://ddes.co/amenaza-sismica-sucre/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 25 municipios de Sucre según la NSR-10. Sincelejo: Aa 0,10, Av 0,15, amenaza intermedia.
+- [Amenaza sísmica en Tolima](https://ddes.co/amenaza-sismica-tolima/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 47 municipios de Tolima según la NSR-10. Ibagué: Aa 0,20, Av 0,20, amenaza intermedia.
+- [Amenaza sísmica en Valle del Cauca](https://ddes.co/amenaza-sismica-valle-del-cauca/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 42 municipios de Valle del Cauca según la NSR-10. Cali: Aa 0,25, Av 0,25, amenaza alta.
+- [Amenaza sísmica en Vaupés](https://ddes.co/amenaza-sismica-vaupes/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 6 municipios de Vaupés según la NSR-10. Mitú: Aa 0,05, Av 0,05, amenaza baja.
+- [Amenaza sísmica en Vichada](https://ddes.co/amenaza-sismica-vichada/): Aa, Av, Ae, Ad y zona de amenaza sísmica de los 4 municipios de Vichada según la NSR-10. Puerto Carreño: Aa 0,05, Av 0,05, amenaza baja.
