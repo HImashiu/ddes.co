@@ -1,0 +1,53 @@
+# DDES · Diseño de Estructuras y Soluciones S.A.S.
+
+> Firma de ingeniería estructural de Barranquilla, Colombia, fundada en 2020. Diseño estructural bajo la NSR-10, revisión independiente de diseños, supervisión técnica e interventoría (Ley 1796 de 2016), patología y reforzamiento, y coordinación BIM, en la región Caribe y el resto del país.
+
+Contacto: gerencia@ddes.co · WhatsApp +57 300 202 1920 · https://ddes.co/contacto/
+
+## Páginas principales
+- [Inicio](https://ddes.co/): Firma de ingeniería estructural de Barranquilla: diseño estructural NSR-10, interventoría, supervisión técnica y revisión independiente (Ley 1796).
+- [Nosotros](https://ddes.co/nosotros/): DDES, Diseño de Estructuras y Soluciones S.A.S.: firma de ingeniería estructural de Barranquilla fundada en 2020, con más de 70 proyectos en 6 departamentos.
+- [Servicios](https://ddes.co/servicios/): Diseño estructural, interventoría de obra, supervisión técnica, revisión independiente, patología y reforzamiento y BIM, bajo la NSR-10 y la Ley 1796 de 2016.
+- [Ley 1796: ¿necesita revisión y supervisión técnica?](https://ddes.co/ley/): La Ley 1796 exige revisión independiente y supervisión técnica si el lote permite más de 2.000 m². Calcule en línea qué necesita su proyecto.
+- [Experiencia](https://ddes.co/experiencia/): Proyectos de DDES en Colombia: torres de vivienda, bodegas, plantas industriales e infraestructura.
+- [Perspectivas](https://ddes.co/perspectivas/): Notas técnicas de DDES sobre los problemas estructurales que vemos en obra en Colombia: durabilidad, suelos, normativa y obra.
+- [Contacto](https://ddes.co/contacto/): Hablemos de su proyecto. Un ingeniero de DDES le responde con una propuesta de alcance y honorarios. Cobertura nacional · gerencia@ddes.co · +57 300 202 1920.
+
+## Servicios
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Diseño estructural bajo la NSR-10 para edificios, bodegas e infraestructura: modelo, memoria de cálculo y planos firmados, con trámite en curaduría.
+- [Interventoría de obra](https://ddes.co/servicio-interventoria/): Interventoría de obra: control técnico, administrativo y financiero en nombre del propietario, con informes mensuales. Barranquilla y todo el país.
+- [Supervisión técnica](https://ddes.co/servicio-supervision/): Supervisión técnica independiente (Ley 1796), obligatoria si el lote permite más de 2.000 m². Visitas antes de cada fundida y Certificado Técnico de Ocupación.
+- [Revisión independiente](https://ddes.co/servicio-revision/): Revisión independiente de diseños estructurales (Ley 1796), obligatoria si el lote permite más de 2.000 m². Observaciones con la NSR-10 y memorial firmado.
+- [Patología y reforzamiento](https://ddes.co/servicio-patologia/): Fisuras, corrosión por salitre o cambio de uso: inspección, ensayos, vulnerabilidad sísmica y diseño de reforzamiento bajo la NSR-10.
+- [BIM y coordinación](https://ddes.co/servicio-bim/): Coordinación BIM de estructura, arquitectura e instalaciones: las interferencias se resuelven en el modelo antes de la obra. Revit y Navisworks.
+
+## Proyectos
+- [Altos de Solemio](https://ddes.co/proyecto-solemio/): Altos de Solemio (Interventoría y diseño). Interventoría por etapas de un desarrollo de torres de vivienda y un lote comercial, con el rediseño de sus obras exteriores.
+- [Industrias Cannon](https://ddes.co/proyecto-cannon/): Industrias Cannon (Diseño e interventoría). Diseño estructural e interventoría de una planta industrial, desde la licencia de construcción hasta la estructura.
+- [Bodegas Centurión](https://ddes.co/proyecto-centurion/): Bodegas Centurión (Interventoría, revisión y diseño). Interventoría de las bodegas C10 y C11 hasta su cierre, revisión de sus diseños y diseño de las bodegas C9 y C5.
+- [Edificio Ébano](https://ddes.co/proyecto-ebano/): Edificio Ébano (Interventoría y diseño). Interventoría de un edificio con el concreto controlado en laboratorio, pedido por pedido.
+- [Edificio Arte 57](https://ddes.co/proyecto-arte57/): Edificio Arte 57 (Diseño estructural). Diseño estructural de un edificio de vivienda en ladrillo a la vista, rematado por una losa de cubierta en voladizo con celosía de concreto.
+- [Edificio Galé](https://ddes.co/proyecto-gale/): Edificio Galé (Diseño e interventoría). Diseño estructural del edificio y preparación de su interventoría: pliego, presupuesto y comparativo de ofertas.
+- [Edificio Casa Grande](https://ddes.co/proyecto-casagrande/): Edificio Casa Grande (Diseño e interventoría). Diseño estructural e interventoría de la construcción del edificio.
+- [Bodega en Galapa](https://ddes.co/proyecto-galapa/): Bodega en Galapa (Galapa, Atlántico). Interventoría de una bodega industrial, con revisión de planos estructurales y estudio de suelos.
+
+## Notas técnicas
+- [Terremoto del 10 de agosto de 2026: qué falló en Cali](https://ddes.co/articulo-caso-cali-terremoto-2026/): Los edificios que colapsaron no se construyeron con la NSR-10. Pórticos flexibles, normas anteriores y un suelo que amplificó el movimiento.
+- [Terremoto del 10 de agosto de 2026: lecciones de Pereira](https://ddes.co/articulo-caso-pereira-terremoto-2026/): Haber resistido el sismo de 1999 no era una garantía. Y el aeropuerto cerró por daños que no eran estructurales.
+- [Casas de uno y dos pisos: lo que exige el Título E de la NSR-10](https://ddes.co/articulo-casas-uno-dos-pisos/): Cimentación, muros confinados, aberturas y columnas de amarre: los mínimos para construir una casa sismo resistente.
+- [Estudio de suelos: cuántos sondeos y a qué profundidad pide la NSR-10](https://ddes.co/articulo-estudio-de-suelos/): La categoría de la edificación define el número mínimo de sondeos y su profundidad. Así lo fija el Título H.
+- [Concreto cerca al mar: lo que exige la NSR-10 contra el salitre](https://ddes.co/articulo-concreto-salitre/): Clase de exposición C2, relación agua-cemento de 0,40, 35 MPa y recubrimientos: la receta de la norma para la costa.
+- [Ensayo de cilindros: cuándo se acepta el concreto según la NSR-10](https://ddes.co/articulo-ensayo-cilindros/): Cuántas muestras tomar, cómo se evalúan y qué pasa si un resultado sale bajo: la sección C.5.6.
+- [Amenaza sísmica en la Costa Caribe: ciudad por ciudad según la NSR-10](https://ddes.co/articulo-amenaza-sismica-costa/): Barranquilla y Cartagena están en amenaza baja; Santa Marta, Montería, Sincelejo y Riohacha, en intermedia.
+- [Grupos de uso: por qué un colegio o una clínica se diseñan más fuertes](https://ddes.co/articulo-grupos-de-uso/): La NSR-10 clasifica las edificaciones en cuatro grupos y aumenta las fuerzas de diseño hasta en un 50%.
+- [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+- [Supervisión técnica según el Título I: qué verifica y qué documentos deja](https://ddes.co/articulo-supervision-titulo-i/): El alcance mínimo de la supervisión, el registro que debe llevar y la constancia final que firma.
+- [Elementos no estructurales: muros, fachadas e instalaciones en la NSR-10](https://ddes.co/articulo-elementos-no-estructurales/): Lo que no sostiene el edificio también debe diseñarse para el sismo. Y en la costa hay una exención.
+- [¿Tiembla en Barranquilla? Lo que exige la NSR-10 en la costa](https://ddes.co/articulo-sismo-barranquilla/): La amenaza sísmica es baja, pero el diseño debe resolver también el suelo, el viento y el salitre.
+- [Revisión independiente y supervisión técnica: en qué se diferencian](https://ddes.co/articulo-revision-supervision/): Una revisa el papel antes de la licencia; la otra, lo construido durante la obra. Las dos las exige la Ley 1796.
+- [Certificado Técnico de Ocupación: qué es y cómo se obtiene](https://ddes.co/articulo-cto/): Quién lo firma, cuándo se necesita y por qué depende de supervisar la obra desde la primera fundida.
+- [¿Cuándo es peligrosa una fisura?](https://ddes.co/articulo-fisuras/): Cómo distinguir una fisura de acabado de una que pide un ingeniero: ancho, dirección, dónde aparece y si crece.
+- [Cloruros y refuerzo: el recubrimiento que sí protege](https://ddes.co/articulo-cloruros/): Por qué la brisa marina corroe el concreto desde adentro y qué especificar para evitarlo.
+- [Arcillas expansivas en el suroccidente de Barranquilla](https://ddes.co/articulo-arcillas/): Cimentaciones para suelos que se hinchan en invierno y se contraen en verano.
+- [Ley 1796: cuándo es obligatoria la supervisión técnica](https://ddes.co/articulo-ley1796/): Umbrales de área, quién puede supervisar y qué pide la curaduría.
