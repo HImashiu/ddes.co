@@ -49,6 +49,9 @@ Spanish version (the original): https://ddes.co/llms.txt
 - [Al Fresco warehouse, Galapa: construction oversight](https://ddes.co/en/project-galapa/): Al Fresco warehouse in Galapa, Atlántico: construction oversight by DDES, with a review of the structural drawings and the geotechnical study.
 
 ## Technical notes
+- [Industrial floors: why concrete is tested with beams](https://ddes.co/en/article-industrial-floors-beam-tests/): Why industrial floors are specified by modulus of rupture and tested with beams, with the results of 55 beams from the DDES oversight of Bodegas Centurión.
+- [Low concrete cylinder result: what to check first](https://ddes.co/en/article-low-concrete-cylinder-result/): A low cylinder result is not a failed structure: test age, the NSR-10 acceptance rule and cores, in order, using 20 real cylinders from Bodegas Centurión.
+- [Rebar scanner: checking a slab without breaking it](https://ddes.co/en/article-rebar-scanner-slab/): What a rebar scanner detects and what it cannot, with the real case of two grease tank covers at Bodegas Centurión and the NSR-10 minimum slab steel.
 - [Interventoría: construction oversight in Colombia](https://ddes.co/en/article-construction-oversight-interventoria/): Interventoría in Colombia: what construction oversight on the owner's behalf is, what it covers, when it is required and how it differs from supervision.
 - [Structural design in Colombia: what the NSR-10 asks](https://ddes.co/en/article-structural-design-in-colombia/): Structural design in Colombia: who signs it, what drawings and calculations must contain under the NSR-10 (A.1.5), and what goes to the curaduría.
 - [Seismic vulnerability study under the NSR-10 code](https://ddes.co/en/article-seismic-vulnerability-study/): What a seismic vulnerability study is, when the NSR-10 requires it (chapter A.10), what it includes and how to read its overstress and flexibility indices.

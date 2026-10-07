@@ -333,7 +333,7 @@ Un informe mensual completo, y actas de comité cada semana o cada quince días,
 
 - [Ensayo de cilindros: cuándo se acepta el concreto según la NSR-10](https://ddes.co/articulo-ensayo-cilindros/): Cuántas muestras tomar, cómo se evalúan y qué pasa si un resultado sale bajo: la sección C.5.6.
 
-- [Supervisión técnica según el Título I: qué verifica y qué documentos deja](https://ddes.co/articulo-supervision-titulo-i/): El alcance mínimo de la supervisión, el registro que debe llevar y la constancia final que firma.
+- [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
 
 ## Servicios relacionados
 
@@ -669,7 +669,7 @@ Las fisuras finas del pañete suelen ser retracción. Preocupan las diagonales o
 
 - [¿Cuándo es peligrosa una fisura?](https://ddes.co/articulo-fisuras/): Cómo distinguir una fisura de acabado de una que pide un ingeniero: ancho, dirección, dónde aparece y si crece.
 
-- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+- [Ferroescáner: cómo revisar el refuerzo de una losa sin romperla](https://ddes.co/articulo-ferroescaner-losa/): Qué detecta, qué no y qué se concluyó en las tapas de los tanques de grasa de Bodegas Centurión.
 
 ## Servicios relacionados
 
@@ -5650,6 +5650,207 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para 
 
 ---
 
+URL: https://ddes.co/articulo-pisos-industriales-viguetas/
+Última actualización: 2026-10-07
+
+[Perspectivas](https://ddes.co/perspectivas/)
+
+# Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros
+
+Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+
+Obra · Lectura de 5 min · 7 de octubre de 2026 · Equipo técnico DDES
+
+Un piso industrial apoyado sobre el terreno falla por flexión: las estanterías, los montacargas y los camiones lo doblan, y su cara inferior se fisura en tracción. Por eso estos pisos se especifican por su módulo de rotura (MR), la resistencia del concreto a la flexión, y se controlan ensayando viguetas, no solo cilindros a compresión. En la interventoría de Bodegas Centurión, en Barranquilla, DDES llevó el control de 55 viguetas entre septiembre de 2024 y abril de 2025.
+
+## Qué mide una vigueta
+
+La vigueta es un prisma de concreto que se apoya en sus extremos y se carga en los tercios de su luz hasta romperla (ensayo ASTM C78). El resultado, en MPa, es directamente la resistencia del concreto a tracción por flexión: el mismo valor con el que se diseña el espesor de un pavimento o de un piso industrial.
+
+El cilindro, en cambio, mide la compresión (f′c). Las dos resistencias están relacionadas, pero no de forma exacta. La NSR-10 estima el módulo de rotura como fr = 0,62 λ √f′c (ecuación C.9-10), una fórmula pensada para calcular la fisuración y las deflexiones de las vigas, no para aceptar un piso: con ella, un concreto de 28 MPa tendría un fr de unos 3,3 MPa. Para garantizar 4,2 MPa, la forma segura es medirlo.
+
+## Lo que se especificó en Centurión
+
+- Pisos interiores de la bodega y del área administrativa: MR 3,9 MPa (las primeras fundidas, con concreto acelerado, de MR 4,2 MPa).
+- Patios de maniobras, rampas, vía lateral y placa de los tanques de agua potable: MR 4,2 MPa.
+- Estructura (cimentación, columnas, losas del mezzanine y escaleras): concreto de f′c 28 MPa, controlado con cilindros.
+
+## Los resultados
+
+| MR especificado | Viguetas con resultado a 28 días | Promedio a 28 días |
+| --- | --- | --- |
+| 3,9 MPa | 15 | 4,68 MPa (120%) |
+| 4,2 MPa | 39 | 4,94 MPa (118%) |
+
+Bodegas Centurión, septiembre de 2024 a abril de 2025.
+
+En promedio, las viguetas llegaron al 118% del módulo especificado. Tres muestras quedaron por debajo a los 28 días (93%, 95% y 97%), pero ningún promedio de tres resultados consecutivos bajó del 103%, y la muestra que también se ensayó a 56 días llegó al 127%.
+
+## Qué más se controla en un piso
+
+La resistencia es solo una parte. En obra también se revisa el asentamiento de cada mixer (en Centurión, entre 15 y 24 cm, propio de un concreto fluido para pisos), el espesor de la losa, la base granular, las juntas de contracción y el curado: un piso resistente con juntas cortadas tarde o mal curado se fisura igual.
+
+Vea el proyecto completo en [Bodegas Centurión](https://ddes.co/proyecto-centurion/) y cómo se acepta el concreto de la estructura en [ensayo de cilindros](https://ddes.co/articulo-ensayo-cilindros/).
+
+*Fuentes: registro de control del concreto de la interventoría de DDES en Bodegas Centurión; NSR-10, ecuación C.9-10; ASTM C78.*
+
+## Preguntas frecuentes
+
+**¿Por qué un piso industrial se controla con viguetas?**
+
+Porque un piso sobre el terreno falla por flexión y se diseña con el módulo de rotura del concreto. La vigueta (ASTM C78) mide esa resistencia directamente; el cilindro mide la compresión, que solo se relaciona de forma aproximada con la flexión.
+
+**¿Qué módulo de rotura se usa en un piso de bodega?**
+
+Lo define el diseño del piso según sus cargas. En Bodegas Centurión se especificaron 3,9 MPa para pisos interiores y 4,2 MPa para patios de maniobras, rampas y vías.
+
+## Notas relacionadas
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
+
+- [Ferroescáner: cómo revisar el refuerzo de una losa sin romperla](https://ddes.co/articulo-ferroescaner-losa/): Qué detecta, qué no y qué se concluyó en las tapas de los tanques de grasa de Bodegas Centurión.
+
+- [Ensayo de cilindros: cuándo se acepta el concreto según la NSR-10](https://ddes.co/articulo-ensayo-cilindros/): Cuántas muestras tomar, cómo se evalúan y qué pasa si un resultado sale bajo: la sección C.5.6.
+
+- [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
+
+---
+
+URL: https://ddes.co/articulo-cilindro-bajo/
+Última actualización: 2026-10-07
+
+[Perspectivas](https://ddes.co/perspectivas/)
+
+# Un cilindro salió bajo: qué revisar antes de demoler
+
+La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
+
+Obra · Lectura de 5 min · 7 de octubre de 2026 · Equipo técnico DDES
+
+Un resultado bajo no significa que la estructura esté mal. Lo primero es mirar a qué edad se ensayó el cilindro; después, aplicar el criterio de aceptación de la NSR-10 (C.5.6.3.3), y solo si la duda persiste, extraer núcleos (C.5.6.5). De los 20 ensayos de cilindros de la estructura de Bodegas Centurión, 16 superaron f′c a los 28 días; los cuatro restantes muestran los casos típicos.
+
+## 1. ¿A qué edad se ensayó?
+
+A 7 y 14 días, un concreto normal todavía no llega a su resistencia de diseño, que se mide a los 28 días. En un comité de obra de enero de 2024 se reportó un resultado a 14 días del 78%: no era motivo de alarma, sino de esperar el de 28 días.
+
+## 2. ¿Cumple el criterio de la norma?
+
+La NSR-10 no exige que cada cilindro supere f′c: pide que cada promedio de tres ensayos consecutivos lo iguale o supere y que ningún ensayo individual quede más de 3,5 MPa por debajo, para f′c de hasta 35 MPa. En Centurión, el ensayo de las columnas dio 26,15 MPa a 28 días contra 28 MPa especificados: el 93%, pero dentro del margen de 3,5 MPa (el límite era 24,5 MPa). A los 56 días, ese mismo concreto llegó a 31,65 MPa, el 113%.
+
+## 3. ¿De dónde salió el concreto?
+
+Los tres resultados realmente bajos de Centurión tienen algo en común: fueron concreto preparado en la obra, sin remisión de planta, para elementos puntuales: la viga corona de una fachada (12 MPa, el 43%), el fondo de la planta de tratamiento de aguas residuales (14,3 MPa, el 51%) y unos registros de f′c 21 MPa (12,45 MPa a 28 días y 17,65 MPa a 56). El concreto hecho en obra depende de la dosificación, el agua y el mezclado de ese día; por eso la interventoría lo muestrea y ensaya igual que el premezclado.
+
+| Elemento | f′c | 28 días | 56 días |
+| --- | --- | --- | --- |
+| Columnas | 28 MPa | 26,15 MPa (93%) | 31,65 MPa (113%) |
+| Viga corona de fachada | 28 MPa | 12 MPa (43%) | — |
+| Fondo de la PTAR | 28 MPa | 14,3 MPa (51%) | — |
+| Registros | 21 MPa | 12,45 MPa (59%) | 17,65 MPa (84%) |
+| Los otros 16 ensayos | 21 y 28 MPa | 103% a 163% | — |
+
+Cilindros de la estructura, Bodegas Centurión, agosto de 2024 a marzo de 2025.
+
+## 4. Si la duda sigue: núcleos
+
+Cuando un ensayo no cumple y los cálculos muestran que la capacidad de carga puede verse afectada, se extraen tres núcleos por cada ensayo deficiente. La zona se considera adecuada si el promedio de los núcleos llega al 85% de f′c y ninguno baja del 75% (C.5.6.5.4). Los ensayos no destructivos, como el esclerómetro o el ultrasonido, ayudan a delimitar la zona dudosa, pero no reemplazan a los núcleos para aceptar el concreto.
+
+Las reglas completas de muestreo y aceptación están en [ensayo de cilindros](https://ddes.co/articulo-ensayo-cilindros/); los pisos se controlan aparte, con [viguetas](https://ddes.co/articulo-pisos-industriales-viguetas/).
+
+*Fuentes: NSR-10, C.5.6.3.3 y C.5.6.5; registro de control del concreto de la interventoría de DDES en Bodegas Centurión.*
+
+## Preguntas frecuentes
+
+**¿Qué hago si un cilindro de concreto sale bajo?**
+
+Revise primero la edad del ensayo, porque a 7 y 14 días es normal no llegar a f′c. Luego aplique el criterio de la NSR-10: promedios de tres ensayos consecutivos de al menos f′c y ningún ensayo más de 3,5 MPa por debajo. Si no cumple y la capacidad puede verse afectada, se extraen núcleos.
+
+**¿Cuándo se acepta un concreto con núcleos?**
+
+Cuando el promedio de los tres núcleos es al menos el 85% de f′c y ninguno queda por debajo del 75% (NSR-10, C.5.6.5.4).
+
+## Notas relacionadas
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+
+- [Ferroescáner: cómo revisar el refuerzo de una losa sin romperla](https://ddes.co/articulo-ferroescaner-losa/): Qué detecta, qué no y qué se concluyó en las tapas de los tanques de grasa de Bodegas Centurión.
+
+- [Ensayo de cilindros: cuándo se acepta el concreto según la NSR-10](https://ddes.co/articulo-ensayo-cilindros/): Cuántas muestras tomar, cómo se evalúan y qué pasa si un resultado sale bajo: la sección C.5.6.
+
+- [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
+
+---
+
+URL: https://ddes.co/articulo-ferroescaner-losa/
+Última actualización: 2026-10-07
+
+[Perspectivas](https://ddes.co/perspectivas/)
+
+# Ferroescáner: cómo revisar el refuerzo de una losa sin romperla
+
+Qué detecta, qué no y qué se concluyó en las tapas de los tanques de grasa de Bodegas Centurión.
+
+Obra · Lectura de 5 min · 7 de octubre de 2026 · Equipo técnico DDES
+
+El ferroescáner es un equipo que se pasa sobre la superficie del concreto y, con un campo electromagnético, ubica las barras de acero: su posición, su separación, la profundidad a la que están (el recubrimiento) y un diámetro aproximado. Sirve para revisar una losa o una columna existente sin perforarla. En marzo de 2025, en Bodegas Centurión, se usó para revisar las dos losas que tapan los tanques de grasa.
+
+## Cómo se hizo
+
+Las tapas miden 2,8 y 2,9 por 4,0 m, tienen 27 cm de espesor y cinco aberturas cada una. Sobre cada tapa se hicieron cinco escaneos: tres en el sentido corto y dos en el largo. Cada escaneo da un perfil con la posición y la profundidad de cada barra detectada.
+
+## Qué encontró
+
+- Barras No. 3 (3/8") en ambas losas.
+- Recubrimiento de 80 a 100 mm, por encima del mínimo de la NSR-10 para concreto expuesto a la intemperie (40 mm para barras No. 5 y menores, C.7.7.1).
+- Separaciones muy irregulares: de 9 a 47 cm entre barras.
+
+## Lo que el equipo no puede decir
+
+El ferroescáner ve la capa de acero más cercana a la cara escaneada. Con 10 cm de recubrimiento en una losa de 27 cm, el informe concluyó que puede haber dos capas de refuerzo o una sola en el centro, y que eso solo se confirma escaneando la cara inferior. Además, con barras pequeñas y recubrimientos grandes el equipo puede no detectar algunas barras, lo que explica en parte las separaciones irregulares.
+
+## Por qué importa la separación
+
+La NSR-10 exige en las losas un refuerzo mínimo de retracción y temperatura: una cuantía de 0,0018 con barras de 420 MPa, con una separación no mayor de 5 veces el espesor ni de 450 mm (C.7.12.2). En una losa de 27 cm eso son 486 mm² por metro; con barras No. 3, de 71 mm² cada una, harían falta barras a unos 15 cm en total. Si hubiera una sola capa con barras a 47 cm, esa cuantía no se cumpliría. Por eso el informe recomendó auscultar la cara inferior y, si se confirma una sola capa, revisar la capacidad de las tapas para sus cargas de diseño.
+
+## Cuándo pedir un ferroescáner
+
+- Antes de perforar o anclar sobre una losa o una columna existente.
+- Cuando no hay planos de la estructura o no coinciden con lo construido.
+- En evaluaciones de edificaciones existentes y en reforzamientos.
+- Para verificar recubrimientos en ambientes agresivos, como cerca del mar.
+
+Vea cómo trabajamos en [evaluación de estructuras existentes](https://ddes.co/servicio-patologia/) y el proyecto completo en [Bodegas Centurión](https://ddes.co/proyecto-centurion/).
+
+*Fuentes: informe de ensayos con ferroescáner en las tapas de los tanques de grasa, Bodegas Centurión, 20 de marzo de 2025; NSR-10, C.7.7.1 y C.7.12.2.*
+
+## Preguntas frecuentes
+
+**¿Qué detecta un ferroescáner?**
+
+La posición, la separación y la profundidad (recubrimiento) de las barras de acero más cercanas a la cara escaneada, y un diámetro aproximado. No ve con certeza las capas más profundas.
+
+**¿Cuánto refuerzo mínimo necesita una losa según la NSR-10?**
+
+Para retracción y temperatura, una cuantía de 0,0018 con barras de 420 MPa, separadas como máximo 5 veces el espesor o 450 mm (C.7.12.2).
+
+## Notas relacionadas
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+
+- [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
+
+- [Ensayo de cilindros: cuándo se acepta el concreto según la NSR-10](https://ddes.co/articulo-ensayo-cilindros/): Cuántas muestras tomar, cómo se evalúan y qué pasa si un resultado sale bajo: la sección C.5.6.
+
+- [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
+
+---
+
 URL: https://ddes.co/articulo-interventoria-de-obra/
 Última actualización: 2026-10-06
 
@@ -5900,9 +6101,9 @@ Que al menos un elemento recibe, con las fuerzas de la norma vigente, más de lo
 
 - [¿Cuándo es peligrosa una fisura?](https://ddes.co/articulo-fisuras/): Cómo distinguir una fisura de acabado de una que pide un ingeniero: ancho, dirección, dónde aparece y si crece.
 
-- [Terremoto del 10 de agosto de 2026: qué falló en Cali](https://ddes.co/articulo-caso-cali-terremoto-2026/): Los edificios que colapsaron no se construyeron con la NSR-10. Pórticos flexibles, normas anteriores y un suelo que amplificó el movimiento.
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
 
-- [Terremoto del 10 de agosto de 2026: lecciones de Pereira](https://ddes.co/articulo-caso-pereira-terremoto-2026/): Haber resistido el sismo de 1999 no era una garantía. Y el aeropuerto cerró por daños que no eran estructurales.
+- [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
 
 ---
 
@@ -5974,9 +6175,9 @@ El ingeniero geotecnista, en el estudio de suelos que se presenta para la licenc
 
 - [Arcillas expansivas en el suroccidente de Barranquilla](https://ddes.co/articulo-arcillas/): Cimentaciones para suelos que se hinchan en invierno y se contraen en verano.
 
-- [Terremoto del 10 de agosto de 2026: qué falló en Cali](https://ddes.co/articulo-caso-cali-terremoto-2026/): Los edificios que colapsaron no se construyeron con la NSR-10. Pórticos flexibles, normas anteriores y un suelo que amplificó el movimiento.
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
 
-- [Terremoto del 10 de agosto de 2026: lecciones de Pereira](https://ddes.co/articulo-caso-pereira-terremoto-2026/): Haber resistido el sismo de 1999 no era una garantía. Y el aeropuerto cerró por daños que no eran estructurales.
+- [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
 
 ---
 
@@ -6033,11 +6234,11 @@ Según el reporte preliminar de Camacol, las edificaciones construidas con la NS
 
 - [Terremoto del 10 de agosto de 2026: lecciones de Pereira](https://ddes.co/articulo-caso-pereira-terremoto-2026/): Haber resistido el sismo de 1999 no era una garantía. Y el aeropuerto cerró por daños que no eran estructurales.
 
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+
+- [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
+
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
-
-- [Diseño estructural en Colombia: qué incluye y qué pide la NSR-10 para la licencia](https://ddes.co/articulo-diseno-estructural-colombia/): Quién lo firma, qué deben traer los planos y la memoria de cálculo, y en qué orden se hace.
-
-- [Estudio de vulnerabilidad sísmica: qué es, cuándo lo exige la NSR-10 y qué incluye](https://ddes.co/articulo-vulnerabilidad-sismica/): El capítulo A.10 compara la estructura existente con una nueva y lo expresa en dos índices: sobreesfuerzo y flexibilidad.
 
 ---
 
@@ -6088,11 +6289,11 @@ Por daños principalmente no estructurales, en cielos rasos y elementos interior
 
 - [Terremoto del 10 de agosto de 2026: qué falló en Cali](https://ddes.co/articulo-caso-cali-terremoto-2026/): Los edificios que colapsaron no se construyeron con la NSR-10. Pórticos flexibles, normas anteriores y un suelo que amplificó el movimiento.
 
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+
+- [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
+
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
-
-- [Diseño estructural en Colombia: qué incluye y qué pide la NSR-10 para la licencia](https://ddes.co/articulo-diseno-estructural-colombia/): Quién lo firma, qué deben traer los planos y la memoria de cálculo, y en qué orden se hace.
-
-- [Estudio de vulnerabilidad sísmica: qué es, cuándo lo exige la NSR-10 y qué incluye](https://ddes.co/articulo-vulnerabilidad-sismica/): El capítulo A.10 compara la estructura existente con una nueva y lo expresa en dos índices: sobreesfuerzo y flexibilidad.
 
 ---
 
@@ -6200,9 +6401,9 @@ De 4 a 10 niveles es categoría media: mínimo 4 sondeos de 15 m, o más profund
 
 - [Arcillas expansivas en el suroccidente de Barranquilla](https://ddes.co/articulo-arcillas/): Cimentaciones para suelos que se hinchan en invierno y se contraen en verano.
 
-- [Terremoto del 10 de agosto de 2026: qué falló en Cali](https://ddes.co/articulo-caso-cali-terremoto-2026/): Los edificios que colapsaron no se construyeron con la NSR-10. Pórticos flexibles, normas anteriores y un suelo que amplificó el movimiento.
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
 
-- [Terremoto del 10 de agosto de 2026: lecciones de Pereira](https://ddes.co/articulo-caso-pereira-terremoto-2026/): Haber resistido el sismo de 1999 no era una garantía. Y el aeropuerto cerró por daños que no eran estructurales.
+- [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
 
 ---
 
@@ -6249,9 +6450,9 @@ Como mínimo 75 mm contra el suelo, 50 mm para barras No. 6 o mayores a la intem
 
 - [Cloruros y refuerzo: el recubrimiento que sí protege](https://ddes.co/articulo-cloruros/): Por qué la brisa marina corroe el concreto desde adentro y qué especificar para evitarlo.
 
-- [Terremoto del 10 de agosto de 2026: qué falló en Cali](https://ddes.co/articulo-caso-cali-terremoto-2026/): Los edificios que colapsaron no se construyeron con la NSR-10. Pórticos flexibles, normas anteriores y un suelo que amplificó el movimiento.
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
 
-- [Terremoto del 10 de agosto de 2026: lecciones de Pereira](https://ddes.co/articulo-caso-pereira-terremoto-2026/): Haber resistido el sismo de 1999 no era una garantía. Y el aeropuerto cerró por daños que no eran estructurales.
+- [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
 
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
 
@@ -6298,13 +6499,13 @@ Se extraen tres núcleos por cada ensayo deficiente; la zona es adecuada si su p
 
 [Todas las notas](https://ddes.co/perspectivas/)
 
-- [Terremoto del 10 de agosto de 2026: qué falló en Cali](https://ddes.co/articulo-caso-cali-terremoto-2026/): Los edificios que colapsaron no se construyeron con la NSR-10. Pórticos flexibles, normas anteriores y un suelo que amplificó el movimiento.
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
 
-- [Terremoto del 10 de agosto de 2026: lecciones de Pereira](https://ddes.co/articulo-caso-pereira-terremoto-2026/): Haber resistido el sismo de 1999 no era una garantía. Y el aeropuerto cerró por daños que no eran estructurales.
+- [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
+
+- [Ferroescáner: cómo revisar el refuerzo de una losa sin romperla](https://ddes.co/articulo-ferroescaner-losa/): Qué detecta, qué no y qué se concluyó en las tapas de los tanques de grasa de Bodegas Centurión.
 
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
-
-- [Diseño estructural en Colombia: qué incluye y qué pide la NSR-10 para la licencia](https://ddes.co/articulo-diseno-estructural-colombia/): Quién lo firma, qué deben traer los planos y la memoria de cálculo, y en qué orden se hace.
 
 ---
 
@@ -6355,7 +6556,7 @@ Intermedia, con Aa = 0,15 y Av = 0,10. Montería, Sincelejo y Riohacha también 
 
 - [Elementos no estructurales: muros, fachadas e instalaciones en la NSR-10](https://ddes.co/articulo-elementos-no-estructurales/): Lo que no sostiene el edificio también debe diseñarse para el sismo. Y en la costa hay una exención.
 
-- [Terremoto del 10 de agosto de 2026: qué falló en Cali](https://ddes.co/articulo-caso-cali-terremoto-2026/): Los edificios que colapsaron no se construyeron con la NSR-10. Pórticos flexibles, normas anteriores y un suelo que amplificó el movimiento.
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
 
 ---
 
@@ -6406,7 +6607,7 @@ Si tiene cirugía, cuidados intensivos o urgencias, en el grupo IV, con coeficie
 
 - [Elementos no estructurales: muros, fachadas e instalaciones en la NSR-10](https://ddes.co/articulo-elementos-no-estructurales/): Lo que no sostiene el edificio también debe diseñarse para el sismo. Y en la costa hay una exención.
 
-- [Terremoto del 10 de agosto de 2026: qué falló en Cali](https://ddes.co/articulo-caso-cali-terremoto-2026/): Los edificios que colapsaron no se construyeron con la NSR-10. Pórticos flexibles, normas anteriores y un suelo que amplificó el movimiento.
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
 
 ---
 
@@ -6457,7 +6658,7 @@ Hay que rigidizar la estructura, con muros, secciones mayores o arriostramientos
 
 - [Elementos no estructurales: muros, fachadas e instalaciones en la NSR-10](https://ddes.co/articulo-elementos-no-estructurales/): Lo que no sostiene el edificio también debe diseñarse para el sismo. Y en la costa hay una exención.
 
-- [Terremoto del 10 de agosto de 2026: qué falló en Cali](https://ddes.co/articulo-caso-cali-terremoto-2026/): Los edificios que colapsaron no se construyeron con la NSR-10. Pórticos flexibles, normas anteriores y un suelo que amplificó el movimiento.
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
 
 ---
 
@@ -6506,9 +6707,9 @@ Sí. La NSR-10 exige evaluar las implicaciones del cambio de uso aunque la obra 
 
 - [¿Cuándo es peligrosa una fisura?](https://ddes.co/articulo-fisuras/): Cómo distinguir una fisura de acabado de una que pide un ingeniero: ancho, dirección, dónde aparece y si crece.
 
-- [Terremoto del 10 de agosto de 2026: qué falló en Cali](https://ddes.co/articulo-caso-cali-terremoto-2026/): Los edificios que colapsaron no se construyeron con la NSR-10. Pórticos flexibles, normas anteriores y un suelo que amplificó el movimiento.
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
 
-- [Terremoto del 10 de agosto de 2026: lecciones de Pereira](https://ddes.co/articulo-caso-pereira-terremoto-2026/): Haber resistido el sismo de 1999 no era una garantía. Y el aeropuerto cerró por daños que no eran estructurales.
+- [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
 
 ---
 
@@ -6610,7 +6811,7 @@ Las edificaciones de los grupos de uso I y II en zonas de amenaza sísmica baja,
 
 - [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
 
-- [Terremoto del 10 de agosto de 2026: qué falló en Cali](https://ddes.co/articulo-caso-cali-terremoto-2026/): Los edificios que colapsaron no se construyeron con la NSR-10. Pórticos flexibles, normas anteriores y un suelo que amplificó el movimiento.
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
 
 ---
 
@@ -6826,9 +7027,9 @@ Marque sus extremos con lápiz y la fecha, y fotografíela con una regla al lado
 
 - [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
 
-- [Terremoto del 10 de agosto de 2026: qué falló en Cali](https://ddes.co/articulo-caso-cali-terremoto-2026/): Los edificios que colapsaron no se construyeron con la NSR-10. Pórticos flexibles, normas anteriores y un suelo que amplificó el movimiento.
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
 
-- [Terremoto del 10 de agosto de 2026: lecciones de Pereira](https://ddes.co/articulo-caso-pereira-terremoto-2026/): Haber resistido el sismo de 1999 no era una garantía. Y el aeropuerto cerró por daños que no eran estructurales.
+- [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
 
 ---
 
@@ -6869,9 +7070,9 @@ Con un concreto de baja permeabilidad, un recubrimiento generoso bien controlado
 
 - [Concreto cerca al mar: lo que exige la NSR-10 contra el salitre](https://ddes.co/articulo-concreto-salitre/): Clase de exposición C2, relación agua-cemento de 0,40, 35 MPa y recubrimientos: la receta de la norma para la costa.
 
-- [Terremoto del 10 de agosto de 2026: qué falló en Cali](https://ddes.co/articulo-caso-cali-terremoto-2026/): Los edificios que colapsaron no se construyeron con la NSR-10. Pórticos flexibles, normas anteriores y un suelo que amplificó el movimiento.
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
 
-- [Terremoto del 10 de agosto de 2026: lecciones de Pereira](https://ddes.co/articulo-caso-pereira-terremoto-2026/): Haber resistido el sismo de 1999 no era una garantía. Y el aeropuerto cerró por daños que no eran estructurales.
+- [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
 
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
 
@@ -6916,9 +7117,9 @@ Según el estudio de suelos: llevando la cimentación por debajo de la capa acti
 
 - [Estudio de suelos: cuántos sondeos y a qué profundidad pide la NSR-10](https://ddes.co/articulo-estudio-de-suelos/): La categoría de la edificación define el número mínimo de sondeos y su profundidad. Así lo fija el Título H.
 
-- [Terremoto del 10 de agosto de 2026: qué falló en Cali](https://ddes.co/articulo-caso-cali-terremoto-2026/): Los edificios que colapsaron no se construyeron con la NSR-10. Pórticos flexibles, normas anteriores y un suelo que amplificó el movimiento.
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
 
-- [Terremoto del 10 de agosto de 2026: lecciones de Pereira](https://ddes.co/articulo-caso-pereira-terremoto-2026/): Haber resistido el sismo de 1999 no era una garantía. Y el aeropuerto cerró por daños que no eran estructurales.
+- [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
 
 ---
 
