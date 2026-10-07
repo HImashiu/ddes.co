@@ -5688,11 +5688,13 @@ En promedio, las viguetas llegaron al 118% del módulo especificado. Tres muestr
 
 ## Qué más se controla en un piso
 
-La resistencia es solo una parte. En obra también se revisa el asentamiento de cada mixer (en Centurión, entre 15 y 24 cm, propio de un concreto fluido para pisos), el espesor de la losa, la base granular, las juntas de contracción y el curado: un piso resistente con juntas cortadas tarde o mal curado se fisura igual.
+La resistencia es solo una parte. En Centurión, el registro anota además el asentamiento de cada mixer: entre 15 y 24 cm, propio de un concreto fluido para pisos. Como práctica general, en un piso también se controlan el espesor de la losa, la base granular, las juntas de contracción y el curado: un piso resistente con juntas cortadas tarde o mal curado se fisura igual.
 
 Vea el proyecto completo en [Bodegas Centurión](https://ddes.co/proyecto-centurion/) y cómo se acepta el concreto de la estructura en [ensayo de cilindros](https://ddes.co/articulo-ensayo-cilindros/).
 
 *Fuentes: registro de control del concreto de la interventoría de DDES en Bodegas Centurión; NSR-10, ecuación C.9-10; ASTM C78.*
+
+*Esta nota resume registros de una obra real con fines informativos. No reemplaza el estudio ni el criterio del ingeniero responsable de cada proyecto.*
 
 ## Preguntas frecuentes
 
@@ -5741,7 +5743,7 @@ La NSR-10 no exige que cada cilindro supere f′c: pide que cada promedio de tre
 
 ## 3. ¿De dónde salió el concreto?
 
-Los tres resultados realmente bajos de Centurión tienen algo en común: fueron concreto preparado en la obra, sin remisión de planta, para elementos puntuales: la viga corona de una fachada (12 MPa, el 43%), el fondo de la planta de tratamiento de aguas residuales (14,3 MPa, el 51%) y unos registros de f′c 21 MPa (12,45 MPa a 28 días y 17,65 MPa a 56). El concreto hecho en obra depende de la dosificación, el agua y el mezclado de ese día; por eso la interventoría lo muestrea y ensaya igual que el premezclado.
+Los tres resultados realmente bajos de Centurión tienen algo en común: fueron concreto preparado en la obra, sin remisión de planta, para elementos puntuales: la viga corona de una fachada (12 MPa, el 43%), el fondo de la planta de tratamiento de aguas residuales (14,3 MPa, el 51%) y unos registros de f′c 21 MPa (12,45 MPa a 28 días y 17,65 MPa a 56). El concreto hecho en obra depende de la dosificación, el agua y el mezclado de ese día; por eso la interventoría lo muestrea y ensaya igual que el premezclado. Los registros consultados para esta nota no documentan qué se hizo después con esos tres elementos, así que aquí no se afirma.
 
 | Elemento | f′c | 28 días | 56 días |
 | --- | --- | --- | --- |
@@ -5760,6 +5762,8 @@ Cuando un ensayo no cumple y los cálculos muestran que la capacidad de carga pu
 Las reglas completas de muestreo y aceptación están en [ensayo de cilindros](https://ddes.co/articulo-ensayo-cilindros/); los pisos se controlan aparte, con [viguetas](https://ddes.co/articulo-pisos-industriales-viguetas/).
 
 *Fuentes: NSR-10, C.5.6.3.3 y C.5.6.5; registro de control del concreto de la interventoría de DDES en Bodegas Centurión.*
+
+*Esta nota resume registros de una obra real con fines informativos. No reemplaza el estudio ni el criterio del ingeniero responsable de cada proyecto.*
 
 ## Preguntas frecuentes
 
@@ -5805,7 +5809,7 @@ Las tapas miden 2,8 y 2,9 por 4,0 m, tienen 27 cm de espesor y cinco aberturas c
 ## Qué encontró
 
 - Barras No. 3 (3/8") en ambas losas.
-- Recubrimiento de 80 a 100 mm, por encima del mínimo de la NSR-10 para concreto expuesto a la intemperie (40 mm para barras No. 5 y menores, C.7.7.1).
+- Recubrimiento de 80 a 100 mm, por encima de los mínimos de la NSR-10 (C.7.7.1): 40 mm para barras No. 5 y menores en concreto expuesto a la intemperie y 75 mm en concreto en contacto permanente con el suelo.
 - Separaciones muy irregulares: de 9 a 47 cm entre barras.
 
 ## Lo que el equipo no puede decir
@@ -5814,7 +5818,7 @@ El ferroescáner ve la capa de acero más cercana a la cara escaneada. Con 10 cm
 
 ## Por qué importa la separación
 
-La NSR-10 exige en las losas un refuerzo mínimo de retracción y temperatura: una cuantía de 0,0018 con barras de 420 MPa, con una separación no mayor de 5 veces el espesor ni de 450 mm (C.7.12.2). En una losa de 27 cm eso son 486 mm² por metro; con barras No. 3, de 71 mm² cada una, harían falta barras a unos 15 cm en total. Si hubiera una sola capa con barras a 47 cm, esa cuantía no se cumpliría. Por eso el informe recomendó auscultar la cara inferior y, si se confirma una sola capa, revisar la capacidad de las tapas para sus cargas de diseño.
+La NSR-10 exige en las losas un refuerzo mínimo de retracción y temperatura: una cuantía de 0,0018 con barras de 420 MPa, con una separación no mayor de 5 veces el espesor ni de 450 mm (C.7.12.2). En una losa de 27 cm eso son 486 mm² por metro; con barras No. 3, de 71 mm² cada una, harían falta barras a unos 15 cm en total. Es una cuenta ilustrativa de DDES, no un resultado del informe. Si hubiera una sola capa con barras a 47 cm, esa cuantía no se cumpliría. Por eso el informe recomendó auscultar la cara inferior y, si se confirma una sola capa, revisar la capacidad de las tapas para sus cargas de diseño.
 
 ## Cuándo pedir un ferroescáner
 
@@ -5826,6 +5830,8 @@ La NSR-10 exige en las losas un refuerzo mínimo de retracción y temperatura: u
 Vea cómo trabajamos en [evaluación de estructuras existentes](https://ddes.co/servicio-patologia/) y el proyecto completo en [Bodegas Centurión](https://ddes.co/proyecto-centurion/).
 
 *Fuentes: informe de ensayos con ferroescáner en las tapas de los tanques de grasa, Bodegas Centurión, 20 de marzo de 2025; NSR-10, C.7.7.1 y C.7.12.2.*
+
+*Esta nota resume registros de una obra real con fines informativos. No reemplaza el estudio ni el criterio del ingeniero responsable de cada proyecto.*
 
 ## Preguntas frecuentes
 
