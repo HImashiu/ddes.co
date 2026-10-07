@@ -859,6 +859,8 @@ La evaluación de la estructura existente, el diseño de la ampliación y del re
 
 Última actualización: 6 de octubre de 2026
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/reforzamiento-de-vivienda/
@@ -946,6 +948,8 @@ Depende de la intervención. El diseño define el orden de los trabajos y si hac
 
 Última actualización: 6 de octubre de 2026
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/peritaje-de-fisuras/
@@ -1030,6 +1034,8 @@ Si la causa sigue activa, la fisura vuelve a abrir. Primero hay que saber por qu
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 
 Última actualización: 6 de octubre de 2026
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -1128,6 +1134,8 @@ Sí. En Bodegas Centurión y en Industrias Cannon DDES acompañó la obra con in
 
 Última actualización: 6 de octubre de 2026
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/muros-de-contencion/
@@ -1221,6 +1229,8 @@ Sí. En los edificios Ébano y Casa Grande la obra incluyó muros de contención
 
 Última actualización: 6 de octubre de 2026
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/tanques-y-piscinas/
@@ -1311,6 +1321,8 @@ Sí. El agua arriba agrega masa en la parte más alta, que aumenta las fuerzas s
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 
 Última actualización: 6 de octubre de 2026
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -1403,6 +1415,8 @@ Sí. En Bodegas Centurión la obra que acompañó DDES incluyó el mezzanine de 
 
 Última actualización: 6 de octubre de 2026
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/licencia-de-construccion/
@@ -1489,6 +1503,8 @@ No. La revisión debe hacerla un profesional distinto del diseñador y sin relac
 - [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
 
 Última actualización: 6 de octubre de 2026
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 # Herramientas
 
@@ -1594,6 +1610,8 @@ Lo que pide la NSR-10 en cada una, con sus valores sísmicos.
 - [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
+
+**Aviso legal.** Esta herramienta es de apoyo y de carácter informativo. Sus resultados son aproximados, se basan en la NSR-10 tal como la transcribimos y no reemplazan el análisis, el diseño ni la firma de un ingeniero facultado. Verifique los valores en el texto oficial vigente de la NSR-10 antes de usarlos en un proyecto. DDES no asume responsabilidad por el uso que se dé a estos resultados.
 
 ---
 
@@ -1756,6 +1774,8 @@ No. Aa y Av son el punto de partida. Las fuerzas también dependen del perfil de
 
 Última actualización: 6 de octubre de 2026
 
+**Aviso legal.** Esta herramienta es de apoyo y de carácter informativo. Sus resultados son aproximados, se basan en la NSR-10 tal como la transcribimos y no reemplazan el análisis, el diseño ni la firma de un ingeniero facultado. Verifique los valores en el texto oficial vigente de la NSR-10 antes de usarlos en un proyecto. DDES no asume responsabilidad por el uso que se dé a estos resultados.
+
 ---
 
 URL: https://ddes.co/espectro-nsr10/
@@ -1875,6 +1895,8 @@ Sí: es el mismo espectro de la sección A.2.6. Para modos distintos del fundame
 
 Última actualización: 6 de octubre de 2026
 
+**Aviso legal.** Esta herramienta es de apoyo y de carácter informativo. Sus resultados son aproximados, se basan en la NSR-10 tal como la transcribimos y no reemplazan el análisis, el diseño ni la firma de un ingeniero facultado. Verifique los valores en el texto oficial vigente de la NSR-10 antes de usarlos en un proyecto. DDES no asume responsabilidad por el uso que se dé a estos resultados.
+
 ---
 
 URL: https://ddes.co/ley/
@@ -1920,6 +1942,8 @@ No. El revisor debe ser un profesional distinto del diseñador y sin relación l
 - [Supervisión técnica](https://ddes.co/servicio-supervision/): Supervisión técnica independiente según la Ley 1796 y el Título I de la NSR-10, antes de cada fundida.
 
 - [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 # Ciudades
 
@@ -2148,6 +2172,8 @@ Sí, aunque con poca fuerza. La NSR-10 ubica a Barranquilla en amenaza sísmica 
 
 Última actualización: 6 de octubre de 2026
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/ingenieria-estructural-soledad/
@@ -2264,6 +2290,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 
 Última actualización: 6 de octubre de 2026
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/ingenieria-estructural-puerto-colombia/
@@ -2379,6 +2407,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -2504,6 +2534,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 
 Última actualización: 6 de octubre de 2026
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/ingenieria-estructural-galapa/
@@ -2626,6 +2658,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 
 Última actualización: 6 de octubre de 2026
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/ingenieria-estructural-cartagena/
@@ -2741,6 +2775,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -2858,6 +2894,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para 
 
 Última actualización: 6 de octubre de 2026
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/ingenieria-estructural-monteria/
@@ -2973,6 +3011,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -3090,6 +3130,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 
 Última actualización: 6 de octubre de 2026
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/ingenieria-estructural-valledupar/
@@ -3205,6 +3247,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para 
 - [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -3322,6 +3366,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 
 Última actualización: 6 de octubre de 2026
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/ingenieria-estructural-yopal/
@@ -3437,6 +3483,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -3554,6 +3602,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 
 Última actualización: 6 de octubre de 2026
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/ingenieria-estructural-villanueva/
@@ -3669,6 +3719,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -3786,6 +3838,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 
 Última actualización: 6 de octubre de 2026
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/ingenieria-estructural-monterrey/
@@ -3901,6 +3955,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 - [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -4018,6 +4074,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional y ha h
 
 Última actualización: 6 de octubre de 2026
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/ingenieria-estructural-bogota/
@@ -4133,6 +4191,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para 
 - [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -4250,6 +4310,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para 
 
 Última actualización: 6 de octubre de 2026
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/ingenieria-estructural-cali/
@@ -4366,6 +4428,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para 
 
 Última actualización: 6 de octubre de 2026
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/ingenieria-estructural-bucaramanga/
@@ -4481,6 +4545,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para 
 - [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -4600,6 +4666,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para 
 
 Última actualización: 6 de octubre de 2026
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/ingenieria-estructural-villavicencio/
@@ -4718,6 +4786,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para 
 
 Última actualización: 6 de octubre de 2026
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/ingenieria-estructural-ibague/
@@ -4833,6 +4903,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para 
 - [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -4950,6 +5022,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para 
 
 Última actualización: 6 de octubre de 2026
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/ingenieria-estructural-manizales/
@@ -5065,6 +5139,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para 
 - [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -5182,6 +5258,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para 
 
 Última actualización: 6 de octubre de 2026
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/ingenieria-estructural-pasto/
@@ -5297,6 +5375,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para 
 - [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -5414,6 +5494,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para 
 
 Última actualización: 6 de octubre de 2026
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/ingenieria-estructural-tunja/
@@ -5529,6 +5611,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para 
 - [PopayánAmenaza alta](https://ddes.co/ingenieria-estructural-popayan/)
 
 Última actualización: 6 de octubre de 2026
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -5646,6 +5730,8 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para 
 
 Última actualización: 6 de octubre de 2026
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 # Notas técnicas
 
 ---
@@ -5694,8 +5780,6 @@ Vea el proyecto completo en [Bodegas Centurión](https://ddes.co/proyecto-centur
 
 *Fuentes: registro de control del concreto de la interventoría de DDES en Bodegas Centurión; NSR-10, ecuación C.9-10; ASTM C78.*
 
-*Esta nota resume registros de una obra real con fines informativos. No reemplaza el estudio ni el criterio del ingeniero responsable de cada proyecto.*
-
 ## Preguntas frecuentes
 
 **¿Por qué un piso industrial se controla con viguetas?**
@@ -5717,6 +5801,8 @@ Lo define el diseño del piso según sus cargas. En Bodegas Centurión se especi
 - [Ensayo de cilindros: cuándo se acepta el concreto según la NSR-10](https://ddes.co/articulo-ensayo-cilindros/): Cuántas muestras tomar, cómo se evalúan y qué pasa si un resultado sale bajo: la sección C.5.6.
 
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -5743,7 +5829,7 @@ La NSR-10 no exige que cada cilindro supere f′c: pide que cada promedio de tre
 
 ## 3. ¿De dónde salió el concreto?
 
-Los tres resultados realmente bajos de Centurión tienen algo en común: fueron concreto preparado en la obra, sin remisión de planta, para elementos puntuales: la viga corona de una fachada (12 MPa, el 43%), el fondo de la planta de tratamiento de aguas residuales (14,3 MPa, el 51%) y unos registros de f′c 21 MPa (12,45 MPa a 28 días y 17,65 MPa a 56). El concreto hecho en obra depende de la dosificación, el agua y el mezclado de ese día; por eso la interventoría lo muestrea y ensaya igual que el premezclado. Los registros consultados para esta nota no documentan qué se hizo después con esos tres elementos, así que aquí no se afirma.
+Los tres resultados realmente bajos de Centurión tienen algo en común: fueron concreto preparado en la obra, sin remisión de planta, para elementos puntuales: la viga corona de una fachada (12 MPa, el 43%), el fondo de la planta de tratamiento de aguas residuales (14,3 MPa, el 51%) y unos registros de f′c 21 MPa (12,45 MPa a 28 días y 17,65 MPa a 56). El concreto hecho en obra depende de la dosificación, el agua y el mezclado de ese día; por eso la interventoría lo muestrea y ensaya igual que el premezclado.
 
 | Elemento | f′c | 28 días | 56 días |
 | --- | --- | --- | --- |
@@ -5762,8 +5848,6 @@ Cuando un ensayo no cumple y los cálculos muestran que la capacidad de carga pu
 Las reglas completas de muestreo y aceptación están en [ensayo de cilindros](https://ddes.co/articulo-ensayo-cilindros/); los pisos se controlan aparte, con [viguetas](https://ddes.co/articulo-pisos-industriales-viguetas/).
 
 *Fuentes: NSR-10, C.5.6.3.3 y C.5.6.5; registro de control del concreto de la interventoría de DDES en Bodegas Centurión.*
-
-*Esta nota resume registros de una obra real con fines informativos. No reemplaza el estudio ni el criterio del ingeniero responsable de cada proyecto.*
 
 ## Preguntas frecuentes
 
@@ -5786,6 +5870,8 @@ Cuando el promedio de los tres núcleos es al menos el 85% de f′c y ninguno qu
 - [Ensayo de cilindros: cuándo se acepta el concreto según la NSR-10](https://ddes.co/articulo-ensayo-cilindros/): Cuántas muestras tomar, cómo se evalúan y qué pasa si un resultado sale bajo: la sección C.5.6.
 
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -5831,8 +5917,6 @@ Vea cómo trabajamos en [evaluación de estructuras existentes](https://ddes.co/
 
 *Fuentes: informe de ensayos con ferroescáner en las tapas de los tanques de grasa, Bodegas Centurión, 20 de marzo de 2025; NSR-10, C.7.7.1 y C.7.12.2.*
 
-*Esta nota resume registros de una obra real con fines informativos. No reemplaza el estudio ni el criterio del ingeniero responsable de cada proyecto.*
-
 ## Preguntas frecuentes
 
 **¿Qué detecta un ferroescáner?**
@@ -5854,6 +5938,8 @@ Para retracción y temperatura, una cuantía de 0,0018 con barras de 420 MPa, se
 - [Ensayo de cilindros: cuándo se acepta el concreto según la NSR-10](https://ddes.co/articulo-ensayo-cilindros/): Cuántas muestras tomar, cómo se evalúan y qué pasa si un resultado sale bajo: la sección C.5.6.
 
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -5936,6 +6022,8 @@ Sí. La NSR-10 lo permite (A.13), siempre que el profesional sea independiente d
 - [Supervisión técnica según el Título I: qué verifica y qué documentos deja](https://ddes.co/articulo-supervision-titulo-i/): El alcance mínimo de la supervisión, el registro que debe llevar y la constancia final que firma.
 
 - [¿Tiembla en Barranquilla? Lo que exige la NSR-10 en la costa](https://ddes.co/articulo-sismo-barranquilla/): La amenaza sísmica es baja, pero el diseño debe resolver también el suelo, el viento y el salitre.
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -6038,6 +6126,8 @@ Depende del tamaño y de qué tan definida esté la arquitectura. Como referenci
 
 - [¿Tiembla en Barranquilla? Lo que exige la NSR-10 en la costa](https://ddes.co/articulo-sismo-barranquilla/): La amenaza sísmica es baja, pero el diseño debe resolver también el suelo, el viento y el salitre.
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/articulo-vulnerabilidad-sismica/
@@ -6110,6 +6200,8 @@ Que al menos un elemento recibe, con las fuerzas de la norma vigente, más de lo
 - [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
 
 - [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -6185,6 +6277,8 @@ El ingeniero geotecnista, en el estudio de suelos que se presenta para la licenc
 
 - [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/articulo-caso-cali-terremoto-2026/
@@ -6246,6 +6340,8 @@ Según el reporte preliminar de Camacol, las edificaciones construidas con la NS
 
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/articulo-caso-pereira-terremoto-2026/
@@ -6300,6 +6396,8 @@ Por daños principalmente no estructurales, en cielos rasos y elementos interior
 - [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
 
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -6356,6 +6454,8 @@ El área de vanos de un muro no puede superar el 35% de su área total, y entre 
 
 - [¿Tiembla en Barranquilla? Lo que exige la NSR-10 en la costa](https://ddes.co/articulo-sismo-barranquilla/): La amenaza sísmica es baja, pero el diseño debe resolver también el suelo, el viento y el salitre.
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/articulo-estudio-de-suelos/
@@ -6411,6 +6511,8 @@ De 4 a 10 niveles es categoría media: mínimo 4 sondeos de 15 m, o más profund
 
 - [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/articulo-concreto-salitre/
@@ -6461,6 +6563,8 @@ Como mínimo 75 mm contra el suelo, 50 mm para barras No. 6 o mayores a la intem
 - [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
 
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -6513,6 +6617,8 @@ Se extraen tres núcleos por cada ensayo deficiente; la zona es adecuada si su p
 
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/articulo-amenaza-sismica-costa/
@@ -6563,6 +6669,8 @@ Intermedia, con Aa = 0,15 y Av = 0,10. Montería, Sincelejo y Riohacha también 
 - [Elementos no estructurales: muros, fachadas e instalaciones en la NSR-10](https://ddes.co/articulo-elementos-no-estructurales/): Lo que no sostiene el edificio también debe diseñarse para el sismo. Y en la costa hay una exención.
 
 - [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -6615,6 +6723,8 @@ Si tiene cirugía, cuidados intensivos o urgencias, en el grupo IV, con coeficie
 
 - [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/articulo-derivas/
@@ -6665,6 +6775,8 @@ Hay que rigidizar la estructura, con muros, secciones mayores o arriostramientos
 - [Elementos no estructurales: muros, fachadas e instalaciones en la NSR-10](https://ddes.co/articulo-elementos-no-estructurales/): Lo que no sostiene el edificio también debe diseñarse para el sismo. Y en la costa hay una exención.
 
 - [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -6717,6 +6829,8 @@ Sí. La NSR-10 exige evaluar las implicaciones del cambio de uso aunque la obra 
 
 - [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/articulo-supervision-titulo-i/
@@ -6768,6 +6882,8 @@ Al menos cinco años desde la terminación de la construcción (I.2.2.2).
 
 - [¿Tiembla en Barranquilla? Lo que exige la NSR-10 en la costa](https://ddes.co/articulo-sismo-barranquilla/): La amenaza sísmica es baja, pero el diseño debe resolver también el suelo, el viento y el salitre.
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/articulo-elementos-no-estructurales/
@@ -6818,6 +6934,8 @@ Las edificaciones de los grupos de uso I y II en zonas de amenaza sísmica baja,
 - [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
 
 - [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -6872,6 +6990,8 @@ El suelo, el viento y la corrosión por salitre, que pueden pesar tanto como el 
 
 - [Supervisión técnica según el Título I: qué verifica y qué documentos deja](https://ddes.co/articulo-supervision-titulo-i/): El alcance mínimo de la supervisión, el registro que debe llevar y la constancia final que firma.
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/articulo-revision-supervision/
@@ -6924,6 +7044,8 @@ Ambas, cuando el lote permite construir más de 2.000 m², sin importar el uso (
 - [Casas de uno y dos pisos: lo que exige el Título E de la NSR-10](https://ddes.co/articulo-casas-uno-dos-pisos/): Cimentación, muros confinados, aberturas y columnas de amarre: los mínimos para construir una casa sismo resistente.
 
 - [Supervisión técnica según el Título I: qué verifica y qué documentos deja](https://ddes.co/articulo-supervision-titulo-i/): El alcance mínimo de la supervisión, el registro que debe llevar y la constancia final que firma.
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -6979,6 +7101,8 @@ No, en los proyectos que requieren supervisión técnica según la Ley 1796.
 - [Casas de uno y dos pisos: lo que exige el Título E de la NSR-10](https://ddes.co/articulo-casas-uno-dos-pisos/): Cimentación, muros confinados, aberturas y columnas de amarre: los mínimos para construir una casa sismo resistente.
 
 - [Supervisión técnica según el Título I: qué verifica y qué documentos deja](https://ddes.co/articulo-supervision-titulo-i/): El alcance mínimo de la supervisión, el registro que debe llevar y la constancia final que firma.
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -7037,6 +7161,8 @@ Marque sus extremos con lápiz y la fecha, y fotografíela con una regla al lado
 
 - [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/articulo-cloruros/
@@ -7082,6 +7208,8 @@ Con un concreto de baja permeabilidad, un recubrimiento generoso bien controlado
 
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
 
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
 ---
 
 URL: https://ddes.co/articulo-arcillas/
@@ -7126,6 +7254,8 @@ Según el estudio de suelos: llevando la cimentación por debajo de la capa acti
 - [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
 
 - [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 ---
 
@@ -7173,6 +7303,8 @@ Un profesional independiente del constructor, con la experiencia que exige la no
 - [Casas de uno y dos pisos: lo que exige el Título E de la NSR-10](https://ddes.co/articulo-casas-uno-dos-pisos/): Cimentación, muros confinados, aberturas y columnas de amarre: los mínimos para construir una casa sismo resistente.
 
 - [Supervisión técnica según el Título I: qué verifica y qué documentos deja](https://ddes.co/articulo-supervision-titulo-i/): El alcance mínimo de la supervisión, el registro que debe llevar y la constancia final que firma.
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
 # Datos: NSR-10, Apéndice A-4
 
