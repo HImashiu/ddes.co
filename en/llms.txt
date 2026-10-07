@@ -46,7 +46,7 @@ Spanish version (the original): https://ddes.co/llms.txt
 - [Edificio Arte 57: structural design, exposed brick](https://ddes.co/en/project-arte57/): Edificio Arte 57 (2020): structural design by DDES of an exposed-brick residential building topped by a cantilevered roof slab with a concrete lattice.
 - [Edificio Galé: structural design and bid comparison](https://ddes.co/en/project-gale/): Edificio Galé: structural design of the building by DDES and preparation of its construction oversight, with tender documents, a budget and a bid comparison.
 - [Edificio Casa Grande: structural design and oversight](https://ddes.co/en/project-casagrande/): Edificio Casa Grande: structural design and oversight by DDES, with a review of the drawings and the geotechnical study, oversight reports and photos.
-- [Galapa warehouse, Atlántico: construction oversight](https://ddes.co/en/project-galapa/): Warehouse in Galapa, Atlántico: construction oversight by DDES of an industrial warehouse, with a review of the structural drawings and the geotechnical study.
+- [Al Fresco warehouse, Galapa: construction oversight](https://ddes.co/en/project-galapa/): Al Fresco warehouse in Galapa, Atlántico: construction oversight by DDES, with a review of the structural drawings and the geotechnical study.
 
 ## Technical notes
 - [Interventoría: construction oversight in Colombia](https://ddes.co/en/article-construction-oversight-interventoria/): Interventoría in Colombia: what construction oversight on the owner's behalf is, what it covers, when it is required and how it differs from supervision.

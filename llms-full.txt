@@ -446,7 +446,7 @@ Antes de la primera fundida. La cimentación es lo primero que se verifica, y lo
 
 - [Edificio Ébano](https://ddes.co/proyecto-ebano/): Interventoría de un edificio con el concreto controlado en laboratorio, pedido por pedido.
 
-- [Bodega en Galapa](https://ddes.co/proyecto-galapa/): Interventoría de una bodega industrial, con revisión de planos estructurales y estudio de suelos.
+- [Bodega Al Fresco](https://ddes.co/proyecto-galapa/): Interventoría de la bodega de Al Fresco en Galapa, Atlántico, con revisión de planos estructurales y estudio de suelos.
 
 ## Guías relacionadas
 
@@ -752,7 +752,7 @@ Para licencia suele bastar un LOD 300. Para fabricar y cuantificar con precisió
 
 - [Bodegas Centurión](https://ddes.co/proyecto-centurion/): Interventoría de las bodegas C10 y C11 hasta su cierre, revisión de sus diseños y diseño de las bodegas C9 y C5.
 
-- [Bodega en Galapa](https://ddes.co/proyecto-galapa/): Interventoría de una bodega industrial, con revisión de planos estructurales y estudio de suelos.
+- [Bodega Al Fresco](https://ddes.co/proyecto-galapa/): Interventoría de la bodega de Al Fresco en Galapa, Atlántico, con revisión de planos estructurales y estudio de suelos.
 
 ## Guías relacionadas
 
@@ -1088,7 +1088,7 @@ El acero cubre luces grandes con poco peso y se monta rápido; el Título F de l
 
 - [Industrias Cannon](https://ddes.co/proyecto-cannon/): Diseño estructural e interventoría de una planta industrial, desde la licencia de construcción hasta la estructura.
 
-- [Bodega en Galapa](https://ddes.co/proyecto-galapa/): Interventoría de una bodega industrial, con revisión de planos estructurales y estudio de suelos.
+- [Bodega Al Fresco](https://ddes.co/proyecto-galapa/): Interventoría de la bodega de Al Fresco en Galapa, Atlántico, con revisión de planos estructurales y estudio de suelos.
 
 ## Notas técnicas
 
@@ -2554,7 +2554,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Toda la experiencia](https://ddes.co/experiencia/)
 
-- [Bodega en Galapa](https://ddes.co/proyecto-galapa/): Interventoría de una bodega industrial, con revisión de planos estructurales y estudio de suelos.
+- [Bodega Al Fresco](https://ddes.co/proyecto-galapa/): Interventoría de la bodega de Al Fresco en Galapa, Atlántico, con revisión de planos estructurales y estudio de suelos.
 
 ## Notas técnicas para Galapa
 

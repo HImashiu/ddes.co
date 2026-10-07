@@ -46,7 +46,7 @@ Contacto: gerencia@ddes.co · WhatsApp +57 300 202 1920 · https://ddes.co/conta
 - [Edificio Arte 57](https://ddes.co/proyecto-arte57/): Edificio Arte 57 (Diseño estructural). Diseño estructural de un edificio de vivienda en ladrillo a la vista, rematado por una losa de cubierta en voladizo con celosía de concreto.
 - [Edificio Galé](https://ddes.co/proyecto-gale/): Edificio Galé (Diseño e interventoría). Diseño estructural del edificio y preparación de su interventoría: pliego, presupuesto y comparativo de ofertas.
 - [Edificio Casa Grande](https://ddes.co/proyecto-casagrande/): Edificio Casa Grande (Diseño e interventoría). Diseño estructural e interventoría de la construcción del edificio.
-- [Bodega en Galapa](https://ddes.co/proyecto-galapa/): Bodega en Galapa (Galapa, Atlántico). Interventoría de una bodega industrial, con revisión de planos estructurales y estudio de suelos.
+- [Bodega Al Fresco](https://ddes.co/proyecto-galapa/): Bodega Al Fresco (Galapa, Atlántico). Interventoría de la bodega de Al Fresco en Galapa, Atlántico, con revisión de planos estructurales y estudio de suelos.
 
 ## Notas técnicas
 - [Terremoto del 10 de agosto de 2026: qué falló en Cali](https://ddes.co/articulo-caso-cali-terremoto-2026/): Los edificios que colapsaron no se construyeron con la NSR-10. Pórticos flexibles, normas anteriores y un suelo que amplificó el movimiento.
