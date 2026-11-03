@@ -254,7 +254,7 @@ URL: https://ddes.co/servicio-interventoria/
 
 Control técnico, administrativo y financiero de la obra.
 
-DDES hace interventoría de obra en Colombia: representa al propietario y controla que la obra se construya con la calidad, el plazo y el costo pactados, en proyectos públicos y privados. Trabaja desde Barranquilla, con informes mensuales, actas y control de cantidades.
+DDES es una empresa de interventoría de obras en Colombia: representa al propietario y controla que la obra se construya con la calidad, el plazo y el costo pactados, en proyectos públicos y privados. Trabaja desde Barranquilla, con informes mensuales, actas y control de cantidades.
 
 - Norma: NSR-10
 - Entregables: 5
@@ -778,6 +778,100 @@ Para licencia suele bastar un LOD 300. Para fabricar y cuantificar con precisió
 
 ---
 
+URL: https://ddes.co/evaluacion-despues-de-sismo/
+Última actualización: 2026-10-06
+
+[Soluciones](https://ddes.co/soluciones/)
+
+# Revisar su casa o edificio después de un temblor
+
+Qué mirar primero y cuándo hace falta un ingeniero.
+
+Después de un temblor hay que mirar la estructura antes que los acabados: fisuras diagonales en muros, daños en columnas y vigas, puertas que ya no cierran y pisos inclinados justifican una evaluación. DDES inspecciona la edificación, separa el daño estructural del daño en acabados y entrega un informe con lo que hay que hacer. Si algo puede caer, salga primero y avise a la oficina de gestión del riesgo de su municipio.
+
+- Servicio: Patología y reforzamiento
+- Entregable: Informe de evaluación
+- Para: Propietarios y copropiedades
+
+[Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%20DDES%2C%20despu%C3%A9s%20del%20temblor%20quiero%20que%20un%20ingeniero%20revise%20mi%20edificaci%C3%B3n.) y le responde un ingeniero.
+
+## Lo que necesita tener a mano
+
+- Fotos generales de la edificación y de cada daño, con una regla o una moneda al lado para la escala.
+- Cuándo apareció cada fisura y si ya estaba antes del temblor.
+- Número de pisos, tipo de estructura y año aproximado de construcción.
+- Los planos de la edificación y las obras que se le hayan hecho, si los tiene.
+
+## Cómo lo resolvemos
+
+- Revisión de sus fotos para decidir qué tan pronto hace falta la visita.
+- Inspección de muros, columnas, vigas, placas y escaleras.
+- Si hace falta, ensayos como el ferroescaneo para ver el refuerzo.
+- Informe con el nivel de daño, las recomendaciones de uso y la reparación o el reforzamiento necesario.
+
+## ¿Qué daños son más serios?
+
+Preocupan los daños en elementos que sostienen la edificación: columnas, vigas y muros de carga. También las fisuras diagonales, los pisos inclinados y los muros de fachada o culatas que se movieron, porque pueden caer. Las grietas finas en el pañete o entre un muro y una viga suelen ser de acabados, aunque eso lo confirma la inspección.
+
+## ¿Qué dice la NSR-10?
+
+El capítulo A.10 trata las edificaciones existentes, e incluye la reparación de edificaciones dañadas por sismos (A.10.1.3.6). Según el daño y la edad de la edificación, el ingeniero decide si basta una reparación o si conviene un estudio de vulnerabilidad sísmica y un reforzamiento.
+
+## ¿Y si ya tenía fisuras de antes?
+
+Conviene decirlo en la visita. Una fisura vieja que creció después del temblor pesa distinto que una que sigue igual, y una estructura con daños previos tiene menos reserva frente al siguiente sismo.
+
+## Servicios de DDES para este caso
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Patología y reforzamiento](https://ddes.co/servicio-patologia/): Evaluación de daños, vulnerabilidad sísmica y diseño de reforzamiento para edificaciones existentes.
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+## Notas técnicas
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
+
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+
+- [Estudio de vulnerabilidad sísmica: qué es, cuándo lo exige la NSR-10 y qué incluye](https://ddes.co/articulo-vulnerabilidad-sismica/): El capítulo A.10 compara la estructura existente con una nueva y lo expresa en dos índices: sobreesfuerzo y flexibilidad.
+
+## Preguntas frecuentes
+
+**¿Cómo sé si mi casa quedó dañada después de un temblor?**
+
+Revise si hay fisuras diagonales en muros, daños en columnas o vigas, puertas que dejaron de cerrar o pisos inclinados. Si encuentra alguno, pida una evaluación. Si algo puede caer, salga primero.
+
+**¿Puedo seguir viviendo en la edificación mientras la revisan?**
+
+Depende del daño. Con daño en columnas o vigas, o con muros que pueden caer, lo prudente es salir y avisar a la oficina de gestión del riesgo. En los demás casos, el ingeniero lo indica en la inspección.
+
+**¿Sirve el informe para la aseguradora o la copropiedad?**
+
+El informe documenta el daño y su causa técnica, y puede acompañar una reclamación o una decisión de la asamblea.
+
+## Otras situaciones
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+
+Última actualización: 6 de octubre de 2026
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
+---
+
 URL: https://ddes.co/segundo-piso/
 Última actualización: 2026-10-06
 
@@ -792,6 +886,8 @@ Para construir un segundo piso sobre una casa existente, un ingeniero civil debe
 - Norma: NSR-10, A.10.8
 - Servicio: Diseño estructural
 - Trámite: Licencia de construcción
+
+[Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%20DDES%2C%20quiero%20construir%20un%20segundo%20piso%20sobre%20mi%20casa%20y%20necesito%20el%20dise%C3%B1o%20estructural.) y le responde un ingeniero.
 
 ## Lo que necesita tener a mano
 
@@ -855,6 +951,7 @@ La evaluación de la estructura existente, el diseño de la ampliación y del re
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
 - [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
@@ -883,6 +980,8 @@ El reforzamiento estructural adecúa una edificación existente para que resista
 - Norma: NSR-10, Capítulo A.10
 - Servicio: Patología y reforzamiento
 - Para: Casas y edificios existentes
+
+[Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%20DDES%2C%20necesito%20evaluar%20y%20reforzar%20la%20estructura%20de%20una%20edificaci%C3%B3n%20existente.) y le responde un ingeniero.
 
 ## Lo que necesita tener a mano
 
@@ -944,6 +1043,7 @@ Depende de la intervención. El diseño define el orden de los trabajos y si hac
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
 - [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
@@ -972,6 +1072,8 @@ Una fisura puede venir de retracción del concreto, de asentamientos del suelo, 
 - Servicio: Patología y reforzamiento
 - Entregable: Informe de peritaje
 - Para: Propietarios y copropiedades
+
+[Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%20DDES%2C%20tengo%20fisuras%20en%20mi%20edificaci%C3%B3n%20y%20quiero%20que%20un%20ingeniero%20las%20revise.) y le responde un ingeniero.
 
 ## Lo que necesita tener a mano
 
@@ -1031,6 +1133,7 @@ Si la causa sigue activa, la fisura vuelve a abrir. Primero hay que saber por qu
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
@@ -1059,6 +1162,8 @@ El diseño estructural de una bodega define los pórticos, la cubierta, las corr
 - Norma: NSR-10, Títulos B y F
 - Servicio: Diseño estructural
 - Proyectos: Centurión, Cannon, Galapa
+
+[Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%20DDES%2C%20voy%20a%20construir%20una%20bodega%20y%20necesito%20el%20dise%C3%B1o%20estructural.) y le responde un ingeniero.
 
 ## Lo que necesita tener a mano
 
@@ -1130,6 +1235,7 @@ Sí. En Bodegas Centurión y en Industrias Cannon DDES acompañó la obra con in
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -1158,6 +1264,8 @@ Un muro de contención sostiene el empuje del terreno y del agua. Su diseño nec
 - Norma: NSR-10, Capítulo H.6
 - Servicio: Diseño estructural
 - Necesita: Estudio de suelos
+
+[Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%20DDES%2C%20necesito%20el%20dise%C3%B1o%20de%20un%20muro%20de%20contenci%C3%B3n.) y le responde un ingeniero.
 
 ## Lo que necesita tener a mano
 
@@ -1225,6 +1333,7 @@ Sí. En los edificios Ébano y Casa Grande la obra incluyó muros de contención
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -1253,6 +1362,8 @@ Un tanque de agua o una piscina de concreto se diseñan con requisitos más exig
 - Norma: NSR-10, Capítulo C.23
 - Servicio: Diseño estructural
 - Para: Conjuntos, industria, vivienda
+
+[Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%20DDES%2C%20necesito%20el%20dise%C3%B1o%20estructural%20de%20un%20tanque%20de%20agua%20o%20una%20piscina.) y le responde un ingeniero.
 
 ## Lo que necesita tener a mano
 
@@ -1318,6 +1429,7 @@ Sí. El agua arriba agrega masa en la parte más alta, que aumenta las fuerzas s
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -1346,6 +1458,8 @@ Un mezzanine metálico agrega un nivel dentro de una bodega, un local o una plan
 - Norma: NSR-10, B.4 y Título F
 - Servicio: Diseño estructural
 - Para: Bodegas, locales, plantas
+
+[Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%20DDES%2C%20quiero%20construir%20un%20mezzanine%20met%C3%A1lico%20y%20necesito%20el%20dise%C3%B1o.) y le responde un ingeniero.
 
 ## Lo que necesita tener a mano
 
@@ -1411,6 +1525,7 @@ Sí. En Bodegas Centurión la obra que acompañó DDES incluyó el mezzanine de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -1439,6 +1554,8 @@ Para la licencia de construcción, la curaduría urbana pide el estudio geotécn
 - Norma: NSR-10, A.1.3 y A.1.5
 - Ley: Ley 1796 de 2016
 - Servicio: Diseño y revisión
+
+[Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%20DDES%2C%20voy%20a%20radicar%20una%20licencia%20de%20construcci%C3%B3n%20y%20necesito%20los%20planos%20estructurales.) y le responde un ingeniero.
 
 ## Lo que necesita tener a mano
 
@@ -1500,6 +1617,7 @@ No. La revisión debe hacerla un profesional distinto del diseñador y sin relac
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -2070,6 +2188,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,05 / 0,03
 - Departamento: [Atlántico](https://ddes.co/amenaza-sismica-atlantico/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Barranquilla%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Barranquilla?
 
 En concreto reforzado, la NSR-10 admite en amenaza baja estructuras con capacidad mínima de disipación de energía (DMI), con el detallado más simple, y para los grupos de uso I y II limita la revisión de irregularidades a unos pocos tipos (A.3.3.6).
@@ -2118,6 +2238,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -2198,6 +2319,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,06 / 0,03
 - Departamento: [Atlántico](https://ddes.co/amenaza-sismica-atlantico/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Soledad%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Soledad?
 
 En concreto reforzado, la NSR-10 admite en amenaza baja estructuras con capacidad mínima de disipación de energía (DMI), con el detallado más simple, y para los grupos de uso I y II limita la revisión de irregularidades a unos pocos tipos (A.3.3.6).
@@ -2240,6 +2363,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -2316,6 +2440,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,04 / 0,03
 - Departamento: [Atlántico](https://ddes.co/amenaza-sismica-atlantico/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Puerto%20Colombia%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Puerto Colombia?
 
 En concreto reforzado, la NSR-10 admite en amenaza baja estructuras con capacidad mínima de disipación de energía (DMI), con el detallado más simple, y para los grupos de uso I y II limita la revisión de irregularidades a unos pocos tipos (A.3.3.6).
@@ -2358,6 +2484,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -2434,6 +2561,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,06 / 0,03
 - Departamento: [Atlántico](https://ddes.co/amenaza-sismica-atlantico/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Malambo%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Malambo?
 
 En concreto reforzado, la NSR-10 admite en amenaza baja estructuras con capacidad mínima de disipación de energía (DMI), con el detallado más simple, y para los grupos de uso I y II limita la revisión de irregularidades a unos pocos tipos (A.3.3.6).
@@ -2484,6 +2613,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -2560,6 +2690,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,05 / 0,03
 - Departamento: [Atlántico](https://ddes.co/amenaza-sismica-atlantico/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Galapa%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Galapa?
 
 En concreto reforzado, la NSR-10 admite en amenaza baja estructuras con capacidad mínima de disipación de energía (DMI), con el detallado más simple, y para los grupos de uso I y II limita la revisión de irregularidades a unos pocos tipos (A.3.3.6).
@@ -2608,6 +2740,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -2684,6 +2817,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,05 / 0,03
 - Departamento: [Bolívar](https://ddes.co/amenaza-sismica-bolivar/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Cartagena%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Cartagena?
 
 En concreto reforzado, la NSR-10 admite en amenaza baja estructuras con capacidad mínima de disipación de energía (DMI), con el detallado más simple, y para los grupos de uso I y II limita la revisión de irregularidades a unos pocos tipos (A.3.3.6).
@@ -2726,6 +2861,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -2802,6 +2938,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,10 / 0,04
 - Departamento: [Magdalena](https://ddes.co/amenaza-sismica-magdalena/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Santa%20Marta%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Santa Marta?
 
 En concreto reforzado, la amenaza intermedia ya no admite la disipación mínima (DMI): la estructura se diseña con capacidad moderada (DMO) o especial (DES) de disipación de energía, con más exigencias de detallado del refuerzo.
@@ -2844,6 +2982,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -2920,6 +3059,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,07 / 0,04
 - Departamento: [Córdoba](https://ddes.co/amenaza-sismica-cordoba/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Monter%C3%ADa%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Montería?
 
 En concreto reforzado, la amenaza intermedia ya no admite la disipación mínima (DMI): la estructura se diseña con capacidad moderada (DMO) o especial (DES) de disipación de energía, con más exigencias de detallado del refuerzo.
@@ -2962,6 +3103,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -3038,6 +3180,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,07 / 0,04
 - Departamento: [Sucre](https://ddes.co/amenaza-sismica-sucre/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Sincelejo%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Sincelejo?
 
 En concreto reforzado, la amenaza intermedia ya no admite la disipación mínima (DMI): la estructura se diseña con capacidad moderada (DMO) o especial (DES) de disipación de energía, con más exigencias de detallado del refuerzo.
@@ -3080,6 +3224,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -3156,6 +3301,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,05 / 0,03
 - Departamento: [Cesar](https://ddes.co/amenaza-sismica-cesar/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Valledupar%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Valledupar?
 
 En concreto reforzado, la NSR-10 admite en amenaza baja estructuras con capacidad mínima de disipación de energía (DMI), con el detallado más simple, y para los grupos de uso I y II limita la revisión de irregularidades a unos pocos tipos (A.3.3.6).
@@ -3198,6 +3345,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -3274,6 +3422,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,07 / 0,04
 - Departamento: [La Guajira](https://ddes.co/amenaza-sismica-la-guajira/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Riohacha%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Riohacha?
 
 En concreto reforzado, la amenaza intermedia ya no admite la disipación mínima (DMI): la estructura se diseña con capacidad moderada (DMO) o especial (DES) de disipación de energía, con más exigencias de detallado del refuerzo.
@@ -3316,6 +3466,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -3392,6 +3543,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,15 / 0,06
 - Departamento: [Casanare](https://ddes.co/amenaza-sismica-casanare/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Yopal%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Yopal?
 
 En concreto reforzado, la NSR-10 solo admite en amenaza alta sistemas con capacidad especial de disipación de energía (DES), el detallado más exigente del Reglamento: confinamiento de columnas y nudos, y control estricto de las derivas.
@@ -3434,6 +3587,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -3510,6 +3664,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,14 / 0,06
 - Departamento: [Casanare](https://ddes.co/amenaza-sismica-casanare/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Aguazul%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Aguazul?
 
 En concreto reforzado, la NSR-10 solo admite en amenaza alta sistemas con capacidad especial de disipación de energía (DES), el detallado más exigente del Reglamento: confinamiento de columnas y nudos, y control estricto de las derivas.
@@ -3552,6 +3708,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -3628,6 +3785,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,06 / 0,03
 - Departamento: [Casanare](https://ddes.co/amenaza-sismica-casanare/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Villanueva%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Villanueva?
 
 En concreto reforzado, la amenaza intermedia ya no admite la disipación mínima (DMI): la estructura se diseña con capacidad moderada (DMO) o especial (DES) de disipación de energía, con más exigencias de detallado del refuerzo.
@@ -3670,6 +3829,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -3746,6 +3906,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,06 / 0,03
 - Departamento: [Casanare](https://ddes.co/amenaza-sismica-casanare/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Tauramena%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Tauramena?
 
 En concreto reforzado, la amenaza intermedia ya no admite la disipación mínima (DMI): la estructura se diseña con capacidad moderada (DMO) o especial (DES) de disipación de energía, con más exigencias de detallado del refuerzo.
@@ -3788,6 +3950,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -3864,6 +4027,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,11 / 0,05
 - Departamento: [Casanare](https://ddes.co/amenaza-sismica-casanare/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Monterrey%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Monterrey?
 
 En concreto reforzado, la NSR-10 solo admite en amenaza alta sistemas con capacidad especial de disipación de energía (DES), el detallado más exigente del Reglamento: confinamiento de columnas y nudos, y control estricto de las derivas.
@@ -3906,6 +4071,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -3982,6 +4148,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,04 / 0,02
 - Departamento: [Casanare](https://ddes.co/amenaza-sismica-casanare/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Paz%20de%20Ariporo%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Paz de Ariporo?
 
 En concreto reforzado, la amenaza intermedia ya no admite la disipación mínima (DMI): la estructura se diseña con capacidad moderada (DMO) o especial (DES) de disipación de energía, con más exigencias de detallado del refuerzo.
@@ -4024,6 +4192,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -4100,6 +4269,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,13 / 0,06
 - Departamento: [Bogotá D. C.](https://ddes.co/amenaza-sismica-bogota/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Bogot%C3%A1%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Bogotá?
 
 En concreto reforzado, la amenaza intermedia ya no admite la disipación mínima (DMI): la estructura se diseña con capacidad moderada (DMO) o especial (DES) de disipación de energía, con más exigencias de detallado del refuerzo.
@@ -4142,6 +4313,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -4218,6 +4390,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,13 / 0,07
 - Departamento: [Antioquia](https://ddes.co/amenaza-sismica-antioquia/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Medell%C3%ADn%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Medellín?
 
 En concreto reforzado, la amenaza intermedia ya no admite la disipación mínima (DMI): la estructura se diseña con capacidad moderada (DMO) o especial (DES) de disipación de energía, con más exigencias de detallado del refuerzo.
@@ -4260,6 +4434,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -4336,6 +4511,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,15 / 0,09
 - Departamento: [Valle del Cauca](https://ddes.co/amenaza-sismica-valle-del-cauca/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Cali%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Cali?
 
 En concreto reforzado, la NSR-10 solo admite en amenaza alta sistemas con capacidad especial de disipación de energía (DES), el detallado más exigente del Reglamento: confinamiento de columnas y nudos, y control estricto de las derivas.
@@ -4368,9 +4545,9 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Todas las notas](https://ddes.co/perspectivas/)
 
-- [Terremoto del 10 de agosto de 2026: qué falló en Cali](https://ddes.co/articulo-caso-cali-terremoto-2026/): Los edificios que colapsaron no se construyeron con la NSR-10. Pórticos flexibles, normas anteriores y un suelo que amplificó el movimiento.
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
 
-- [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
+- [Terremoto del 10 de agosto de 2026: qué falló en Cali](https://ddes.co/articulo-caso-cali-terremoto-2026/): Los edificios que colapsaron no se construyeron con la NSR-10. Pórticos flexibles, normas anteriores y un suelo que amplificó el movimiento.
 
 - [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
 
@@ -4378,6 +4555,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -4454,6 +4632,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,15 / 0,09
 - Departamento: [Santander](https://ddes.co/amenaza-sismica-santander/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Bucaramanga%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Bucaramanga?
 
 En concreto reforzado, la NSR-10 solo admite en amenaza alta sistemas con capacidad especial de disipación de energía (DES), el detallado más exigente del Reglamento: confinamiento de columnas y nudos, y control estricto de las derivas.
@@ -4496,6 +4676,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -4572,6 +4753,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,25 / 0,10
 - Departamento: [Norte de Santander](https://ddes.co/amenaza-sismica-norte-de-santander/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20C%C3%BAcuta%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Cúcuta?
 
 En concreto reforzado, la NSR-10 solo admite en amenaza alta sistemas con capacidad especial de disipación de energía (DES), el detallado más exigente del Reglamento: confinamiento de columnas y nudos, y control estricto de las derivas.
@@ -4616,6 +4799,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -4692,6 +4876,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,20 / 0,07
 - Departamento: [Meta](https://ddes.co/amenaza-sismica-meta/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Villavicencio%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Villavicencio?
 
 En concreto reforzado, la NSR-10 solo admite en amenaza alta sistemas con capacidad especial de disipación de energía (DES), el detallado más exigente del Reglamento: confinamiento de columnas y nudos, y control estricto de las derivas.
@@ -4736,6 +4922,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -4812,6 +4999,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,15 / 0,08
 - Departamento: [Tolima](https://ddes.co/amenaza-sismica-tolima/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Ibagu%C3%A9%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Ibagué?
 
 En concreto reforzado, la amenaza intermedia ya no admite la disipación mínima (DMI): la estructura se diseña con capacidad moderada (DMO) o especial (DES) de disipación de energía, con más exigencias de detallado del refuerzo.
@@ -4844,7 +5033,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Todas las notas](https://ddes.co/perspectivas/)
 
-- [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
 
 - [Grupos de uso: por qué un colegio o una clínica se diseñan más fuertes](https://ddes.co/articulo-grupos-de-uso/): La NSR-10 clasifica las edificaciones en cuatro grupos y aumenta las fuerzas de diseño hasta en un 50%.
 
@@ -4854,6 +5043,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -4930,6 +5120,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,20 / 0,10
 - Departamento: [Risaralda](https://ddes.co/amenaza-sismica-risaralda/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Pereira%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Pereira?
 
 En concreto reforzado, la NSR-10 solo admite en amenaza alta sistemas con capacidad especial de disipación de energía (DES), el detallado más exigente del Reglamento: confinamiento de columnas y nudos, y control estricto de las derivas.
@@ -4972,6 +5164,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -5048,6 +5241,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,20 / 0,10
 - Departamento: [Caldas](https://ddes.co/amenaza-sismica-caldas/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Manizales%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Manizales?
 
 En concreto reforzado, la NSR-10 solo admite en amenaza alta sistemas con capacidad especial de disipación de energía (DES), el detallado más exigente del Reglamento: confinamiento de columnas y nudos, y control estricto de las derivas.
@@ -5090,6 +5285,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -5166,6 +5362,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,20 / 0,08
 - Departamento: [Huila](https://ddes.co/amenaza-sismica-huila/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Neiva%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Neiva?
 
 En concreto reforzado, la NSR-10 solo admite en amenaza alta sistemas con capacidad especial de disipación de energía (DES), el detallado más exigente del Reglamento: confinamiento de columnas y nudos, y control estricto de las derivas.
@@ -5208,6 +5406,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -5284,6 +5483,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,15 / 0,08
 - Departamento: [Nariño](https://ddes.co/amenaza-sismica-narino/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Pasto%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Pasto?
 
 En concreto reforzado, la NSR-10 solo admite en amenaza alta sistemas con capacidad especial de disipación de energía (DES), el detallado más exigente del Reglamento: confinamiento de columnas y nudos, y control estricto de las derivas.
@@ -5326,6 +5527,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -5402,6 +5604,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,20 / 0,10
 - Departamento: [Quindío](https://ddes.co/amenaza-sismica-quindio/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Armenia%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Armenia?
 
 En concreto reforzado, la NSR-10 solo admite en amenaza alta sistemas con capacidad especial de disipación de energía (DES), el detallado más exigente del Reglamento: confinamiento de columnas y nudos, y control estricto de las derivas.
@@ -5444,6 +5648,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -5520,6 +5725,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,15 / 0,07
 - Departamento: [Boyacá](https://ddes.co/amenaza-sismica-boyaca/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Tunja%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Tunja?
 
 En concreto reforzado, la amenaza intermedia ya no admite la disipación mínima (DMI): la estructura se diseña con capacidad moderada (DMO) o especial (DES) de disipación de energía, con más exigencias de detallado del refuerzo.
@@ -5562,6 +5769,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -5638,6 +5846,8 @@ DDES hace diseño estructural, revisión independiente, supervisión técnica e 
 - Ae / Ad: 0,15 / 0,08
 - Departamento: [Cauca](https://ddes.co/amenaza-sismica-cauca/)
 
+Vea nuestros servicios: [diseño estructural](https://ddes.co/servicio-diseno/), [revisión independiente](https://ddes.co/servicio-revision/), [supervisión técnica](https://ddes.co/servicio-supervision/), [interventoría de obra](https://ddes.co/servicio-interventoria/). ¿Tiene un proyecto allí? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20tengo%20un%20proyecto%20en%20Popay%C3%A1n%20y%20quiero%20hablar%20con%20DDES.) y le responde un ingeniero.
+
 ## ¿Qué exige la NSR-10 para construir en Popayán?
 
 En concreto reforzado, la NSR-10 solo admite en amenaza alta sistemas con capacidad especial de disipación de energía (DES), el detallado más exigente del Reglamento: confinamiento de columnas y nudos, y control estricto de las derivas.
@@ -5680,6 +5890,7 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 
 [Ver todas las soluciones](https://ddes.co/soluciones/)
 
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
 - [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
 - [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
 - [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
@@ -5742,6 +5953,78 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para 
 
 ---
 
+URL: https://ddes.co/articulo-sismo-chaparral-2026/
+Última actualización: 2026-11-03
+
+[Perspectivas](https://ddes.co/perspectivas/)
+
+# Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación
+
+Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
+
+Caso de estudio · Lectura de 4 min · 3 de noviembre de 2026 · Equipo técnico DDES
+
+El sismo de magnitud 5,6 del 3 de noviembre de 2026 tuvo epicentro en Chaparral, Tolima, a menos de 30 km de profundidad, y se sintió en buena parte del país. Después de un movimiento así conviene revisar la edificación: las fisuras diagonales en muros, los daños en columnas o vigas y las puertas que dejaron de cerrar justifican llamar a un ingeniero. Una grieta fina en el pañete suele ser solo del acabado, aunque eso lo confirma la inspección.
+
+¿Quedó con dudas sobre su edificación después del temblor? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%ABSismo%20del%203%20de%20noviembre%20de%202026%20en%20Chaparral%2C%20Tolima%3A%20qu%C3%A9%20revisar%20en%20su%20edificaci%C3%B3n%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver cómo es la evaluación](https://ddes.co/evaluacion-despues-de-sismo/).
+
+## El sismo
+
+Ocurrió a las 4:13 a. m., a 17 km de Roncesvalles, según el boletín del Servicio Geológico Colombiano que recoge [El Tiempo](https://www.eltiempo.com/colombia/otras-ciudades/terremoto-de-5-6-sacude-a-colombia-en-la-madrugada-del-3-de-noviembre-conozca-los-detalles-3598022). Con corte a las 9:00 a. m., la Red Sismológica Nacional había identificado siete réplicas de magnitud 2,1 a 3,5, y los reportes de personas que lo sintieron venían sobre todo de Bogotá (1.271), Cali (652), Ibagué (367) y Armenia (241), según [Infobae](https://www.infobae.com/colombia/2026/11/03/fuerte-temblor-de-55-en-colombia-se-sintio-en-diferentes-ciudades-del-pais/). Hace parte de la secuencia que empezó en Chaparral el 20 de septiembre, con más de 1.600 temblores superiores a magnitud 2.
+
+Los balances de esa mañana, preliminares, hablaban de una persona herida por la caída de un muro dentro de una vivienda en Chaparral, de daños en ocho viviendas de ese municipio y dos de Ibagué según la Defensa Civil, y de casas muy afectadas según la alcaldía de Chaparral. Ibagué pasó sus colegios oficiales a clases virtuales mientras revisaba las sedes. En Cali, la Alcaldía [no reportó situaciones de riesgo](https://www.elpais.com.co/cali/los-videos-de-como-vivieron-los-calenos-el-temblor-de-56-que-sacudio-la-ciudad-en-la-madrugada-de-este-martes-3-de-noviembre-0317.html) en sus primeras horas.
+
+## ¿Por qué un sismo moderado puede causar daños?
+
+Un sismo superficial concentra el movimiento cerca del epicentro, y por eso el sur del Tolima fue la zona más afectada. Como práctica general, las edificaciones más sensibles son las de bahareque, las de mampostería sin confinar y las que ya tenían daños. Eso último importa este año: una estructura lastimada por el [terremoto del 10 de agosto](https://ddes.co/articulo-caso-cali-terremoto-2026/) tiene menos reserva frente a un sismo menor. En las casas, la [NSR-10 pide muros confinados y columnas de amarre](https://ddes.co/articulo-casas-uno-dos-pisos/) precisamente por esta razón.
+
+## ¿Qué revisar primero?
+
+- Fisuras diagonales o en forma de X en los muros.
+- Fisuras, concreto desprendido o acero a la vista en columnas y vigas, sobre todo cerca de sus extremos.
+- Puertas y ventanas que dejaron de cerrar, y pisos que quedaron inclinados.
+- Muros de fachada, culatas, antepechos y tanques elevados que se movieron.
+- Golpes contra el edificio vecino en las juntas, y daños en las escaleras.
+- Grietas en el terreno junto a la edificación.
+
+Si ve daño en columnas o vigas, o un muro que puede caer, salga de la edificación, no vuelva a entrar y avise a la oficina de gestión del riesgo de su municipio o a la línea de emergencias 123. La revisión técnica viene después.
+
+## ¿Qué dice la NSR-10?
+
+Chaparral está en zona de [amenaza sísmica alta](https://ddes.co/amenaza-sismica-tolima/), con Aa = 0,25 y Av = 0,20; Cali también, con Aa = 0,25 y Av = 0,25. El capítulo A.10 de la NSR-10 trata las edificaciones existentes, e incluye la reparación de edificaciones dañadas por sismos (A.10.1.3.6). Vea [qué pide la norma para edificios existentes](https://ddes.co/articulo-edificios-existentes/) y [qué es un estudio de vulnerabilidad sísmica](https://ddes.co/articulo-vulnerabilidad-sismica/).
+
+DDES [evalúa edificaciones después de un sismo](https://ddes.co/evaluacion-despues-de-sismo/) en toda Colombia: separa el daño de la estructura del daño en los acabados y entrega un informe con lo que hay que hacer.
+
+## Preguntas frecuentes
+
+**¿Dónde fue el sismo del 3 de noviembre de 2026?**
+
+El epicentro fue Chaparral, Tolima, a 17 km de Roncesvalles. Tuvo magnitud 5,6 y profundidad menor a 30 km, a las 4:13 a. m., según el Servicio Geológico Colombiano.
+
+**¿Cuándo es grave una fisura después de un temblor?**
+
+Preocupan las fisuras diagonales en muros, las que aparecen en columnas y vigas, las que crecen, y las que vienen con puertas que no cierran o pisos inclinados. Una fisura fina y estable en el pañete suele ser solo estética, pero eso lo confirma la inspección.
+
+**¿Quién revisa mi casa después de un sismo?**
+
+Si hay riesgo inmediato, avise a la oficina de gestión del riesgo de su municipio. Para saber qué tiene la estructura y cómo repararla, se necesita la evaluación de un ingeniero estructural, con un informe.
+
+## Notas relacionadas
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Terremoto del 10 de agosto de 2026: qué falló en Cali](https://ddes.co/articulo-caso-cali-terremoto-2026/): Los edificios que colapsaron no se construyeron con la NSR-10. Pórticos flexibles, normas anteriores y un suelo que amplificó el movimiento.
+
+- [Terremoto del 10 de agosto de 2026: lecciones de Pereira](https://ddes.co/articulo-caso-pereira-terremoto-2026/): Haber resistido el sismo de 1999 no era una garantía. Y el aeropuerto cerró por daños que no eran estructurales.
+
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+
+- [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
+---
+
 URL: https://ddes.co/articulo-pisos-industriales-viguetas/
 Última actualización: 2026-10-07
 
@@ -5754,6 +6037,8 @@ Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 
 Obra · Lectura de 5 min · 7 de octubre de 2026 · Equipo técnico DDES
 
 Un piso industrial apoyado sobre el terreno falla por flexión: las estanterías, los montacargas y los camiones lo doblan, y su cara inferior se fisura en tracción. Por eso estos pisos se especifican por su módulo de rotura (MR), la resistencia del concreto a la flexión, y se controlan ensayando viguetas, no solo cilindros a compresión. En la interventoría de Bodegas Centurión, en Barranquilla, DDES llevó el control de 55 viguetas entre septiembre de 2024 y abril de 2025.
+
+¿Necesita interventoría para su obra? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%ABPisos%20industriales%3A%20por%20qu%C3%A9%20el%20concreto%20se%20controla%20con%20viguetas%20y%20no%20solo%20con%20cilindros%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver el servicio de interventoría](https://ddes.co/servicio-interventoria/).
 
 ## Qué mide una vigueta
 
@@ -5806,7 +6091,7 @@ Lo define el diseño del piso según sus cargas. En Bodegas Centurión se especi
 
 - [Ensayo de cilindros: cuándo se acepta el concreto según la NSR-10](https://ddes.co/articulo-ensayo-cilindros/): Cuántas muestras tomar, cómo se evalúan y qué pasa si un resultado sale bajo: la sección C.5.6.
 
-- [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -5824,6 +6109,8 @@ La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con
 Obra · Lectura de 5 min · 7 de octubre de 2026 · Equipo técnico DDES
 
 Un resultado bajo no significa que la estructura esté mal. Lo primero es mirar a qué edad se ensayó el cilindro; después, aplicar el criterio de aceptación de la NSR-10 (C.5.6.3.3), y solo si la duda persiste, extraer núcleos (C.5.6.5). De los 20 ensayos de cilindros de la estructura de Bodegas Centurión, 16 superaron f′c a los 28 días; los cuatro restantes muestran los casos típicos.
+
+¿Necesita interventoría para su obra? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%ABUn%20cilindro%20sali%C3%B3%20bajo%3A%20qu%C3%A9%20revisar%20antes%20de%20demoler%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver el servicio de interventoría](https://ddes.co/servicio-interventoria/).
 
 ## 1. ¿A qué edad se ensayó?
 
@@ -5875,7 +6162,7 @@ Cuando el promedio de los tres núcleos es al menos el 85% de f′c y ninguno qu
 
 - [Ensayo de cilindros: cuándo se acepta el concreto según la NSR-10](https://ddes.co/articulo-ensayo-cilindros/): Cuántas muestras tomar, cómo se evalúan y qué pasa si un resultado sale bajo: la sección C.5.6.
 
-- [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -5893,6 +6180,8 @@ Qué detecta, qué no y qué se concluyó en las tapas de los tanques de grasa d
 Obra · Lectura de 5 min · 7 de octubre de 2026 · Equipo técnico DDES
 
 El ferroescáner es un equipo que se pasa sobre la superficie del concreto y, con un campo electromagnético, ubica las barras de acero: su posición, su separación, la profundidad a la que están (el recubrimiento) y un diámetro aproximado. Sirve para revisar una losa o una columna existente sin perforarla. En marzo de 2025, en Bodegas Centurión, se usó para revisar las dos losas que tapan los tanques de grasa.
+
+¿Necesita interventoría para su obra? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%ABFerroesc%C3%A1ner%3A%20c%C3%B3mo%20revisar%20el%20refuerzo%20de%20una%20losa%20sin%20romperla%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver el servicio de interventoría](https://ddes.co/servicio-interventoria/).
 
 ## Cómo se hizo
 
@@ -5943,7 +6232,7 @@ Para retracción y temperatura, una cuantía de 0,0018 con barras de 420 MPa, se
 
 - [Ensayo de cilindros: cuándo se acepta el concreto según la NSR-10](https://ddes.co/articulo-ensayo-cilindros/): Cuántas muestras tomar, cómo se evalúan y qué pasa si un resultado sale bajo: la sección C.5.6.
 
-- [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -5961,6 +6250,8 @@ El interventor representa al propietario y controla calidad, plazo y costo. La s
 Normativa · Lectura de 6 min · 6 de octubre de 2026 · Equipo técnico DDES
 
 La interventoría de obra es el control que hace un profesional independiente, en nombre del propietario, para que la obra se construya según los planos, las especificaciones y las normas, con la calidad, el plazo y el costo pactados. La NSR-10 define al interventor como el ingeniero civil, arquitecto o constructor que representa al propietario durante la construcción, y precisa que su trabajo incluye la cuantificación de obra y puede extenderse a tareas administrativas (A.13). La supervisión técnica, que la ley sí exige según el área, es una parte de la interventoría (A.1.3.9.4).
+
+¿Necesita interventoría para su obra? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%ABInterventor%C3%ADa%20de%20obra%20en%20Colombia%3A%20qu%C3%A9%20es%2C%20qu%C3%A9%20incluye%20y%20cu%C3%A1ndo%20se%20exige%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver el servicio de interventoría](https://ddes.co/servicio-interventoria/).
 
 ## ¿Qué hace un interventor de obra?
 
@@ -6045,6 +6336,8 @@ Quién lo firma, qué deben traer los planos y la memoria de cálculo, y en qué
 Normativa · Lectura de 6 min · 6 de octubre de 2026 · Equipo técnico DDES
 
 El diseño estructural de una edificación en Colombia lo hace un ingeniero civil facultado según la Ley 400 de 1997, bajo la NSR-10 (A.1.3.4). Se entrega como planos estructurales y memoria de cálculo firmados, que acompañan la solicitud de licencia de construcción junto con el estudio geotécnico (A.1.5). Si el lote permite construir más de 2.000 m², la Ley 1796 de 2016 exige además una revisión independiente del diseño.
+
+¿Necesita el diseño estructural de su proyecto? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%ABDise%C3%B1o%20estructural%20en%20Colombia%3A%20qu%C3%A9%20incluye%20y%20qu%C3%A9%20pide%20la%20NSR-10%20para%20la%20licencia%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver el servicio de diseño estructural](https://ddes.co/servicio-diseno/).
 
 ## ¿Qué pasos sigue un diseño estructural?
 
@@ -6149,6 +6442,8 @@ Patología · Lectura de 5 min · 6 de octubre de 2026 · Equipo técnico DDES
 
 Un estudio de vulnerabilidad sísmica establece qué tan preparada está una edificación existente para los sismos que exige la norma vigente. La NSR-10 lo regula en el capítulo A.10: compara las fuerzas y las derivas que la estructura debería soportar hoy con su resistencia y su rigidez reales, y expresa el resultado como una fracción de lo que tendría una edificación nueva (A.10.5.1).
 
+¿Le preocupa una estructura existente? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%ABEstudio%20de%20vulnerabilidad%20s%C3%ADsmica%3A%20qu%C3%A9%20es%2C%20cu%C3%A1ndo%20lo%20exige%20la%20NSR-10%20y%20qu%C3%A9%20incluye%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver el servicio de patología y reforzamiento](https://ddes.co/servicio-patologia/).
+
 ## ¿Cuándo lo exige la NSR-10?
 
 Cuando la edificación se amplía, se modifica su estructura, cambia de uso, se refuerza o se repara después de un sismo (A.10.1.3). El cambio de uso cuenta aunque la obra sea menor: pasar de vivienda a comercio, o a un grupo de uso superior, obliga a evaluar sus efectos ante cargas verticales y, sobre todo, ante sismo (A.10.1.3.2). La norma permite además usar los mismos criterios para diagnosticar cualquier edificación construida antes de su vigencia (A.10.1.3.3).
@@ -6203,9 +6498,9 @@ Que al menos un elemento recibe, con las fuerzas de la norma vigente, más de lo
 
 - [¿Cuándo es peligrosa una fisura?](https://ddes.co/articulo-fisuras/): Cómo distinguir una fisura de acabado de una que pide un ingeniero: ancho, dirección, dónde aparece y si crece.
 
-- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
 
-- [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -6223,6 +6518,8 @@ En la misma ciudad, el mismo edificio puede diseñarse para una aceleración tre
 Suelos · Lectura de 5 min · 6 de octubre de 2026 · Equipo técnico DDES
 
 La NSR-10 clasifica el suelo de cada lote en seis perfiles, de A (roca competente) a F (suelos que exigen un estudio particular), con base en los 30 metros superiores del terreno (A.2.4). El perfil fija los coeficientes Fa y Fv que amplifican el sismo de diseño: en Barranquilla, la meseta del espectro va de 0,20 g sobre roca tipo A a 0,63 g sobre un suelo blando tipo E.
+
+¿Necesita el diseño estructural de su proyecto? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%ABPerfil%20de%20suelo%20en%20la%20NSR-10%3A%20los%20tipos%20A%20a%20F%20y%20c%C3%B3mo%20cambian%20el%20sismo%20de%20dise%C3%B1o%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver el servicio de diseño estructural](https://ddes.co/servicio-diseno/).
 
 ## ¿Cómo se clasifica el suelo?
 
@@ -6279,9 +6576,9 @@ El ingeniero geotecnista, en el estudio de suelos que se presenta para la licenc
 
 - [Arcillas expansivas en el suroccidente de Barranquilla](https://ddes.co/articulo-arcillas/): Cimentaciones para suelos que se hinchan en invierno y se contraen en verano.
 
-- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
 
-- [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -6299,6 +6596,8 @@ Los edificios que colapsaron no se construyeron con la NSR-10. Pórticos flexibl
 Caso de estudio · Lectura de 5 min · 5 de octubre de 2026 · Equipo técnico DDES
 
 El sismo de magnitud 7,4 del 10 de agosto de 2026, con epicentro en San José del Palmar (Chocó) y 103 km de profundidad, derrumbó decenas de edificaciones en Cali. Los primeros hallazgos coinciden en tres causas: los edificios que colapsaron no se construyeron con la NSR-10; muchos eran pórticos relativamente flexibles, diseñados cuando se creía que la amenaza de la ciudad era menor; y el suelo amplificó el movimiento en algunos sectores.
+
+¿Quedó con dudas sobre su edificación después del temblor? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%ABTerremoto%20del%2010%20de%20agosto%20de%202026%3A%20qu%C3%A9%20fall%C3%B3%20en%20Cali%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver cómo es la evaluación](https://ddes.co/evaluacion-despues-de-sismo/).
 
 ## El sismo
 
@@ -6338,11 +6637,11 @@ Según el reporte preliminar de Camacol, las edificaciones construidas con la NS
 
 [Todas las notas](https://ddes.co/perspectivas/)
 
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
+
 - [Terremoto del 10 de agosto de 2026: lecciones de Pereira](https://ddes.co/articulo-caso-pereira-terremoto-2026/): Haber resistido el sismo de 1999 no era una garantía. Y el aeropuerto cerró por daños que no eran estructurales.
 
 - [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
-
-- [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
 
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
 
@@ -6362,6 +6661,8 @@ Haber resistido el sismo de 1999 no era una garantía. Y el aeropuerto cerró po
 Caso de estudio · Lectura de 5 min · 5 de octubre de 2026 · Equipo técnico DDES
 
 En Pereira, el sismo de magnitud 7,4 del 10 de agosto de 2026 dejó cerca de 80 estructuras colapsadas, según la Asociación de Ingenieros de Risaralda, y 120.000 damnificados, según el reporte oficial del 18 de agosto. Dos lecciones sobresalen: muchos edificios anteriores a 1999 que habían salido bien del sismo del Eje Cafetero nunca se reforzaron, y el aeropuerto tuvo que cerrar por daños en elementos no estructurales.
+
+¿Quedó con dudas sobre su edificación después del temblor? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%ABTerremoto%20del%2010%20de%20agosto%20de%202026%3A%20lecciones%20de%20Pereira%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver cómo es la evaluación](https://ddes.co/evaluacion-despues-de-sismo/).
 
 ## Haber resistido no es estar bien
 
@@ -6395,11 +6696,11 @@ Por daños principalmente no estructurales, en cielos rasos y elementos interior
 
 [Todas las notas](https://ddes.co/perspectivas/)
 
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
+
 - [Terremoto del 10 de agosto de 2026: qué falló en Cali](https://ddes.co/articulo-caso-cali-terremoto-2026/): Los edificios que colapsaron no se construyeron con la NSR-10. Pórticos flexibles, normas anteriores y un suelo que amplificó el movimiento.
 
 - [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
-
-- [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
 
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
 
@@ -6419,6 +6720,8 @@ Cimentación, muros confinados, aberturas y columnas de amarre: los mínimos par
 Normativa · Lectura de 5 min · 5 de octubre de 2026 · Equipo técnico DDES
 
 El Título E de la NSR-10 fija los requisitos mínimos para construir casas de uno y dos pisos en mampostería confinada o en bahareque encementado, sin un cálculo estructural completo. Aplica a viviendas del grupo de uso I que hagan parte de programas de máximo 15 viviendas y menos de 3.000 m² construidos (E.1.1.1.1). Si la casa usa otro sistema estructural, es parte de un programa más grande o tiene otro uso, debe diseñarse con los Títulos A a D.
+
+¿Va a construir o ampliar su casa? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%ABCasas%20de%20uno%20y%20dos%20pisos%3A%20lo%20que%20exige%20el%20T%C3%ADtulo%20E%20de%20la%20NSR-10%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver cómo se construye un segundo piso](https://ddes.co/segundo-piso/).
 
 ## La cimentación
 
@@ -6477,6 +6780,8 @@ Suelos · Lectura de 4 min · 5 de octubre de 2026 · Equipo técnico DDES
 
 La NSR-10 clasifica cada unidad de construcción en categoría baja, media, alta o especial según su número de niveles y sus cargas, y con esa categoría fija el número mínimo de sondeos y su profundidad (Título H, tablas H.3.1-1 y H.3.2-1). Una casa de hasta 3 niveles requiere como mínimo 3 sondeos de 6 m; un edificio de 4 a 10 niveles, 4 sondeos de 15 m.
 
+¿Necesita el diseño estructural de su proyecto? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%ABEstudio%20de%20suelos%3A%20cu%C3%A1ntos%20sondeos%20y%20a%20qu%C3%A9%20profundidad%20pide%20la%20NSR-10%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver el servicio de diseño estructural](https://ddes.co/servicio-diseno/).
+
 ## Las cuatro categorías
 
 **Baja:** hasta 3 niveles, o cargas en columnas menores de 800 kN. **Media:** de 4 a 10 niveles, o entre 801 y 4.000 kN. **Alta:** de 11 a 20 niveles, o entre 4.001 y 8.000 kN. **Especial:** más de 20 niveles, o más de 8.000 kN. Los niveles incluyen sótanos, terrazas y pisos técnicos, y se toma la categoría más desfavorable (H.3.1.1).
@@ -6513,9 +6818,9 @@ De 4 a 10 niveles es categoría media: mínimo 4 sondeos de 15 m, o más profund
 
 - [Arcillas expansivas en el suroccidente de Barranquilla](https://ddes.co/articulo-arcillas/): Cimentaciones para suelos que se hinchan en invierno y se contraen en verano.
 
-- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
 
-- [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -6533,6 +6838,8 @@ Clase de exposición C2, relación agua-cemento de 0,40, 35 MPa y recubrimientos
 Durabilidad · Lectura de 4 min · 5 de octubre de 2026 · Equipo técnico DDES
 
 La NSR-10 clasifica como exposición C2 al concreto expuesto a la humedad y a cloruros del agua de mar, la sal o sus salpicaduras (tabla C.4.2.1). Para esa clase exige una relación agua-material cementante máxima de 0,40, una resistencia mínima de 35 MPa y un contenido de cloruros solubles no mayor de 0,15% del peso del cemento en concreto reforzado (tabla C.4.3.1).
+
+¿Necesita el diseño estructural de su proyecto? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%ABConcreto%20cerca%20al%20mar%3A%20lo%20que%20exige%20la%20NSR-10%20contra%20el%20salitre%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver el servicio de diseño estructural](https://ddes.co/servicio-diseno/).
 
 ## Por qué tanto
 
@@ -6564,9 +6871,9 @@ Como mínimo 75 mm contra el suelo, 50 mm para barras No. 6 o mayores a la intem
 
 - [Cloruros y refuerzo: el recubrimiento que sí protege](https://ddes.co/articulo-cloruros/): Por qué la brisa marina corroe el concreto desde adentro y qué especificar para evitarlo.
 
-- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
 
-- [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
 
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
 
@@ -6586,6 +6893,8 @@ Cuántas muestras tomar, cómo se evalúan y qué pasa si un resultado sale bajo
 Obra · Lectura de 4 min · 5 de octubre de 2026 · Equipo técnico DDES
 
 La NSR-10 acepta la resistencia de un concreto cuando se cumplen dos condiciones: cada promedio de tres ensayos consecutivos es igual o mayor que la resistencia especificada (f'c), y ningún ensayo individual queda más de 3,5 MPa por debajo de ella cuando f'c es de 35 MPa o menos (C.5.6.3.3). Cada ensayo es el promedio de al menos dos cilindros de 150 x 300 mm o tres de 100 x 200 mm, normalmente a 28 días (C.5.6.2.4).
+
+¿Necesita interventoría para su obra? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%ABEnsayo%20de%20cilindros%3A%20cu%C3%A1ndo%20se%20acepta%20el%20concreto%20seg%C3%BAn%20la%20NSR-10%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver el servicio de interventoría](https://ddes.co/servicio-interventoria/).
 
 ## Cuántas muestras tomar
 
@@ -6621,7 +6930,7 @@ Se extraen tres núcleos por cada ensayo deficiente; la zona es adecuada si su p
 
 - [Ferroescáner: cómo revisar el refuerzo de una losa sin romperla](https://ddes.co/articulo-ferroescaner-losa/): Qué detecta, qué no y qué se concluyó en las tapas de los tanques de grasa de Bodegas Centurión.
 
-- [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -6639,6 +6948,8 @@ Barranquilla y Cartagena están en amenaza baja; Santa Marta, Montería, Sincele
 Sismo · Lectura de 3 min · 5 de octubre de 2026 · Equipo técnico DDES
 
 La NSR-10 asigna a cada capital un coeficiente de aceleración (Aa) y uno de velocidad (Av), y con ellos una zona de amenaza sísmica (tabla A.2.3-2). En la Costa Caribe, Barranquilla, Cartagena y Valledupar están en amenaza baja; Santa Marta, Montería, Sincelejo y Riohacha, en amenaza intermedia. La diferencia cambia el detallado que exige el diseño.
+
+¿Necesita el diseño estructural de su proyecto? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%ABAmenaza%20s%C3%ADsmica%20en%20la%20Costa%20Caribe%3A%20ciudad%20por%20ciudad%20seg%C3%BAn%20la%20NSR-10%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver el servicio de diseño estructural](https://ddes.co/servicio-diseno/).
 
 ## Los valores
 
@@ -6674,7 +6985,7 @@ Intermedia, con Aa = 0,15 y Av = 0,10. Montería, Sincelejo y Riohacha también 
 
 - [Elementos no estructurales: muros, fachadas e instalaciones en la NSR-10](https://ddes.co/articulo-elementos-no-estructurales/): Lo que no sostiene el edificio también debe diseñarse para el sismo. Y en la costa hay una exención.
 
-- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -6692,6 +7003,8 @@ La NSR-10 clasifica las edificaciones en cuatro grupos y aumenta las fuerzas de 
 Sismo · Lectura de 3 min · 5 de octubre de 2026 · Equipo técnico DDES
 
 La NSR-10 clasifica toda edificación en uno de cuatro grupos de uso, y según el grupo multiplica las fuerzas sísmicas de diseño por un coeficiente de importancia: 1,00 para el grupo I, 1,10 para el II, 1,25 para el III y 1,50 para el IV (A.2.5 y tabla A.2.5-1). Un hospital con urgencias se diseña para fuerzas 50% mayores que una vivienda.
+
+¿Necesita el diseño estructural de su proyecto? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%ABGrupos%20de%20uso%3A%20por%20qu%C3%A9%20un%20colegio%20o%20una%20cl%C3%ADnica%20se%20dise%C3%B1an%20m%C3%A1s%20fuertes%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver el servicio de diseño estructural](https://ddes.co/servicio-diseno/).
 
 ## Los cuatro grupos
 
@@ -6727,7 +7040,7 @@ Si tiene cirugía, cuidados intensivos o urgencias, en el grupo IV, con coeficie
 
 - [Elementos no estructurales: muros, fachadas e instalaciones en la NSR-10](https://ddes.co/articulo-elementos-no-estructurales/): Lo que no sostiene el edificio también debe diseñarse para el sismo. Y en la costa hay una exención.
 
-- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -6745,6 +7058,8 @@ La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y 
 Sismo · Lectura de 3 min · 5 de octubre de 2026 · Equipo técnico DDES
 
 La deriva es el desplazamiento horizontal de un piso respecto al de abajo durante el sismo de diseño. La NSR-10 la limita al 1% de la altura del piso en estructuras de concreto reforzado, metálicas y de madera, y al 0,5% en las de mampostería (tabla A.6.4-1). En un piso de 3 m, eso es 3 cm o 1,5 cm.
+
+¿Necesita el diseño estructural de su proyecto? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%ABDerivas%3A%20cu%C3%A1nto%20se%20puede%20mover%20un%20edificio%20durante%20un%20sismo%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver el servicio de diseño estructural](https://ddes.co/servicio-diseno/).
 
 ## Por qué se limita
 
@@ -6780,7 +7095,7 @@ Hay que rigidizar la estructura, con muros, secciones mayores o arriostramientos
 
 - [Elementos no estructurales: muros, fachadas e instalaciones en la NSR-10](https://ddes.co/articulo-elementos-no-estructurales/): Lo que no sostiene el edificio también debe diseñarse para el sismo. Y en la costa hay una exención.
 
-- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -6798,6 +7113,8 @@ Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que 
 Patología · Lectura de 4 min · 5 de octubre de 2026 · Equipo técnico DDES
 
 El capítulo A.10 de la NSR-10 establece cómo evaluar la vulnerabilidad sísmica y cómo intervenir edificaciones construidas antes de la norma vigente. Se aplica cuando el edificio se amplía, se modifica su estructura, cambia de uso, se refuerza o se repara después de un sismo (A.10.1.3). Las reparaciones menores que no afectan la estructura no lo requieren.
+
+¿Le preocupa una estructura existente? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%ABEdificios%20existentes%3A%20cu%C3%A1ndo%20hay%20que%20evaluar%20y%20reforzar%20seg%C3%BAn%20la%20NSR-10%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver el servicio de patología y reforzamiento](https://ddes.co/servicio-patologia/).
 
 ## Los casos
 
@@ -6831,9 +7148,9 @@ Sí. La NSR-10 exige evaluar las implicaciones del cambio de uso aunque la obra 
 
 - [¿Cuándo es peligrosa una fisura?](https://ddes.co/articulo-fisuras/): Cómo distinguir una fisura de acabado de una que pide un ingeniero: ancho, dirección, dónde aparece y si crece.
 
-- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
 
-- [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -6851,6 +7168,8 @@ El alcance mínimo de la supervisión, el registro que debe llevar y la constanc
 Normativa · Lectura de 4 min · 5 de octubre de 2026 · Equipo técnico DDES
 
 El Título I de la NSR-10 fija el alcance mínimo de la supervisión técnica: aprobar el programa de control de calidad y el laboratorio, controlar los materiales, aprobar los procedimientos constructivos, rechazar lo que no cumpla los planos y dejar un registro escrito de todo (I.2.3.1). Cubre la estructura y los elementos no estructurales del capítulo A.9 (I.2.1.2).
+
+¿Su proyecto necesita supervisión técnica? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%ABSupervisi%C3%B3n%20t%C3%A9cnica%20seg%C3%BAn%20el%20T%C3%ADtulo%20I%3A%20qu%C3%A9%20verifica%20y%20qu%C3%A9%20documentos%20deja%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver el servicio de supervisión técnica](https://ddes.co/servicio-supervision/).
 
 ## El registro escrito
 
@@ -6905,6 +7224,8 @@ Sismo · Lectura de 3 min · 5 de octubre de 2026 · Equipo técnico DDES
 
 La NSR-10 exige diseñar para el sismo los elementos no estructurales y sus anclajes: acabados y fachadas, muros divisorios, instalaciones hidráulicas, eléctricas y de gas, equipos mecánicos y estanterías (A.9.1.2). Están exentas las edificaciones de los grupos de uso I y II ubicadas en zonas de amenaza sísmica baja (A.9.1.3), como la mayoría de las de Barranquilla y Cartagena.
 
+¿Necesita el diseño estructural de su proyecto? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%ABElementos%20no%20estructurales%3A%20muros%2C%20fachadas%20e%20instalaciones%20en%20la%20NSR-10%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver el servicio de diseño estructural](https://ddes.co/servicio-diseno/).
+
 ## Tres grados de desempeño
 
 **Superior:** daño mínimo, sin interferir con la operación. **Bueno:** daño reparable, con alguna interferencia. **Bajo:** daños graves, incluso irreparables, pero sin desprendimientos ni colapso (A.9.2.1). El mínimo depende del grupo de uso: superior para los grupos IV y III, bueno para el II y bajo para el I (tabla A.9.2-1). El propietario puede pedir un grado mejor por escrito.
@@ -6939,7 +7260,7 @@ Las edificaciones de los grupos de uso I y II en zonas de amenaza sísmica baja,
 
 - [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
 
-- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -6957,6 +7278,8 @@ La amenaza sísmica es baja, pero el diseño debe resolver también el suelo, el
 Normativa · Lectura de 4 min · 5 de octubre de 2026 · Equipo técnico DDES
 
 Sí, aunque poco y con poca fuerza. La NSR-10 ubica a Barranquilla en una zona de amenaza sísmica baja, con un coeficiente de aceleración de 0,10 (Aa = 0,10). Eso no significa que el diseño pueda ignorar el sismo: la norma exige diseño sismo resistente en todo el país, y en la costa hay factores que pesan tanto como el sismo: el suelo, el viento y la corrosión por salitre.
+
+¿Le preocupa una estructura existente? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%AB%C2%BFTiembla%20en%20Barranquilla%3F%20Lo%20que%20exige%20la%20NSR-10%20en%20la%20costa%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver el servicio de patología y reforzamiento](https://ddes.co/servicio-patologia/).
 
 ## Qué cambia con la amenaza baja
 
@@ -7013,6 +7336,8 @@ Normativa · Lectura de 4 min · 5 de octubre de 2026 · Equipo técnico DDES
 
 Son dos controles distintos que exige la Ley 1796 de 2016 cuando el lote permite construir más de 2.000 m². La revisión independiente ocurre antes de la licencia y revisa el papel: el modelo, la memoria y los planos estructurales. La supervisión técnica ocurre durante la obra y revisa lo construido: que el acero, el concreto y las dimensiones correspondan a esos planos. Las hacen profesionales independientes: el revisor, del diseñador; el supervisor, del constructor.
 
+¿Su proyecto necesita supervisión técnica? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%ABRevisi%C3%B3n%20independiente%20y%20supervisi%C3%B3n%20t%C3%A9cnica%3A%20en%20qu%C3%A9%20se%20diferencian%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver el servicio de supervisión técnica](https://ddes.co/servicio-supervision/).
+
 ## La revisión independiente, antes de la licencia
 
 Un ingeniero distinto del diseñador revisa el diseño estructural frente a la NSR-10: cargas, sistema estructural, irregularidades, derivas y el diseño de los elementos críticos. Entrega observaciones, el diseñador las resuelve y, cuando todo cumple, firma el memorial de revisión que la curaduría exige para expedir la licencia de construcción.
@@ -7067,6 +7392,8 @@ Quién lo firma, cuándo se necesita y por qué depende de supervisar la obra de
 Normativa · Lectura de 3 min · 5 de octubre de 2026 · Equipo técnico DDES
 
 El Certificado Técnico de Ocupación es el documento con el que el supervisor técnico independiente certifica, bajo la gravedad de juramento, que una edificación se construyó según los planos, diseños y especificaciones técnicas, estructurales y geotécnicas aprobados en la licencia y según la NSR-10. Lo exige la Ley 1796 de 2016 en los proyectos que requieren supervisión técnica, y sin él la edificación no se puede ocupar.
+
+¿Su proyecto necesita supervisión técnica? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%ABCertificado%20T%C3%A9cnico%20de%20Ocupaci%C3%B3n%3A%20qu%C3%A9%20es%20y%20c%C3%B3mo%20se%20obtiene%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver el servicio de supervisión técnica](https://ddes.co/servicio-supervision/).
 
 ## Cuándo se necesita
 
@@ -7125,6 +7452,8 @@ Patología · Lectura de 4 min · 5 de octubre de 2026 · Equipo técnico DDES
 
 La mayoría de las fisuras de una vivienda son del pañete o de la pintura y no comprometen la estructura. Las que sí preocupan dan señales claras: son diagonales o en escalera, atraviesan el muro, tienen más de un milímetro de ancho, siguen creciendo o aparecen en vigas, columnas o losas. Si ve alguna de ellas, pida una inspección.
 
+¿Tiene fisuras en su edificación? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%AB%C2%BFCu%C3%A1ndo%20es%20peligrosa%20una%20fisura%3F%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver el peritaje de fisuras](https://ddes.co/peritaje-de-fisuras/).
+
 ## Las que suelen ser inofensivas
 
 Fisuras finas como un cabello, de menos de 0,3 mm, en forma de red sobre el pañete, o rectas en la unión entre un muro y una columna. Casi siempre son retracción del mortero o movimientos por temperatura, y se resuelven con un buen resane y pintura elástica.
@@ -7163,9 +7492,9 @@ Marque sus extremos con lápiz y la fecha, y fotografíela con una regla al lado
 
 - [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
 
-- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
 
-- [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -7183,6 +7512,8 @@ Por qué la brisa marina corroe el concreto desde adentro y qué especificar par
 Durabilidad · Lectura de 4 min · 3 de octubre de 2026 · Equipo técnico DDES
 
 En la costa Caribe, la mayor amenaza para una estructura de concreto no es el sismo: es la brisa. El aire marino transporta cloruros que penetran el concreto poco a poco hasta alcanzar el acero de refuerzo. Cuando la concentración supera un umbral, la capa que protege al acero se rompe y empieza la corrosión.
+
+¿Tiene fisuras en su edificación? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%ABCloruros%20y%20refuerzo%3A%20el%20recubrimiento%20que%20s%C3%AD%20protege%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver el peritaje de fisuras](https://ddes.co/peritaje-de-fisuras/).
 
 El óxido ocupa varias veces el volumen del acero original. Esa expansión fisura el recubrimiento, el concreto se desprende y el acero queda a la vista. Es el daño que se ve en tantos edificios de más de treinta años cerca del mar.
 
@@ -7208,9 +7539,9 @@ Con un concreto de baja permeabilidad, un recubrimiento generoso bien controlado
 
 - [Concreto cerca al mar: lo que exige la NSR-10 contra el salitre](https://ddes.co/articulo-concreto-salitre/): Clase de exposición C2, relación agua-cemento de 0,40, 35 MPa y recubrimientos: la receta de la norma para la costa.
 
-- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
 
-- [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
 
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
 
@@ -7230,6 +7561,8 @@ Cimentaciones para suelos que se hinchan en invierno y se contraen en verano.
 Suelos · Lectura de 3 min · 3 de octubre de 2026 · Equipo técnico DDES
 
 Buena parte del suroccidente de Barranquilla está sobre arcillas que cambian de volumen con la humedad: se expanden en la temporada de lluvias y se contraen en la seca. Una edificación con cimentación superficial sube y baja con ellas.
+
+¿Tiene fisuras en su edificación? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%ABArcillas%20expansivas%20en%20el%20suroccidente%20de%20Barranquilla%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver el peritaje de fisuras](https://ddes.co/peritaje-de-fisuras/).
 
 El síntoma típico son fisuras diagonales en los muros cerca de las esquinas, puertas que dejan de cerrar y pisos que se levantan. El daño suele atribuirse a la estructura cuando el origen está en el suelo.
 
@@ -7257,9 +7590,9 @@ Según el estudio de suelos: llevando la cimentación por debajo de la capa acti
 
 - [Estudio de suelos: cuántos sondeos y a qué profundidad pide la NSR-10](https://ddes.co/articulo-estudio-de-suelos/): La categoría de la edificación define el número mínimo de sondeos y su profundidad. Así lo fija el Título H.
 
-- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
 
-- [Un cilindro salió bajo: qué revisar antes de demoler](https://ddes.co/articulo-cilindro-bajo/): La edad del ensayo, el criterio de aceptación y los núcleos, en ese orden, con los 20 cilindros de Bodegas Centurión como ejemplo.
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -7277,6 +7610,8 @@ Umbrales de área, quién puede supervisar y qué pide la curaduría.
 Normativa · Lectura de 3 min · 3 de octubre de 2026 · Equipo técnico DDES
 
 La Ley 1796 de 2016, conocida como Ley de Vivienda Segura, se expidió después del colapso del edificio Space en Medellín. Cambió las reglas para diseñar y construir edificaciones en Colombia.
+
+¿Su proyecto necesita revisión independiente? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%ABLey%201796%3A%20cu%C3%A1ndo%20es%20obligatoria%20la%20supervisi%C3%B3n%20t%C3%A9cnica%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver el servicio de revisión](https://ddes.co/servicio-revision/).
 
 ## Qué exige
 
