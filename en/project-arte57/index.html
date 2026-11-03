@@ -1017,7 +1017,7 @@ footer .blurb{color:var(--band-muted);max-width:32ch;margin-top:20px;font-size:v
    while you read and comes back when you scroll up or touch it; the round button opens a glass sheet with everything else. */
 .tabbar,.sheet{display:none}
 @media (max-width:1060px){
-  button.scue{left:var(--gut);bottom:calc(86px + env(safe-area-inset-bottom,0px))}.hh-scene .hh-in{padding-bottom:146px}
+  button.scue{left:calc(var(--gut) - 8px);bottom:calc(80px + env(safe-area-inset-bottom,0px))}.hh-scene .hh-in{padding-bottom:128px}
   .tabbar{position:fixed;left:0;right:0;bottom:calc(12px + env(safe-area-inset-bottom,0px));z-index:70;display:flex;justify-content:space-between;align-items:center;gap:10px;max-width:560px;margin-inline:auto;padding-inline:12px;pointer-events:none}
   .tb-cap{position:relative;flex:1 1 auto;height:64px;border-radius:999px;pointer-events:auto;color:var(--ink);--tint:rgba(255,255,255,.2);--gb:5px}
   .tb-clip{position:absolute;inset:0;border-radius:inherit;overflow:hidden}
@@ -1079,14 +1079,13 @@ footer .blurb{color:var(--band-muted);max-width:32ch;margin-top:20px;font-size:v
 
 /* Data columns (after moto-card): the statement holds still while figures and specifications drift past on both sides,
    sharp and dark as they cross the middle, soft and faint as they recede */
-/* While a scene holds the page, say so: scrolling is working, and one press goes on to what follows */
-.scue{position:fixed;left:28px;bottom:28px;z-index:60;display:flex;align-items:center;gap:10px;min-height:46px;padding:0 18px 0 14px;border:1px solid rgba(255,255,255,.28);border-radius:999px;background:rgba(15,14,13,.88);color:#fff;font:500 16px/1 var(--f);cursor:pointer;opacity:0;visibility:hidden;transition:opacity var(--t2,.3s) var(--ease),visibility 0s linear .3s,background-color .2s}
-.scue.on{opacity:1;visibility:visible;transition:opacity var(--t2,.3s) var(--ease),visibility 0s,background-color .2s}
-.scue:hover{background:#0f0e0d}.scue:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
-.scue svg{width:18px;height:18px;flex:none;animation:scue 1.5s var(--ease-io,ease-in-out) infinite}
-.scue i{display:block;width:34px;height:2px;background:rgba(255,255,255,.3);overflow:hidden}
-.scue b{display:block;height:100%;background:var(--accent);transform-origin:left;transform:scaleX(.04)}
-@keyframes scue{0%,100%{transform:none}50%{transform:translateY(4px)}}
+/* Someone who stops while a scene holds the page gets a quiet word that scrolling goes on; it leaves as soon as they scroll */
+.scue{position:fixed;left:28px;bottom:20px;z-index:60;display:flex;align-items:center;gap:6px;min-height:40px;padding:0 8px;border:0;background:none;color:#fff;font:400 15px/1 var(--f);cursor:pointer;opacity:0;visibility:hidden;transition:opacity .2s linear,visibility 0s linear .2s}
+.scue.on{opacity:.82;visibility:visible;transition:opacity .6s var(--ease),visibility 0s}
+.scue.lt{color:#0f0e0d}
+.scue:hover{opacity:1}.scue:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.scue svg{width:15px;height:15px;flex:none;animation:scue 2.2s var(--ease-io,ease-in-out) infinite}
+@keyframes scue{0%,100%{transform:none}50%{transform:translateY(3px)}}
 @media print{.scue{display:none}}
 .datos{position:relative;height:170vh;background:#ecedeb;color:#0f0e0d}
 .dt-pin{position:sticky;top:0;height:100vh;height:100svh;overflow:hidden;display:grid;place-items:center}
@@ -1565,7 +1564,7 @@ path.setAttribute('d',d);requestAnimationFrame(frame)};requestAnimationFrame(fra
   </div>
 </footer>
 
-<script>(function(){var d=0,en=/^\/en(\/|$)/.test(location.pathname),add=function(u){var s=document.createElement('script');s.src=u;if(en)s.async=false;document.body.appendChild(s)},T=Date.now(),go=function(){if(d)return;var p=document.getElementById('pre');if(p&&p.isConnected&&Date.now()-T<4500){setTimeout(go,100);return}d=1;if(en)add('/en.34b5520888.js');add('/app.ca17218f1d.js');setTimeout(function(){var g=document.createElement('script');g.async=true;g.src='https://www.googletagmanager.com/gtag/js?id=G-VB8S102L6T';(window.requestIdleCallback||setTimeout)(function(){document.head.appendChild(g)},{timeout:2500})},1200)};try{new PerformanceObserver(function(l){if(l.getEntries().length)setTimeout(go,0)}).observe({type:'paint',buffered:true})}catch(e){requestAnimationFrame(function(){setTimeout(go,0)})}setTimeout(go,1500)})()</script>
+<script>(function(){var d=0,en=/^\/en(\/|$)/.test(location.pathname),add=function(u){var s=document.createElement('script');s.src=u;if(en)s.async=false;document.body.appendChild(s)},T=Date.now(),go=function(){if(d)return;var p=document.getElementById('pre');if(p&&p.isConnected&&Date.now()-T<4500){setTimeout(go,100);return}d=1;if(en)add('/en.34b5520888.js');add('/app.1ead1766fe.js');setTimeout(function(){var g=document.createElement('script');g.async=true;g.src='https://www.googletagmanager.com/gtag/js?id=G-VB8S102L6T';(window.requestIdleCallback||setTimeout)(function(){document.head.appendChild(g)},{timeout:2500})},1200)};try{new PerformanceObserver(function(l){if(l.getEntries().length)setTimeout(go,0)}).observe({type:'paint',buffered:true})}catch(e){requestAnimationFrame(function(){setTimeout(go,0)})}setTimeout(go,1500)})()</script>
 
 </body>
 </html>
