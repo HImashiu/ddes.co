@@ -15,7 +15,7 @@
 <link rel="alternate" hreflang="es-CO" href="https://ddes.co/servicio-interventoria/">
 <link rel="alternate" hreflang="en" href="https://ddes.co/en/service-construction-oversight/">
 <link rel="alternate" hreflang="x-default" href="https://ddes.co/servicio-interventoria/">
-<meta name="ddes:en" content="/en.a0e97f071b.js">
+<meta name="ddes:en" content="/en.34b5520888.js">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="DDES Structural Engineering">
 <meta property="og:locale" content="en_US">
@@ -194,10 +194,10 @@ figcaption .credit{margin:0}
 
 /* Home hero (after Huge): very large word and a heavy two-line statement over the photo */
 .hhero{position:relative;background:#0a0908;color:#fff;--hhp:clamp(640px,96vh,1020px);height:calc(var(--hhp) + 130vh)}
-/* The hero is a scene (see beamHero): it stays on screen for 130vh of scroll while its beam is loaded to failure; the break runs
+/* The hero is a scene (see beamHero): it stays on screen for 40vh of scroll while its beam is loaded to failure; the break runs
    through the whole frame, the two halves fall away, and the next section, already waiting underneath, is there. */
 .hhero.hh-scene{--hhp:100svh;height:calc(var(--hhp) + 90vh)}
-.hhero.hh-scene:not([data-mode=break]){height:calc(2 * var(--hhp) + 70vh);margin-bottom:calc(-1 * var(--hhp))}
+.hhero.hh-scene:not([data-mode=break]){height:calc(2 * var(--hhp) + 40vh);margin-bottom:calc(-1 * var(--hhp))}
 .hhero.hh-scene.still{height:auto;margin-bottom:0}
 /* the beam's own layer above the section that rises over the hero, so the section can meet it and lift it */
 .hh-fly{position:fixed;left:0;top:0;z-index:3;pointer-events:none}
@@ -1017,6 +1017,7 @@ footer .blurb{color:var(--band-muted);max-width:32ch;margin-top:20px;font-size:v
    while you read and comes back when you scroll up or touch it; the round button opens a glass sheet with everything else. */
 .tabbar,.sheet{display:none}
 @media (max-width:1060px){
+  button.scue{left:var(--gut);bottom:calc(86px + env(safe-area-inset-bottom,0px))}.hh-scene .hh-in{padding-bottom:146px}
   .tabbar{position:fixed;left:0;right:0;bottom:calc(12px + env(safe-area-inset-bottom,0px));z-index:70;display:flex;justify-content:space-between;align-items:center;gap:10px;max-width:560px;margin-inline:auto;padding-inline:12px;pointer-events:none}
   .tb-cap{position:relative;flex:1 1 auto;height:64px;border-radius:999px;pointer-events:auto;color:var(--ink);--tint:rgba(255,255,255,.2);--gb:5px}
   .tb-clip{position:absolute;inset:0;border-radius:inherit;overflow:hidden}
@@ -1078,7 +1079,16 @@ footer .blurb{color:var(--band-muted);max-width:32ch;margin-top:20px;font-size:v
 
 /* Data columns (after moto-card): the statement holds still while figures and specifications drift past on both sides,
    sharp and dark as they cross the middle, soft and faint as they recede */
-.datos{position:relative;height:230vh;background:#ecedeb;color:#0f0e0d}
+/* While a scene holds the page, say so: scrolling is working, and one press goes on to what follows */
+.scue{position:fixed;left:28px;bottom:28px;z-index:60;display:flex;align-items:center;gap:10px;min-height:46px;padding:0 18px 0 14px;border:1px solid rgba(255,255,255,.28);border-radius:999px;background:rgba(15,14,13,.88);color:#fff;font:500 16px/1 var(--f);cursor:pointer;opacity:0;visibility:hidden;transition:opacity var(--t2,.3s) var(--ease),visibility 0s linear .3s,background-color .2s}
+.scue.on{opacity:1;visibility:visible;transition:opacity var(--t2,.3s) var(--ease),visibility 0s,background-color .2s}
+.scue:hover{background:#0f0e0d}.scue:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.scue svg{width:18px;height:18px;flex:none;animation:scue 1.5s var(--ease-io,ease-in-out) infinite}
+.scue i{display:block;width:34px;height:2px;background:rgba(255,255,255,.3);overflow:hidden}
+.scue b{display:block;height:100%;background:var(--accent);transform-origin:left;transform:scaleX(.04)}
+@keyframes scue{0%,100%{transform:none}50%{transform:translateY(4px)}}
+@media print{.scue{display:none}}
+.datos{position:relative;height:170vh;background:#ecedeb;color:#0f0e0d}
 .dt-pin{position:sticky;top:0;height:100vh;height:100svh;overflow:hidden;display:grid;place-items:center}
 .dt-cols{position:absolute;inset:0}
 .dt-i{position:absolute;left:0;top:0;font-size:clamp(14px,1.2vw,18px);font-weight:500;letter-spacing:-.01em;color:#8e8983;white-space:nowrap;will-change:transform}
@@ -1559,7 +1569,7 @@ path.setAttribute('d',d);requestAnimationFrame(frame)};requestAnimationFrame(fra
   </div>
 </footer>
 
-<script>(function(){var d=0,en=/^\/en(\/|$)/.test(location.pathname),add=function(u){var s=document.createElement('script');s.src=u;if(en)s.async=false;document.body.appendChild(s)},T=Date.now(),go=function(){if(d)return;var p=document.getElementById('pre');if(p&&p.isConnected&&Date.now()-T<4500){setTimeout(go,100);return}d=1;if(en)add('/en.a0e97f071b.js');add('/app.b02b38daf3.js');setTimeout(function(){var g=document.createElement('script');g.async=true;g.src='https://www.googletagmanager.com/gtag/js?id=G-VB8S102L6T';(window.requestIdleCallback||setTimeout)(function(){document.head.appendChild(g)},{timeout:2500})},1200)};try{new PerformanceObserver(function(l){if(l.getEntries().length)setTimeout(go,0)}).observe({type:'paint',buffered:true})}catch(e){requestAnimationFrame(function(){setTimeout(go,0)})}setTimeout(go,1500)})()</script>
+<script>(function(){var d=0,en=/^\/en(\/|$)/.test(location.pathname),add=function(u){var s=document.createElement('script');s.src=u;if(en)s.async=false;document.body.appendChild(s)},T=Date.now(),go=function(){if(d)return;var p=document.getElementById('pre');if(p&&p.isConnected&&Date.now()-T<4500){setTimeout(go,100);return}d=1;if(en)add('/en.34b5520888.js');add('/app.ca17218f1d.js');setTimeout(function(){var g=document.createElement('script');g.async=true;g.src='https://www.googletagmanager.com/gtag/js?id=G-VB8S102L6T';(window.requestIdleCallback||setTimeout)(function(){document.head.appendChild(g)},{timeout:2500})},1200)};try{new PerformanceObserver(function(l){if(l.getEntries().length)setTimeout(go,0)}).observe({type:'paint',buffered:true})}catch(e){requestAnimationFrame(function(){setTimeout(go,0)})}setTimeout(go,1500)})()</script>
 
 </body>
 </html>
