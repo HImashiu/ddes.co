@@ -1416,23 +1416,26 @@ html.is-scrolling .gl{-webkit-backdrop-filter:blur(6px) saturate(1.8) brightness
 .lang-note{font-size:var(--fs-s);color:var(--muted);margin:0}
 .touch .lang-note{color:rgba(255,255,255,.75)}
 /* Contact: the ways to reach us, shortest first; the short form; a call when it suits the visitor */
-.c-ways{margin-top:28px;display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.cx h1{font-size:clamp(40px,5vw,76px);margin-bottom:14px}
+.cx-lead{font-size:19px;line-height:1.45;color:var(--muted);max-width:38ch;margin:0}
+.cx-wa{display:inline-flex;align-items:center;gap:10px;min-height:56px;padding-inline:26px;font-size:18px}.cx-wa svg{width:22px;height:22px;flex:none}
+.cx-sub{margin:12px 0 0;font-size:var(--fs-ui);color:var(--muted)}.cx-sub a{color:var(--ink);white-space:nowrap}
+.cx-t{margin-top:36px}.cx-t h2{font-size:var(--fs-b);font-weight:500;letter-spacing:0;line-height:1.35;margin:0 0 10px}
+.cx-t ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+.cx-t a{display:flex;justify-content:space-between;align-items:center;gap:16px;min-height:52px;padding:10px 0;border-bottom:1px solid var(--line);text-decoration:none;font-size:var(--fs-b);line-height:1.3}
+.cx-t a svg{width:18px;height:18px;flex:none;color:var(--muted);transition:color var(--t1) var(--ease)}.cx-t a:hover{color:var(--accent-text)}.cx-t a:hover svg{color:#1f9d55}
+.cx-qr{display:none}@media (min-width:861px) and (pointer:fine){.cx-qr{display:flex;align-items:center;gap:16px;margin-top:28px}.cx-qr svg{width:96px;height:96px;flex:none}.cx-qr p{margin:0;max-width:30ch;font-size:var(--fs-ui);color:var(--muted)}}
+.cx-f{display:grid;grid-template-columns:minmax(0,1fr);gap:18px;align-items:start;padding:clamp(20px,3vw,36px);background:var(--panel);border-radius:0 var(--r) var(--r) 0}
+.cx-f h2{font-size:var(--fs-h3);font-weight:500;line-height:1.1;margin:0}.cx-f textarea{min-height:92px}.cx-f small{font-weight:400;color:var(--muted);margin-left:4px}
+.cx-f .btn{justify-self:start}.cx-f .form-msg{min-height:0;margin:0}.cx-f .form-msg:empty{display:none}
+.cx-legal{margin:0;font-size:var(--fs-s);color:var(--muted)}.cx-legal a{color:var(--ink)}
+/* WhatsApp within reach on every page, once the visitor has started reading */
+.wa-f{position:fixed;right:24px;bottom:24px;z-index:60;display:grid;place-items:center;width:48px;height:48px;border-radius:50%;background:#fff;color:#1f9d55;box-shadow:0 0 0 1px rgba(15,14,13,.12),0 6px 18px rgba(15,14,13,.14);opacity:0;visibility:hidden;transition:opacity .25s linear,visibility 0s linear .25s,transform .25s var(--ease);transform:translateY(6px)}
+.wa-f.on{opacity:1;visibility:visible;transform:none;transition:opacity .25s linear,visibility 0s,transform .25s var(--ease)}.wa-f svg{width:25px;height:25px}.wa-f:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+@media print{.wa-f{display:none}}
+@media (max-width:1060px){a.wa-f{right:16px;bottom:calc(86px + env(safe-area-inset-bottom,0px))}}
+.c-ways{margin-top:24px;display:flex;flex-wrap:wrap;gap:10px;align-items:center}
 .c-ways .lang-note{flex-basis:100%}
-.f-reply{border:0;padding:0;margin:0;min-width:0}
-.f-reply legend{padding:0;margin-bottom:6px}
-.f-call{grid-column:1/-1;display:grid;grid-template-rows:0fr;opacity:0;margin-top:-24px;transition:grid-template-rows var(--t2) var(--ease),opacity var(--t2) var(--ease),margin-top var(--t2) var(--ease)}
-.f-call.on{grid-template-rows:1fr;opacity:1;margin-top:0}
-.f-call-in{min-height:0;overflow:hidden;display:grid;grid-template-columns:1fr 1fr;gap:18px 24px}
-.f-call-in>.field:nth-child(2),.f-call-in>.lang-note{grid-column:1/-1}
-.f-call .lbl small{font-weight:400;color:var(--muted);margin-left:6px}
-.f-call .pick+.pick{margin-top:8px}
-.f-more summary{cursor:pointer;list-style:none;font-size:var(--fs-ui);font-weight:500;display:flex;align-items:center;gap:10px;width:max-content}
-.f-more summary::-webkit-details-marker{display:none}
-.f-more summary::before{content:"+";display:inline-grid;place-items:center;width:22px;height:22px;border:1px solid var(--line);font-weight:400;transition:transform var(--t2) var(--ease)}
-.f-more[open] summary::before{transform:rotate(45deg)}
-.f-more-in{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:20px}
-.f-more-in .field.full{grid-column:1/-1}
-@media (max-width:860px){.f-call-in,.f-more-in{grid-template-columns:1fr}}
 /* the few words written by the stylesheet itself, in English */
 :lang(en) .office dd[data-cursor]::after{content:"Copied ✓"}
 :lang(en) .checks .row::after{content:"✓ Released"}
