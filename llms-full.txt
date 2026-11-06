@@ -577,6 +577,8 @@ Entregamos las observaciones con la referencia a la norma. El diseñador ajusta,
 
 [Herramientas NSR-10](https://ddes.co/herramientas/)
 
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
+
 - [Revisión independiente y supervisión técnica: en qué se diferencian](https://ddes.co/articulo-revision-supervision/): Una revisa el papel antes de la licencia; la otra, lo construido durante la obra. Las dos las exige la Ley 1796.
 
 - [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
@@ -5955,6 +5957,78 @@ Sí. DDES trabaja desde su oficina en Barranquilla con cobertura nacional. Para 
 
 ---
 
+URL: https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/
+Última actualización: 2026-11-06
+
+[Perspectivas](https://ddes.co/perspectivas/)
+
+# Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia
+
+Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
+
+Normativa · Lectura de 5 min · 6 de noviembre de 2026 · Equipo técnico DDES
+
+Para construir en Colombia, una empresa extranjera necesita lo mismo que una local: una licencia de construcción expedida por una curaduría urbana o por la oficina de planeación del municipio, y un diseño estructural que cumpla la NSR-10, firmado por un ingeniero con matrícula profesional colombiana. Si el lote permite construir más de 2.000 m², la Ley 1796 de 2016 exige además una revisión independiente de ese diseño antes de la licencia y una supervisión técnica independiente durante la obra.
+
+¿Su empresa va a construir en Colombia? [Escríbanos por WhatsApp](https://wa.me/573002021920?text=Hola%2C%20le%C3%AD%20la%20nota%20%C2%ABConstruir%20en%20Colombia%20siendo%20una%20empresa%20extranjera%3A%20NSR-10%2C%20Ley%201796%20y%20licencia%C2%BB%20en%20ddes.co%20y%20quiero%20consultar%20sobre%20mi%20proyecto.) y le responde un ingeniero. [Ver el servicio de revisión independiente](https://ddes.co/servicio-revision/).
+
+## La norma: NSR-10
+
+El Reglamento Colombiano de Construcción Sismo Resistente, NSR-10, es obligatorio en todo el país por la Ley 400 de 1997. Un diseño hecho con otro código, como el ACI, el Eurocódigo o las normas chinas GB, no se puede radicar tal cual: hay que verificarlo y ajustarlo a la NSR-10. En concreto reforzado, el Título C sigue de cerca al ACI 318; como práctica general, las diferencias más importantes aparecen en las fuerzas sísmicas, que dependen del municipio y del suelo.
+
+La amenaza sísmica cambia mucho de una ciudad a otra: consulte los coeficientes de cada municipio en [amenaza sísmica por municipio](https://ddes.co/amenaza-sismica/) y el [espectro de diseño](https://ddes.co/espectro-nsr10/).
+
+## Quién puede firmar los diseños
+
+Los planos y las memorias que se radican en la curaduría los firma un profesional con matrícula colombiana. Un ingeniero titulado y domiciliado en el exterior puede pedir al COPNIA un permiso temporal para ejercer en el país (Ley 842 de 2003). En la práctica, muchas empresas extranjeras trabajan con una firma local que adapta el diseño, lo firma y responde ante la curaduría.
+
+## Revisión y supervisión independientes (Ley 1796)
+
+Cuando el lote permite construir más de 2.000 m², un revisor independiente, distinto del diseñador, revisa el diseño estructural antes de la licencia, y un supervisor técnico independiente verifica durante la obra que se construya como fue diseñado. Al terminar, el [Certificado Técnico de Ocupación](https://ddes.co/articulo-cto/) cierra el proceso. Compruebe si su proyecto lo necesita con el [asistente de la Ley 1796](https://ddes.co/ley/) y vea [en qué se diferencian la revisión y la supervisión](https://ddes.co/articulo-revision-supervision/).
+
+## La licencia de construcción
+
+La curaduría pide, entre otros documentos, el estudio geotécnico, los planos estructurales y las memorias de cálculo firmados. Vea [qué documentos estructurales necesita la licencia](https://ddes.co/licencia-de-construccion/).
+
+## Cómo trabaja DDES con empresas extranjeras
+
+- Revisamos diseños hechos con otros códigos y los ajustamos a la NSR-10.
+- Hacemos el diseño estructural y lo firmamos para la licencia.
+- Hacemos la revisión independiente y la supervisión técnica que exige la Ley 1796.
+- Hacemos interventoría de obra en nombre del propietario.
+
+Nuestro equipo trabaja en español y lee inglés: puede escribirnos en cualquiera de los dos idiomas.
+
+## Preguntas frecuentes
+
+**¿Puede una empresa extranjera radicar un diseño hecho con el código de su país?**
+
+No tal cual. La NSR-10 es obligatoria en Colombia (Ley 400 de 1997): el diseño se verifica y se ajusta a la NSR-10, y lo firma un profesional con matrícula colombiana o con permiso temporal del COPNIA.
+
+**¿Cuándo se necesita revisión independiente?**
+
+Cuando el lote permite construir más de 2.000 m², según la Ley 1796 de 2016. En ese caso también se exige supervisión técnica independiente durante la obra.
+
+**¿Atienden en inglés?**
+
+Nuestro equipo trabaja en español y lee inglés. Puede escribirnos en inglés por WhatsApp o por correo.
+
+## Notas relacionadas
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
+
+- [Diseño estructural en Colombia: qué incluye y qué pide la NSR-10 para la licencia](https://ddes.co/articulo-diseno-estructural-colombia/): Quién lo firma, qué deben traer los planos y la memoria de cálculo, y en qué orden se hace.
+
+- [Casas de uno y dos pisos: lo que exige el Título E de la NSR-10](https://ddes.co/articulo-casas-uno-dos-pisos/): Cimentación, muros confinados, aberturas y columnas de amarre: los mínimos para construir una casa sismo resistente.
+
+- [Supervisión técnica según el Título I: qué verifica y qué documentos deja](https://ddes.co/articulo-supervision-titulo-i/): El alcance mínimo de la supervisión, el registro que debe llevar y la constancia final que firma.
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
+---
+
 URL: https://ddes.co/articulo-sismo-chaparral-2026/
 Última actualización: 2026-11-03
 
@@ -6019,7 +6093,7 @@ Si hay riesgo inmediato, avise a la oficina de gestión del riesgo de su municip
 
 - [Terremoto del 10 de agosto de 2026: lecciones de Pereira](https://ddes.co/articulo-caso-pereira-terremoto-2026/): Haber resistido el sismo de 1999 no era una garantía. Y el aeropuerto cerró por daños que no eran estructurales.
 
-- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
 
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
 
@@ -6093,7 +6167,7 @@ Lo define el diseño del piso según sus cargas. En Bodegas Centurión se especi
 
 - [Ensayo de cilindros: cuándo se acepta el concreto según la NSR-10](https://ddes.co/articulo-ensayo-cilindros/): Cuántas muestras tomar, cómo se evalúan y qué pasa si un resultado sale bajo: la sección C.5.6.
 
-- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -6164,7 +6238,7 @@ Cuando el promedio de los tres núcleos es al menos el 85% de f′c y ninguno qu
 
 - [Ensayo de cilindros: cuándo se acepta el concreto según la NSR-10](https://ddes.co/articulo-ensayo-cilindros/): Cuántas muestras tomar, cómo se evalúan y qué pasa si un resultado sale bajo: la sección C.5.6.
 
-- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -6234,7 +6308,7 @@ Para retracción y temperatura, una cuantía de 0,0018 con barras de 420 MPa, se
 
 - [Ensayo de cilindros: cuándo se acepta el concreto según la NSR-10](https://ddes.co/articulo-ensayo-cilindros/): Cuántas muestras tomar, cómo se evalúan y qué pasa si un resultado sale bajo: la sección C.5.6.
 
-- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -6314,13 +6388,13 @@ Sí. La NSR-10 lo permite (A.13), siempre que el profesional sea independiente d
 
 [Todas las notas](https://ddes.co/perspectivas/)
 
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
+
 - [Diseño estructural en Colombia: qué incluye y qué pide la NSR-10 para la licencia](https://ddes.co/articulo-diseno-estructural-colombia/): Quién lo firma, qué deben traer los planos y la memoria de cálculo, y en qué orden se hace.
 
 - [Casas de uno y dos pisos: lo que exige el Título E de la NSR-10](https://ddes.co/articulo-casas-uno-dos-pisos/): Cimentación, muros confinados, aberturas y columnas de amarre: los mínimos para construir una casa sismo resistente.
 
 - [Supervisión técnica según el Título I: qué verifica y qué documentos deja](https://ddes.co/articulo-supervision-titulo-i/): El alcance mínimo de la supervisión, el registro que debe llevar y la constancia final que firma.
-
-- [¿Tiembla en Barranquilla? Lo que exige la NSR-10 en la costa](https://ddes.co/articulo-sismo-barranquilla/): La amenaza sísmica es baja, pero el diseño debe resolver también el suelo, el viento y el salitre.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -6419,13 +6493,13 @@ Depende del tamaño y de qué tan definida esté la arquitectura. Como referenci
 
 [Todas las notas](https://ddes.co/perspectivas/)
 
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
+
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
 
 - [Casas de uno y dos pisos: lo que exige el Título E de la NSR-10](https://ddes.co/articulo-casas-uno-dos-pisos/): Cimentación, muros confinados, aberturas y columnas de amarre: los mínimos para construir una casa sismo resistente.
 
 - [Supervisión técnica según el Título I: qué verifica y qué documentos deja](https://ddes.co/articulo-supervision-titulo-i/): El alcance mínimo de la supervisión, el registro que debe llevar y la constancia final que firma.
-
-- [¿Tiembla en Barranquilla? Lo que exige la NSR-10 en la costa](https://ddes.co/articulo-sismo-barranquilla/): La amenaza sísmica es baja, pero el diseño debe resolver también el suelo, el viento y el salitre.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -6500,9 +6574,9 @@ Que al menos un elemento recibe, con las fuerzas de la norma vigente, más de lo
 
 - [¿Cuándo es peligrosa una fisura?](https://ddes.co/articulo-fisuras/): Cómo distinguir una fisura de acabado de una que pide un ingeniero: ancho, dirección, dónde aparece y si crece.
 
-- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
 
-- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -6578,9 +6652,9 @@ El ingeniero geotecnista, en el estudio de suelos que se presenta para la licenc
 
 - [Arcillas expansivas en el suroccidente de Barranquilla](https://ddes.co/articulo-arcillas/): Cimentaciones para suelos que se hinchan en invierno y se contraen en verano.
 
-- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
 
-- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -6643,7 +6717,7 @@ Según el reporte preliminar de Camacol, las edificaciones construidas con la NS
 
 - [Terremoto del 10 de agosto de 2026: lecciones de Pereira](https://ddes.co/articulo-caso-pereira-terremoto-2026/): Haber resistido el sismo de 1999 no era una garantía. Y el aeropuerto cerró por daños que no eran estructurales.
 
-- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
 
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
 
@@ -6702,7 +6776,7 @@ Por daños principalmente no estructurales, en cielos rasos y elementos interior
 
 - [Terremoto del 10 de agosto de 2026: qué falló en Cali](https://ddes.co/articulo-caso-cali-terremoto-2026/): Los edificios que colapsaron no se construyeron con la NSR-10. Pórticos flexibles, normas anteriores y un suelo que amplificó el movimiento.
 
-- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
 
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
 
@@ -6757,13 +6831,13 @@ El área de vanos de un muro no puede superar el 35% de su área total, y entre 
 
 [Todas las notas](https://ddes.co/perspectivas/)
 
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
+
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
 
 - [Diseño estructural en Colombia: qué incluye y qué pide la NSR-10 para la licencia](https://ddes.co/articulo-diseno-estructural-colombia/): Quién lo firma, qué deben traer los planos y la memoria de cálculo, y en qué orden se hace.
 
 - [Supervisión técnica según el Título I: qué verifica y qué documentos deja](https://ddes.co/articulo-supervision-titulo-i/): El alcance mínimo de la supervisión, el registro que debe llevar y la constancia final que firma.
-
-- [¿Tiembla en Barranquilla? Lo que exige la NSR-10 en la costa](https://ddes.co/articulo-sismo-barranquilla/): La amenaza sísmica es baja, pero el diseño debe resolver también el suelo, el viento y el salitre.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -6820,9 +6894,9 @@ De 4 a 10 niveles es categoría media: mínimo 4 sondeos de 15 m, o más profund
 
 - [Arcillas expansivas en el suroccidente de Barranquilla](https://ddes.co/articulo-arcillas/): Cimentaciones para suelos que se hinchan en invierno y se contraen en verano.
 
-- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
 
-- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -6873,9 +6947,9 @@ Como mínimo 75 mm contra el suelo, 50 mm para barras No. 6 o mayores a la intem
 
 - [Cloruros y refuerzo: el recubrimiento que sí protege](https://ddes.co/articulo-cloruros/): Por qué la brisa marina corroe el concreto desde adentro y qué especificar para evitarlo.
 
-- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
 
-- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
 
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
 
@@ -6932,7 +7006,7 @@ Se extraen tres núcleos por cada ensayo deficiente; la zona es adecuada si su p
 
 - [Ferroescáner: cómo revisar el refuerzo de una losa sin romperla](https://ddes.co/articulo-ferroescaner-losa/): Qué detecta, qué no y qué se concluyó en las tapas de los tanques de grasa de Bodegas Centurión.
 
-- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -6987,7 +7061,7 @@ Intermedia, con Aa = 0,15 y Av = 0,10. Montería, Sincelejo y Riohacha también 
 
 - [Elementos no estructurales: muros, fachadas e instalaciones en la NSR-10](https://ddes.co/articulo-elementos-no-estructurales/): Lo que no sostiene el edificio también debe diseñarse para el sismo. Y en la costa hay una exención.
 
-- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -7042,7 +7116,7 @@ Si tiene cirugía, cuidados intensivos o urgencias, en el grupo IV, con coeficie
 
 - [Elementos no estructurales: muros, fachadas e instalaciones en la NSR-10](https://ddes.co/articulo-elementos-no-estructurales/): Lo que no sostiene el edificio también debe diseñarse para el sismo. Y en la costa hay una exención.
 
-- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -7097,7 +7171,7 @@ Hay que rigidizar la estructura, con muros, secciones mayores o arriostramientos
 
 - [Elementos no estructurales: muros, fachadas e instalaciones en la NSR-10](https://ddes.co/articulo-elementos-no-estructurales/): Lo que no sostiene el edificio también debe diseñarse para el sismo. Y en la costa hay una exención.
 
-- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -7150,9 +7224,9 @@ Sí. La NSR-10 exige evaluar las implicaciones del cambio de uso aunque la obra 
 
 - [¿Cuándo es peligrosa una fisura?](https://ddes.co/articulo-fisuras/): Cómo distinguir una fisura de acabado de una que pide un ingeniero: ancho, dirección, dónde aparece y si crece.
 
-- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
 
-- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -7201,13 +7275,13 @@ Al menos cinco años desde la terminación de la construcción (I.2.2.2).
 
 [Todas las notas](https://ddes.co/perspectivas/)
 
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
+
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
 
 - [Diseño estructural en Colombia: qué incluye y qué pide la NSR-10 para la licencia](https://ddes.co/articulo-diseno-estructural-colombia/): Quién lo firma, qué deben traer los planos y la memoria de cálculo, y en qué orden se hace.
 
 - [Casas de uno y dos pisos: lo que exige el Título E de la NSR-10](https://ddes.co/articulo-casas-uno-dos-pisos/): Cimentación, muros confinados, aberturas y columnas de amarre: los mínimos para construir una casa sismo resistente.
-
-- [¿Tiembla en Barranquilla? Lo que exige la NSR-10 en la costa](https://ddes.co/articulo-sismo-barranquilla/): La amenaza sísmica es baja, pero el diseño debe resolver también el suelo, el viento y el salitre.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -7262,7 +7336,7 @@ Las edificaciones de los grupos de uso I y II en zonas de amenaza sísmica baja,
 
 - [Derivas: cuánto se puede mover un edificio durante un sismo](https://ddes.co/articulo-derivas/): La NSR-10 limita el desplazamiento entre pisos al 1% de su altura en concreto y acero. Por qué importa.
 
-- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -7313,13 +7387,13 @@ El suelo, el viento y la corrosión por salitre, que pueden pesar tanto como el 
 
 [Todas las notas](https://ddes.co/perspectivas/)
 
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
+
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
 
 - [Diseño estructural en Colombia: qué incluye y qué pide la NSR-10 para la licencia](https://ddes.co/articulo-diseno-estructural-colombia/): Quién lo firma, qué deben traer los planos y la memoria de cálculo, y en qué orden se hace.
 
 - [Casas de uno y dos pisos: lo que exige el Título E de la NSR-10](https://ddes.co/articulo-casas-uno-dos-pisos/): Cimentación, muros confinados, aberturas y columnas de amarre: los mínimos para construir una casa sismo resistente.
-
-- [Supervisión técnica según el Título I: qué verifica y qué documentos deja](https://ddes.co/articulo-supervision-titulo-i/): El alcance mínimo de la supervisión, el registro que debe llevar y la constancia final que firma.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -7370,13 +7444,13 @@ Ambas, cuando el lote permite construir más de 2.000 m², sin importar el uso (
 
 [Todas las notas](https://ddes.co/perspectivas/)
 
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
+
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
 
 - [Diseño estructural en Colombia: qué incluye y qué pide la NSR-10 para la licencia](https://ddes.co/articulo-diseno-estructural-colombia/): Quién lo firma, qué deben traer los planos y la memoria de cálculo, y en qué orden se hace.
 
 - [Casas de uno y dos pisos: lo que exige el Título E de la NSR-10](https://ddes.co/articulo-casas-uno-dos-pisos/): Cimentación, muros confinados, aberturas y columnas de amarre: los mínimos para construir una casa sismo resistente.
-
-- [Supervisión técnica según el Título I: qué verifica y qué documentos deja](https://ddes.co/articulo-supervision-titulo-i/): El alcance mínimo de la supervisión, el registro que debe llevar y la constancia final que firma.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -7429,13 +7503,13 @@ No, en los proyectos que requieren supervisión técnica según la Ley 1796.
 
 [Todas las notas](https://ddes.co/perspectivas/)
 
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
+
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
 
 - [Diseño estructural en Colombia: qué incluye y qué pide la NSR-10 para la licencia](https://ddes.co/articulo-diseno-estructural-colombia/): Quién lo firma, qué deben traer los planos y la memoria de cálculo, y en qué orden se hace.
 
 - [Casas de uno y dos pisos: lo que exige el Título E de la NSR-10](https://ddes.co/articulo-casas-uno-dos-pisos/): Cimentación, muros confinados, aberturas y columnas de amarre: los mínimos para construir una casa sismo resistente.
-
-- [Supervisión técnica según el Título I: qué verifica y qué documentos deja](https://ddes.co/articulo-supervision-titulo-i/): El alcance mínimo de la supervisión, el registro que debe llevar y la constancia final que firma.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -7494,9 +7568,9 @@ Marque sus extremos con lápiz y la fecha, y fotografíela con una regla al lado
 
 - [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
 
-- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
 
-- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -7541,9 +7615,9 @@ Con un concreto de baja permeabilidad, un recubrimiento generoso bien controlado
 
 - [Concreto cerca al mar: lo que exige la NSR-10 contra el salitre](https://ddes.co/articulo-concreto-salitre/): Clase de exposición C2, relación agua-cemento de 0,40, 35 MPa y recubrimientos: la receta de la norma para la costa.
 
-- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
 
-- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
 
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
 
@@ -7592,9 +7666,9 @@ Según el estudio de suelos: llevando la cimentación por debajo de la capa acti
 
 - [Estudio de suelos: cuántos sondeos y a qué profundidad pide la NSR-10](https://ddes.co/articulo-estudio-de-suelos/): La categoría de la edificación define el número mínimo de sondeos y su profundidad. Así lo fija el Título H.
 
-- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
 
-- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+- [Sismo del 3 de noviembre de 2026 en Chaparral, Tolima: qué revisar en su edificación](https://ddes.co/articulo-sismo-chaparral-2026/): Magnitud 5,6, superficial, y sentido en Bogotá, Cali, Ibagué y Armenia. Qué daños justifican llamar a un ingeniero.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 
@@ -7639,13 +7713,13 @@ Un profesional independiente del constructor, con la experiencia que exige la no
 
 [Todas las notas](https://ddes.co/perspectivas/)
 
+- [Construir en Colombia siendo una empresa extranjera: NSR-10, Ley 1796 y licencia](https://ddes.co/articulo-construir-en-colombia-empresa-extranjera/): Qué norma aplica, quién firma los diseños y qué exige la ley según el tamaño del proyecto.
+
 - [Interventoría de obra en Colombia: qué es, qué incluye y cuándo se exige](https://ddes.co/articulo-interventoria-de-obra/): El interventor representa al propietario y controla calidad, plazo y costo. La supervisión técnica es una parte de ese trabajo, y es la que exige la ley.
 
 - [Diseño estructural en Colombia: qué incluye y qué pide la NSR-10 para la licencia](https://ddes.co/articulo-diseno-estructural-colombia/): Quién lo firma, qué deben traer los planos y la memoria de cálculo, y en qué orden se hace.
 
 - [Casas de uno y dos pisos: lo que exige el Título E de la NSR-10](https://ddes.co/articulo-casas-uno-dos-pisos/): Cimentación, muros confinados, aberturas y columnas de amarre: los mínimos para construir una casa sismo resistente.
-
-- [Supervisión técnica según el Título I: qué verifica y qué documentos deja](https://ddes.co/articulo-supervision-titulo-i/): El alcance mínimo de la supervisión, el registro que debe llevar y la constancia final que firma.
 
 **Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
 

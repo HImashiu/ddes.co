@@ -50,6 +50,7 @@ Spanish version (the original): https://ddes.co/llms.txt
 - [Al Fresco warehouse, Galapa: construction oversight](https://ddes.co/en/project-galapa/): Al Fresco warehouse in Galapa, Atlántico: construction oversight by DDES, with a review of the structural drawings and the geotechnical study.
 
 ## Technical notes
+- [Building in Colombia as a foreign company: NSR-10](https://ddes.co/en/article-building-in-colombia-foreign-companies/): What a foreign company needs to build in Colombia: the NSR-10 code, who can sign the designs, Law 1796 review and supervision, and the building permit.
 - [Chaparral earthquake, Nov 3, 2026: what to check](https://ddes.co/en/article-earthquake-chaparral-tolima-2026/): The magnitude 5.6 earthquake of November 3, 2026 in Chaparral, Tolima: what happened, which damage to look for in a building and when to call an engineer.
 - [Industrial floors: why concrete is tested with beams](https://ddes.co/en/article-industrial-floors-beam-tests/): Why industrial floors are specified by modulus of rupture and tested with beams, with the results of 55 beams from the DDES oversight of Bodegas Centurión.
 - [Low concrete cylinder result: what to check first](https://ddes.co/en/article-low-concrete-cylinder-result/): A low cylinder result is not a failed structure: test age, the NSR-10 acceptance rule and cores, in order, using 20 real cylinders from Bodegas Centurión.
