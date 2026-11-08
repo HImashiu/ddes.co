@@ -1376,6 +1376,7 @@ html.is-scrolling .gl{-webkit-backdrop-filter:blur(6px) saturate(1.8) brightness
 .note.nudge{margin:28px 0;max-width:70ch;color:var(--ink);opacity:1}
 .note.nudge a{color:inherit;text-decoration:underline;text-underline-offset:3px;font-weight:500}
 .article .note.nudge{margin:4px 0 32px}
+.note.nudge.svc-wa{margin:20px 0 0}
 .qa .note{font-size:var(--fs-ui)}
 .spec{margin:0 0 20px}
 .spec svg{width:100%;height:auto;display:block;overflow:visible}

@@ -82,9 +82,9 @@ document.documentElement.lang="es";const CR={"ebano-render":"RENDER","ebano-g1":
         <div class="wrap hh-in"><p class="hello" aria-hidden="true" style="--len:8">Fisuras.</p>
           <h1 class="hsub"><span class="vh">${a.name}. </span><span>${a.tagline}</span> <a href="#contacto">¿Revisamos su estructura?</a></h1></div>
         ${credit(a.hero)?`<p class="credit">${credit(a.hero)}</p>`:""}</div></div></section>`:hero(a.hero,a.name,a.tagline,"",!0,null,["Servicios","servicios"])}
+    ${SVCWA[a.id]?`<div class="wrap"><p class="note nudge svc-wa">${SVCWA[a.id][0]} <a href="${waText(SVCWA[a.id][1])}" target="_blank" rel="noopener">Escríbanos por WhatsApp</a> y le responde un ingeniero.</p></div>`:""}
     ${crumbs([["Inicio","inicio"],["Servicios","servicios"],[a.name]])}
     <div class="wrap intro"><p>${(SVCANS[a.id]||[a.intro])[0]}</p><dl><div><dt>Norma</dt><dd>NSR-10</dd></div><div><dt>Entregables</dt><dd>${a.deliver.length}</dd></div><div><dt>Cobertura</dt><dd>Nacional</dd></div></dl></div>
-    ${SVCWA[a.id]?`<div class="wrap"><p class="note nudge">${SVCWA[a.id][0]} <a href="${waText(SVCWA[a.id][1])}" target="_blank" rel="noopener">Escríbanos por WhatsApp</a> y le responde un ingeniero.</p></div>`:""}
     <nav class="subnav" aria-label="Secciones"><div class="wrap"><div class="sn-links"><button data-go="alcance" class="on">Alcance</button><button data-go="proceso">Proceso</button><button data-go="entregables">Entregables</button><button data-go="preguntas">Preguntas</button><button data-go="proyectos">Proyectos</button></div><div class="sn-cta"><a href="#contacto">Pedir propuesta</a>${SVCWA[a.id]?`<a href="${waText(SVCWA[a.id][1])}" target="_blank" rel="noopener">Escribir por WhatsApp</a>`:""}</div></div></nav>
     ${SVCANS[a.id]?`<section class="qa-sec"><div class="wrap"><div class="qa"><h2>${SVCANS[a.id][1]}</h2><p>${SVCANS[a.id][2]}</p><p>${a.intro}</p>${SVCANS[a.id][3]()}</div></div></section>`:""}
     <section class="sec" id="alcance"><div class="wrap">${a.blocks.map((i,n)=>zz(i,n)).join("")}</div></section>
