@@ -32,6 +32,8 @@ Spanish version (the original): https://ddes.co/llms.txt
 - [Structural design of water tanks and swimming pools](https://ddes.co/en/tanks-and-pools/): Structural design of buried and elevated water tanks and pools in Colombia under NSR-10 Chapter C.23: watertightness, crack control and durability.
 - [Steel mezzanine design for warehouses and stores](https://ddes.co/en/steel-mezzanines/): Structural design of steel mezzanines in Colombia: NSR-10 live loads (B.4.2), steel beams and columns, the existing slab and foundation, and erection.
 - [Building permit in Colombia: structural requirements](https://ddes.co/en/building-permit-structural-requirements/): Which structural documents the curaduría asks for a building permit in Colombia: soil study, signed drawings and calculations, and Law 1796 review.
+- [Anchor points and lifelines: design and approval](https://ddes.co/en/fall-protection-anchor-points/): Design and approval of fall-protection anchor points and lifelines in Colombia under Resolution 4272 of 2021: 5,000 lb per person and a safety factor of 2.
+- [Rooftop solar panels: structural review of the roof](https://ddes.co/en/rooftop-solar-structural-review/): Structural review of roofs for solar panels in Colombia: system weight, NSR-10 wind (B.6) with edge and corner zones, purlins, trusses and strengthening.
 
 ## NSR-10 tools (free)
 - [Free NSR-10 tools: seismic hazard and design spectrum](https://ddes.co/en/tools/): Look up the seismic hazard of all 1,117 municipalities in Colombia, calculate the NSR-10 design spectrum and check what Law 1796 requires of your project. Free.

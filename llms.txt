@@ -38,6 +38,8 @@ Contacto: gerencia@ddes.co · WhatsApp +57 324 216 5189 · https://ddes.co/conta
 - [Tanques y piscinas](https://ddes.co/tanques-y-piscinas/): Diseño estructural de tanques enterrados y elevados, piscinas y cuartos de bombas según el Capítulo C.23 de la NSR-10: estanqueidad, fisuración y durabilidad.
 - [Mezzanine metálico](https://ddes.co/mezzanine-metalico/): Diseño estructural de mezzanines y entrepisos metálicos: cargas de uso NSR-10 (B.4.2), vigas y columnas en acero, placa y cimentación existentes, y montaje.
 - [Licencia de construcción](https://ddes.co/licencia-de-construccion/): Qué documentos estructurales pide la curaduría para la licencia de construcción: estudio de suelos, planos y memorias firmados y revisión independiente (Ley 1796).
+- [Puntos de anclaje y líneas de vida](https://ddes.co/puntos-de-anclaje/): Diseño y aprobación de puntos de anclaje y líneas de vida según la Resolución 4272 de 2021: 5.000 libras por persona, factor de seguridad 2 y revisión de la estructura.
+- [Paneles solares en cubierta](https://ddes.co/paneles-solares-en-cubierta/): Revisión estructural de cubiertas para paneles solares: peso del sistema, viento de la NSR-10 (B.6) con zonas de borde y esquina, correas, cerchas y refuerzo.
 
 ## Proyectos
 - [Altos de Solemio](https://ddes.co/proyecto-solemio/): Altos de Solemio (Interventoría y diseño). Interventoría por etapas de un desarrollo de torres de vivienda y un lote comercial, con el rediseño de sus obras exteriores.
