@@ -45,6 +45,7 @@ Contacto: gerencia@ddes.co · WhatsApp +57 324 216 5189 · https://ddes.co/conta
 - [Cuánto cuesta un diseño estructural](https://ddes.co/cuanto-cuesta-un-diseno-estructural/): Honorarios mínimos de referencia para diseño estructural, revisión y supervisión técnica en Colombia según la Resolución 0017 de 2017, y qué mueve el valor final.
 - [Cambio de uso de una edificación](https://ddes.co/cambio-de-uso/): Qué exige la NSR-10 al cambiar el uso de una edificación en Colombia: cargas, grupo de uso, evaluación según A.10 y licencia en modalidad de adecuación.
 - [Equipos pesados sobre una placa](https://ddes.co/equipos-sobre-placa/): Antes de instalar chillers, tanques, generadores o máquinas: cargas de impacto de la NSR-10 (B.4.4), peso concentrado, vibración y refuerzo de placa o cubierta.
+- [Hospitales y clínicas](https://ddes.co/diseno-de-hospitales/): Diseño y reforzamiento de hospitales y clínicas en Colombia: grupo de uso IV de la NSR-10, umbral de daño (A.12), elementos no estructurales y experiencia.
 
 ## Proyectos
 - [Altos de Solemio](https://ddes.co/proyecto-solemio/): Altos de Solemio (Interventoría y diseño). Interventoría por etapas de un desarrollo de torres de vivienda y un lote comercial, con el rediseño de sus obras exteriores.

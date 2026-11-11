@@ -39,6 +39,7 @@ Spanish version (the original): https://ddes.co/llms.txt
 - [How much structural design costs in Colombia](https://ddes.co/en/structural-design-fees/): Minimum reference fees for structural design, review and technical supervision in Colombia under Resolution 0017 of 2017, and what moves the final price.
 - [Change of use of a building: structural review](https://ddes.co/en/change-of-use/): What NSR-10 requires when a building changes use in Colombia: live loads, use group, assessment under chapter A.10 and the adaptation permit category.
 - [Heavy equipment on a slab or roof: structural review](https://ddes.co/en/heavy-equipment-on-a-slab/): Before installing chillers, tanks, generators or machines in Colombia: NSR-10 impact loads (B.4.4), concentrated weight, vibration and slab reinforcement.
+- [Hospital and clinic structural design, Colombia](https://ddes.co/en/hospital-structural-design/): Design and retrofit of hospitals and clinics in Colombia: NSR-10 use group IV, the damage-threshold check (A.12), nonstructural elements and project experience.
 
 ## NSR-10 tools (free)
 - [Free NSR-10 tools: seismic hazard and design spectrum](https://ddes.co/en/tools/): Look up the seismic hazard of all 1,117 municipalities in Colombia, calculate the NSR-10 design spectrum and check what Law 1796 requires of your project. Free.
