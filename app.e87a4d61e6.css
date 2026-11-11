@@ -2787,6 +2787,9 @@ html.is-scrolling .gl{-webkit-backdrop-filter:blur(6px) saturate(1.8) brightness
 .lst a{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:13px 2px 13px 0;text-decoration:none;font-size:var(--fs-ui)}
 
 .lst a small{color:var(--muted);font-size:var(--fs-s);white-space:nowrap}
+.lst-sol{grid-template-columns:repeat(auto-fill,minmax(260px,1fr))}
+.lst-sol a{flex-direction:column;align-items:flex-start;justify-content:flex-start;gap:4px;height:100%;box-sizing:border-box}
+.lst-sol a small{white-space:normal;line-height:1.45}
 
 .lst a svg{width:16px;height:16px;flex:none}
 

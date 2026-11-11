@@ -514,7 +514,7 @@ document.documentElement.lang="es";const CR={"ebano-render":"RENDER","ebano-g1":
 
     ${faqSec(CVFAQ)}
 
-    <section class="sec tight gap-t"><div class="wrap"><div class="sec-h"><div><h2>Situaciones comunes</h2></div>${LINK("#soluciones","Ver todas las soluciones")}</div><ul class="lst">${SOL.filter(a=>["mezzanine-metalico","diseno-de-bodegas","segundo-piso","reforzamiento-de-vivienda"].includes(a.s)).map(a=>`<li><a href="#${a.s}"><span>${a.n}</span><small>${a.lede}</small></a></li>`).join("")}</ul></div></section>
+    <section class="sec tight gap-t"><div class="wrap"><div class="sec-h"><div><h2>Situaciones comunes</h2></div>${LINK("#soluciones","Ver todas las soluciones")}</div><ul class="lst lst-sol">${SOL.filter(a=>["mezzanine-metalico","diseno-de-bodegas","segundo-piso","reforzamiento-de-vivienda"].includes(a.s)).map(a=>`<li><a href="#${a.s}"><span>${a.n}</span><small>${a.lede}</small></a></li>`).join("")}</ul></div></section>
 
     ${updLine()}
 
@@ -554,7 +554,7 @@ document.documentElement.lang="es";const CR={"ebano-render":"RENDER","ebano-g1":
 
     ${faqSec(a.faq)}
 
-    <section class="sec tight gap-t"><div class="wrap"><div class="sec-h"><div><h2>Otras situaciones</h2></div>${LINK("#soluciones","Ver todas las soluciones")}</div><ul class="lst">${SOL.filter(i=>i.s!==a.s).map(i=>`<li><a href="#${i.s}"><span>${i.n}</span><small>${i.lede}</small></a></li>`).join("")}</ul></div></section>
+    <section class="sec tight gap-t"><div class="wrap"><div class="sec-h"><div><h2>Otras situaciones</h2></div>${LINK("#soluciones","Ver todas las soluciones")}</div><ul class="lst lst-sol">${SOL.filter(i=>i.s!==a.s).map(i=>`<li><a href="#${i.s}"><span>${i.n}</span><small>${i.lede}</small></a></li>`).join("")}</ul></div></section>
 
     ${updLine()}
 
@@ -590,7 +590,7 @@ document.documentElement.lang="es";const CR={"ebano-render":"RENDER","ebano-g1":
 
     <section class="sec tight gap-t"><div class="wrap"><div class="sec-h"><div><h2>Notas técnicas para ${a.n}</h2></div>${LINK("#perspectivas","Todas las notas")}</div><div class="grid3">${a.arts.map(c=>ART.find(f=>f.id===c)).filter(Boolean).map(artCard).join("")}</div></div></section>
 
-    <section class="sec tight gap-t"><div class="wrap"><div class="sec-h"><div><h2>Situaciones comunes</h2></div>${LINK("#soluciones","Ver todas las soluciones")}</div><ul class="lst">${SOL.map(c=>`<li><a href="#${c.s}"><span>${c.n}</span><small>${c.lede}</small></a></li>`).join("")}</ul></div></section>
+    <section class="sec tight gap-t"><div class="wrap"><div class="sec-h"><div><h2>Situaciones comunes</h2></div>${LINK("#soluciones","Ver todas las soluciones")}</div><ul class="lst lst-sol">${SOL.map(c=>`<li><a href="#${c.s}"><span>${c.n}</span><small>${c.lede}</small></a></li>`).join("")}</ul></div></section>
 
     ${faqSec(cityFaq(a))}
 
