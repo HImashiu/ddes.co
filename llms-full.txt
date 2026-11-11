@@ -2243,6 +2243,12 @@ En Colombia existe un referente oficial: la Resolución 0017 de 2017 de la Comis
 
 [Escríbanos por WhatsApp](https://wa.me/573242165189?text=Hola%20DDES%2C%20quiero%20una%20propuesta%20de%20honorarios%20para%20el%20dise%C3%B1o%20estructural%20de%20un%20proyecto.) y le responde un ingeniero.
 
+## Calculadora de honorarios mínimos
+
+Con el tipo de estructura, el área, los pisos y los sótanos.
+
+Escriba el área para ver los honorarios mínimos de referencia.
+
 ## Lo que necesita tener a mano
 
 - Área construida y número de pisos y sótanos.
@@ -2714,13 +2720,15 @@ URL: https://ddes.co/herramientas/
 
 Lo que la norma pide para su proyecto, calculado en línea y con la tabla citada.
 
-DDES publica tres herramientas gratuitas basadas en el texto oficial de la NSR-10 y la Ley 1796 de 2016: la amenaza sísmica de cada municipio de Colombia, el espectro de diseño de un sitio y el asistente que dice si un proyecto necesita revisión independiente y supervisión técnica.
+DDES publica herramientas gratuitas basadas en el texto oficial de la NSR-10, la Ley 1796 de 2016 y la Resolución 0017 de 2017: el planificador de proyecto, la amenaza sísmica de cada municipio, el espectro de diseño, las cargas vivas por uso, el asistente de la Ley 1796 y la calculadora de honorarios mínimos.
 
 - Municipios: 1.117
 - Departamentos: 33
 - Fuente: NSR-10, Título A
 
 - [Planificador de proyecto](https://ddes.co/planificador/): Todo lo que pide la norma para su proyecto en una página: sismo, suelos, diseño, revisión, supervisión y documentos.
+
+- [Calculadora de honorarios mínimos](https://ddes.co/cuanto-cuesta-un-diseno-estructural/): El mínimo de referencia oficial para diseño, revisión y supervisión, según la Resolución 0017 de 2017.
 
 - [Amenaza sísmica por municipio](https://ddes.co/amenaza-sismica/): Aa, Av, Ae, Ad y zona de amenaza de los 1.117 municipios, del Apéndice A-4.
 
