@@ -1481,11 +1481,11 @@ URL: https://ddes.co/mezzanine-metalico/
 
 Más área útil dentro de la misma bodega o local.
 
-Un mezzanine metálico agrega un nivel dentro de una bodega, un local o una planta. Su diseño define vigas, columnas, placa, escaleras y barandas con las cargas de uso de la NSR-10 (B.4.2), y revisa que la estructura y la cimentación existentes puedan recibirlo. DDES lo diseña y acompaña su montaje.
+Un mezzanine metálico agrega un nivel dentro de una bodega, un centro logístico, un local o una planta. Su diseño define vigas, columnas, placa, escaleras y barandas con las cargas de uso de la NSR-10 (B.4.2), las estanterías y los equipos que va a llevar, y revisa que la estructura y la cimentación existentes puedan recibirlo. DDES lo diseña y acompaña su montaje.
 
 - Norma: NSR-10, B.4 y Título F
 - Servicio: Diseño estructural
-- Para: Bodegas, locales, plantas
+- Para: Bodegas, centros logísticos, locales y plantas
 
 [Escríbanos por WhatsApp](https://wa.me/573242165189?text=Hola%20DDES%2C%20quiero%20construir%20un%20mezzanine%20met%C3%A1lico%20y%20necesito%20el%20dise%C3%B1o.) y le responde un ingeniero.
 
@@ -1493,6 +1493,8 @@ Un mezzanine metálico agrega un nivel dentro de una bodega, un local o una plan
 
 - Área y altura disponibles, y la ubicación de las columnas existentes.
 - Uso del mezzanine: oficinas, almacenamiento o estanterías.
+- Si lleva estanterías: altura, número de niveles y peso máximo por estiba o por nivel.
+- Equipos que van a circular sobre el mezzanine, como estibadores o carros, con su peso cargado.
 - Planos de la bodega o del local, si existen.
 - Fotos de la placa de piso donde apoyarán las columnas.
 
@@ -1505,7 +1507,15 @@ Un mezzanine metálico agrega un nivel dentro de una bodega, un local o una plan
 
 ## ¿Qué carga debe resistir un mezzanine?
 
-La que corresponde a su uso según la Tabla B.4.2.1-1 de la NSR-10: un mezzanine de almacenamiento lleva mucha más carga que uno de oficinas. Cambiar el uso después sin revisar el diseño es una de las causas más comunes de deflexiones y fallas.
+La NSR-10 fija mínimos en la Tabla B.4.2.1-1: 2,0 kN/m² (200 kgf/m²) para oficinas, 6,0 kN/m² (600 kgf/m²) para almacenamiento liviano y 12,0 kN/m² (1.200 kgf/m²) para almacenamiento pesado. Son mínimos: la misma norma (B.4.2.1) pide diseñar con la máxima carga que se espera por el uso, así que si la mercancía pesa más, se diseña con ese valor. Por eso un mezzanine de oficinas no puede volverse bodega sin revisar el diseño.
+
+## ¿Qué cambia en un mezzanine para logística?
+
+Además de la carga repartida, pesan las cargas concentradas: las patas de las estanterías, las estibas apiladas y los equipos que se mueven sobre la placa. El diseño las ubica, revisa la placa y las vigas bajo cada apoyo y define por dónde pueden circular los equipos. Si las estanterías sostienen el mezzanine, estanterías y entrepiso se diseñan como un solo sistema.
+
+## ¿Y si es para una planta industrial?
+
+La Tabla B.4.2.1-1 da 5,0 kN/m² (500 kgf/m²) para industrias livianas y 10,0 kN/m² (1.000 kgf/m²) para industrias pesadas. Las máquinas se suman con su peso real y, si vibran, se revisa ese efecto en vigas y conexiones.
 
 ## ¿Se puede apoyar sobre la placa de piso existente?
 
@@ -1540,6 +1550,14 @@ Solo si la placa y el suelo resisten la carga concentrada de cada columna. Si no
 **¿Un mezzanine necesita licencia?**
 
 Un mezzanine agrega área construida y modifica la estructura, por lo que la curaduría suele exigir licencia con diseño estructural firmado. Confírmelo con su curaduría.
+
+**¿Qué entrega DDES?**
+
+Memoria de cálculo, planos estructurales y planos de taller y de montaje para el fabricante, firmados por un ingeniero civil con matrícula profesional. Si el fabricante ya tiene un diseño, DDES puede revisarlo.
+
+**¿Diseñan mezzanines en Bogotá y otras ciudades?**
+
+Sí. DDES trabaja desde Barranquilla para proyectos en toda Colombia. La amenaza sísmica de cada ciudad entra en el diseño de las columnas, los arriostramientos y las conexiones.
 
 **¿Cuánto se demora el montaje?**
 
@@ -6644,7 +6662,7 @@ Lo que dura la obra, más el cierre: el recibo, las pólizas y la liquidación d
 
 ## ¿Qué define el costo de una interventoría?
 
-La duración de la obra, la dedicación que exige (presencia permanente o visitas programadas), el tamaño y la complejidad del proyecto, el número de frentes simultáneos, los ensayos que se deben controlar y el alcance administrativo y financiero que pida el propietario. Con el contrato de obra y el cronograma, DDES envía una propuesta de alcance y honorarios.
+La duración de la obra, la dedicación que exige (presencia permanente o visitas programadas), el tamaño y la complejidad del proyecto, el número de frentes simultáneos, los ensayos que se deben controlar y el alcance administrativo y financiero que pida el propietario. Con el contrato de obra y el cronograma, DDES envía una [propuesta de interventoría](https://ddes.co/servicio-interventoria/) con alcance y honorarios.
 
 Vea el servicio de [interventoría de obra](https://ddes.co/servicio-interventoria/), el de [supervisión técnica](https://ddes.co/servicio-supervision/) y el [asistente de la Ley 1796](https://ddes.co/ley/).
 
