@@ -34,6 +34,11 @@ Spanish version (the original): https://ddes.co/llms.txt
 - [Building permit in Colombia: structural requirements](https://ddes.co/en/building-permit-structural-requirements/): Which structural documents the curaduría asks for a building permit in Colombia: soil study, signed drawings and calculations, and Law 1796 review.
 - [Anchor points and lifelines: design and approval](https://ddes.co/en/fall-protection-anchor-points/): Design and approval of fall-protection anchor points and lifelines in Colombia under Resolution 4272 of 2021: 5,000 lb per person and a safety factor of 2.
 - [Rooftop solar panels: structural review of the roof](https://ddes.co/en/rooftop-solar-structural-review/): Structural review of roofs for solar panels in Colombia: system weight, NSR-10 wind (B.6) with edge and corner zones, purlins, trusses and strengthening.
+- [Legalizing a building in Colombia: expert report](https://ddes.co/en/legalizing-a-building/): The structural expert report needed to legalize a building built without a permit in Colombia: who signs it, what it must state and where it does not apply.
+- [Removing a wall in Colombia: structural review](https://ddes.co/en/removing-a-wall/): Before removing a wall or remodelling an apartment in Colombia: how to tell if it carries load, when a permit is needed and what NSR-10 requires for the work.
+- [How much structural design costs in Colombia](https://ddes.co/en/structural-design-fees/): Minimum reference fees for structural design, review and technical supervision in Colombia under Resolution 0017 of 2017, and what moves the final price.
+- [Change of use of a building: structural review](https://ddes.co/en/change-of-use/): What NSR-10 requires when a building changes use in Colombia: live loads, use group, assessment under chapter A.10 and the adaptation permit category.
+- [Heavy equipment on a slab or roof: structural review](https://ddes.co/en/heavy-equipment-on-a-slab/): Before installing chillers, tanks, generators or machines in Colombia: NSR-10 impact loads (B.4.4), concentrated weight, vibration and slab reinforcement.
 
 ## NSR-10 tools (free)
 - [Free NSR-10 tools: seismic hazard and design spectrum](https://ddes.co/en/tools/): Look up the seismic hazard of all 1,117 municipalities in Colombia, calculate the NSR-10 design spectrum and check what Law 1796 requires of your project. Free.

@@ -40,6 +40,11 @@ Contacto: gerencia@ddes.co · WhatsApp +57 324 216 5189 · https://ddes.co/conta
 - [Licencia de construcción](https://ddes.co/licencia-de-construccion/): Qué documentos estructurales pide la curaduría para la licencia de construcción: estudio de suelos, planos y memorias firmados y revisión independiente (Ley 1796).
 - [Puntos de anclaje y líneas de vida](https://ddes.co/puntos-de-anclaje/): Diseño y aprobación de puntos de anclaje y líneas de vida según la Resolución 4272 de 2021: 5.000 libras por persona, factor de seguridad 2 y revisión de la estructura.
 - [Paneles solares en cubierta](https://ddes.co/paneles-solares-en-cubierta/): Revisión estructural de cubiertas para paneles solares: peso del sistema, viento de la NSR-10 (B.6) con zonas de borde y esquina, correas, cerchas y refuerzo.
+- [Reconocimiento de edificación](https://ddes.co/reconocimiento-de-edificacion/): Peritaje técnico para legalizar una construcción hecha sin licencia en Colombia: quién lo firma, qué debe decir, qué pide la curaduría y dónde no procede.
+- [Quitar un muro](https://ddes.co/quitar-un-muro/): Antes de quitar un muro o remodelar un apartamento: cómo saber si carga, cuándo se necesita licencia, qué exige la NSR-10 y cómo se refuerza.
+- [Cuánto cuesta un diseño estructural](https://ddes.co/cuanto-cuesta-un-diseno-estructural/): Honorarios mínimos de referencia para diseño estructural, revisión y supervisión técnica en Colombia según la Resolución 0017 de 2017, y qué mueve el valor final.
+- [Cambio de uso de una edificación](https://ddes.co/cambio-de-uso/): Qué exige la NSR-10 al cambiar el uso de una edificación en Colombia: cargas, grupo de uso, evaluación según A.10 y licencia en modalidad de adecuación.
+- [Equipos pesados sobre una placa](https://ddes.co/equipos-sobre-placa/): Antes de instalar chillers, tanques, generadores o máquinas: cargas de impacto de la NSR-10 (B.4.4), peso concentrado, vibración y refuerzo de placa o cubierta.
 
 ## Proyectos
 - [Altos de Solemio](https://ddes.co/proyecto-solemio/): Altos de Solemio (Interventoría y diseño). Interventoría por etapas de un desarrollo de torres de vivienda y un lote comercial, con el rediseño de sus obras exteriores.

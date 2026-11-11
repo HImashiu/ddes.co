@@ -39,19 +39,13 @@ Quién firma
 
 Diseño, revisión y supervisión los firman profesionales con matrícula y experiencia acreditada. Ellos responden por nuestro trabajo.
 
-Retrato Orlando Barrios Lozano
-
 ### Orlando Barrios Lozano
 
 Ingeniero civil, gerente de DDES. Firma los diseños estructurales y dirige las interventorías.
 
-Retrato Andrea Polo González
-
 ### Andrea Polo González
 
 Ingeniera de proyectos. Coordina la documentación técnica y el control de las obras.
-
-Retrato Equipo de interventoría
 
 ### Equipo de interventoría
 
@@ -103,6 +97,15 @@ DDES acompaña la estructura en todas sus etapas, en Barranquilla y el resto de 
 - [Patología y reforzamiento](https://ddes.co/servicio-patologia/): Evaluación de daños, vulnerabilidad sísmica y diseño de reforzamiento para edificaciones existentes.
 
 - [BIM y coordinación](https://ddes.co/servicio-bim/): Modelos estructurales en Revit coordinados con arquitectura y redes, con cantidades desde el modelo.
+
+## Según quién es usted
+
+- [Constructoras y promotores](https://ddes.co/para-constructoras/)
+- [Arquitectos](https://ddes.co/para-arquitectos/)
+- [Industria y logística](https://ddes.co/para-industria/)
+- [Contratistas de obra](https://ddes.co/para-contratistas/)
+- [Fabricantes y constructores](https://ddes.co/aliados/)
+- [Empresas extranjeras](https://ddes.co/internacional/)
 
 ## Herramientas NSR-10
 
@@ -881,6 +884,11 @@ El informe documenta el daño y su causa técnica, y puede acompañar una reclam
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -977,6 +985,11 @@ La evaluación de la estructura existente, el diseño de la ampliación y del re
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -1071,6 +1084,11 @@ Depende de la intervención. El diseño define el orden de los trabajos y si hac
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -1163,6 +1181,11 @@ Si la causa sigue activa, la fisura vuelve a abrir. Primero hay que saber por qu
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -1267,6 +1290,11 @@ Sí. En Bodegas Centurión y en Industrias Cannon DDES acompañó la obra con in
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -1367,6 +1395,11 @@ Sí. En los edificios Ébano y Casa Grande la obra incluyó muros de contención
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -1465,6 +1498,11 @@ Sí. El agua arriba agrega masa en la parte más alta, que aumenta las fuerzas s
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -1625,6 +1663,11 @@ Del área, del uso y las cargas, de si hay que revisar la estructura o la placa 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -1719,6 +1762,11 @@ No. La revisión debe hacerla un profesional distinto del diseñador y sin relac
 - [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -1814,6 +1862,11 @@ Sí. DDES trabaja desde Barranquilla para proyectos en toda Colombia.
 - [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -1907,6 +1960,609 @@ Sí. DDES trabaja en toda Colombia. La carga de viento cambia según la ciudad y
 - [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
+
+Última actualización: 6 de octubre de 2026
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
+---
+
+URL: https://ddes.co/reconocimiento-de-edificacion/
+Última actualización: 2026-10-06
+
+[Soluciones](https://ddes.co/soluciones/)
+
+# Peritaje técnico para legalizar una construcción
+
+Cuando la obra se hizo sin licencia.
+
+El reconocimiento es el trámite ante la curaduría para legalizar una edificación construida sin licencia. Exige un peritaje técnico firmado por un ingeniero civil matriculado, que determina la estabilidad de la construcción y las obras que disminuyan su vulnerabilidad sísmica, cuando hagan falta (Decreto 1077 de 2015, artículos 2.2.6.4.2.2 y 2.2.6.4.2.3). DDES hace el peritaje y, si se requiere, diseña el reforzamiento.
+
+- Norma: Decreto 1077 de 2015 y NSR-10, A.10
+- Plazo de la curaduría: Hasta 45 días hábiles
+- Servicio: Patología y reforzamiento
+
+[Escríbanos por WhatsApp](https://wa.me/573242165189?text=Hola%20DDES%2C%20necesito%20un%20peritaje%20t%C3%A9cnico%20para%20el%20reconocimiento%20de%20una%20edificaci%C3%B3n.) y le responde un ingeniero.
+
+## Lo que necesita tener a mano
+
+- Dirección y municipio del inmueble.
+- Año aproximado de construcción y número de pisos.
+- Uso actual: vivienda, local, bodega u otro.
+- Plano de levantamiento arquitectónico, si ya existe.
+- Planos antiguos o fotos de la construcción, si los hay.
+- Fotos de fachadas, columnas, muros y fisuras visibles.
+
+## Cómo lo resolvemos
+
+- Visita para identificar el sistema estructural y los materiales.
+- Exploración y ensayos, cuando la evaluación los necesita.
+- Evaluación según el capítulo A.10 de la NSR-10: resistencia sísmica existente frente al mínimo de la zona.
+- Peritaje técnico firmado, con las obras de reforzamiento que hagan falta.
+- Diseño del reforzamiento, si se requiere.
+- Respuesta a las observaciones técnicas de la curaduría.
+
+## ¿Qué edificaciones se pueden reconocer?
+
+Las que se hicieron sin licencia, cumplen el uso previsto por las normas urbanísticas vigentes y se concluyeron como mínimo cinco años antes de la entrada en vigencia de la Ley 1848 de 2017. Ese plazo no aplica cuando el reconocimiento se debe obtener por orden judicial o administrativa (artículo 2.2.6.4.1.1).
+
+## ¿Dónde no procede?
+
+No procede en áreas de protección ambiental y suelo de protección, en zonas de alto riesgo no mitigable, ni en inmuebles afectados por obra pública o que ocupen espacio público. Tampoco se adelanta en predios en litigio, hasta que se resuelvan (artículo 2.2.6.4.1.2).
+
+## ¿Qué debe decir el peritaje?
+
+El ingeniero deja constancia de que la edificación es segura o habitable dentro del alcance definido, de los elementos existentes de resistencia sísmica y de su ponderación frente al mínimo requerido para la zona sísmica. También señala las obras de reforzamiento necesarias para llevarla al nivel de seguridad de la NSR-10 (artículo 2.2.6.4.2.3).
+
+## ¿Qué más pide la curaduría?
+
+Además de los documentos generales de una licencia, el formulario único, el plano de levantamiento arquitectónico firmado por un arquitecto, la copia del peritaje técnico y la declaración de la antigüedad de la construcción, que se hace bajo juramento (artículo 2.2.6.4.2.2).
+
+## ¿Y si la edificación necesita reforzamiento?
+
+El acto de reconocimiento establece, si es del caso, la autorización para reforzar la estructura según la Ley 400 de 1997 y la NSR-10 (artículo 2.2.6.4.1.1, parágrafo 2).
+
+## ¿Hay costos adicionales?
+
+Las normas municipales pueden exigir compensaciones por espacio público y estacionamientos, que asume el titular del reconocimiento (artículo 2.2.6.4.2.6). Conviene preguntarlo en la curaduría antes de empezar.
+
+## Servicios de DDES para este caso
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Patología y reforzamiento](https://ddes.co/servicio-patologia/): Evaluación de daños, vulnerabilidad sísmica y diseño de reforzamiento para edificaciones existentes.
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+## Notas técnicas
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+
+- [Estudio de vulnerabilidad sísmica: qué es, cuándo lo exige la NSR-10 y qué incluye](https://ddes.co/articulo-vulnerabilidad-sismica/): El capítulo A.10 compara la estructura existente con una nueva y lo expresa en dos índices: sobreesfuerzo y flexibilidad.
+
+- [¿Cuándo es peligrosa una fisura?](https://ddes.co/articulo-fisuras/): Cómo distinguir una fisura de acabado de una que pide un ingeniero: ancho, dirección, dónde aparece y si crece.
+
+## Preguntas frecuentes
+
+**¿Quién firma el peritaje técnico?**
+
+Un ingeniero civil matriculado y facultado, que se hace responsable legalmente de los resultados del estudio (artículo 2.2.6.4.2.2).
+
+**¿Cuánto tarda la curaduría?**
+
+El término máximo es de 45 días hábiles. Si vence sin respuesta, no opera el silencio administrativo positivo (artículo 2.2.6.4.2.4).
+
+**¿Reconocimiento es lo mismo que licencia?**
+
+No. La licencia autoriza una obra por hacer. El reconocimiento legaliza una que ya existe y se hizo sin licencia.
+
+**¿Hacen peritajes fuera de Barranquilla?**
+
+Sí. DDES trabaja en toda Colombia.
+
+## Otras situaciones
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+- [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
+- [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
+
+Última actualización: 6 de octubre de 2026
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
+---
+
+URL: https://ddes.co/quitar-un-muro/
+Última actualización: 2026-10-06
+
+[Soluciones](https://ddes.co/soluciones/)
+
+# Quitar un muro o remodelar un apartamento
+
+Antes de tumbar, saber si ese muro carga.
+
+Un muro puede ser parte de la estructura aunque no lo parezca. Quitarlo o abrirle un vano cambia la forma en que el edificio resiste las cargas y el sismo. Si la obra toca la estructura portante o la distribución interior, no es una reparación locativa y requiere licencia, por lo general en la modalidad de modificación (Decreto 1077 de 2015). DDES revisa la estructura, dice qué se puede intervenir y diseña el refuerzo.
+
+- Norma: NSR-10, A.10 y Decreto 1077 de 2015
+- Servicio: Patología y reforzamiento
+- Para: Apartamentos, casas y locales
+
+[Escríbanos por WhatsApp](https://wa.me/573242165189?text=Hola%20DDES%2C%20quiero%20quitar%20un%20muro%20y%20necesito%20que%20un%20ingeniero%20lo%20revise.) y le responde un ingeniero.
+
+## Lo que necesita tener a mano
+
+- Plano del apartamento o la casa, con el muro marcado.
+- Planos estructurales del edificio, si la administración los tiene.
+- Año del edificio y número de pisos.
+- Fotos del muro y de lo que tiene arriba y a los lados.
+- Lo que quiere lograr: abrir la cocina, unir espacios, poner una puerta.
+
+## Cómo lo resolvemos
+
+- Revisión de los planos y visita.
+- Identificación del sistema estructural y de la función del muro.
+- Ensayos no destructivos, como el ferroescáner, cuando hacen falta para ver el refuerzo.
+- Evaluación de la modificación según el capítulo A.10 de la NSR-10.
+- Diseño del refuerzo, con memoria y planos firmados para la licencia.
+- Acompañamiento de la obra en los puntos críticos.
+
+## ¿Cómo saber si un muro carga?
+
+No se sabe mirándolo ni golpeándolo. Hay que conocer el sistema estructural: en edificios de muros de concreto o de mampostería estructural, los muros son la estructura. En edificios de pórticos, muchos muros divisorios no sostienen placas, pero algunos pueden estar trabajando ante el sismo. Los planos estructurales y una visita lo aclaran.
+
+## ¿Necesito licencia?
+
+Las reparaciones locativas no requieren licencia, pero el Decreto 1077 de 2015 las define como obras que no afectan la estructura portante ni la distribución interior (artículo 2.2.6.1.1.10). Variar el diseño arquitectónico o estructural de una edificación existente sin aumentar su área corresponde a la modalidad de modificación (artículo 2.2.6.1.1.7).
+
+## ¿Y en un edificio con administración?
+
+En propiedad horizontal, la estructura es un bien común esencial (Ley 675 de 2001, artículo 3). Un propietario no puede intervenirla por su cuenta: revise el reglamento y hable con la administración antes de contratar la obra.
+
+## ¿Qué exige la NSR-10?
+
+El capítulo A.10 aplica a las alteraciones de edificaciones existentes (A.10.1.3.4). Solo los cambios menores que no afecten el sistema de resistencia sísmica ni la integridad estructural quedan por fuera de esos estudios (A.10.1.3.1).
+
+## ¿Se puede quitar un muro estructural?
+
+A veces, reemplazando su función: con una viga de transferencia, un marco en el vano o el refuerzo de otros elementos. La solución depende del edificio. En algunos casos la respuesta correcta es que no, y es mejor saberlo antes de romper.
+
+## Errores que vemos con frecuencia
+
+Confiar en que el muro «suena hueco». Abrir regatas para tuberías que cortan el refuerzo de un muro. Hacer el vano primero y consultar después, cuando aparecen las fisuras. Suponer que un muro que no llega a la placa no importa: puede estar arriostrando a otro.
+
+## Servicios de DDES para este caso
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Patología y reforzamiento](https://ddes.co/servicio-patologia/): Evaluación de daños, vulnerabilidad sísmica y diseño de reforzamiento para edificaciones existentes.
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+## Notas técnicas
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+
+- [Ferroescáner: cómo revisar el refuerzo de una losa sin romperla](https://ddes.co/articulo-ferroescaner-losa/): Qué detecta, qué no y qué se concluyó en las tapas de los tanques de grasa de Bodegas Centurión.
+
+- [¿Cuándo es peligrosa una fisura?](https://ddes.co/articulo-fisuras/): Cómo distinguir una fisura de acabado de una que pide un ingeniero: ancho, dirección, dónde aparece y si crece.
+
+## Preguntas frecuentes
+
+**¿Puedo tumbar un muro de mi apartamento?**
+
+Depende del sistema estructural del edificio. En edificios de muros de concreto casi siempre son parte de la estructura. Antes de tocarlo, hágalo revisar y consulte a la administración.
+
+**¿Qué pasa si ya lo tumbé?**
+
+Escríbanos con fotos. Hay que evaluar el efecto en la estructura y, si hace falta, reforzar.
+
+**¿Cambiar pisos, enchapes o redes requiere licencia?**
+
+El Decreto 1077 de 2015 los incluye entre las reparaciones locativas, que no requieren licencia, siempre que no afecten la estructura portante ni la distribución interior.
+
+**¿Atienden casas y apartamentos?**
+
+Sí. DDES atiende a empresas y a particulares en toda Colombia.
+
+## Otras situaciones
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+- [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
+- [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
+
+Última actualización: 6 de octubre de 2026
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
+---
+
+URL: https://ddes.co/cuanto-cuesta-un-diseno-estructural/
+Última actualización: 2026-10-06
+
+[Soluciones](https://ddes.co/soluciones/)
+
+# Cuánto cuesta un diseño estructural en Colombia
+
+Los mínimos de referencia oficiales y lo que mueve el valor final.
+
+En Colombia existe un referente oficial: la Resolución 0017 de 2017 de la Comisión Asesora del Régimen Sismo Resistente fija honorarios mínimos para el diseño estructural, la revisión y la supervisión técnica. El honorario básico de diseño es el 5,2 % del costo de la estructura, ajustado por complejidad y repetición. Son mínimos de referencia, no precios de DDES: la propuesta final depende del alcance de cada proyecto.
+
+- Referencia: Resolución 0017 de 2017
+- Honorario básico: 5,2 % del costo de la estructura
+- Revisión: 25 % del honorario de diseño
+
+[Escríbanos por WhatsApp](https://wa.me/573242165189?text=Hola%20DDES%2C%20quiero%20una%20propuesta%20de%20honorarios%20para%20el%20dise%C3%B1o%20estructural%20de%20un%20proyecto.) y le responde un ingeniero.
+
+## Lo que necesita tener a mano
+
+- Área construida y número de pisos y sótanos.
+- Uso de la edificación y municipio.
+- Proyecto arquitectónico, aunque sea preliminar.
+- Si hay estructuras repetidas.
+- El alcance que necesita: diseño, revisión, supervisión, planos de taller, coordinación BIM.
+
+## Cómo lo resolvemos
+
+- Definición del alcance y de los entregables.
+- Clasificación del proyecto por complejidad.
+- Propuesta con honorarios, plazos y forma de pago.
+
+## Honorarios mínimos de referencia por complejidad
+
+Valores por metro cuadrado en salarios mínimos mensuales (SMMLV), calculados con la sección 4.2 de la Resolución 0017 de 2017. Si aplican dos grados, se usa el de mayor complejidad.
+
+| Grado | Qué incluye | Diseño (SMMLV/m²) | Revisión (SMMLV/m²) |
+| --- | --- | --- | --- |
+| Grado A | Cuatro o más sótanos, 20 o más pisos, fundaciones de maquinaria, rehabilitación de estructuras existentes con análisis de vulnerabilidad | 0,0390 | 0,0098 |
+| Grado B | Centros comerciales, estructuras industriales, edificaciones indispensables y de atención a la comunidad, tres sótanos o de 15 a 19 pisos | 0,0351 | 0,0088 |
+| Grado C | Tanques, piscinas, estructuras de madera y guadua, dos sótanos o de 10 a 14 pisos | 0,0312 | 0,0078 |
+| Grado D | Cubiertas metálicas, un sótano o de 6 a 9 pisos, estudios de vulnerabilidad sin diseño de rehabilitación | 0,0273 | 0,0068 |
+| Grado E | Sin sótano y hasta cinco pisos, viviendas de uno y dos pisos | 0,0234 | 0,0059 |
+
+## ¿De dónde salen estos valores?
+
+El artículo 42 de la Ley 400 de 1997 faculta a la Comisión Asesora para establecer el alcance de las labores profesionales y los procedimientos para fijar honorarios mínimos. La Resolución 0017 de 2017 los define como un referente para estimar esos mínimos, siempre que se cumpla el alcance que ella establece.
+
+## ¿Cómo se usa la tabla?
+
+Cuando aún no se conoce el costo de la construcción, la resolución expresa los honorarios por metro cuadrado en salarios mínimos mensuales. Por ejemplo, una edificación sin sótano de 1.000 m² da 0,0234 × 1.000 = 23,4 SMMLV como mínimo de referencia para el diseño, y 5,9 SMMLV para su revisión.
+
+## ¿Qué pasa si el edificio se repite?
+
+La primera estructura cuenta 1,0, la segunda 0,5, la tercera 0,3 y cada una de las siguientes 0,1. Un grupo de 16 estructuras iguales da un factor de 3,1 sobre el honorario de una.
+
+## ¿Cuánto cuesta la supervisión técnica?
+
+La resolución da 1,25 % del costo directo de construcción para la supervisión continua y 0,5 % para la itinerante.
+
+## ¿Y el estudio de suelos?
+
+Depende del costo de la exploración, de los ensayos de laboratorio y del trabajo de ingeniería. La resolución no fija una tabla para ese caso.
+
+## ¿Y la interventoría?
+
+La resolución no la incluye. Su costo depende de la duración de la obra, del personal en sitio y de lo que el contrato pida controlar: técnica, plazo, presupuesto o todo a la vez.
+
+## ¿Qué mueve el valor final?
+
+El alcance por encima del mínimo: despiece completo, planos de taller, coordinación BIM, optimización de cantidades, visitas a obra y respuesta a las observaciones de la curaduría. Al comparar propuestas, compare primero qué incluye cada una.
+
+## Servicios de DDES para este caso
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Revisión independiente](https://ddes.co/servicio-revision/): Revisión de diseños estructurales de terceros, obligatoria en proyectos de más de 2.000 m².
+
+## Notas técnicas
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Diseño estructural en Colombia: qué incluye y qué pide la NSR-10 para la licencia](https://ddes.co/articulo-diseno-estructural-colombia/): Quién lo firma, qué deben traer los planos y la memoria de cálculo, y en qué orden se hace.
+
+- [Ley 1796: cuándo es obligatoria la supervisión técnica](https://ddes.co/articulo-ley1796/): Umbrales de área, quién puede supervisar y qué pide la curaduría.
+
+- [Revisión independiente y supervisión técnica: en qué se diferencian](https://ddes.co/articulo-revision-supervision/): Una revisa el papel antes de la licencia; la otra, lo construido durante la obra. Las dos las exige la Ley 1796.
+
+## Preguntas frecuentes
+
+**¿Cuál es el honorario mínimo de un diseño estructural?**
+
+Según la Resolución 0017 de 2017, el honorario básico es el 5,2 % del costo de la estructura, multiplicado por un porcentaje de complejidad que va del 60 % al 100 %.
+
+**¿Cuánto cuesta la revisión independiente?**
+
+El 25 % de los honorarios de diseño estructural, según la misma resolución.
+
+**¿Estos son los precios de DDES?**
+
+No. Son los mínimos de referencia de la Comisión Asesora. DDES envía una propuesta según el alcance de cada proyecto.
+
+**¿Qué necesitan para cotizar?**
+
+El área, los pisos y sótanos, el uso, el municipio y el proyecto arquitectónico, aunque sea preliminar.
+
+## Otras situaciones
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+- [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
+- [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
+
+Última actualización: 6 de octubre de 2026
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
+---
+
+URL: https://ddes.co/cambio-de-uso/
+Última actualización: 2026-10-06
+
+[Soluciones](https://ddes.co/soluciones/)
+
+# Cambiar el uso de una edificación
+
+De casa a local, de oficina a bodega: la estructura también cambia de trabajo.
+
+Cuando una edificación cambia de uso, la NSR-10 exige evaluar las implicaciones ante cargas verticales, fuerzas horizontales y especialmente efectos sísmicos, aunque la obra sea menor (A.10.1.3.2). En el trámite urbanístico, la modalidad de licencia para cambiar el uso es la adecuación. DDES evalúa la estructura para el uso nuevo y diseña el reforzamiento si hace falta.
+
+- Norma: NSR-10, A.10.1.3.2 y B.4.2
+- Licencia: Modalidad de adecuación
+- Servicio: Patología y reforzamiento
+
+[Escríbanos por WhatsApp](https://wa.me/573242165189?text=Hola%20DDES%2C%20voy%20a%20cambiar%20el%20uso%20de%20una%20edificaci%C3%B3n%20y%20necesito%20evaluar%20la%20estructura.) y le responde un ingeniero.
+
+## Lo que necesita tener a mano
+
+- Uso actual y uso nuevo.
+- Área, número de pisos y año de construcción.
+- Planos estructurales, si existen.
+- Peso de lo que va a llevar: mercancía, equipos, público.
+- Fotos de la estructura visible.
+
+## Cómo lo resolvemos
+
+- Comparación de las cargas de uso actual y nueva (Tabla B.4.2.1-1).
+- Revisión del grupo de uso y del coeficiente de importancia (A.2.5).
+- Evaluación de la estructura existente según el capítulo A.10.
+- Diseño del reforzamiento, si hace falta.
+- Memoria y planos firmados para la licencia.
+
+## ¿Qué dice la NSR-10?
+
+Según A.10.1.3.2, hay cambio de uso cuando se modifica el uso de acuerdo con las normas urbanísticas, por ejemplo de residencial a comercial, o cuando la edificación pasa a un grupo de uso superior. En esos casos se evalúan las implicaciones, incluso si la obra es menor.
+
+## ¿Por qué importa la carga?
+
+Porque los mínimos cambian mucho. La Tabla B.4.2.1-1 da 2,0 kN/m² para oficinas, 5,0 kN/m² para industria liviana y 6,0 o 12,0 kN/m² para almacenamiento. Una placa diseñada para oficinas puede quedar corta para una bodega.
+
+## ¿Por qué importa el grupo de uso?
+
+El grupo de uso define el coeficiente de importancia: 1,0 para ocupación normal, 1,1 para ocupación especial, 1,25 para atención a la comunidad y 1,5 para edificaciones indispensables. Subir de grupo aumenta las fuerzas sísmicas de diseño.
+
+## ¿Qué licencia se necesita?
+
+El Decreto 1077 de 2015 define la adecuación como la autorización para cambiar el uso de una edificación o parte de ella, conservando total o parcialmente el inmueble original (artículo 2.2.6.1.1.7). Si además se interviene la estructura, puede sumarse el reforzamiento estructural o la modificación. Confírmelo con su curaduría.
+
+## Servicios de DDES para este caso
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Patología y reforzamiento](https://ddes.co/servicio-patologia/): Evaluación de daños, vulnerabilidad sísmica y diseño de reforzamiento para edificaciones existentes.
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+## Notas técnicas
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+
+- [Grupos de uso: por qué un colegio o una clínica se diseñan más fuertes](https://ddes.co/articulo-grupos-de-uso/): La NSR-10 clasifica las edificaciones en cuatro grupos y aumenta las fuerzas de diseño hasta en un 50%.
+
+- [Estudio de vulnerabilidad sísmica: qué es, cuándo lo exige la NSR-10 y qué incluye](https://ddes.co/articulo-vulnerabilidad-sismica/): El capítulo A.10 compara la estructura existente con una nueva y lo expresa en dos índices: sobreesfuerzo y flexibilidad.
+
+## Preguntas frecuentes
+
+**¿Puedo convertir mi casa en local comercial?**
+
+Primero debe permitirlo la norma urbana del predio. Además, la NSR-10 pide evaluar el efecto del cambio en la estructura.
+
+**¿Un colegio o una clínica en un edificio existente?**
+
+Son usos de grupos superiores. El coeficiente de importancia sube y la evaluación estructural es indispensable.
+
+**¿Siempre hay que reforzar?**
+
+No. La evaluación dice si la estructura resiste el uso nuevo y, si no, qué hay que hacer.
+
+## Otras situaciones
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+- [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
+- [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
+
+Última actualización: 6 de octubre de 2026
+
+**Aviso legal.** Este contenido es informativo y de carácter general. No constituye asesoría profesional ni reemplaza los estudios, diseños y cálculos de un ingeniero facultado, que debe evaluar cada proyecto en particular. Las referencias a la NSR-10 y a otras normas deben verificarse en su texto oficial vigente. DDES no asume responsabilidad por decisiones tomadas únicamente con base en esta información.
+
+---
+
+URL: https://ddes.co/equipos-sobre-placa/
+Última actualización: 2026-10-06
+
+[Soluciones](https://ddes.co/soluciones/)
+
+# Poner equipos pesados sobre una placa o cubierta
+
+Chillers, tanques, generadores y máquinas: antes de subirlos, revisar.
+
+Un equipo nuevo agrega peso concentrado y, si tiene motor, impacto y vibración. La NSR-10 aumenta la carga en los apoyos de maquinaria: 20 % si es liviana y movida por motor eléctrico, y no menos de 50 % si es de émbolo o motor a pistón (B.4.4). DDES revisa si la placa, las vigas y las columnas lo resisten, y diseña la base o el refuerzo.
+
+- Norma: NSR-10, B.4.4 y A.10
+- Servicio: Diseño estructural
+- Para: Plantas, centros comerciales y edificios
+
+[Escríbanos por WhatsApp](https://wa.me/573242165189?text=Hola%20DDES%2C%20voy%20a%20instalar%20un%20equipo%20pesado%20y%20necesito%20revisar%20la%20estructura.) y le responde un ingeniero.
+
+## Lo que necesita tener a mano
+
+- Ficha técnica del equipo: peso en operación, dimensiones y puntos de apoyo.
+- Tipo de motor y frecuencia de operación.
+- Ubicación prevista, con plano o foto.
+- Planos estructurales del edificio, si existen.
+- Cómo se va a subir o entrar el equipo.
+
+## Cómo lo resolvemos
+
+- Identificación de la estructura que recibe el equipo.
+- Cálculo de cargas, incluido el impacto (B.4.4).
+- Revisión de placa, vigas, columnas y cimentación.
+- Revisión del efecto en la respuesta sísmica, si la masa es importante.
+- Diseño de la base, los apoyos o el refuerzo, con planos firmados.
+
+## ¿Cuánto aumenta la carga por impacto?
+
+Según B.4.4: 100 % en los soportes de elevadores y ascensores, 20 % en los apoyos de maquinaria liviana movida por motor eléctrico o por un eje, y no menos de 50 % en los apoyos de maquinaria de émbolo o movida por motor a pistón.
+
+## ¿Qué problema da el peso concentrado?
+
+Las cargas de la Tabla B.4.2.1-1 son repartidas. Un equipo apoya en pocos puntos, y lo que puede fallar es la placa bajo el apoyo o la vigueta que lo recibe, aunque el peso total parezca poco. En placas aligeradas la ubicación respecto a las viguetas es decisiva.
+
+## ¿Y en una cubierta metálica?
+
+Muchas cubiertas se diseñan con cargas vivas bajas y cerchas sin reserva para equipos. Un equipo puede exigir reforzar correas y cerchas o llevar su peso a las columnas con una estructura propia.
+
+## ¿La vibración es un problema estructural?
+
+Puede serlo, sobre todo si la frecuencia del equipo se acerca a la de la placa. También afecta a quienes están debajo. Se controla con la base, los aisladores y la ubicación.
+
+## ¿Aplica el capítulo A.10?
+
+Si el cambio afecta el sistema de resistencia sísmica o la integridad estructural, sí. Solo los cambios menores que no los afecten quedan por fuera (A.10.1.3.1).
+
+## Servicios de DDES para este caso
+
+[Todos los servicios](https://ddes.co/servicios/)
+
+- [Diseño estructural](https://ddes.co/servicio-diseno/): Edificaciones en concreto, acero y mampostería diseñadas bajo la NSR-10, desde la concepción hasta el despiece.
+
+- [Patología y reforzamiento](https://ddes.co/servicio-patologia/): Evaluación de daños, vulnerabilidad sísmica y diseño de reforzamiento para edificaciones existentes.
+
+## Proyectos relacionados
+
+[Toda la experiencia](https://ddes.co/experiencia/)
+
+- [Industrias Cannon](https://ddes.co/proyecto-cannon/): Diseño estructural e interventoría de una planta industrial, desde la licencia de construcción hasta la estructura.
+
+## Notas técnicas
+
+[Todas las notas](https://ddes.co/perspectivas/)
+
+- [Elementos no estructurales: muros, fachadas e instalaciones en la NSR-10](https://ddes.co/articulo-elementos-no-estructurales/): Lo que no sostiene el edificio también debe diseñarse para el sismo. Y en la costa hay una exención.
+
+- [Edificios existentes: cuándo hay que evaluar y reforzar según la NSR-10](https://ddes.co/articulo-edificios-existentes/): Cambios de uso, ampliaciones, reformas estructurales y daños por sismo: lo que pide el capítulo A.10.
+
+- [Pisos industriales: por qué el concreto se controla con viguetas y no solo con cilindros](https://ddes.co/articulo-pisos-industriales-viguetas/): Un piso sobre el terreno trabaja a flexión. En Bodegas Centurión se ensayaron 55 viguetas para medir su módulo de rotura.
+
+## Preguntas frecuentes
+
+**¿Puedo poner un tanque de agua en la cubierta?**
+
+Hay que revisarlo. Un metro cúbico de agua pesa una tonelada, más el tanque. Lo que importa es dónde apoya y qué estructura hay debajo.
+
+**¿Qué necesitan para revisar?**
+
+La ficha técnica del equipo, su ubicación y los planos del edificio si existen. Si no hay planos, se levanta lo necesario en sitio.
+
+**¿Trabajan en plantas en operación?**
+
+Sí. La visita y los ensayos se coordinan con la operación de la planta.
+
+## Otras situaciones
+
+[Ver todas las soluciones](https://ddes.co/soluciones/)
+
+- [Evaluación después de un sismoQué mirar primero y cuándo hace falta un ingeniero.](https://ddes.co/evaluacion-despues-de-sismo/)
+- [Construir un segundo pisoAntes de subir un piso hay que saber si la casa lo aguanta.](https://ddes.co/segundo-piso/)
+- [Reforzamiento de viviendaPara que una estructura vieja resista lo que exige la norma de hoy.](https://ddes.co/reforzamiento-de-vivienda/)
+- [Peritaje de fisurasNo toda fisura es grave, pero toda fisura que crece hay que estudiarla.](https://ddes.co/peritaje-de-fisuras/)
+- [Diseño de bodegasPórticos, cubierta, placa de piso y cimentación, pensados juntos.](https://ddes.co/diseno-de-bodegas/)
+- [Muros de contenciónPara sótanos, desniveles y lotes en pendiente.](https://ddes.co/muros-de-contencion/)
+- [Tanques y piscinasEstructuras que además de resistir tienen que no filtrar.](https://ddes.co/tanques-y-piscinas/)
+- [Mezzanine metálicoMás área útil dentro de la misma bodega o local.](https://ddes.co/mezzanine-metalico/)
+- [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
+- [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
+- [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
 
 Última actualización: 6 de octubre de 2026
 
@@ -2058,7 +2714,7 @@ En concreto reforzado, la NSR-10 admite en amenaza baja estructuras con capacida
 
 [Pedir propuesta con estos datos](https://ddes.co/contacto/)
 
-[Todos los municipios de Atlántico](https://ddes.co/amenaza-sismica-atlantico/)
+[Todos los municipios de Atlántico](https://ddes.co/amenaza-sismica-atlantico/) [Qué exige la norma para su proyecto](https://ddes.co/planificador/)
 
 ## ¿Qué significan Aa, Av, Ae y Ad?
 
@@ -2535,6 +3191,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -2662,6 +3323,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -2785,6 +3451,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -2916,6 +3587,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -3045,6 +3721,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -3168,6 +3849,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -3291,6 +3977,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -3414,6 +4105,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -3537,6 +4233,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -3660,6 +4361,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -3783,6 +4489,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -3906,6 +4617,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -4029,6 +4745,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -4152,6 +4873,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -4275,6 +5001,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -4398,6 +5129,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -4521,6 +5257,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -4644,6 +5385,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -4767,6 +5513,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -4890,6 +5641,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -5013,6 +5769,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -5138,6 +5899,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -5263,6 +6029,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -5386,6 +6157,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -5509,6 +6285,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -5632,6 +6413,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -5755,6 +6541,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -5878,6 +6669,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -6001,6 +6797,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -6124,6 +6925,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
@@ -6247,6 +7053,11 @@ La regla es la misma en todo el país: cuando el lote permite construir más de 
 - [Licencia de construcciónQué documentos estructurales pide la curaduría y quién los firma.](https://ddes.co/licencia-de-construccion/)
 - [Puntos de anclaje y líneas de vidaLo que exige la Resolución 4272 de 2021 y quién puede firmarlo.](https://ddes.co/puntos-de-anclaje/)
 - [Paneles solares en cubiertaAntes de subir los paneles, hay que saber si la cubierta los aguanta.](https://ddes.co/paneles-solares-en-cubierta/)
+- [Reconocimiento de edificaciónCuando la obra se hizo sin licencia.](https://ddes.co/reconocimiento-de-edificacion/)
+- [Quitar un muroAntes de tumbar, saber si ese muro carga.](https://ddes.co/quitar-un-muro/)
+- [Cuánto cuesta un diseño estructuralLos mínimos de referencia oficiales y lo que mueve el valor final.](https://ddes.co/cuanto-cuesta-un-diseno-estructural/)
+- [Cambio de uso de una edificaciónDe casa a local, de oficina a bodega: la estructura también cambia de trabajo.](https://ddes.co/cambio-de-uso/)
+- [Equipos pesados sobre una placaChillers, tanques, generadores y máquinas: antes de subirlos, revisar.](https://ddes.co/equipos-sobre-placa/)
 
 ## Preguntas frecuentes
 
