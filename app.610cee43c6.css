@@ -2802,6 +2802,7 @@ html.is-scrolling .gl{-webkit-backdrop-filter:blur(6px) saturate(1.8) brightness
 .pl-b{margin-top:24px;display:flex;flex-wrap:wrap;gap:12px}
 .pl-n{font-size:var(--fs-s);color:var(--muted);margin-top:18px;max-width:64ch;line-height:1.5}
 @media (max-width:640px){.pl-r{grid-template-columns:minmax(0,1fr);gap:4px}}
+@media (max-width:640px){.dt-st table,.dt-st tbody,.dt-st tr,.dt-st td{display:block;width:auto}.dt-st thead{display:none}.dt-st tr{padding:12px 0;border-bottom:1px solid var(--line)}.dt-st td{border:0;padding:2px 0}.dt-st td:first-child{font-weight:600}}
 .lst-sol{grid-template-columns:repeat(auto-fill,minmax(260px,1fr))}
 .lst-sol a{flex-direction:column;align-items:flex-start;justify-content:flex-start;gap:4px;height:100%;box-sizing:border-box}
 .lst-sol a small{white-space:normal;line-height:1.45}
