@@ -8,7 +8,7 @@ Contacto: gerencia@ddes.co · WhatsApp +57 324 216 5189 · https://ddes.co/conta
 - Razón social: Diseño de Estructuras y Soluciones S.A.S. (marca DDES), fundada en 2020.
 - Sede: Barranquilla, Atlántico, Colombia. Cobertura nacional; proyectos en Atlántico, Bolívar, Córdoba, Sucre, La Guajira y Casanare.
 - Servicios: diseño estructural (NSR-10), revisión independiente de diseños estructurales (Ley 1796 de 2016), supervisión técnica independiente, interventoría de obra, patología y reforzamiento estructural, coordinación BIM.
-- Contacto: gerencia@ddes.co, +57 324 216 5189 (teléfono y WhatsApp), lunes a viernes de 7:30 a. m. a 5:30 p. m.
+- Contacto: gerencia@ddes.co, WhatsApp +57 324 216 5189, teléfono +57 300 202 1920, lunes a viernes de 7:30 a. m. a 5:30 p. m.
 - Texto completo del sitio: https://ddes.co/llms-full.txt
 
 ## Páginas principales
@@ -20,7 +20,7 @@ Contacto: gerencia@ddes.co · WhatsApp +57 324 216 5189 · https://ddes.co/conta
 - [Ingeniería estructural en el Caribe y toda Colombia](https://ddes.co/cobertura/): DDES trabaja desde Barranquilla con cobertura nacional: Barranquilla, Soledad, Cartagena, Santa Marta, Montería, Sincelejo, Valledupar, Riohacha y Yopal.
 - [Experiencia](https://ddes.co/experiencia/): Proyectos de DDES en Colombia: torres de vivienda, bodegas, plantas industriales e infraestructura.
 - [Perspectivas](https://ddes.co/perspectivas/): Notas técnicas de DDES sobre los problemas estructurales que vemos en obra en Colombia: durabilidad, suelos, normativa y obra.
-- [Contacto](https://ddes.co/contacto/): Hablemos de su proyecto. Un ingeniero de DDES le responde con una propuesta de alcance y honorarios. Cobertura nacional · gerencia@ddes.co · +57 324 216 5189.
+- [Contacto](https://ddes.co/contacto/): Hablemos de su proyecto. Un ingeniero de DDES le responde con una propuesta de alcance y honorarios. Cobertura nacional · WhatsApp +57 324 216 5189.
 
 ## Servicios
 - [Diseño estructural](https://ddes.co/servicio-diseno/): Diseño estructural en Colombia bajo la NSR-10: edificios, bodegas e infraestructura, con memoria de cálculo, planos firmados y trámite en curaduría.
@@ -166,4 +166,4 @@ The whole site is also in English, under https://ddes.co/en/ (the team works in 
 - [DDES | Structural engineering in Barranquilla, Colombia](https://ddes.co/en/): Structural engineering firm in Barranquilla working across Colombia: NSR-10 structural design, construction oversight, technical supervision and design review.
 - [Structural engineering services in Colombia](https://ddes.co/en/services/): Structural engineering services in Colombia under the NSR-10: structural design, construction oversight, technical supervision, design review, retrofit and BIM.
 - [Free NSR-10 tools: seismic hazard and design spectrum](https://ddes.co/en/tools/): Look up the seismic hazard of all 1,117 municipalities in Colombia, calculate the NSR-10 design spectrum and check what Law 1796 requires of your project. Free.
-- [Contact: talk to a structural engineer in Colombia](https://ddes.co/en/contact/): Talk to DDES about a project in Colombia: WhatsApp, a short form or a call in Spanish. An engineer replies with a proposal. gerencia@ddes.co, +57 324 216 5189
+- [Contact: talk to a structural engineer in Colombia](https://ddes.co/en/contact/): Talk to DDES about a project in Colombia: WhatsApp, a short form or a call in Spanish. An engineer replies with a proposal. WhatsApp +57 324 216 5189

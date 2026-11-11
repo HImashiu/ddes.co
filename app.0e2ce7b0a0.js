@@ -373,7 +373,7 @@ document.documentElement.lang="es";const CR={"ebano-render":"RENDER","ebano-g1":
 
       <div class="c-ways" id="c-ways"><a class="btn primary cx-wa" href="${waText("Hola, quiero hablar de un proyecto con DDES.")}" target="_blank" rel="noopener">${WAI}<span>Escribir por WhatsApp</span></a></div>
 
-      <p class="cx-sub">O llámenos al <a href="tel:+573242165189">+57 324 216 5189</a>. Lunes a viernes, 7:30 a. m. a 5:30 p. m.</p>
+      <p class="cx-sub">O llámenos al <a href="tel:+573002021920">+57 300 202 1920</a>. Lunes a viernes, 7:30 a. m. a 5:30 p. m.</p>
 
       <div class="cx-t"><h2>¿Ya sabe qué necesita? Elija y le dejamos el mensaje escrito.</h2><ul>${e.map(([a,o,s])=>`<li><a href="${waText(o)}" target="_blank" rel="noopener" data-tema="${s}"><span>${a}</span>${WAI}</a></li>`).join("")}</ul></div>
 
