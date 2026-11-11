@@ -2852,6 +2852,7 @@ html.is-scrolling .gl{-webkit-backdrop-filter:blur(6px) saturate(1.8) brightness
 .lang-note{font-size:var(--fs-s);color:var(--muted);margin:0}
 
 .touch .lang-note{color:rgba(255,255,255,.75)}
+.touch .t-prom{color:rgba(255,255,255,.78);font-size:var(--fs-s);margin:0;max-width:60ch}
 
 /* Contact: the ways to reach us, shortest first; the short form; a call when it suits the visitor */
 
