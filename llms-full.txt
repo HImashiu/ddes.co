@@ -1931,6 +1931,8 @@ DDES publica tres herramientas gratuitas basadas en el texto oficial de la NSR-1
 - Departamentos: 33
 - Fuente: NSR-10, Título A
 
+- [Planificador de proyecto](https://ddes.co/planificador/): Todo lo que pide la norma para su proyecto en una página: sismo, suelos, diseño, revisión, supervisión y documentos.
+
 - [Amenaza sísmica por municipio](https://ddes.co/amenaza-sismica/): Aa, Av, Ae, Ad y zona de amenaza de los 1.117 municipios, del Apéndice A-4.
 
 - [Espectro de diseño](https://ddes.co/espectro-nsr10/): Fa, Fv, I, T0, TC, TL y la curva Sa(T) de la sección A.2.6, para su suelo y su uso.

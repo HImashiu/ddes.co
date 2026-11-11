@@ -2787,6 +2787,21 @@ html.is-scrolling .gl{-webkit-backdrop-filter:blur(6px) saturate(1.8) brightness
 .lst a{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:13px 2px 13px 0;text-decoration:none;font-size:var(--fs-ui)}
 
 .lst a small{color:var(--muted);font-size:var(--fs-s);white-space:nowrap}
+.pl-chk{display:flex;gap:10px;align-items:flex-start;font-size:var(--fs-s);cursor:pointer}
+.pl-chk input{margin-top:3px;accent-color:var(--ink)}
+.ley-uso.pl-et{grid-template-columns:1fr}
+.pl-h{padding-bottom:20px}
+.pl-h p:last-child{color:var(--muted);margin-top:10px;max-width:56ch}
+.pl-l{margin:0;border-top:1px solid var(--ink)}
+.pl-r{display:grid;grid-template-columns:minmax(0,4fr) minmax(0,7fr);gap:16px;padding:14px 0;border-bottom:1px solid var(--line)}
+.pl-r dt{font-size:var(--fs-s);color:var(--muted)}
+.pl-r dd{margin:0}
+.pl-r b{font-weight:600;display:block}
+.pl-r span{display:block;font-size:var(--fs-s);color:var(--muted);margin-top:4px;line-height:1.5}
+.pl-r.on b{color:var(--accent-text)}
+.pl-b{margin-top:24px;display:flex;flex-wrap:wrap;gap:12px}
+.pl-n{font-size:var(--fs-s);color:var(--muted);margin-top:18px;max-width:64ch;line-height:1.5}
+@media (max-width:640px){.pl-r{grid-template-columns:minmax(0,1fr);gap:4px}}
 .lst-sol{grid-template-columns:repeat(auto-fill,minmax(260px,1fr))}
 .lst-sol a{flex-direction:column;align-items:flex-start;justify-content:flex-start;gap:4px;height:100%;box-sizing:border-box}
 .lst-sol a small{white-space:normal;line-height:1.45}
