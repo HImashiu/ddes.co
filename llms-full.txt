@@ -1497,13 +1497,17 @@ Un mezzanine metálico agrega un nivel dentro de una bodega, un centro logístic
 - Equipos que van a circular sobre el mezzanine, como estibadores o carros, con su peso cargado.
 - Planos de la bodega o del local, si existen.
 - Fotos de la placa de piso donde apoyarán las columnas.
+- Cómo se va a subir la mercancía: escalera, montacargas vertical, grúa o estibador.
+- Si debajo del mezzanine va a circular un montacargas, la altura libre que necesita.
 
 ## Cómo lo resolvemos
 
-- Definición de la carga de uso según la NSR-10 (B.4.2) y del sistema de placa.
-- Diseño de vigas, columnas, conexiones y arriostramientos en acero (Título F).
-- Revisión de la placa de piso y de la cimentación donde apoya cada columna.
-- Planos de taller y de montaje.
+- Revisión de fotos y planos, o visita: área, altura libre, columnas existentes y placa de piso.
+- Definición del uso y de las cargas: carga de uso de la Tabla B.4.2.1-1, estanterías, equipos e impacto (B.4.4).
+- Elección del sistema: autoportante, sobre estanterías o conectado a la bodega, y del tipo de placa.
+- Diseño de vigas, columnas, conexiones y arriostramientos en acero (Título F), con la amenaza sísmica del municipio.
+- Revisión de la placa de piso y de la cimentación donde apoya cada columna; dados nuevos si hacen falta.
+- Memoria de cálculo, planos estructurales, planos de taller y de montaje, y acompañamiento del montaje.
 
 ## ¿Qué carga debe resistir un mezzanine?
 
@@ -1520,6 +1524,34 @@ La Tabla B.4.2.1-1 da 5,0 kN/m² (500 kgf/m²) para industrias livianas y 10,0 k
 ## ¿Se puede apoyar sobre la placa de piso existente?
 
 Solo si la placa y el suelo resisten la carga concentrada de cada columna. Si no, se diseñan dados de cimentación nuevos bajo las columnas.
+
+## ¿Qué tipos de mezzanine hay?
+
+Hay tres formas de sostenerlo. El autoportante tiene columnas propias y no se apoya en la bodega: es el más flexible para mover o ampliar. El soportado por estanterías usa las mismas estanterías como estructura, así que estanterías y entrepiso se diseñan juntos y no se puede quitar un módulo sin revisar. El conectado a la bodega se apoya en columnas o muros existentes, y entonces hay que comprobar que la estructura de la bodega resista el peso y las fuerzas nuevas.
+
+## ¿Qué placa conviene?
+
+La lámina colaborante con concreto da una placa rígida para cargas altas y equipos con ruedas, a cambio de más peso. La rejilla metálica es liviana y deja pasar luz, aire y el agua de los rociadores, pero no siempre conviene con ruedas pequeñas. Los tableros sobre perfiles son livianos y rápidos de montar, y sirven para oficinas y cargas bajas si cumplen la carga de uso. La placa se elige con el uso, porque cambia el peso propio y el tamaño de vigas y columnas.
+
+## ¿Cómo entra el sismo en el diseño?
+
+Un mezzanine es una estructura que se mueve con el sismo. Si es autoportante, necesita su propio sistema para resistir fuerzas horizontales, con pórticos o arriostramientos diseñados para la amenaza sísmica del municipio. Si se conecta a la bodega, le agrega masa y fuerzas, y la intervención de la edificación existente se rige por el capítulo A.10 de la NSR-10, que regula cómo adicionar, modificar o remodelar el sistema estructural de edificaciones existentes.
+
+## ¿Qué piden las barandas y escaleras?
+
+Según la NSR-10 (B.4.2.2), las barandas, los pasamanos de escaleras y los antepechos deben resistir una fuerza horizontal de 1,00 kN/m (100 kgf/m) aplicada en su parte superior y llevarla hasta la estructura. Las barras intermedias y los paneles de relleno deben resistir 0,25 kN (25 kgf) aplicados sobre un área de máximo 0,3 m de lado. Por eso la baranda se diseña con sus anclajes a las vigas, no se compra aparte.
+
+## ¿Qué pasa con montacargas, carros y máquinas?
+
+La NSR-10 (B.4.4) aumenta la carga viva cuando hay impacto: 100 % en los soportes de elevadores y ascensores, 20 % en los apoyos de maquinaria liviana movida por motor eléctrico y no menos de 50 % en la maquinaria de émbolo o de motor a pistón. Además, B.4.3 pide revisar la carga parcial: en una bodega unas zonas se llenan y otras quedan vacías, y ese reparto puede ser más desfavorable que todo cargado.
+
+## ¿Se puede reducir la carga de diseño?
+
+La reducción de carga viva por área de la NSR-10 (B.4.5.1) solo aplica cuando el área de influencia es de 35 m² o más y la carga viva está entre 1,80 y 3,00 kN/m². Un mezzanine de oficinas puede usarla; uno de almacenamiento, con 6,0 o 12,0 kN/m², no.
+
+## Errores que vemos con frecuencia
+
+Comprar un mezzanine estándar sin saber qué carga va a llevar. Apoyar columnas sobre la placa de piso sin revisarla. Diseñar vigas y columnas y dejar sin resolver las conexiones y los arriostramientos. Cambiar el uso después, por ejemplo de oficinas a bodega. Olvidar la altura libre que necesita el montacargas que pasa por debajo. Todos se evitan si el diseño parte del uso real.
 
 ## Servicios de DDES para este caso
 
@@ -1566,6 +1598,18 @@ La estructura metálica se fabrica en taller y se monta en poco tiempo; el plazo
 **¿DDES ha hecho mezzanines?**
 
 Sí. En Bodegas Centurión la obra que acompañó DDES incluyó el mezzanine de las bodegas.
+
+**¿Puedo poner estanterías sobre un mezzanine de oficinas?**
+
+No sin revisarlo. La NSR-10 pide 2,0 kN/m² para oficinas y 6,0 o 12,0 kN/m² para almacenamiento liviano o pesado, y las patas de las estanterías concentran la carga. Antes de cambiar el uso hay que revisar placa, vigas, columnas y apoyos.
+
+**¿El fabricante puede diseñar el mezzanine?**
+
+El diseño estructural lo firma un ingeniero civil facultado según la Ley 400 de 1997. Muchos fabricantes trabajan con uno; si ya tiene un diseño del fabricante, DDES puede revisarlo antes de fabricar.
+
+**¿De qué depende el costo del diseño?**
+
+Del área, del uso y las cargas, de si hay que revisar la estructura o la placa existentes y de si se necesitan planos de taller. Con el área, la altura y el uso, DDES le envía una propuesta.
 
 ## Otras situaciones
 
